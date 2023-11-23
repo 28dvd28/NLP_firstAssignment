@@ -28,13 +28,14 @@ if __name__ == "__main__":
 
     print("Inizio labelizzazione")
 
+    #per ogni file del train set eseguo la labelizzazione, prima per i testi medici, poi per i testi non medici
     for file_name in test_texts1:
 
         path = os.path.join(cartella1, file_name)
 
         if os.path.isfile(path):
 
-            labels.append(1)
+            labels.append(1) #per ogni file letto valido aggiungo 1 alla lista contenente i label corretti
 
             with open(path, "r", encoding="utf-8") as file:
                 content = file.read()
@@ -51,7 +52,7 @@ if __name__ == "__main__":
 
         if os.path.isfile(path):
 
-            labels.append(0)
+            labels.append(0) #per ogni file letto valido aggiungo 0 alla lista contenente i label corretti
 
             with open(path, "r", encoding="utf-8") as file:
                 content = file.read()
@@ -61,6 +62,6 @@ if __name__ == "__main__":
 
     print("Terminato label non medici")
 
-    cross_entropy_val = cross_entropy(prediction_value, labels)
+    cross_entropy_val = cross_entropy(prediction_value, labels) # calcolo della cross entropy tra le probabilità calcolate e i valori reali
     
     print("Cross_entropy media è: ", cross_entropy_val)

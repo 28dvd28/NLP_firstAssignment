@@ -7,13 +7,16 @@ wiki = wikipediaapi.Wikipedia(user_agent=userAgent, language = 'en')
 
 titles = []
 
+#funzione che rende un titolo compatibile per essere usato come nome di un file
 def makeValidFilename(title):
+
     # Replace invalid characters with underscores
     validChars = re.sub(r'[^\w\s.-]', '_', title)
     # Remove leading and trailing whitespaces
     validChars = validChars.strip()
     return validChars
 
+#funzione che scarica il testo di una pagina wikipedia, dato il titolo, salvandolo nella cartella indicata
 def download_content_page(page_title, cartella):
 
     global page
@@ -38,11 +41,11 @@ def download_content_page(page_title, cartella):
         print(e)
 
 
+#la lettuara dei titoli appartenenti ad una categoria si svolge attraverso una funzione ricorsiva che itera
+#attraverso ogni sottocategoria, salvando i titoli di ognuna fino al raggiungimento di una dimensione n
 def category_members_read(categorymembers, n):
 
     global titles
-
-    print(len(titles))
 
     for c in categorymembers.values():
             
@@ -62,6 +65,8 @@ def category_members_read(categorymembers, n):
 
 if __name__ == "__main__":
 
+    print("Inizio lettura titoli")
+
     cat = wiki.page("Category:Medical diagnosis")
     category_members_read(cat.categorymembers, 1000)
 
@@ -77,6 +82,7 @@ if __name__ == "__main__":
     print(f"Titoli medici ottenuti: {len(titles)}")
     print("Inzio download")
 
+    #variabile che contiene ogni quanti testi salvarne uno nel test set
     intervall_doc_testset = len(titles) // (len(titles) * 0.2)
 
 

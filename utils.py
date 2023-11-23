@@ -21,12 +21,10 @@ def text_elaboration(text):
     return lemmatized_text
 
 #funzione che calcola la probabilità che un testo 
-#sia medico, restituiendone il valore
+#sia medico, restituiendone la probabilità calcolata in un valore che andrà da 0 a 1
 def text_classification(text_elaborated, class1_bow: dict, class2_bow: dict):
 
-    probability_of_medical = 0
-    med_words = []
-    nonmed_words = []
+    z = 0
 
     #bias settata a -1 così che nel caso non venga trovata alcuna parola nel testo, 
     #questo possega comunque un valore di probabilità tendente alla seconda classe
@@ -34,14 +32,16 @@ def text_classification(text_elaborated, class1_bow: dict, class2_bow: dict):
 
     for word in text_elaborated:
         if word in class1_bow:
-            med_words.append(word)
             probability_of_medical += class1_bow[word]
         if word in class2_bow:
-            nonmed_words.append(word)
+            #Tendenzialmente i pesi delle feature che appartengono alla seconda classe dovrebbero avere valore negativo.
+            #Essendo salvati però in una BoW differente, con valori positivi, si risolve il problema sottrando tali valori anziché sommarli
             probability_of_medical -= class2_bow[word]
 
-    probability_of_medical = (probability_of_medical + bias) / len(text_elaborated) #divisione per limitare la dimensione del valore ed impedire l'overflow di math.exp    
-    probability_of_medical = 1 / (1 + math.exp(-probability_of_medical))
+    #divisione per limitare la dimensione del valore ed impedire l'overflow di math.exp, 
+    #si usa la lunghezza del testo così da ottenere un valore più preciso in rapporto alla grandezza del testo
+    z = (z + bias) / len(text_elaborated) 
+    probability_of_medical = 1 / (1 + math.exp(-z))
 
     return probability_of_medical
 

@@ -30,6 +30,9 @@ if __name__ == "__main__":
     with open("no_medical_bag_of_words.txt", "r") as file:
         nomedical_bag_of_words = json.load(file)
 
+    #eseguo la labelizzazione su tutti i file di test, prima medici e poi non medici, 
+    #per ogni file valido aggiungo alla rispettiva lista il valore indicante il corretto label per quel file
+
     med_predicted_labels = []
     for file_name in medical_test_texts:
         path = os.path.join(cartella1, file_name)
@@ -42,6 +45,8 @@ if __name__ == "__main__":
                 content = file.read()
                 text_elaborated = text_elaboration(content)
 
+            #la logistic regression restituisce un valore tra 0 e 1 che deve essere però valutato per ottenere un valore che sia 0 (non medico)
+            #o 1 (medico). Lo si fa valutando se tale probabilità è maggiore di 0.5
             if text_classification(text_elaborated, medical_bag_of_words, nomedical_bag_of_words) > 0.5:
                 med_predicted_labels.append(1)
             else:
@@ -65,8 +70,9 @@ if __name__ == "__main__":
                 nonmed_predicted_labels.append(0)
 
     predicted_labels = med_predicted_labels + nonmed_predicted_labels
-    labels = med_labels + nonmed_labels 
+    labels = med_labels + nonmed_labels #ottengo la lista completa
 
+    #output dei label predetti e della accuratezza, precisione e recall
     print("Predicted labels:")
     for x in range (len(predicted_labels)):
 
