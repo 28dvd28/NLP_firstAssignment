@@ -1,10 +1,7 @@
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 from nltk.tokenize import word_tokenize
-import os
-import json
 import math
-import numpy as np
 
 
 #funzione per l'elaborazione del testo che procede dapprima eliminando i vari simboli elencati nella variabile punctuation, 
