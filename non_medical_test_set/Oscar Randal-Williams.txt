@@ -1,0 +1,11 @@
+Oscar Randal-Williams is a British mathematician and professor at the University of Cambridge, working in topology.
+He studied mathematics at the University of Oxford (MMath 2006, DPhil 2009), where he wrote his doctoral thesis Stable moduli spaces of manifolds under the supervision of Ulrike Tillmann. Since 2012 he has been at the University of Cambridge, since 2017 as reader and since 2020 as professor. From 1 January 2024, he will be the Sadleirian Professor of Pure Mathematics.In joint work with Søren Galatius, he studied moduli spaces of manifolds, leading to a sequence of papers about which his coauthor talked at the ICM 2014.In 2017, he received a Whitehead Prize from the London Mathematical Society and a Philip Leverhulme Prize, in 2018 he was awarded an ERC Starting Grant, and in 2019 the Dannie Heineman Prize of the Göttingen Academy of Sciences and Humanities and the Oberwolfach Prize. He is one of two managing editors of the Proceedings of the London Mathematical Society, and an editor of the Journal of Topology. In 2022, he was awarded the Clay Research Award jointly with Søren Galatius.
+
+Selected publications
+Botvinnik, Boris; Ebert, Johannes; Randal-Williams, Oscar (14 February 2017). "Infinite loop spaces and positive scalar curvature". Inventiones Mathematicae. Springer Science and Business Media LLC. 209 (3): 749–835. arXiv:1411.7408. Bibcode:2017InMat.209..749B. doi:10.1007/s00222-017-0719-3. ISSN 0020-9910. S2CID 55349429.
+Galatius, Søren; Randal-Williams, Oscar (2014). "Stable moduli spaces of high-dimensional manifolds". Acta Mathematica. International Press of Boston. 212 (2): 257–377. arXiv:1201.3527. doi:10.1007/s11511-014-0112-7. ISSN 0001-5962. S2CID 119170153.
+Galatius, Søren; Randal-Williams, Oscar (1 July 2017). "Homological stability for moduli spaces of high dimensional manifolds. II". Annals of Mathematics. 186 (1). arXiv:1601.00232. doi:10.4007/annals.2017.186.1.4. ISSN 0003-486X.
+
+References
+External links
+Oscar Randal-Williams at Department of Pure Mathematics and Mathematical Statistics, University of Cambridge

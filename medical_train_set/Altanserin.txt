@@ -1,0 +1,32 @@
+Altanserin is a compound that binds to the 5-HT2A receptor (5-Hydroxytryptamine (serotonin) 2A receptor). Labeled with the isotope fluorine-18 it is used as a radioligand in positron emission tomography (PET) studies of the brain, i.e., studies of the 5-HT2A neuroreceptors. Besides human neuroimaging studies altanserin has also been used in the study of rats.An alternative for PET imaging the 5-HT2A receptor is the 
+[11C]volinanserin (MDL-100,907) radioligand.
+18F-altanserin and 3H-volinanserin have shown very comparable binding.
+Both altanserin and MDL 100,907 are 5-HT2A receptor antagonists.
+[18F]-setoperone can also be used in PET.
+An alternative SPECT radioligand is the [123I]-5-I-R91150 receptor antagonist.A rapid chemical synthesis of fluorine-18 and H-2 dual-labeled altanserin has been described.Other ligands for other parts of the serotonin system used in PET studies are, e.g., DASB, ketanserin, and WAY-100635.
+
+Human brain mapping studies with altanserin
+As of 2007 altanserin is probably not used in clinical routine.
+However, there have been performed several research-based neuroimaging studies with the compound in humans since the 1990s. 
+Some of these studies have considered methodogical issues such as the reproducibility of the method
+or whether to use constant infusion or bolus-infusion delivery of altanserin.
+Other studies have compared altanserin binding to subject variables such as age, personality trait and neuropsychiatric disorder.
+The altanserin PET scan shows high binding in neocortex.
+The cerebellum is often regarded as a region with no specific 5-HT2A binding and the brain region is used as a reference in some studies, even though an autoradiography study has found nonnegligible levels of 5-HT2A binding in the human cerebellum,
+and another type of study have observed strong immunoreaction against 5-HT2A receptor protein in rat Purkinje cells.In the table below is an overview of the results of altanserin binding seen in human PET-studies.
+A consistent finding across altanserin studies has been that the binding decreases with age.
+This is in line with in vitro studies of the 5-HT2A receptor, 
+as well as PET studies with other radioligands that binds to the receptor.The result for recovered bulimia-type anorexia nervosa
+is in line with a SPECT study of anorexia nervosa patients, that found a decrease in frontal, occipital and parietal cortices.
+The results of PET studies of the 5-HT2A in depression has been mixed.Altanserin binding has also been examine in twins, where one study showed higher correlation between monozygotic twin pairs than between dizygotic twin pairs, giving evidence that the binding is "strongly genetically determined".
+
+Synthesis
+The reaction of 4-(4-fluorobenzoyl)piperidine [56346-57-7] (1) with 2-bromoethylamine [107-09-5] gives [1-(2-aminoethyl)piperidin-4-yl]-(4-fluorophenyl)methanone [83763-22-8] (2). The reaction of the terminal amino group with thiophosgene [463-71-8] leads to the corresponding isothiocyanate derivative, 4-fluorophenyl 1-(2-isothiocyanatoethyl)piperidin-4-yl ketone [84946-22-5] (3). Upon reaction of this reactive intermediate with ethyl anthranilate [87-25-2] (4), the transient addition product might be expected to be initially formed (5'). An intramolecular lactamization to the heterocyclic ring then occurs giving altanserin (6).
+
+See also
+Ketanserin
+Pirenperone
+Setoperone
+
+
+== References ==

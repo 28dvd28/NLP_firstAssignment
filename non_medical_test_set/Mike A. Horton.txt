@@ -1,0 +1,13 @@
+Mike A. Horton is an American engineer and founder of a company producing sensor technology and sensor-based systems.
+
+Biography
+Mike Horton was born October 23, 1973, in Austin, Texas, the second of two children of Claude Wendell Horton Jr. and Elisabeth Alice Becker.Horton received a B.S. and an M.S. in electrical engineering from the University of California at Berkeley.As of 2022 Horton is a lecturer at Westminster Seminary California.
+
+Company
+
+Following Horton's graduation, he co-founded Crossbow Technology in 1995 with his advisor A. Richard Newton.  In 2003, MIT Technology Review magazine named him as one of the top young innovators under 35.After exploring potential uses of silicon microelectromechanical systems sensor technology and experimenting with early acceleration sensors from the Berkeley Sensor and Actuator Sensor as well as commercial prototypes from Analog Devices, Horton and Newton formed a company to design and build products based on MEMS sensor technology. Crossbow Technology was founded in August, 1995. The company's initial vision was to leverage microelectromechanical systems-based sensor technology for motion-based input devices which are now used in video game systems such as the Nintendo Wii.
+The company refined the technology for application in commercial aerospace, and it became the first company to be approved by the FAA as a TSO (Technical Standard Order) holder FAA for a silicon microelectromechanical systems based attitude and heading reference systems. An AHRS provides a solid-state replacement of unreliable mechanical gyroscopes as primary flight instruments, which can increase safety on general aviation aircraft.  The company's MEMS-based inertial systems are also used in automated guidance of farm tractors and unmanned aerial vehicle systems.Starting in 2001, Horton worked with UC Berkeley professor's Kristofer S. J. Pister and David Culler to develop and produce commercially available hardware for the Smartdust and TinyOS research community. These hardware platforms became known as "motes".  The company produced several generations of "Motes" including the Mica2, Micaz, IRIS, iMote2, and TelosB.  Applications range from crop monitoring to homeland security.
+Horton was the company’s CEO from its inception until it was sold to Moog Inc. in 2011.  The company’s systems were predominantly used in personal aircraft, construction and farming equipment, military weaponry, and video game consoles.  He later became the CEO of Yabberz, along with his wife Melissa Horton.
+
+
+== References ==

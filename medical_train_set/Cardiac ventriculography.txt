@@ -1,0 +1,14 @@
+Cardiac ventriculography is a medical imaging test used to determine a person's heart function in the right, or left ventricle.  Cardiac ventriculography involves injecting contrast media into the heart's ventricle(s) to measure the volume of blood pumped.  Cardiac ventriculography can be performed with a radionuclide in radionuclide ventriculography or with an iodine-based contrast in cardiac chamber catheterization.
+The 3 major measurements obtained by cardiac ventriculography are:
+
+Ejection Fraction
+Stroke Volume
+Cardiac OutputThese three measurements share a commonality of ratios between end systolic volume and end diastolic volume and all lend mathematical structure to the common medical term systole.
+
+Radionuclide ventriculography
+Radionuclide ventriculography is a form of nuclear imaging, where a gamma camera is used to create an image following injection of radioactive material, usually Technetium-99m (99mTc).
+
+References
+Further reading
+Topol, Eric J. (2000), Cleveland Clinic Heart Book, Hyperion, ISBN 0-7868-6495-8
+http://healthguide.howstuffworks.com/nuclear-ventriculography-dictionary.htm

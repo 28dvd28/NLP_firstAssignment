@@ -1,0 +1,84 @@
+Algor mortis (from Latin  algor 'coldness', and  mortis 'of death'), the third stage of death, is the change in body temperature post mortem, until the ambient temperature is matched. This is generally a steady decline, although if the ambient temperature is above the body temperature (such as in a hot desert), the change in temperature will be positive, as the (relatively) cooler body acclimates to the warmer environment. External factors can have a significant influence.
+The term was first used by Bennet Dowler in 1849. The first published measurements of the intervals of temperature after death were done by John Davy in 1839.
+
+Applicability
+A measured rectal temperature can give some indication of the time of death. Although the heat conduction which leads to body cooling follows an exponential decay curve, it can be approximated as a linear process: 2 °C during the first hour and 1 °C per hour until the body nears ambient temperature.
+The Glaister equation estimates the hours elapsed since death as a linear function of the rectal temperature:
+
+  
+    
+      
+        (
+        
+          36.9
+          
+            ∘
+          
+        
+        C
+        −
+        
+          rectal temperature in Celsius
+        
+        )
+        ⋅
+        
+          
+            6
+            5
+          
+        
+      
+    
+    {\displaystyle (36.9^{\circ }C-{\text{rectal temperature in Celsius}})\cdot {\frac {6}{5}}}
+  or
+
+  
+    
+      
+        
+          
+            
+              98.4
+              
+                
+                
+                  ∘
+                
+              
+              
+                
+                  F
+                
+              
+              −
+              
+                rectal temperature in Fahrenheit
+              
+            
+            1.5
+          
+        
+      
+    
+    {\displaystyle {\frac {98.4\,^{\circ }{\rm {F}}-{\text{rectal temperature in Fahrenheit}}}{1.5}}}
+  As decomposition occurs the internal body temperature tends to rise again.
+
+Variability
+Generally, temperature change is considered an inaccurate means of determining time of death, as the rate of change is affected by several key factors, including:
+Stability or fluctuation of the ambient temperature.
+The thickness (i.e. thermal insulation value) and body coverage of clothing or similar materials.
+The thermal conductivity of the surface on which a body lies.
+Diseases or drugs which increase body temperature and thereby raise the starting temperature of the corpse at the time of death
+The existence of a "temperature plateau", a highly variable length of time in which the body does not cool.
+
+References
+Further reading
+Saferstein, Richard (2004). Criminalistics: Introduction to Forensics (8th ed.). Pearson Prentice Hall. ISBN 0-13-113706-9.
+Karen T. Taylor, "Forensic art and illustration", CRC Press, 2000, ISBN 0-8493-8118-5, p. 308
+Robert G. Mayer, "Embalming: history, theory, and practice", McGraw-Hill Professional, 2005, ISBN 0-07-143950-1, p. 106
+Calixto Machado, "Brain death: a reappraisal", Springer, 2007, ISBN 0-387-38975-X, pp. 73–74
+
+External links
+Standards Employed to Determine Time of Death
+Estimation of the time since death (by rectal temperature, C. Henssge, 2004).

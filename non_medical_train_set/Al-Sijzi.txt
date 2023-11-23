@@ -1,0 +1,22 @@
+Abu Sa'id Ahmed ibn Mohammed ibn Abd al-Jalil al-Sijzi (c. 945 - c. 1020, also known as al-Sinjari and al-Sijazi; Persian: ابوسعید سجزی; Al-Sijzi is short for "Al-Sijistani") was an Iranian Muslim astronomer, mathematician, and astrologer. He is notable for his correspondence with al-Biruni and for proposing that the Earth rotates around its axis in the 10th century.He dedicated work to 'Adud al-Daula, who was probably his patron, and to the prince of Balkh. He also worked in Shiraz making astronomical observations from 969 to 970.
+
+Mathematics
+Al-Sijzi studied intersections of conic sections and circles. He replaced the old kinematical trisection of an angle by a purely geometric solution (intersection of a circle and an equilateral hyperbola.)
+
+Earth's rotation
+Al-Biruni tells us that Al-Sijzi invented an astrolabe, called "al-zūraqī", whose design was based on the idea that the Earth rotates:
+I have seen the astrolabe called Zuraqi invented by Abu Sa'id Sijzi. I liked it very much and praised him a great deal, as it is based on the idea entertained by some to the effect that the motion we see is due to the Earth's movement and not to that of the sky. By my life, it is a problem difficult of solution and refutation. [...] For it is the same whether you take it that the Earth is in motion or the sky. For, in both cases, it does not affect the Astronomical Science. It is just for the physicist to see if it is possible to refute it.
+Al-Biruni also referred to Al-Sijzi as a prominent astronomer who defended the theory that the earth rotates in al-Qānūn al-Masʿūdī.
+The fact that some people did believe that the earth is moving on its own axis is further confirmed by a reference from the 13th century which states: "According to the geometers [or engineers] (muhandisīn), the earth is in constant circular motion, and what appears to be the motion of the heavens is actually due to the motion of the earth and not the stars."
+
+References
+Sources
+O'Connor, John J.; Robertson, Edmund F., "Abu Said Ahmad ibn Muhammad Al-Sijzi", MacTutor History of Mathematics Archive, University of St Andrews
+Suter, Heinrich: Die Mathematiker und Astronomen der Araber und ihre Werke (80–81, 224, 1900).
+
+Further reading
+Hogendijk, Jan P. (1996). Al-Sijzi's Treatise on Geometrical Problem Solving (PDF). Tehran: Fatemi Publishing Co. ISBN 964-318-114-6. Archived from the original (PDF) on 2004-05-03.
+
+External links
+Brummelen, Glen van (2007). "Sijzī: Abū Saʿīd Aḥmad ibn Muḥammad ibn ʿAbd al‐Jalīl al‐Sijzī". In Thomas Hockey; et al. (eds.). The Biographical Encyclopedia of Astronomers. New York: Springer. p. 1059. ISBN 978-0-387-31022-0. (PDF version)
+Dold-Samplonius, Yvonne (2008) [1970-80]. "Al-Sijzī Abū Sa'īd Aḥmad Ibn Muḥammad Ibn 'Abd Al-Jalīl". Complete Dictionary of Scientific Biography. Encyclopedia.com.

@@ -1,0 +1,54 @@
+Abu-Abdullah Muhammad ibn Īsa Māhānī (ابوعبدالله محمد بن عیسی ماهانی, flourished c. 860 and died c. 880) was a Persian mathematician and astronomer born in Mahan, (in today Kermān, Iran) and active in Baghdad, Abbasid Caliphate. His known mathematical works included his commentaries on Euclid's Elements, Archimedes' On the Sphere and Cylinder and Menelaus' Sphaerica, as well as two independent treatises. He unsuccessfully tried to solve a problem posed by Archimedes of cutting a sphere into two volumes of a given ratio, which was later solved by 10th century mathematician Abū Ja'far al-Khāzin. His only known surviving work on astronomy was on the calculation of azimuths. He was also known to make astronomical observations, and claimed his estimates of the start times of three consecutive lunar eclipses were accurate to within half an hour.
+
+Biography
+Historians know little of Al-Mahani's life due to lack of sources. He was born in Mahan, Persia (hence the Nisba Al-Mahani). He was active in the 9th century CE or 3rd century AH, lived in Baghdad c. 860 and died c. 880. From a reference in Ibn Yunus' Hakimite Tables, he was known to make astronomical observations between 853 and 866, allowing historians to estimate the time of his life and activities.
+
+Works
+Mathematics
+His works on mathematics covered the topics of geometry, arithmetic, and algebra. Some of his mathematical work might have been motivated by problems he encountered in astronomy. The 10th century catalogue Al-Fihrist mentions al-Mahani's contributions in mathematics but not those in astronomy.He also worked on current mathematical problems at his time. He wrote commentaries on Greek mathematical works: Euclid's Elements, Archimedes' On the Sphere and Cylinder and Menelaus of Alexandria's Sphaerica. In his commentaries he added explanations, updated the language to use "modern" terms of his time, and reworked some of the proofs. He also wrote a standalone treatise Fi al-Nisba ("On Relationship") and another on the squaring of parabola.His commentaries on the Elements covered Books I, V, X and XII; only those on Book V and parts of those on book X and XII survive today. In the Book V commentary, he worked on ratio, proposing a theory on the definition of ratio based on continued fractions that was later discovered independently by al-Nayrizi.In the Book X commentary, he worked on irrational numbers, including quadratic irrational numbers and cubic ones. He expanded Euclid's definition of magnitudes—which included only geometrical lines—by adding integers and fractions as rational magnitudes as well as square and cubic roots as irrational magnitudes. He called square roots "plane irrationalities" and cubic roots "solid irrationalities", and classified the sums or differences of these roots, as well as the results of the roots' additions or subtractions from rational magnitudes, also as irrational magnitudes. He then explained Book X using those rational and irrational magnitudes instead of geometric magnitudes like in the original.His commentaries of the Sphaerica covered book I and parts of book II, none of which survive today. His edition was later updated by Ahmad ibn Abi Said al-Harawi (10th century). Later, Nasir al-Din al-Tusi (1201–1274) dismissed Al-Mahani and Al-Harawi's edition and wrote his own treatment of the Sphaerica, based on the works on Abu Nasr Mansur. Al-Tusi's edition became the most widely known edition of the Sphaerica in the Arabic-speaking world.Al-Mahani also attempted to solve a problem posed by Archimedes in On the Sphere and Cylinder, book II, chapter 4: how to divide a sphere by a plane into two volumes of a given ratio. His work led him to an equation, known as "Al-Mahani's equation" in the Muslim world: 
+  
+    
+      
+        
+          x
+          
+            3
+          
+        
+        +
+        
+          c
+          
+            2
+          
+        
+        b
+        =
+        c
+        
+          x
+          
+            2
+          
+        
+      
+    
+    {\displaystyle x^{3}+c^{2}b=cx^{2}}
+  . However, as documented later by Omar Khayyam, "after giving it lengthy meditation", he eventually failed to solve the problem. The problem was then considered unsolvable until 10th century Persian mathematician Abu Ja'far al-Khazin solved it using conic sections.
+
+Astronomy
+His astronomical observations of conjunctions as well as solar and lunar eclipses was cited in the zij (astronomical tables) of Ibn Yunus (c. 950 – 1009). Ibn Yunus quoted Al-Mahani as saying that he calculated their timings with an astrolabe. He claimed his estimates of the start times of three consecutive lunar eclipses were accurate to within half an hour.He also wrote a treatise, Maqala fi ma'rifat as-samt li-aiy sa'a aradta wa fi aiy maudi aradta ("On the Determination of the Azimuth for an Arbitrary Time and an Arbitrary Place"), his only known surviving work on astronomy. In it, he provided two graphical methods and an arithmetic one of calculating the azimuth—the angular measurement of a heavenly object's location. The arithmetic method corresponds to the cosine rule in spherical trigonometry, and was later used by Al-Battani (c. 858 – 929).He wrote another treatise, whose title, On the Latitude of the Stars, is known but its content is entirely lost. According to later astronomer Ibrahim ibn Sinan (908–946), Al-Mahani also wrote a treatise on calculating the ascendant using a solar clock.
+
+See also
+List of pre-modern Iranian scientists and scholars
+
+References
+Citations
+Work cited
+Dold-Samplonius, Yvonne (2008). "Al‐Māhānī". In Helaine Selin (ed.). Al-Mahani. Encyclopaedia of the History of Science, Technology, and Medicine in Non-Western Cultures. New York: Springer. pp. 141–142. doi:10.1007/978-1-4020-4425-0_9320. ISBN 978-1-4020-4559-2.
+Dold-Samplonius, Yvonne (2008b) [1970-80]. "Al-Māhānī, Abū 'Abd Allāh Muḥammad Ibn 'Īsā". Complete Dictionary of Scientific Biography. Charles Scribner's Sons and Encyclopedia.com.
+Matvievskaya, Galina (1987). "The Theory of Quadratic Irrationals in Medieval Oriental Mathematics". Annals of the New York Academy of Sciences. 500 (1): 253–277. Bibcode:1987NYASA.500..253M. doi:10.1111/j.1749-6632.1987.tb37206.x.
+O'Connor, J.J.; Robertson, E.F (1999). "Abu Abd Allah Muhammad ibn Isa Al-Mahani". MacTutor History of Mathematics archive. School of Mathematics and Statistics, University of St Andrews.
+Sarton, George (1927). "Al-Mahani". Introduction to the History of Science. Vol. I: From Homer to Omar Khayyam. Baltimore: William & Wilkins Company for Carnegie Institution of Washington. pp. 597–598.
+Sesiano, J. (1993). "Muhammad b. Isa b. Ahmad al-Mahani". In C.E. Bosworth; E. von Donzel; W.P. Heinrichs; Ch. Pellat (eds.). The Encyclopaedia of Islam, New Edition. Vol. VII: Mif—Naz. Leiden and London: Brill. p. 405. ISBN 978-90-04-09419-2.
+Roshdi Rashed and Athanase Papadopoulos, Menelaus'  Spherics:  Early Translation and al-Mahani'/al-Harawi's version (Critical edition of Menelaus' Spherics from the Arabic manuscripts, with historical and mathematical commentaries), De Gruyter, Series: Scientia Graeco-Arabica,  21,  2017, 890 pages. ISBN 978-3-11-057142-4

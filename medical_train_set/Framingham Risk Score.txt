@@ -1,0 +1,105 @@
+The Framingham Risk Score is a sex-specific algorithm used to estimate the 10-year cardiovascular risk of an individual. The Framingham Risk Score was first developed based on data obtained from the Framingham Heart Study, to estimate the 10-year risk of developing coronary heart disease. In order to assess the 10-year cardiovascular disease risk, cerebrovascular events, peripheral artery disease and heart failure were subsequently added as disease outcomes for the 2008 Framingham Risk Score, on top of coronary heart disease.
+
+Cardiovascular Risk Scoring systems
+The Framingham Risk Score is one of a number of scoring systems used to determine an individual's chances of developing cardiovascular disease. A number of these scoring systems are available online. Cardiovascular risk scoring systems give an estimate of the probability that a person will develop cardiovascular disease within a specified amount of time, usually 10 to 30 years.Because they give an indication of the risk of developing cardiovascular disease, they also indicate who is most likely to benefit from prevention. For this reason, cardiovascular risk scores are used to determine who should be offered preventive drugs such as drugs to lower blood pressure and drugs to lower cholesterol levels.For example, nearly 30% of coronary heart disease (CHD) events in both men and women were singularly attributable to blood pressure levels that exceeded high normal (≥130/85), showing that blood pressure management and monitoring is paramount both to cardiovascular health and prediction of outcomes.
+
+Usefulness
+Because risk scores such as the Framingham Risk Score give an indication of the likely benefits of prevention, they are useful for both the individual patient and for the clinician in helping decide whether lifestyle modification and preventive medical treatment and for patient education, by identifying men and women at increased risk for future cardiovascular events.Coronary heart disease (CHD) risk at 10 years in percent can be calculated with the help of the Framingham Risk Score. Individuals with low risk have 10% or less CHD risk at 10 years, with intermediate risk 10-20%, and with high risk 20% or more. However, it should be remembered that these categorisations are arbitrary.A more useful metric is to consider the effects of treatment. If a group of 100 persons has a 20% ten-year risk of cardiovascular disease it means that we should expect that 20 of these 100 individuals will develop cardiovascular disease (coronary heart disease or stroke) in the next 10 years and eighty of them will not develop cardiovascular disease in the next 10 years.If they were to take a combination of treatments (for example drugs to lower cholesterol levels plus drugs to lower blood pressure) that reduced their risk of cardiovascular disease by half it means that 10 of these 100 individuals should be expected to develop cardiovascular disease in the next 10 years and 90 of them should not be expected to develop cardiovascular disease. If that was the case then 10 of these individuals would have avoided cardiovascular disease by taking treatment for 10 years; 10 would get cardiovascular disease whether or not they took treatment, and 80 would not have got cardiovascular disease whether or not they took treatment.
+Despite their widespread popularity, randomized trials assessing the impact of using cardiovascular disease risk scores show limited impact on patient outcomes. Although there is good evidence that targeting individuals with high total CVD risk is the most efficient way to reduce CVD-related morbidity and mortality, to date trials assessing the usefulness of risk scores at helping clinicians target high risk patients show limited benefit.It is important to recognize that the strongest predictor of cardiovascular risk in any risk equation is age.
+
+Background
+Cardiovascular disease is common in the general population, affecting the majority of adults. It includes:
+
+Coronary heart disease (CHD): Myocardial infarction (MI), angina pectoris, heart failure (HF), and coronary death.
+Cerebrovascular disease, stroke and transient ischemic attack (TIA).
+Peripheral arterial disease, intermittent claudication and significant limb ischemia.
+Aortic disease: Aortic atherosclerosis, thoracic aortic aneurysm, and abdominal aortic aneurysm.An individual's risk for future cardiovascular events is modifiable, by lifestyle changes and preventive medical treatment. Lifestyle changes can include stopping smoking, healthy diet, regular exercise, etc. Preventive medical treatment can include a statin, mini dose aspirin, treatment for hypertension, etc. It is important to be able to predict the risk of an individual patient, in order to decide when to initiate lifestyle modification and preventive medical treatment.
+Multiple risk models for the prediction of cardiovascular risk of individual patients have been developed. One such key risk model is the Framingham Risk Score.
+The Framingham Risk Score is based on findings from the Framingham Heart Study.
+
+Validation
+The Framingham Risk Score has been validated in the US, both in men and women, both in European Americans and African Americans. While several studies have claimed to improve on the FRS, there is little evidence for any improved prediction beyond the Framingham risk score
+
+Limitations
+The Framingham Risk Score predicts only future coronary heart disease (CHD) events, however, it does not predict future total cardiovascular events, meaning that it does not predict risk for stroke, transient ischemic attack (TIA), and heart failure. These also important patient outcomes were included in the 2008 Framingham General Cardiovascular Risk Score. The predicted risk for an individual usually is higher with the 2008 Framingham General Cardiovascular Risk Score than with the 2002 Framingham Risk Score.The Framingham Risk Score could overestimate (or underestimate) risk in populations other than the US population, and within the US in populations other than European Americans and African Americans, e.g. Hispanic Americans and Native Americans. It is not yet clear if this limitation is real, or appears to be real because of differences in methodology, etc. As a result, other countries may prefer to use another risk score, e.g. SCORE (HeartScore is the interactive version of SCORE - Systematic COronary Risk Evaluation), which has been recommended by the European Society of Cardiology in 2007.If possible, a cardiology professional should select the risk prediction model which is most appropriate for an individual patient and should remember that this is only an estimate.
+
+Versions
+The current version of the Framingham Risk Score was published in 2008. The publishing body is the ATP III, i.e. the «Adult Treatment Panel III», an expert panel of the National Heart, Lung, and Blood Institute, which is part of the National Institutes of Health (NIH), USA.
+The prior version was published in 2002 The original Framingham Risk Score had been published in 1998.
+
+Differences between the versions
+The first Framingham Risk Score included age, sex, LDL cholesterol, HDL cholesterol, blood pressure (and also whether the patient is treated or not for his/her hypertension), diabetes, and smoking. It estimated the 10-year risk for coronary heart disease (CHD). It performed well and correctly predicted a 10-year risk for CHD in American men and women of European and African descent.
+The updated version was modified to include dyslipidemia, age range, hypertension treatment, smoking, and total cholesterol, and it excluded diabetes, because Type 2 diabetes meanwhile was considered to be a CHD Risk Equivalent, having the same 10-year risk as individuals with prior CHD. Patients with Type 1 diabetes were considered separately with slightly less aggressive goals; while at increased risk, no study had shown them to be at equivalent risk for CHD as those with previously diagnosed coronary disease or Type 2 diabetes.
+
+CHD risk equivalent
+Some patients without known CHD have risk of cardiovascular events that is comparable to that of patients with established CHD. Cardiology professionals refer to such patients as having a CHD risk equivalent. These patients should be managed as patients with known CHD.
+CHD risk equivalents are patients with a 10-year risk for MI or coronary death >20%.   CHD risk equivalents are primarily other clinical forms of atherosclerotic disease.   The  National Cholesterol Education Program NCEP's ATP III guidelines also list diabetes as a CHD risk equivalent since it also has a 10-year risk for CHD around 20%.   NCEP ATP III CHD risk equivalents are:
+
+Clinical coronary heart disease (CHD)
+Symptomatic carotid artery disease (CAD)
+Peripheral arterial disease (PAD)
+Abdominal aortic aneurysm (AAA)
+Diabetes mellitus
+Chronic kidney disease
+
+Analysis of the US population with the Framingham/ATP III criteria
+The Framingham/ATP III criteria were used to estimate CHD risk in the USA. Data from 11,611 patients from a very large study, the NHANES III, were used. The patients were 20 to 79 years of age and had no self-reported CHD, stroke, peripheral arterial disease, or diabetes.
+The results: 82% of patients had low risk (10% or less CHD risk at 10 years). 16% had intermediate risk (10-20%). 3% had high risk (20% or more).High risk was most commonly found in patients with advanced age and was more common in men than women.
+
+Scoring
+Framingham Risk Score for Women
+Age: 20–34 years: Minus 7 points. 35–39 years: Minus 3 points. 40–44 years: 0 points. 45–49 years: 3 points. 50–54 years: 6 points. 55–59 years: 8 points. 60–64 years: 10 points. 65–69 years: 12 points. 70–74 years: 14 points. 75–79 years: 16 points.
+Total cholesterol, mg/dL: 
+
+Age 20–39 years: Under 160: 0 points. 160-199: 4 points. 200-239: 8 points. 240-279: 11 points. 280 or higher: 13 points.
+Age 40–49 years: Under 160: 0 points. 160-199: 3 points. 200-239: 6 points. 240-279: 8 points. 280 or higher: 10 points.
+Age 50–59 years: Under 160: 0 points. 160-199: 2 points. 200-239: 4 points. 240-279: 5 points. 280 or higher: 7 points.
+Age 60–69 years: Under 160: 0 points. 160-199: 1 point. 200-239: 2 points. 240-279: 3 points. 280 or higher: 4 points.
+Age 70–79 years: Under 160: 0 points. 160-199: 1 point. 200-239: 1 point. 240-279: 2 points. 280 or higher: 2 points.If cigarette smoker: Age 20–39 years: 9 points. • Age 40–49 years: 7 points. • Age 50–59 years: 4 points. • Age 60–69 years: 2 points. • Age 70–79 years: 1 point.
+All non smokers: 0 points.
+HDL cholesterol, mg/dL: 60 or higher: Minus 1 point. 50-59: 0 points. 40-49: 1 point. Under 40: 2 points.
+Systolic blood pressure, mm Hg: Untreated: Under 120: 0 points. 120-129: 1 point. 130-139: 2 points. 140-159: 3 points. 160 or higher: 4 points. • Treated: Under 120: 0 points. 120-129: 3 points. 130-139: 4 points. 140-159: 5 points. 160 or higher: 6 points.
+10-year risk in %: Points total: Under 9 points: <1%. 9-12 points: 1%. 13-14 points: 2%. 15 points: 3%. 16 points: 4%. 17 points: 5%. 18 points: 6%. 19 points: 8%. 20 points: 11%. 21=14%, 22=17%, 23=22%, 24=27%, >25= Over 30%
+
+Framingham Risk Score for Men
+Age: 20–34 years: Minus 9 points. 35–39 years: Minus 4 points. 40–44 years: 0 points. 45–49 years: 3 points. 50–54 years: 6 points. 55–59 years: 8 points. 60–64 years: 10 points. 65–69 years: 11 points. 70–74 years: 12 points. 75–79 years: 13 points.
+Total cholesterol, mg/dL: 
+
+Age 20–39 years: Under 160: 0 points. 160-199: 4 points. 200-239: 7 points. 240-279: 9 points. 280 or higher: 11 points.
+Age 40–49 years: Under 160: 0 points. 160-199: 3 points. 200-239: 5 points. 240-279: 6 points. 280 or higher: 8 points.
+Age 50–59 years: Under 160: 0 points. 160-199: 2 points. 200-239: 3 points. 240-279: 4 points. 280 or higher: 5 points.
+Age 60–69 years: Under 160: 0 points. 160-199: 1 point. 200-239: 1 point. 240-279: 2 points. 280 or higher: 3 points.
+Age 70–79 years: Under 160: 0 points. 160-199: 0 points. 200-239: 0 points. 240-279: 1 point. 280 or higher: 1 point.If cigarette smoker: Age 20–39 years: 8 points. • Age 40–49 years: 5 points. • Age 50–59 years: 3 points. • Age 60–69 years: 1 point. • Age 70–79 years: 1 point.
+All non smokers: 0 points.
+HDL cholesterol, mg/dL: 60 or higher: Minus 1 point. 50-59: 0 points. 40-49: 1 point. Under 40: 2 points.
+Systolic blood pressure, mm Hg: Untreated: Under 120: 0 points. 120-129: 0 points. 130-139: 1 point. 140-159: 1 point. 160 or higher: 2 points. • Treated: Under 120: 0 points. 120-129: 1 point. 130-139: 2 points. 140-159: 2 points. 160 or higher: 3 points.
+10-year risk in %:
+Points total:
+0 point:  <1%.
+1-4 points: 1%.
+5-6 points: 2%.
+7 points: 3%.
+8 points: 4%.
+9 points: 5%.
+10 points: 6%.
+11 points: 8%.
+12 points: 10%.
+13 points: 12%.
+14 points: 16%.
+15 points: 20%.
+16 points: 25%.
+17 points or more: Over 30%.
+
+Further risk score profiles based on the Framingham Heart Study
+Not only coronary heart disease (CHD) events but also further risks can be predicted. Risk prediction models for cardiovascular disease outcomes other than CHD events have also been developed by the Framingham Heart Study researchers. Amongst others, a risk score for 10-year risk for atrial fibrillation has been developed.
+
+See also
+Cardiovascular disease
+Coronary artery disease
+QRISK
+
+References
+External links
+Framingham Risk Score Calculator for Coronary Heart Disease - Cholesterol in mg/dL
+Framingham Coronary Heart Disease Risk Score - Cholesterol in mg/dL or mmol/L
+EuroHeart Project

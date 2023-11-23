@@ -1,0 +1,63 @@
+The Thyroid Feedback Quantile-based Index (TFQI) is a calculated parameter for thyrotropic pituitary function. It was defined to be more robust to distorted data than established markers including Jostel's TSH index (JTI) and the thyrotroph thyroid hormone sensitivity index (TTSI).
+
+How to determine the TFQI
+The TFQI can be calculated with
+
+  
+    
+      
+        T
+        F
+        Q
+        I
+        =
+        
+          F
+          
+            F
+            T
+            4
+          
+        
+        (
+        F
+        T
+        4
+        )
+        −
+        (
+        1
+        −
+        
+          F
+          
+            T
+            S
+            H
+          
+        
+        (
+        T
+        S
+        H
+        )
+        )
+      
+    
+    {\displaystyle TFQI=F_{FT4}(FT4)-(1-F_{TSH}(TSH))}
+  from quantiles of FT4 and TSH concentration (as determined based on cumulative distribution functions). Per definition the TFQI has a mean of 0 and a standard deviation of 0.37 in a reference population. This explains the reference range of –0.74 to + 0.74.
+
+Reference range
+Clinical significance
+Higher values of TFQI are associated with obesity, metabolic syndrome, impaired renal function, diabetes, and diabetes-related mortality. In a large population of community-dwelling euthyroid subjects the thyroid feedback quantile-based index predicted all-cause mortality, even after adjustment for other established risk factors and comorbidities.A cross-sectional study from Spain observed increased prevalence of type 2 diabetes, atrial fibrillation, ischemic heart disease and hypertension in persons with elevated PTFQI.Serum Concentrations of Adipocyte Fatty Acid-Binding Protein (A-FABP) are significantly correlateted to TFQI, suggesting some form of cross-talk between adipose tissue and HPT axis.TFQI results are also elevated in takotsubo syndrome, potentially reflecting type 2 allostatic load in the situation of psychosocial stress. Reductions have been observed in subjects with schizophrenia after initiation of therapy with oxcarbazepine and quetiapine, potentially reflecting declining allostatic load.
+Despite positive association to metabolic syndrome and type 2 allostatic load a large population-based study failed to identify an association to risks of dyslipidemia and non-alcoholic fatty liver disease (NAFLD).
+
+See also
+Thyroid function tests
+Thyroid's secretory capacity
+Sum activity of peripheral deiodinases
+Jostel's TSH index
+Thyrotroph Thyroid Hormone Sensitivity Index
+
+
+== References ==

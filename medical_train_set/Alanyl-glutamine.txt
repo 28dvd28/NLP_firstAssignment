@@ -1,0 +1,13 @@
+Alanyl-glutamine is a chemical compound which in the form L-alanyl-L-glutamine is used in dietary supplementation, in parenteral nutrition, and in cell culture. It is a dipeptide consisting of alanine and glutamine.
+
+Dieterary supplement
+As a dietary supplement, alanyl-glutamine protects the gastrointestinal tract. The protective effect reduces bacterial translocation, thus reducing the risk of infections and infection-related problems such as diarrhea, dehydration, malabsorption, and electrolyte imbalance.
+
+Parenteral nutrition
+At room temperature with 1 atmosphere of pressure, L-alanyl-L-glutamine has a solubility of about 586 g/L, which is more than 10 times glutamine's solubility (35 g/L). Also, glutamine does not withstand sterilization procedures, whereas alanyl-glutamine does. Alanyl-glutamine's high solubility makes it valuable in parenteral nutrition.
+
+Cell culture
+In cell culture, L-alanyl-L-glutamine is sometimes used as a replacement for L-glutamine because this dipeptide is stable in aqueous solution unlike L-glutamine which spontaneously degrades to form ammonia and pyrrolidine carboxylic acid. During cell culture, L-alanyl-L-glutamine is broken down into L-glutamine which is an essential nutrient for the cells. Because the chemical compound L-alanyl-L-glutamine is broken down a little at a time, the cells have time to use the L-glutamine that is formed before it is broken down into ammonia and pyrrolidine carboxylic acid. Ammonia tends to damage the cells, which means that when growing with a medium that uses L-glutamine instead of L-alanyl-L-glutamine, it is necessary to change the cells' growth medium more often.L-Alanyl-L-glutamine is sold under the name GlutaMAX by Thermo Fisher Scientific and under the name AminoStable by Ajinomoto.
+
+
+== References ==

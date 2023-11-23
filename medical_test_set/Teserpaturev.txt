@@ -1,0 +1,4 @@
+Teserpaturev is an oncolytic virus for treatment of malignant glioma. Also known as G47∆, teserpaturev is a genetically engineered herpes simplex virus type 1. Originally discovered by the University of Tokyo and marketed by Daiichi Sankyo Company in Japan under the brand name Delytact, it is the first gene therapy product ever approved for treatment of malignant glioma. Teserpaturev was granted Sakigake fast-track designation in February 2016, orphan drug designation (ODD) in July 2017, and was approved in June 2021 by the Japanese Ministry of Health, Labour and Welfare (MHLW).  The approval of Delytact in Japan was supported by a phase II clinical trial in patients with glioblastoma, which demonstrated a one-year survival rate of 84.2% and the median overall survival of 20.2 months in patients with residual or recurrent glioblastoma. Delytact is injected directly into the tumor up to six times.
+
+
+== References ==

@@ -1,0 +1,46 @@
+A nuchal scan or nuchal translucency (NT) scan/procedure is a sonographic prenatal screening scan (ultrasound) to detect chromosomal abnormalities in a fetus, though altered extracellular matrix composition and limited lymphatic drainage can also be detected.Since chromosomal abnormalities can result in impaired cardiovascular development, a nuchal translucency scan is used as a screening, rather than diagnostic, tool for conditions such as Down syndrome, Patau syndrome, Edwards Syndrome, and non-genetic body-stalk anomaly.There are two distinct measurements: the size of the nuchal translucency and the thickness of the nuchal fold. Nuchal translucency size is typically assessed at the end of the first trimester, between 11 weeks 3 days and 13 weeks 6 days of pregnancy. Nuchal fold thickness is measured towards the end of the second trimester. As nuchal translucency size increases, the chances of a chromosomal abnormality and mortality increase; 65% of the largest translucencies (>6.5mm) are due to chromosomal abnormality, while fatality is 19% at this size. A nuchal scan may also help confirm both the accuracy of the pregnancy dates and the fetal viability.
+
+Indication
+All women, regardless their age, have a small chance of delivering a baby with a physical or cognitive disability. The nuchal scan helps physicians estimate the chance of the fetus having Down syndrome or other abnormalities more accurately than by maternal age alone.
+
+Down syndrome
+Overall, the most common chromosomal disorder is Down syndrome (trisomy 21). The likelihood rises with maternal age from 1 in 1400 pregnancies below age 25, to 1 in 350 at age 35, to 1 in 200 at age 40.Until recently, the only reliable ways to determine if the fetus has a chromosomal abnormality was to have an invasive test such as amniocentesis or chorionic villus sampling, but such tests carry a risk of causing a miscarriage estimated variously as ranging between 1% or 0.06%. Based on maternal age, some countries offer invasive testing to women over 35; others to the oldest 5% of pregnant women.  Most women, especially those with a low chance of having a child with Down syndrome, may wish to avoid the risk to the fetus and the discomfort of invasive testing. In 2011, Sequenom announced the launch of MaterniT21, a non-invasive blood test with a high level of accuracy in detecting Down syndrome (and a handful of other chromosomal abnormalities).  As of 2015, there are five commercial versions of this screen (called cell-free fetal DNA screening) available in the United States.Blood testing is also used to look for abnormal levels of alphafetoprotein or hormones. The results of all three factors may indicate a higher chance of Down Syndrome. If this is the case, the woman may be advised to have a more reliable screen such as cell-free fetal DNA screening or an invasive diagnostic test (such as chorionic villus sampling or amniocentesis).
+Screening for Down syndrome by a combination of maternal age and thickness of nuchal translucency in the fetus at 11–14 weeks of gestation was introduced in the 1990s. This method identifies about 75% of affected fetuses while screening about 5% of pregnancies. Natural fetal loss after positive diagnosis at 12 weeks is about 30%.
+
+Other chromosomal defects
+Other common chromosomal defects that cause a thicker nuchal translucency are
+Turner syndrome
+Trisomy 18
+Trisomy 13
+Triploidy
+
+Other defects with normal karyotype
+In fetuses with a normal number of chromosomes, a thicker nuchal translucency is associated with other fetal defects and genetic syndromes.
+
+Procedure
+Nuchal scan (NT procedure) is performed between 11 and 14 weeks of gestation, because the accuracy is best in this period. The scan is obtained with the fetus in sagittal section and a neutral position of the fetal head (neither hyperflexed nor extended, either of which can influence the nuchal translucency thickness). The fetal image is enlarged to fill 75% of the screen, and the maximum thickness is measured, from leading edge to leading edge. It is important to distinguish the nuchal lucency from the underlying amniotic membrane.Normal thickness depends on the crown-rump length (CRL) of the fetus. Among those fetuses whose nuchal translucency exceeds the normal values, there is a relatively high risk of significant abnormality.
+
+Accuracy
+An increased nuchal translucency increases the probability that the fetus will be affected by a chromosomal abnormality, congenital cardiac defects, or intrauterine fetal demise. Typically, nuchal translucency alone is not sufficient as a screening test for chromosomal abnormalities.How to define a normal or abnormal nuchal translucency measurement can be difficult. The use of a single millimeter cutoff (such as 2.5 or 3.0 mm) is inappropriate because nuchal translucency measurements normally increases with gestational age (by approximately 15% to 20% per gestational week from 10 to 13 weeks). At 12 weeks of gestational age, an "average" nuchal thickness of 2.18mm has been observed; however, up to 13% of chromosomally normal fetuses present with a nuchal translucency of greater than 2.5mm. Thus for even greater accuracy of predicting risks, the outcome of the nuchal scan may be combined with the results of simultaneous maternal blood tests. In pregnancies affected by Down syndrome there is a tendency for the levels of human chorionic gonadotropin (hCG) to be increased and pregnancy-associated plasma protein A (PAPP-A) to be decreased.
+The advantage of nuchal scanning over the previous use of just biochemical blood profiling is mainly the reduction in false positive rates.Nuchal scanning alone detects 62% of all Down syndrome (sensitivity) with a false positive rate of 5.0%; the combination with blood testing gives corresponding values of 73% and 4.7%.In another study values of 79.6% and 2.7% for the combined screening were then improved with the addition of second trimester ultrasound scanning to 89.7% and 4.2% respectively.
+A further study reported detection of 88% for trisomy 21 (Down syndrome) and 75% for trisomy 18 (Edwards syndrome), with a 3.3% false-positive rate. Finally, using the additional ultrasound feature of an absent nasal bone can further increase detection rates for Down syndrome to more than 95%.When screening is positive, chorionic villus sampling (CVS) or amniocentesis testing is required to confirm the presence of a genetic abnormality. However this procedure carries a small risk of miscarriage so prior screening with low false positive rates are needed to minimize the chance of miscarrying.
+
+Development of nuchal translucency
+The actual anatomic structure whose fluid is seen as translucency is likely the normal skin at the back of the neck, which either may become edematous or in some cases filled with fluid by dilated lymphatic sacs due to altered normal embryological connections.The translucent area measured (the nuchal translucency) is only useful to measure between 11 and 14 weeks of gestation, when the fetal lymphatic system is developing and the peripheral resistance of the placenta is high. After 14 weeks the lymphatic system is likely to have developed sufficiently to drain away any excess fluid, and
+changes to the placental circulation will result in a drop in peripheral resistance. So after this time any abnormalities causing fluid accumulation may seem to correct themselves and can thus go undetected by nuchal scanning.
+The buildup in fluid is due to a blockage of fluid in the developing fetal lymphatic system.  Progressive increase in the width of the translucent area during the 11- to 14-week measurement period is thus indicative of congenital lymphedema.
+
+Nuchal fold thickness
+Nuchal translucency testing is distinctly different from and should not be confused with nuchal thickness testing. At the end of the first trimester (14 weeks), the nuchal translucency can no longer be seen and instead the nuchal fold thickness is measured between 16 and 24 weeks gestation. The fold is more focal and at the level of the posterior fossa. This measurement has a higher threshold of normal, although the implications of increased thickness are similar to those of translucency. The nuchal fold thickness is considered normal if under 5mm between 16 and 18 weeks gestation and under 6mm between 18 and 24 weeks gestation. An increased thickness corresponds to increased risk for aneuploidy and other fetal abnormalities.
+
+History
+The nuchal scan first came into widespread use in 2003.
+
+See also
+Prenatal testing which further discusses the reasons for prenatal screening and the ethics of such testing.
+Congenital lymphedema
+List of obstetric topics
+Obstetric ultrasonography
+
+
+== References ==

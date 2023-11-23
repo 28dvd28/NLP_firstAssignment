@@ -1,0 +1,18 @@
+Pediatric end-stage liver disease (PELD) is a disease severity scoring system for children under 12 years of age. It is calculated from the patient's albumin, bilirubin, and international normalized ratio (INR) together with the patient's age and degree of growth failure. This score is also used by the United Network for Organ Sharing (UNOS) for prioritizing allocation of liver transplants.
+
+Determination
+PELD uses the patient's values for serum bilirubin, serum albumin, the international normalized ratio for prothrombin time (INR), whether the patient is less than 1 year old, and whether the patient has growth failure (<-2 standard deviation) to predict survival. It is calculated according to the following formula:
+PELD = 4.80[Ln serum bilirubin (mg/dL)] + 18.57[Ln INR] - 6.87[Ln albumin (g/dL)] + 4.36(<1 year old) + 6.67(growth failure)
+
+Usage
+The PELD score calculated for any given patient is correlated to their prognosis and how likely they are to die within a certain time period. A higher score correlates with a more critical condition. Thus, liver donations are usually allocated by UNOS according to the PELD score to maximize the life-saving capability of each donated liver.
+
+See also
+Liver transplantation
+MELD
+MELD-Plus
+
+References
+External links
+PELD Calculator
+United Network for Organ Sharing

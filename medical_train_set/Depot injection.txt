@@ -1,0 +1,22 @@
+A depot injection is a term for an injection formulation of a medication which releases slowly over time to permit less frequent administration of a medication. They are designed to increase medication adherence and consistency, especially in patients who commonly forget to take their medicine. Depot injections can be created by modifying the drug molecule itself, as in the case of prodrugs, or by modifying the way it is administered, as in the case of oil/lipid suspensions. Depot injections can have a duration of action of one month or greater and are available for many types of drugs, including antipsychotics and hormones.
+
+Purpose
+Depot injections provide longer duration drug action through slow absorption into the bloodstream. They are usually administered in the muscle, into the skin, or under the skin. The injected medication slowly releases the medication into the bloodstream. It may be used in patients who forget to take their medication; some doctors and patients consider the use of a depot injection to be coercion, and are opposed to their use for that reason.
+
+Mechanism
+Drugs may be modified to be slowly activated by the body, or be absorbed slowly by the body. Many are dissolved in an organic oil, as the compound is lipophilic due to the addition of functional groups to provide slow action. An example of this is adding a functional group such as decanoate. The combination of an oil base and modification to decrease metabolic activation prevent medications from being fully released. This can result in length of activity of 2–4 weeks or more.The alteration of the pharmacokinetics of the drug (the absorption and activation) does not change the side effect profile of the medication; thus, atypical antipsychotics are still preferred over typical antipsychotics.
+
+Discovery
+The first long-acting (depot) injections were antipsychotics fluphenazine and haloperidol. The concept of a depot injection arose before 1950, and originally was used to describe antibiotic injections that lasted longer to allow for less frequent administration.
+
+Pharmacokinetics
+Most commonly, depot injections are designed to have a duration of 2–4 weeks of action, however the pharmacokinetics of a specific formulation vary. Absorption and metabolism can both be affected by modifying the drug itself (for example, by attaching a functional group) or by the formulation of the product (examples are oil or microsphere preparations). Repeated administration of depot injections can lead to a half life over one month (as in some preparations of fluphenazine), but this can be variable in different patients.Hormonal depot injections of estradiol can last anywhere from one week to over one month. Medroxyprogesterone acetate is available as a depot injection which is injected once every three months to provide continuous hormonal contraception and releases for up to nine months after injection.
+
+Availability
+Many medications are available as depot injections, including many typical and atypical antipsychotics, as well as some hormonal medications and medication for opioid use disorder. Depot injections of antipsychotics are used to improve historically low adherence in patients with diseases such as schizophrenia. Different products may be administered or implanted either by a doctor or nurse, while some are designed to be administered by the patient themselves. Self-administered depot injections are used to increase healthcare access and decrease the need to visit the doctor as frequently, especially in low and middle income countries.Insulin may also be considered a depot injection depending on formulation. Insulin glargine, for example, is designed to precipitate after injection so it can be slowly absorbed by the body over a longer period than regular insulin would be. Depot injections of insulins have been studied to better replicate the body's natural basal rate of insulin production, and which can be activated by light to control the release of insulin from the injected depot.
+
+See also
+Flip–flop kinetics
+
+
+== References ==

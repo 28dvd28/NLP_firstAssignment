@@ -1,0 +1,8 @@
+Kepler-32 is an M-type main sequence star located about 1070 light years from Earth, in the constellation of Cygnus. Discovered in January 2012 by the Kepler spacecraft, it shows a 0.58 ± 0.05 solar mass (M☉), a 0.53 ± 0.04 solar radius (R☉), and temperature of 3900.0 K, making it half the mass and radius of the Sun, two-thirds its temperature and 5% its luminosity.
+
+Planetary system
+In 2011, 2 planets orbiting around it, were discovered, and two more suspected. The smaller Kepler-32b, orbiting its parent star every 5.90124 days, and Kepler-32c with an orbital period of 8.7522 days. In April 2013, transit-timing variation analysis confirmed 3 other planets to be in the system. However, only very loose constraints of the maximum mass of the planets could be determined.
+In 2014, the dynamical simulation shown what the Kepler-32 planetary system have likely undergone a substantial inward migration in the past, producing an observed pattern of lower-mass planets on tightest orbits.  Additional yet unobserved gas giant planets on wider orbit are likely necessary for migration of smaller planets to proceed that far inward, although current planetary systems would be unstable if additional planets are located closer than 8.7 AU from the parent star.
+
+
+== References ==

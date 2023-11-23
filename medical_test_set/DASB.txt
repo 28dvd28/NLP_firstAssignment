@@ -1,0 +1,20 @@
+DASB, also known as 3-amino-4-(2-dimethylaminomethylphenylsulfanyl)-benzonitrile, is a compound that binds to the serotonin transporter.
+Labeled with carbon-11 — a radioactive isotope — it has been used as a radioligand in neuroimaging with positron emission tomography (PET) since around year 2000.
+In this context it is regarded as one of the superior radioligands for PET study of the serotonin transporter in the brain,
+since it has high selectivity for the serotonin transporter.The DASB image from a human PET scan shows high binding in the midbrain, thalamus and striatum, moderate binding in the medial temporal lobe and anterior cingulate, and low binding in neocortex.
+The cerebellum is often regarded as a region with no specific serotonin transporter binding and the brain region is used as a reference in some studies.Since the serotonin transporter is the target of SSRIs used in the treatment of major depression it has been natural to examine DASB binding in depressed patients.
+Several such research studies have been performed.There are a number of alternative PET radioligands for imaging the serotonin transporter: [11C]ADAM, [11C]MADAM, [11C]AFM, [11C]DAPA,  [11C]McN5652, and [11C]-NS 4194.
+A related molecule to DASB, that can be labeled with fluorine-18, has also been suggested as a PET radioligand. 
+With single-photon emission computed tomography (SPECT) using the radioisotope iodine-123 there are further radioligands available: [123I]ODAM, [123I]IDAM, [123I]ADAM, and [123I]β-CIT.
+A few studies have examined the difference in binding between the radioligands in nonhuman primates, 
+as well as in pigs.Other compounds that can be labeled to work as PET radioligands for the study of the serotonin system are, e.g., altanserin and WAY-100635.
+
+Methodological issues
+The binding potential of DASB can be estimated with kinetic modeling on a series of brain scans.A test-retest reproducibility PET study indicates that [11C]DASB can be used to measure the serotonin transporter parameters with high reliability  in receptor-rich brain regions.When the DASB neuroimages are analyzed the kinetic models suggested by Ichise and coworkers can be employed to estimate the binding potential.
+A test-retest reproducibility experiment has been performed to evaluate this approach.
+
+Studies
+Besides the studies listed below a few occupancy studies have been reported.
+
+
+== References ==

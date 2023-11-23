@@ -1,0 +1,4 @@
+The Prati criteria are a revision to the clinical definition of normal serum alanine aminotransferase (ALT) which was published in the Annals of Internal Medicine in 2002. Daniele Prati and colleagues identified that, in the original research which developed guidelines for normal ranges of ALT, the cohort included subjects with subclinical disease such as non-alcoholic fatty liver disease. This led to ranges of 40 U/L in men and 30 U/L in women. This marker had low sensitivity and high specificity due to classification of individuals with subclinical disease counted as healthy controls. Revised model criteria led to a healthy range of 19 U/L in women and 30 U/L in men. This led to a 21.3% increase in sensitivity for an 8.9% decrease in specificity.
+
+
+== References ==

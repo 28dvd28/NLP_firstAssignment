@@ -1,0 +1,145 @@
+This is a shortened version of the tenth chapter of the ICD-9: Diseases of the Genitourinary System. It covers ICD codes 580 to 629. The full chapter can be found on pages 329 to 353 of Volume 1, which contains all (sub)categories of the ICD-9. Volume 2 is an alphabetical index of Volume 1. Both volumes can be downloaded for free from the website of the World Health Organization.
+
+Nephritis, nephrotic syndrome, and nephrosis (580–589)
+580 Acute glomerulonephritis
+580.9 Glomerulonephritis, acute, unspec.
+581 Nephrotic syndrome
+581.9 Nephrotic syndrome, unspec.
+582 Chronic glomerulonephritis
+582.9 Glomerulonephritis, chronic, unspec.
+583 Nephritis and nephropathy, not specified as acute or chronic
+584 Acute renal failure
+584.5 Renal failure, acute w/ tubular necrosis
+584.9 Renal failure, acute, unspec.
+585 Chronic renal failure
+586 Renal failure, unspecified
+587 Renal sclerosis, unspecified
+588 Disorders resulting from impaired renal function
+588.8 Other specified disorders resulting from impaired renal function
+588.81 Hyperparathyroidism, secondary, renal
+588.89 Renal tubular acidosis
+589 Small kidney of unknown cause
+
+Other diseases of urinary system (590–599)
+590 Infections of kidney
+590.0 Chronic pyelonephritis w/o lesion of renal medullary necrosis
+590.1 Pyelonephritis, acute, w/o necrosis
+591 Hydronephrosis
+592 Calculus of kidney and ureter
+592.0 Calculus, kidney
+592.1 Calculus, ureter
+592.9 Calculus, urinary, unspec.
+593 Other disorders of kidney and ureter
+593.2 Cyst, kidney, acquired
+593.6 Proteinuria, benign dfwpostural
+593.7 Vesicoureteral reflux, unspec.
+593.73 Vesicoureteral reflux w/ nephropathy
+594 Calculus of lower urinary tract
+595 Cystitis
+595.0 Cystitis, acute
+595.1 Cystitis, interstitial, chronic
+595.82 Cystitis, irradiation
+596 Other disorders of bladder
+596.0 Bladder neck obstruction
+596.4 Atony of bladder
+596.5 Other functional disorders of bladder
+596.51 Bladder hypertonicity
+596.52 Bladder compliance, low
+596.54 Neurogenic bladder, NOS
+596.55 Detrusor sphincter dyssynergia
+597 Urethritis, not sexually transmitted, and urethral syndrome
+597.81 Urethral syndrome, Non-VD, NOS
+598 Urethral stricture
+598.0 Stricture, urethral, unspec. infection
+598.1 Stricture, urethral, traumatic
+599 Other disorders of urethra and urinary tractk
+599.0 Urinary tract infection, unspec./pyuria
+599.6 Urinary obstruction, unspec.
+599.7 Hematuria
+
+Diseases of male genital organs (600–608)
+600 Hyperplasia of prostate
+600.00 BPH, w/o obstruction
+600.01 BPH, w/ obstruction
+601 Inflammatory diseases of prostate
+601.0 Prostatitis, acute
+601.1 Prostatitis, chronic
+601.9 Prostatitis, NOS
+602 Other disorders of prostate
+603 Hydrocele
+603.9 Hydrocele, unspec.
+604 Orchitis and epididymitis
+604.9 Orchitis/epididymitis, unspec.
+605 Redundant prepuce and phimosis
+605.0 Phimosis
+606 Infertility, male
+606.9 Infertility, male, unspec.
+607 Disorders of penis
+607.1 Balanitis
+607.3 Priapism
+607.84 Impotence, organic
+608 Other disorders of male genital organs
+608.0 Seminal vesiculitis
+608.1 Spermatocele
+608.2 Torsion of testis
+608.3 Atrophy of testis
+608.82 Hematospermia
+
+Disorders Of Breast (610–612)
+610 Benign mammary dysplasias
+611 Other disorders of breast
+612 Deformity and disproportion of reconstructed breast
+
+Inflammatory Disease Of Female Pelvic Organs (614–616)
+614 Inflammatory disease of ovary, fallopian tube, pelvic cellular tissue, and peritoneum
+615 Inflammatory diseases of uterus except cervix
+616 Inflammatory disease of cervix, vagina, and vulva
+
+Other disorders of female genital tract (617–629)
+617 Endometriosis of uterus
+618 Genital prolapse
+618.00 Cystocele/rectocele w/o uterine prolapse
+618.01 Cystocele, midline
+618.03 Urethrocele
+618.04 Rectocele
+618.1 Prolapse, uterine
+619 Fistula involving female genital tract
+619.0  Urinary-genital tract fistula, female
+Vesicovaginal fistula
+620 Noninflammatory disorders of ovary, fallopian tube, and broad ligament
+620.0 Cyst of ovary, follicular
+620.1 Corpus luteum cyst
+621 Disorders of uterus, not elsewhere classified
+621.2 Uterus, hypertrophy
+621.3 Endometrial hyperplasia, unspec.
+622 Noninflammatory disorders of cervix
+622.0 Erosion and ectropion of cervix
+622.1 Dysplasia, cervix, unspec.
+622.4 Stenosis, cervix
+622.7 Cervical polyp, NOS
+623 Noninflammatory disorders of vagina
+623.5 Leukorrhea, NOS
+624 Noninflammatory disorders of vulva and perineum
+624.1 Atrophy, vulva
+625 Pain and other symptoms associated with female genital organs
+625.0 Dyspareunia
+625.1 Vaginismus
+625.2 Mittelschmerz
+625.3 Dysmenorrhea
+625.4 Premenstrual tension syndrome
+625.5 Pelvic congestion syndrome
+625.6 Incontinence, stress, female
+625.7 Vulvodynia
+626 Disorders of menstruation and other abnormal bleeding from female
+626.0 Absence of menstruation
+Amenorrhea
+626.1 Scanty or infrequent menstruation
+Oligomenorrhea
+626.2 Excessive or frequent menstruation
+626.6 Metrorrhagia
+627 Menopausal and postmenopausal disorders
+627.1 Bleeding, postmenopausal
+627.2 Menopausal state, symptomatic
+627.3 Vaginitis, postmenopausal atrophic
+628 Infertility, female
+629 Other disorders of female genital organs

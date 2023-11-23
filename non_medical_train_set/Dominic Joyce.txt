@@ -1,0 +1,10 @@
+Dominic David Joyce FRS (born 8 April 1968) is a British mathematician, currently a professor at the University of Oxford and a fellow of Lincoln College since 1995. His undergraduate and doctoral studies were at Merton College, Oxford. He undertook a DPhil in geometry under the supervision of Simon Donaldson, completed in 1992.  After this he held short-term research posts at Christ Church, Oxford, as well as Princeton University and the University of California, Berkeley in the United States.
+Joyce is known for his construction of the first known explicit examples of compact Joyce manifolds (i.e., manifolds with G2 holonomy). He has received the London Mathematical Society Junior Whitehead Prize and the European Mathematical Society Young Mathematicians Prize. In 1998 he was an Invited Speaker of the International Congress of Mathematicians in Berlin.
+
+Selected publications
+Compact Manifolds with special holonomy. Oxford University Press. 2000. ISBN 978-0-19-850601-0.
+Riemannian holonomy groups and calibrated geometry. Oxford University Press. 2007. ISBN 978-0-19-921559-1.
+with Yinan Song: Joyce, Dominic; Song, Yinan (2012). "A theory of generalized Donaldson-Thomas invariants". Memoirs of the American Mathematical Society. Memoirs of the American Mathematical Society, vol. 217. 217 (1020). doi:10.1090/S0065-9266-2011-00630-1. arxiv.org preprint
+
+
+== References ==

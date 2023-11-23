@@ -1,0 +1,37 @@
+Thomas Blundeville (c. 1522 – c. 1606) was an English humanist writer and mathematician. He is known for work on logic, astronomy, education and horsemanship, as well as for translations from the Italian. His interests were both wide-ranging and directed towards practical ends, and he adapted freely a number of the works he translated.
+He was a pioneer writer in English in several areas, and inventor of a standard classroom geometrical instrument, the protractor.
+
+Life
+He lived as a country gentleman on his estate at Newton Flotman, in Norfolk. He inherited from his father Edward Blundeville in 1568, having possibly studied at the University of Cambridge.He had connections with court circles, and London scientific intellectuals. He was an associate of Henry Briggs, at Gresham College, and enjoyed the patronage of Robert Dudley, 1st Earl of Leicester, among other aristocrats.Other indications on his life are more tenuous. It has been plausibly suggested that as "T. B." he added a prefatory poem to John Studley's Agamemnon; he was certainly alluded to by Jasper Heywood, in the preface to his Thyestes of 1560, as a translator of Plutarch. From this it is argued that he had connection to the Inns of Court. He may have travelled to Italy, an inference from his familiarity with Italian literature. He was a mathematics tutor, to households including that of Nicholas Bacon and Francis Wyndham; and Cecil may have recommended Blundeville to Leicester. W. W. Rouse Ball gives a date of death of 1595, and possible connections to mathematicians: "Thomas Blundeville was resident at Cambridge about the same time as Dee and Digges—possibly he was a non-collegiate student, and if so must have been one of the last of them."He married twice, and his male heir Andrew was killed in the Flemish wars. His daughter Elizabeth married Rowland Meyrick, son of Sir Gelli Meyrick who was steward to Robert Devereux, 2nd Earl of Essex and caught up in his fall.
+
+Writings
+Early works
+He made a partial verse translation of the Moralia of Plutarch, to which Roger Ascham added verses. It appeared as Three Moral Treatises in 1561, his first work, to mark the accession of Elizabeth I, to whom one of the pieces was dedicated. Another was dedicated to the courtiers John Harington and John Astley.His book on horsemanship, The arte of ryding and breakinge greate horses, was published about 1560 and is the first work on equitation published in English. It is an abridged and adapted translation, made at the suggestion of John Astley, of Gli ordini di cavalcare by Federico Grisone, and is directed towards the use of horses in war. He followed it with The fower chiefyst offices belonging to Horsemanshippe (1565–6), which included a revised translation of Grisone together with other treatises. It was praised as "Xenophontean" by Gabriel Harvey.
+
+Historiography
+His expressed views on history are considered standard for Elizabethan England. The approach is causal, invoking the "meanes and instrumentes" of history, and mechanism in politics. Influentially, he compromised between "linear" (traditional Christian medieval) and "cyclic" (classical) overall views of the working-out of history, for a "spiral" model. For him, the providential is not incompatible with the moral order as it asserts itself in the details of exemplary political history, and he has been compared to Edmund Bolton in combining the medieval and humanist traditions. He commented that to be a good historiographer is a prerequisite for a counsellor, in his 1570 book on counsel.His True Order and Methode was dedicated to the Earl of Leicester and was a loose translation and summary of historiographical works by Jacopo Aconcio and Francesco Patrizzi. It endorsed the realist writing of history as process, and was one of the few English contributions of the period to the artes historicae. He translated also a manuscript of Aconcio on fortification, for the Earl of Bedford.
+
+Logic
+His Arte of Logike (written 1575, published 1599) is somewhat Ramist in approach, but strongly so in discussing method. Besides Aristotle, it also shows the influence of Galen, Melanchthon, the De Methodo of Aconcio of 1558, and Thomas Wilson.It contains a section on fallacies. Under petitio principii, it uses an even-handed example of Aristotelian and Copernican arguments on the motion of the Earth.
+
+Scientific, mathematical and geographical
+These later works are directed towards geography, navigation and travel, geography in Blundeville's view being a necessary support to history; their content is very mixed.
+The Exercises (1594) collected six treatises on practical skills, with a serious effort to be up-to-date. One of the parts described the world map of Petrus Plancius, published two years earlier. Other topical matters covered were Molyneux's globes, the work of John Blagrave and Gemma Frisius, and the cross-staff of Thomas Hood. According to Rouse Ball:
+
+In 1594 he published his Exercises in six parts, containing a brief account of arithmetic, cosmography, the use of the globes, a universal map, the astrolabe, and navigation. The arithmetic is taken from Recorde, but to it are added trigonometrical tables (copied from Clavius) of the natural sines, tangents, and secants of all angles in the first quadrant; the difference between consecutive angles being one minute. These are worked out to seven places of decimals. This is the earliest English work in which plane trigonometry is introduced.
+A later edition (1613) showed the circumnavigations of Francis Drake and Thomas Cavendish.He collaborated on an astronomy book, The Theoriques of the Seuen Planets (1602), assisted by Lancelot Browne as he notes in the preface. It contained also information about the recent research of William Gilbert on the Earth's magnetic field, which he included with help from Edward Wright and Henry Briggs. Wright had earlier supplied some of the innovative material for his writing on navigation in the Exercises. He had worked with William Barlow and others on the required scientific instruments; according to Hill Blundeville invented the protractor. In fact he described a semicircular instrument for measuring angles in 1589, in his Briefe Description of Universal Mappes and Cardes.
+
+Works
+A Very Brief and Profitable Treatise declaring how many Counsels and what name of Counsellors a Prince that will govern well ought to have (1570) translation from Federigo Furio, reprinted 1963 as Of councils and counselors (1570) by Thomas Blundeville; an English reworking of El consejo i consejeros del principe (1559) by Frederico Furio Ceriól
+The True Order and Methode of Wryting and Reading of Hystories (1574) edition by Hans Peter Heinrich. Frankfurt: Lang, 1986.
+M. Blundevile His Exercises (1594)
+Arte of Logike (1599)
+The Theoriques of the Seuen Planets (1602)
+
+Notes
+Further reading
+Hugh G. Dick, Thomas Blundeville's The True order and Methode of wryting and reading Hystories, Huntingdon Library Quarterly, 3 (1940)
+Jean Jacquot, Humanisme et science dans l'Angleterre élisabéthaine: l'oeuvre de Thomas Blundeville, Revue d'histoire des sciences et de leurs applications / Centre international de synthèse. — Vol. 6 (1953), pp. 189–202.
+
+External links
+Thomas Sonar, Henry Briggs and the dip table, detailed discussion of the Theoriques of the Seuen Planets (PDF)

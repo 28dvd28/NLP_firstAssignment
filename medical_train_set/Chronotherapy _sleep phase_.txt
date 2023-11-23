@@ -1,0 +1,24 @@
+In chronotherapy, an attempt is made to move bedtime and rising time later and later each day, around the clock, until a person is sleeping on a normal schedule. This treatment can be used by people with delayed sleep phase disorder (DSPD), who generally cannot reset their circadian rhythm by moving their bedtime and rising time earlier. DSPD is a circadian rhythm sleep disorder, characterised by a mismatch between a person's internal biological clock and societal norms. Chronotherapy uses the human phase response to light or melatonin. The American Academy of Sleep Medicine has recommended chronotherapy for the treatment of circadian rhythm and sleep disorders.
+
+Example
+Here is an example of how chronotherapy could work over a week's course of treatment, with the patient going to sleep 3 hours later every day until the desired sleep and wake time is reached.
+Day 1: sleep 3:00 am to 11:00 am
+Day 2: sleep 6:00 am to 2:00 pm
+Day 3: sleep 9:00 am to 5:00 pm
+Day 4: sleep 12:00 pm to 8:00 pm
+Day 5: sleep 3:00 pm to 11:00 pm
+Day 6: sleep 6:00 pm to 2:00 am next day
+Day 7: sleep 9:00 pm to 5:00 am next day
+Day 8 and thereafter: sleep 12:00 am to 8:00 am next dayWhile this technique can provide respite from sleep deprivation for people who must wake early for school or work, the new sleep and wake times can only be maintained by following a strictly disciplined timetable for sleeping and rising.
+
+Other forms of sleep phase chronotherapy
+A modified chronotherapy is called controlled sleep deprivation with phase advance, SDPA. One stays awake one whole night and day, then goes to bed 90 minutes earlier than usual and maintains the new bedtime for a week. This process is repeated weekly until the desired bedtime is reached.
+Sometimes, although extremely infrequently, "reverse" chronotherapy – i.e., gradual movements of bedtime and rising time earlier each day – has been used in treatment of patients with abnormally short circadian rhythms, in an attempt to move their bedtimes to later times of the day. Because circadian rhythms substantially shorter than 24 hours are extremely rare, this type of chronotherapy has remained largely experimental.
+
+Side effects
+The safety of chronotherapy is not fully known. While chronotherapy has been successful for some, it is necessary to rigidly maintain the desired sleep/wake cycle thenceforth. Any deviation in schedule tends to allow the body clock to shift later again.
+Chronotherapy has been known to cause non-24-hour sleep–wake disorder in at least three recorded cases, as reported in the New England Journal of Medicine in 1992. Animal studies have suggested that such lengthening could "slow the intrinsic rhythm of the body clock to such an extent that the normal 24-hour day no longer lies within its range of entrainment."
+
+References
+Further reading
+Czeisler CA, Richardson GS, Coleman RM, Zimmerman JC, Moore-Ede MC, Dement WC, & Weitzman ED. (1981). Chronotherapy: Resetting the circadian clocks of patients with delayed sleep phase insomnia. Sleep, 4, 11–21.

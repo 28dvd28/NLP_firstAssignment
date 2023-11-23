@@ -1,0 +1,30 @@
+EMRBots are experimental artificially generated electronic medical records (EMRs). The aim of EMRBots is to allow non-commercial entities (such as universities) to use the artificial patient repositories to practice statistical and machine-learning algorithms. Commercial entities can also use the repositories for any purpose, as long as they do not create software products using the repositories.
+A letter published in Communications of the ACM emphasizes the importance of using synthetic medical data, "... EMRBots can generate a synthetic patient population of any size, including demographics, admissions, comorbidities, and laboratory values. A synthetic patient has no confidentiality restrictions and thus can be used by anyone to practice machine learning algorithms."
+
+Background
+EMRs contain sensitive personal information. For example, they may include details about infectious diseases, such as human immunodeficiency virus (HIV), or they may contain information about a mental disorder. They may also contain other sensitive information such as medical details related to fertility treatments. Because EMRs are subject to confidentiality requirements, accessing and analyzing EMR databases is a privilege given to only a small number of individuals. Individuals who work at institutions that do not have access to EMR systems have no opportunity to gain hands-on experience with this valuable resource. Simulated medical databases are currently available; however, they are difficult to configure and are limited in their resemblance to real clinical databases. Generating highly accessible repositories of artificial patient EMRs while relying only minimally on real patient data is expected to serve as a valuable resource to a broader audience of medical personnel, including those who reside in underdeveloped countries.
+
+Use in Schools
+In March 2022, Ishani Das, a student researcher from Cupertino High School, used EMRBots to develop an Artificial Intelligence based Clinical Decision Support Tool which is available via the open-source community AI-Assist.
+
+Academic Use
+In April 2018 Bioinformatics (journal) published a study that relied on EMRBots data to create a new R package denoted as "comoRbidity". Co-authors on the study included scientists from Universitat Pompeu Fabra and Harvard University. The repositories have been used to accelerate research, e.g., researchers from Michigan State University, IBM Research, and Cornell University published a study in the Knowledge Discovery and Data Mining (KDD) conference. Their study describes a novel neural network that performs better than the widely used long short-term memory neural network developed by Sepp Hochreiter and Jürgen Schmidhuber in 1997. In May 2018 scientists from IBM Research and Cornell University have used the repositories to test a new deep architecture denoted as Health-ATM. To demonstrate superiority over traditional neural networks, they applied their architecture to a congestive heart failure use case. Additional use includes The University of Chicago creating a highly-detailed tutorial demonstrating how to use R using the repositories, University of California Merced, and The University of Tampere, Finland. Additional resources include.In March 2019 the repositories were used to enhance "Computationally-Enabled Medicine", a course given by Harvard Medical School. Further in March, scientists from multiple institutions, including Peking University, University of Tokyo, and Polytechnic University of Milan used the repositories to develop a new framework focused on medical information privacy.
+
+Use in Hackathons
+Researchers from Carnegie Mellon University used EMRBots data at the CMU HackAuton hackathon to create a prediction tool. Additional uses are available.EMRBots were presented at HackPrinceton 2018 organized by Princeton University.EMRBots were presented at TreeHacks 2019 organized by Stanford University.
+
+Availability
+The repositories can be downloaded after registration.The repositories are available to download from Figshare without registration.Full source code for creating the repositories is available to download from Figshare.All source code for EMRBots is available in Elsevier's Software Impacts GitHub site.
+
+Northwell Health's EMRBot
+In May 2018 Northwell Health funded a project denoted as EMRBot in the health system's third annual innovation challenge. Northwell Health's EMRBot, however, is neither related to Uri Kartoun's website (registered as a domain name in April 2015; www.emrbots.org) nor to any of its repositories or applications.
+
+Criticism
+"[EMRBots] are ... pregenerated datasets of synthetic EHR with an insufficient explanation of how the datasets were generated. These datasets exhibit several inconsistencies between health problems, age, and gender." An additional criticism is described in a thesis ("Realism in Synthetic Data Generation") granted by Massey University.
+
+Other Synthetic Medical Data Resources
+CareCloud
+MDCloneSyntheticMassSynTReN
+
+
+== References ==

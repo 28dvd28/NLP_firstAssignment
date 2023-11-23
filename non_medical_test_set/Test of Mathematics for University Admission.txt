@@ -1,0 +1,24 @@
+The Test of Mathematics for University Admission is a paper-based test sometimes used in the United Kingdom and other countries in Africa and the United States all assess  the mathematical thinking and reasoning skills needed for undergraduate mathematics courses or courses featuring mathematics. A number of universities across the world  accept the test as an optional part of their application process for mathematics-based courses.
+
+History
+The test was developed by Cambridge Assessment Admissions Testing and launched in 2016. It was designed to assess the key skills that students need to succeed on demanding university-level mathematics courses, and assist university mathematics tutors in making admissions decisions.Durham University and Lancaster University began using the test in 2016, with the University of Warwick, the University of Sheffield and the University of Southampton recognising the test in 2017, and the London School of Economics and Political Science (LSE) and Cardiff University in 2018 Research indicates that the test has good predictive validity, with good correlation between candidates' scores in the test and their performance in their exams at the end of first year university study. There is also correlation between A-level Further Maths performance and performance in the test.
+
+Test format and specification
+The Test of Mathematics for University Admission is a paper-based 2 hour and 30 minute long test. It has two papers which are taken consecutively.
+Paper 1: Mathematical Thinking	
+Paper 1 has 20 multiple-choice questions, with 75 minutes allowed to complete the paper. This paper assesses a candidate’s ability to apply their knowledge of mathematics in new situations. It comprises a core set of ideas from Pure Mathematics. These ideas reflect those that would be met early on in a typical A Level Mathematics course: algebra, basic functions, sequences and series, coordinate geometry, trigonometry, exponentials and logarithms, differentiation, integration, graphs of functions. In addition, knowledge of the GCSE curriculum is assumed.Paper 2: Mathematical Reasoning	
+Paper 2 has 20 multiple-choice questions, with 75 minutes allowed to complete the paper. The second paper assesses a candidate’s ability to justify and interpret mathematical arguments and conjectures, and deal with elementary concepts from logic. It assumes knowledge of the Paper 1 specification and, in addition, requires students to have some knowledge of the structure of proof and basic logical concepts.
+Calculators or dictionaries are not allowed to be used in the test.
+
+Scoring
+There is no pass/fail for the test. Candidates’ scores are determined by the number of correct answers given in both papers. Each question has the same weighting, and no penalties are given for incorrect answers. Raw scores are converted to a scale of 1.0 to 9.0 (with 9.0 being the highest). A score is also reported for each of the two papers (also reported on the 1.0 to 9.0 scale), but these are for candidate information only and do not form part of the formal test result.
+
+Timing and results
+The test is made available once a year in late October or early November. Candidates can sit the test at their school or at test centres around the world. Entry for the test typically opens in September and candidates must be registered by early October. Results are released in late November. Candidates can access their results online and share them with their chosen institutions.
+
+Preparation
+Students generally spend several weeks preparing for the TMUA exam. There are various different preparation materials available for students wanting to get ready for the exam such as textbooks, courses and online materials. However, past papers are the most valuable resource as they are directly from the exam administrators themselves. The past papers are freely available from the exam administrator, and various other sources. Answer keys are also released alongside TMUA past papers.
+
+References
+External links
+http://www.admissionstesting.org Cambridge Assessment Admissions Testing

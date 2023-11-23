@@ -1,0 +1,51 @@
+John Torrence Tate Jr. (March 13, 1925 – October 16, 2019) was an American mathematician distinguished for many fundamental contributions in algebraic number theory, arithmetic geometry, and related areas in algebraic geometry. He was awarded the Abel Prize in 2010.
+
+Biography
+Tate was born in Minneapolis, Minnesota. His father, John Tate Sr., was a professor of physics at the University of Minnesota and a longtime editor of Physical Review. His mother, Lois Beatrice Fossler, was a high school English teacher. Tate Jr. received his bachelor's degree in mathematics in 1946 from Harvard University and entered the doctoral program in physics at Princeton University. He later transferred to the mathematics department and received his PhD in mathematics in 1950 after completing a doctoral dissertation titled "Fourier analysis in number fields and Hecke's zeta functions" under the supervision of Emil Artin. Tate taught at Harvard for 36 years before joining the University of Texas in 1990 as a Sid W. Richardson Foundation Regents Chair. He retired from the Texas mathematics department in 2009 and returned to Harvard as a professor emeritus.Tate died at his home in Lexington, Massachusetts on October 16, 2019, at the age of 94.
+
+Mathematical work
+Tate's thesis (1950) on Fourier analysis in number fields has become one of the ingredients for the modern theory of automorphic forms and their L-functions, notably by its use of the adele ring, its self-duality and harmonic analysis on it; independently and a little earlier, Kenkichi Iwasawa obtained a similar theory. Together with his advisor Emil Artin, Tate gave a cohomological treatment of global class field theory using techniques of group cohomology applied to the idele class group and Galois cohomology. This treatment made more transparent some of the algebraic structures in the previous approaches to class field theory, which used central division algebras to compute the Brauer group of a global field.
+Subsequently, Tate introduced what are now known as Tate cohomology groups. In the decades following that discovery he extended the reach of Galois cohomology with the Poitou–Tate duality, the Tate–Shafarevich group, and relations with algebraic K-theory. With Jonathan Lubin, he recast local class field theory by the use of formal groups, creating the Lubin–Tate local theory of complex multiplication.
+He has also made a number of individual and important contributions to p-adic theory; for example, Tate's invention of rigid analytic spaces can be said to have spawned the entire field of rigid analytic geometry. He found a p-adic analogue of Hodge theory, now called Hodge–Tate theory, which has blossomed into another central technique of modern algebraic number theory. Other innovations of his include the "Tate curve" parametrization for certain p-adic elliptic curves and the p-divisible (Tate–Barsotti) groups.
+Many of his results were not immediately published and some of them were written up by Serge Lang, Jean-Pierre Serre, Joseph H. Silverman and others. Tate and Serre collaborated on a paper on good reduction of abelian varieties. The classification of abelian varieties over finite fields was carried out by Taira Honda and Tate (the Honda–Tate theorem).The Tate conjectures are the equivalent for étale cohomology of the Hodge conjecture. They relate to the Galois action on the ℓ-adic cohomology of an algebraic variety, identifying a space of "Tate cycles" (the fixed cycles for a suitably Tate-twisted action) that conjecturally picks out the algebraic cycles. A special case of the conjectures, which are open in the general case, was involved in the proof of the Mordell conjecture by Gerd Faltings.
+Tate has also had a major influence on the development of number theory through his role as a Ph.D. advisor. His students include George Bergman, Ted Chinburg, Bernard Dwork, Benedict Gross, Robert Kottwitz, Jonathan Lubin, Stephen Lichtenbaum, James Milne, V. Kumar Murty, Carl Pomerance, Ken Ribet, Joseph H. Silverman, Dinesh Thakur, and William C. Waterhouse.
+
+Awards and honors
+Tate was elected to the American Philosophical Society in 1941. In 1956 Tate was awarded the American Mathematical Society's Cole Prize for outstanding contributions to number theory. He was elected to the American Academy of Arts and Sciences in 1958. He was elected to the United States National Academy of Sciences in 1969. In 1992 he was elected as Foreign Member of the French Academie des Sciences. In 1995 he received the Leroy P. Steele Prize for Lifetime Achievement from the American Mathematical Society. He was awarded a Wolf Prize in Mathematics in 2002/03 for his creation of fundamental concepts in algebraic number theory. In 2012 he became a fellow of the American Mathematical Society.
+
+In 2010 the Norwegian Academy of Science and Letters, of which he was a member, awarded him the Abel Prize, citing "his vast and lasting impact on the theory of numbers". According to a release by the Abel Prize committee, "Many of the major lines of research in algebraic number theory and arithmetic geometry are only possible because of the incisive contributions and illuminating insights of John Tate. He has truly left a conspicuous imprint on modern mathematics."Tate has been described as "one of the seminal mathematicians for the past half-century" by William Beckner, Chairman of the Department of Mathematics at the University of Texas at Austin.
+
+Personal life
+Tate married twice. His first wife was Karin Artin, his doctoral advisor's daughter. Together they had three daughters, six grandchildren, and a great-grandson. One of his grandchildren, Dustin Clausen, currently works as a mathematics Professor at Institut des Hautes Études Scientifiques. After Tate divorced, he married Carol MacPherson.
+
+Selected publications
+Tate, John (1950), Fourier analysis in number fields and Hecke's zeta functions, Princeton University Ph.D. thesis under Emil Artin. Reprinted in Cassels, J. W. S.; Fröhlich, Albrecht, eds. (1967), Algebraic number theory, London: Academic Press, pp. 305–347, MR 0215665
+Tate, John (1952), "The higher dimensional cohomology groups of class field theory", Ann. of Math., 2, 56 (2): 294–297, doi:10.2307/1969801, JSTOR 1969801, MR 0049950
+Lang, Serge; Tate, John (1958), "Principal homogeneous spaces over abelian varieties", American Journal of Mathematics, 80 (3): 659–684, doi:10.2307/2372778, JSTOR 2372778, MR 0106226
+Tate, John (1965), "Algebraic cycles and poles of zeta functions", Arithmetical Algebraic Geometry (Proc. Conf. Purdue Univ., 1963), New York: Harper & Row, pp. 93–110, MR 0225778
+Lubin, Jonathan; Tate, John (1965), "Formal complex multiplication in local fields", Annals of Mathematics, 81 (2): 380–387, doi:10.2307/1970622, JSTOR 1970622, MR 0172878
+Tate, John (1966), "Endomorphisms of abelian varieties over finite fields", Inventiones Mathematicae, 2 (2): 134–144, Bibcode:1966InMat...2..134T, doi:10.1007/bf01404549, MR 0206004, S2CID 245902
+Tate, John (1967), "p-divisible groups", in Springer, T. A. (ed.), Proceedings of a Conference on Local Fields, Springer-Verlag, pp. 158–183, MR 0231827
+Artin, Emil; Tate, John (2009) [1967], Class field theory, AMS Chelsea Publishing, ISBN 978-0-8218-4426-7, MR 2467155
+Serre, Jean-Pierre; Tate, John (1968), "Good reduction of abelian varieties", Annals of Mathematics, 88 (3): 462–517, doi:10.2307/1970722, JSTOR 1970722, MR 0236190
+Tate, John (1971), "Rigid analytic spaces", Inventiones Mathematicae, 12 (4): 257–289, Bibcode:1971InMat..12..257T, doi:10.1007/bf01403307, MR 0306196, S2CID 121364708
+Tate, John (1976), "Relations between K2 and Galois cohomology", Inventiones Mathematicae, 36: 257–274, Bibcode:1976InMat..36..257T, doi:10.1007/bf01390012, MR 0429837, S2CID 118285898
+Tate, John (1984), Les conjectures de Stark sur les fonctions L d'Artin en s=0, Progress in Mathematics, vol. 47, Boston, Massachusetts: Birkhäuser Boston, Inc., ISBN 0-8176-3188-7, MR 0782485
+Collected Works of John Tate: Parts I and II, American Mathematical Society, (2016)
+
+See also
+Mumford–Tate group
+Local Tate duality
+Tate topology
+Tate vector space
+
+References
+Milne, J, "The Work of John Tate"
+
+External links
+
+O'Connor, John J.; Robertson, Edmund F., "John Tate (mathematician)", MacTutor History of Mathematics Archive, University of St Andrews
+John Tate at the Mathematics Genealogy Project
+Archived at Ghostarchive and the Wayback Machine: "The Abel Prize Interview 2010 with John Torrence Tate". YouTube. December 10, 2019.
+Archived at Ghostarchive and the Wayback Machine: "John Tate – The Abel Lecture – The arithmetic of elliptic curves". YouTube. March 9, 2020; lecture at the University of Oslo, May 26, 2010{{cite web}}:  CS1 maint: postscript (link)
+Archived at Ghostarchive and the Wayback Machine: "The Heidelberg Laureate Forum Foundation presents the HLF Portraits: John Torrence Tate". YouTube. April 4, 2017.

@@ -1,0 +1,14 @@
+In tooth development, the enamel knot is a localization of cells on an enamel organ that appear thickened in the center of the inner enamel epithelium. The enamel knot is frequently associated with an enamel cord. It is formed in the cap stage and undergoes apoptosis in the bell stage.
+
+The enamel knot as signaling center
+The enamel knot is a signaling center of the tooth that provides positional information for tooth morphogenesis and regulates the growth of tooth cusps. The enamel knot produces a range of molecular signals from all the major signaling families, such as Fibroblast Growth Factors (FGF), Bone morphogenetic proteins (BMP), Hedgehog (Hh) and Wnt signals. These molecular signals direct the growth of the surrounding epithelium and ectomesenchyme.
+
+Primary and secondary enamel knots
+The primary enamel knot forms at the tip of the bud during the cap stage of tooth development. This primary enamel knot undergoes apoptosis and disappears. Later, secondary enamel knots appear that regulate the formation of the future cusps of the teeth.
+
+References
+
+Cate, A. R. Ten. (1998). Oral Histology: Development, Structure, and Function, 5th ed. ISBN 0-8151-2952-1.
+Ross, M. H., Kaye, G. I., & Pawlina, W. (2003).  Histology: A Text and Atlas, 4th edition. ISBN 0-683-30242-6.
+Vaahtokari A., Aberg T., Jernvall J., Keranen S., Thesleff, I (1996).  "The Enamel Knot as a Signaling Center in the Developing Mouse Tooth. Mech Dev. vol. 54, no. 1, pp. 39-43.
+Jernvall, J., Kettunen, P.,  Karavanova, I., Martin, L. B., Thesleff, I. (1994).  "Evidence for the Role of the Enamel Knot as a Control Center in Mammalian Tooth Cusp Formation: Non-dividing Cells Express Growth Stimulating Fgf-4 Gene." Int. J. Dev. Biol. vol. 38, pp. 463-469.

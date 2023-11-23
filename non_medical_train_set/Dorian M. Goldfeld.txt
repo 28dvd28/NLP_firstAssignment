@@ -1,0 +1,51 @@
+Dorian Morris Goldfeld (born January 21, 1947) is an American mathematician working in analytic number theory and automorphic forms at Columbia University.
+
+Professional career
+Goldfeld received his B.S. degree in 1967 from Columbia University. His doctoral dissertation, entitled "Some Methods of Averaging in the Analytical Theory of Numbers", was completed under the supervision of Patrick X. Gallagher in 1969, also at Columbia.  He has held positions at the University of California at Berkeley (Miller Fellow, 1969–1971), Hebrew University (1971–1972), Tel Aviv University (1972–1973), Institute for Advanced Study (1973–1974), in Italy (1974–1976), at MIT (1976–1982), University of Texas at Austin (1983–1985) and Harvard (1982–1985). Since 1985, he has been a professor at Columbia University.He is a member of the editorial board of Acta Arithmetica and of The Ramanujan Journal. On January 1, 2018 he became the Editor-in-Chief of the Journal of Number Theory.He is a co-founder and board member of Veridify Security, formerly SecureRF, a corporation that has developed the world's first linear-based security solutions.Goldfeld advised several doctoral students including M. Ram Murty. In 1986, he brought Shou-Wu Zhang to the United States to study at Columbia.
+
+Research interests
+Goldfeld's research interests include various topics in number theory. In his thesis, he proved a version of Artin's conjecture on primitive roots on the average without the use of the Riemann Hypothesis.
+In 1976, Goldfeld provided an ingredient for the effective solution of Gauss' class number problem for imaginary quadratic fields. Specifically, he proved an effective lower bound for the class number of an imaginary quadratic field assuming the existence of an elliptic curve whose L-function had a zero of order at least 3 at 
+  
+    
+      
+        s
+        =
+        1
+        
+          /
+        
+        2
+      
+    
+    {\displaystyle s=1/2}
+  . (Such a curve was found soon after by Gross and Zagier). This effective lower bound then allows the determination of all imaginary fields with a given class number after a finite number of computations.
+His work on the Birch and Swinnerton-Dyer conjecture includes the proof of an estimate for a partial Euler product associated to an elliptic curve, bounds for the
+order of the Tate–Shafarevich group.Together with his collaborators, Dorian Goldfeld has introduced the theory of multiple Dirichlet series,  objects that extend the fundamental Dirichlet series in one variable.He has also made contributions to the understanding of Siegel zeroes, to the ABC conjecture, to modular forms on 
+  
+    
+      
+        GL
+        ⁡
+        (
+        n
+        )
+      
+    
+    {\displaystyle \operatorname {GL} (n)}
+  , and to cryptography (Arithmetica cipher, Anshel–Anshel–Goldfeld key exchange).Together with his wife, Dr. Iris Anshel, and father-in-law, Dr. Michael Anshel, both mathematicians, Dorian Goldfeld founded the field of braid group cryptography.
+
+Awards and honors
+In 1987 he received the Frank Nelson Cole Prize in Number Theory, one of the prizes in Number Theory, for his solution of Gauss' class number problem for imaginary quadratic fields. He has also held the  Sloan Fellowship (1977–1979) and in 1985 he received the Vaughan prize. In 1986 he was an invited speaker at the International Congress of Mathematicians in Berkeley. In April 2009 he was elected a Fellow of the American Academy of Arts and Sciences. In 2012 he became a fellow of the American Mathematical Society.
+
+Selected works
+Goldfeld, Dorian; Hundley, Joseph (2011). Automorphic Representations and L-Functions for the General Linear Group, Volume 1. ISBN 9780521474238.
+Goldfeld, Dorian; Hundley, Joseph (2011). Automorphic Representations and L-Functions for the General Linear Group, Volume 2. ISBN 9781107007994.
+Gerritzen; Goldfeld; Kreuzer; Rosenberger; Shpilrain, eds. (2006). Algebraic Methods in Cryptography. ISBN 0-8218-4037-1.
+Goldfeld, Dorian (2006). Automorphic Forms and L-Functions for the Group GL(n,R). ISBN 0-521-83771-5.
+Anshel, Iris; Goldfeld, Dorian (1995). Calculus: a Computer Algebra Approach. ISBN 1-57146-038-1.
+
+References
+External links
+Dorian M. Goldfeld at the Mathematics Genealogy Project
+Dorian Goldfeld's Home Page at Columbia University

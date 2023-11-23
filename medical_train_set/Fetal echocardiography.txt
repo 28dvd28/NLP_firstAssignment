@@ -1,0 +1,33 @@
+Fetal echocardiography, or Fetal echocardiogram, is the name of the test used to diagnose cardiac conditions in the fetal stage. Cardiac defects are amongst the most common birth defects.
+Their diagnosis is important in the fetal stage as it might help provide an opportunity to plan and manage the baby as and when the baby is born.
+Not all pregnancies need to undergo fetal echo.
+
+Patient criteria
+Specific maternal and fetal conditions would indicate the need for this test. these conditions are as listed below:
+Maternal:
+
+Diabetes
+Anticonvulsant intake
+Prev child with CHD
+Infections: Parvovirus, Rubella, Coxsackie
+AutoImmune Disease: Anti Rho/La positiveFetal:
+
+Increased Nuchal thickness
+Abnormal ductus venosus
+Abnormal fetal cardiac screening
+Major extracardiac abnormality
+Abnormal Fetal karyotype
+Hydrops
+Fetal dysrthythhmiaFetal Echo is usually performed by a Pediatric Cardiologist but may also be performed by a Sonologist.To date, no detrimental effects in humans have been demonstrated.
+The performance of a fetal echocardiogram requires experience and a systematic approach. Guidelines for training have been formulated, and only qualified individuals should perform this highly specialized examination. A brief description of the examination is presented here for interest only. The first step is to determine the position and orientation of the fetus within the uterus. Within the thorax, the heart, because of its motion, is usually the easiest and most recognizable structure to examine.
+The four-chamber view is most important and should be recorded first. For orientation, the left atrium is identified by the presence of the septum primum and the pulmonary veins. Cardiac situs can be determined by identifying the systemic veins and the position of the atria relative to the liver and spleen. Next, the atrioventricular valves are identified, with the tricuspid valve slightly more apical than the mitral valve. The outlet portions of the heart are then evaluated. Cardiac measurements can be made and compared with normal values that have been defined for all gestational ages.
+Doppler techniques can be used to visualize blood flow through the heart, great vessels, and umbilical vessels. Assessment of fetal arrhythmias is best accomplished by using a combination of M-mode and Doppler recordings. When these arrhythmias are present, a careful search for structural heart disease is mandatory. With this approach, a wealth of diagnostic information is available. Knowledge of complex congenital heart disease before delivery allows therapeutic interventions to begin immediately after birth and can be life saving for such patients. In both of these examples, knowledge about the presence and severity of congenital cardiac defects facilitated management of labor and delivery and allowed perinatal care to be optimized.
+The critical role of echocardiography in prenatal diagnosis is evident, and both the accuracy and safety of the test are now well established. The structures in these images are small, however, and random movements of the fetus make for a challenging and time-consuming examination. Despite these factors, fetal echocardiography has provided clinicians with earlier diagnosis of heart disease and a better understanding of fetal hemodynamics.
+Today, a dedicated fetal echocardiogram can detect nearly 100% of serious congenital heart disease. Yet most pregnant women do not have a fetal echocardiogram but rather undergo a general obstetric ultrasound that may detect only around a third of fetal heart disease. To improve detection, some propose universal fetal echocardiography. But others cite cost and lack of specialized personnel as barriers that prevent echocardiography for every fetus.Fetal Echocardiogram is done in select patients. The best way to improve pickup in majority if the patients is by training sonologists to perform a more thorough evaluation. It has been traditionally taught that a four chamber visualisation is enough but current experiences suggest that may not be enough. A better evaluation would include a 4 chamber, a 5 chamber and a 3 vessel evaluation(3).
+
+References
+
+Carvalho JS (Apr 2001). "Early prenatal diagnosis of major congenital heart defects". Curr Opin Obstet Gynecol. 13 (2): 155–9. doi:10.1097/00001703-200104000-00010. PMID 11315870. S2CID 29109972.
+Davey BT, Seubert DE, Phoon CK (Jun 2009). "Indications for fetal echocardiography high referral, low yield?". Obstet Gynecol Surv. 64 (6): 405–15. doi:10.1097/OGX.0b013e31819f9d7b. PMID 19445814. S2CID 33615449.{{cite journal}}:  CS1 maint: multiple names: authors list (link)
+Fetal Echocardiography Task Force; American Institute of Ultrasound in Medicine Clinical Standards Committee; American College of Obstetricians Gynecologists; Society for Maternal-Fetal Medicine (Jan 2011). "AIUM practice guideline for the performance of fetal echocardiography". J. Ultrasound Med. 30 (1): 127–36. doi:10.7863/jum.2011.30.1.127. PMID 21193716.
+Lee W, Allan L, Carvalho JS; et al. (August 2008). "ISUOG consensus statement: what constitutes a fetal echocardiogram?". Ultrasound Obstet Gynecol. 32 (2): 239–42. doi:10.1002/uog.6115. PMID 18663769.{{cite journal}}:  CS1 maint: multiple names: authors list (link)

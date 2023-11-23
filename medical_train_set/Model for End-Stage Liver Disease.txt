@@ -1,0 +1,36 @@
+The Model for End-Stage Liver Disease, or MELD, is a scoring system for assessing the severity of chronic liver disease. It was initially developed to predict mortality within three months of surgery in patients who had undergone a transjugular intrahepatic portosystemic shunt (TIPS) procedure, and was subsequently found to be useful in determining prognosis and prioritizing for receipt of a liver transplant. This score is now used by the United Network for Organ Sharing (UNOS) and Eurotransplant for prioritizing allocation of liver transplants instead of the older Child-Pugh score.
+
+Determination
+MELD uses the patient's values for serum bilirubin, serum creatinine, and the international normalized ratio for prothrombin time (INR) to predict survival. It is calculated according to the following formula:
+MELD = 3.78×ln[serum bilirubin (mg/dL)] + 11.2×ln[INR] + 9.57×ln[serum creatinine (mg/dL)] + 6.43MELD scores are reported as whole numbers, so the result of the equation above is rounded.
+UNOS has made the following modifications to the score:
+If the patient has been dialyzed twice within the last 7 days, then the value of serum creatinine should be 4.0 mg/dL
+Any value less than one is given a value of 1 (i.e. if bilirubin is 0.8 a value of 1.0 is used) to prevent subtraction from any of the three factors, since the natural logarithm of a positive number below 1 (greater than 0 and less than 1) yields a negative value.The etiology of liver disease was subsequently removed from the model because it posed difficulties such as how to categorize patients with multiple causes of liver disease. Modification of the MELD score by excluding etiology of liver disease did not significantly affect the model's accuracy in predicting three-month survival.
+Patients with a diagnosis of liver cancer will be assigned a MELD score based on how advanced the cancer is.
+
+Interpretation
+In interpreting the MELD Score in hospitalized patients, the 3 month observed mortality (considering 3,437 adult liver transplant candidates with chronic liver disease who were added to
+the OPTN waiting list at 2A or 2B status between November, 1999, and December, 2001) is:
+Applications of MELD score include:
+
+The best outcomes with TIPS occur among patients with a MELD score less than 14.
+Patients with MELD scores greater than 24 who are reasonable liver transplant candidates are probably best served by foregoing TIPS placement.
+
+History
+MELD was originally developed at the Mayo Clinic by Dr. Patrick Kamath, and at that point was called the "Mayo End-stage Liver Disease" score. It was derived in a series of patients undergoing TIPS procedures. The original version also included a variable based on the underlying etiology (cause) of the liver disease. The score turned out to be predictive of prognosis in chronic liver disease in general, and—with some modifications—came to be applied as an objective tool in assigning need for a liver transplant. The etiology turned out to be relatively unimportant, and was also regarded as relatively subjective; it was therefore removed from the score.The successor of MELD, an advanced scoring system, made by collaboration between Massachusetts General Hospital and IBM, called MELD-Plus was introduced in 2017.
+
+Potential of alternative scores to extend life expectancy
+The United Network for Organ Sharing proposed that MELD-Na score (an extension of MELD) may better rank candidates based on their risk of pre-transplant mortality and is projected to save 50-60 lives total per year. Furthermore, a study published in the New England Journal of Medicine in 2008, estimated that using MELD-Na instead of MELD would save 90 lives for the period from 2005 to 2006. In his viewpoint published in June 2018, co-creator of MELD-Plus, Uri Kartoun, suggested that "...MELD-Plus, if incorporated into hospital systems, could save hundreds of patients every year in the United States alone."
+
+See also
+Pediatric End-Stage Liver Disease
+Milan criteria
+Child-Pugh score
+MELD-Plus
+MELD-Na
+MELD 3.0
+
+References
+External links
+Model for End-Stage Liver Disease Calculator from MDCalc
+Online calculator for MELD score/UNOS modification

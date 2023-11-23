@@ -1,0 +1,19 @@
+Dennis Arnold Hejhal (born December 10, 1948 in Chicago) is an American mathematician.  In his mathematical research he frequently uses extensive computer calculation.
+In 1967, as a college freshman, Hejhal scored among the top 5 in the U.S. in the William Lowell Putnam Mathematical Competition.
+Hejhal graduated from the University of Chicago in 1970 with a bachelor's degree and from Stanford University in 1972 with a PhD in mathematics under the direction of Menahem Max Schiffer. He became an assistant professor at Harvard in 1972, then in 1974 an associate professor at Columbia University and starting in 1978 a professor at the University of Minnesota.  Additionally, he was a professor at the Uppsala University from 1994 to 2012 (where he has since been a professor emeritus) and a fellow of the Minnesota Supercomputing Institute since 1986. He was a guest professor at Princeton University in 1993 and at the Institute for Advanced Study on several occasions since 1983.  
+Hejhal works on analytic number theory, automorphic forms, the Selberg trace formula and quantum chaos.
+From 1972 to 1974 he was a Sloan Fellow. In 1986 he was an invited speaker at the International Congress of Mathematicians in Berkeley (Zeros of Epstein Zeta Functions and Supercomputers). In 1997 he received the Goran Gustafson Prize from the Swedish Academy of Sciences and in 2005 the Eva and Lars Gårding Prize. He is a member of the Swedish Royal Society of Sciences. In 2012 he became a fellow of the American Mathematical Society.Among his successful former doctoral students is Persi Diaconis. He also supervised the undergraduate honors thesis research of James Z. Wang.
+
+Publications
+Theta functions, kernel functions and abelian integrals, AMS 1972
+Eigenvalues of the Laplacian for Hecke triangle groups, AMS 1992
+Regular b-Groups, degenerating Riemann surfaces and spectral theory, AMS 1990
+The Selberg Trace Formula for PSL (2, R), 2 volumes, Springer, 1976, 1983 (3rd volume planned)
+Editor with Peter Sarnak, Audrey Terras: The Selberg Trace Formula and related topics, AMS 1986 (Conference, Bowdoin College 1984)
+Editor with Martin Gutzwiller, Andrew Odlyzko, et al.. Emerging applications of Number theory, Springer 1999
+
+References
+External links
+Homepage
+Hejhal Eigenvalues of the Laplacian, quantum chaos and computation 1995
+Dennis Hejhal at the Mathematics Genealogy Project

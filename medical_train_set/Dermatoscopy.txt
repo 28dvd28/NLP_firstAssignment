@@ -1,0 +1,50 @@
+Dermatoscopy also known as dermoscopy or epiluminescence microscopy, is the examination of skin lesions with a dermatoscope. It is a tool similar to a camera to allow for inspection of skin lesions unobstructed by skin surface reflections. The dermatoscope consists of a magnifier, a light source (polarized or non-polarized), a transparent plate and sometimes a liquid medium between the instrument and the skin. The dermatoscope is often handheld, although there are stationary cameras allowing the capture of whole body images in a single shot. When the images or video clips are digitally captured or processed, the instrument can be referred to as a digital epiluminescence dermatoscope. The image is then analyzed automatically and given a score indicating how dangerous it is. This technique is useful to dermatologists and skin cancer practitioners in distinguishing benign from malignant (cancerous) lesions, especially in the diagnosis of melanoma.
+
+Types
+There are two main types of dermatoscopes, hand held portable and stationary mounted type.
+A hand held dermatoscope is composed of a transilluminating light source and a magnifying optic (usually a 10-fold magnification). There are three main modes of dermatoscopy:
+Nonpolarized light, contact [1]
+Polarized light, contact [2]
+Polarized light, noncontact [3]Polarized light allows for visualization of deeper skin structures, while non-polarized light provide information about the superficial skin. Most modern dermatoscopes allow the user to toggle between the two modes, which provide complementary information. Others may also allow the user to have different zoom levels and color overlay.
+A stationary type allows a full body image to be captured in one snap. It is then transferred into image analysis algorithms that generates a three dimensional model of the person. Lesions on the person are marked and analyzed using Artificial intelligence.
+
+Advantages
+With doctors who are experts in dermatoscopy, the diagnostic accuracy for melanoma is significantly better than those who do not have any specialized training.
+Thus, there is considerable improvement in the  sensitivity (detection of melanomas) as well as specificity  (percentage of non-melanomas correctly diagnosed as benign), compared with naked eye examination. The accuracy by dermatoscopy was increased up to 20% in the case of sensitivity and up to 10% in the case of specificity, compared with naked eye examination.  By using dermatoscopy the specificity is thereby increased, reducing the frequency of unnecessary surgical excisions of benign lesions.
+
+Applications
+The typical application of dermatoscopy is early detection of melanoma (see above)
+Digital dermatoscopy (videodermatoscopy) is used for monitoring skin lesions suspicious of melanoma. Digital dermatoscopy images are stored and compared to images obtained during the patient's next visit. Suspicious changes in such a lesion are an indication for excision. Skin lesions, which appear unchanged over time are considered benign. Common systems for digital dermoscopy are Fotofinder, Molemax, DermoGenius, Easyscan and HEINE.
+Aid in the diagnosis of skin tumors - such as basal cell carcinomas, squamous cell carcinomas, cylindromas, dermatofibromas, angiomas, seborrheic keratosis and many other common skin tumors have classical dermatoscopic findings.
+Aid in the diagnosis of scabies and pubic louse. By staining the skin with India ink, a dermatoscope can help identify the location of the mite in the burrow, facilitating scraping of the scabetic burrow. By magnifying pubic louse, it allows for rapid diagnosis of the difficult to see small insects.
+Aid in the diagnosis of warts. By allowing a physician to visualize the structure of a wart, to distinguish it from corn, callouses, trauma, or foreign bodies. By examining warts at late stages of treatment, to assure that therapy is not stopped prematurely due to difficult to visualize wart structures.
+Aid in the diagnosis of fungal infections. To differentiate "black dot" tinea, or tinea capitis (fungal scalp infection) from alopecia areata.
+Aid in the diagnosis of hair and scalp diseases, such as alopecia areata, female androgenic alopecia, monilethrix, Netherton syndrome, and woolly hair syndrome. Dermoscopy of hair and scalp is called trichoscopy.
+Determination of surgical margin of hard to define skin cancers. Examples would be Bowen's disease, superficial basal cell carcinomas, and lentigo malignas. These tumors have very indistinct margins. By allowing the surgeon to correctly identify the true extent of the tumor, repeat surgery often is decreased.
+Differentiation of tinea nigra from malignant melanoma or junctional melanocytic nevus.
+
+Artificial intelligence
+Artificial intelligence is used to automatically distinguish benign from malignant (cancerous) lesions. Modern software technology allows the usage of databases to aid in this process. Patients will consent their lesion pictures to be stored in a database which acts as an archive and allow artificial intelligence programs to compare newly taken ones. The program then compares key features of a new image with known features of benign and malignant lesions. Oftentimes a score is given to a specific lesion, indicating how dangerous and likely it is to be a malignant lesion. It is then flagged for further examination through a dermatologist. This speeds up the diagnosis process.
+One limit is that since not many patients get their lesions documented, the sample size is minuscule compared to what an AI needs.
+Proposed solutions include generating synthetic images of skin lesions to improve the algorithm. Then, the AI needs to differentiate whether the sample came from the synthetic samples or from real data sets. It needs to minimize the probability that it will predict its outputs as fake while also maximizing its probability to correctly distinguish between real and fake samples.
+
+History
+Skin surface microscopy started in 1663 by Johan Christophorous Kolhaus and was improved with the addition of immersion oil in 1878 by Ernst Abbe. The German dermatologist, Johann Saphier, added a built-in light source to the instrument. Leon Goldman was the first dermatologist to coin the term "dermascopy" and to use the dermatoscope to evaluate pigmented cutaneous lesions.
+In 1989 dermatologists from the Ludwigs-Maximilian-University of Munich developed a new device for dermoscopy. A team of physicians led by Professor Otto Braun-Falco in collaboration with the medical device manufacturer HEINE Optotechnik developed a dermatoscope, which was hand-held and illuminated by a halogen lamp. It also featured an achromatic lens with a 10-fold magnification. To reduce light reflection the lesion was covered with immersion oil. This dermatoscope helped to diagnose pigmented skin lesions more quickly and easily. The approach was confirmed by Wilhelm Stolz et al. from the Department of Dermatology and Allergology of the University of Munich and published in the "Lancet"(1989).At the Medical University of Vienna a dermatoscope based on cross-polarization was invented and patented, a methodology further used in digital dermatoscopes such as the MoleMax device or by FotoFinder. Following, in 2001, a California medical device manufacturer, 3Gen, introduced the first polarized handheld dermatoscope, the DermLite. Polarized illumination, coupled with a cross-polarised viewer, reduces (polarised) skin surface reflection, thus allowing visualisation of skin structures (the light from which is depolarised) without using an immersion fluid. Examination of several lesions is thus more convenient because physicians no longer have to stop and apply immersion oil, alcohol, or water to the skin before examining each lesion. With the marketing of polarised dermatoscopes, dermatoscopy increased in popularity among physicians worldwide. Although images produced by polarised light dermatoscopes are slightly different from those produced by a traditional skin contact glass dermatoscope, they have certain advantages, such as vascular patterns not being potentially missed through compression of the skin by a glass contact plate.Due to the fairly standardised imaging, and limited amount of diagnoses compared to clinical dermatology, dermatoscopic images became one center of interest for automated medical image analysis. While in the past decades computer vision algorithms and hardware-based method were used large standardized public image collections such as HAM10000 enabled application of convolutional neural networks. 
+The latter approach has now shown experimental evidence of human-level accuracy in larger/international, and smaller/local trials, but this application is not without dispute.
+
+Capture procedure
+Full-body capture
+
+The patient will stand on a designated spot for full-body imaging. Then, devices such as the WB360 will fire all of its cameras at the same time, capturing a snapshot of the patient’s entire body in one singular motion.
+The camera then proceeds to send the pictures to a backend software, where it compiles and generates a three dimensional render of the patient.
+The three-dimensional model is often viewable in applications provided by the device.
+Most modern software will also use computer vision algorithms and neural networks to automatically find and analyze each lesion on the patient's body. A list of lesions is then provided, allowing doctors and nurses to have the freedom to see a patient’s lesion(s) of interest on their rendered model or in a readily provided list for ease of navigation.
+Most modern software will also allow users to add single lesion close up shots with a regular dermatoscopy to a specific lesion for better image quality. Oftentimes a nurse will go through all the lesions provided by the three dimensional model and then capture close ups for those that seemed suspicious or malignant.
+
+References
+External links
+HAM10000 dataset
+Dermatoscopic image archive (ISIC-Archive)
+Dermatoscopic image blog
+dermoscopedia wiki

@@ -1,0 +1,35 @@
+Prior to the availability of sensitive TSH assays, thyrotropin releasing hormone or TRH stimulation tests were relied upon for confirming and assessing the degree of suppression
+in suspected hyperthyroidism. Typically, this stimulation test involves determining basal
+TSH levels and levels 15 to 30 minutes after an intravenous bolus of TRH. Normally,
+TSH would rise into the concentration range measurable with less sensitive TSH assays.
+Third generation TSH assays do not have this
+limitation and thus TRH stimulation is generally not required when third generation TSH
+assays are used to assess degree of suppression.
+
+Differential diagnosis use
+TRH-stimulation testing however
+continues to be useful for the differential diagnosis of secondary (pituitary disorder) and tertiary (hypothalamic disorder) hypothyroidism. Patients with these conditions
+appear to have physiologically inactive TSH in their circulation that is recognized by
+TSH assays to a degree such that they may yield misleading, "euthyroid" TSH
+results. Use and Interpretation:• Helpful in diagnosis in patients with confusing TFTs. In primary hyperthyroidism
+TSH are low and TRH administration induces little or no change in TSH levels
+• In hypothyroidism due to end organ failure, administration of TRH produces a
+prompt increase in TSH
+• In hypothyroidism due to pituitary disease (secondary hypothyroidism) administration of TRH does not produce
+an increase in TSH
+• In hypothyroidism due to hypothalamic disease (tertiary hypothyroidism), administration of TRH produces a
+delayed (60–120 minutes, rather than 15–30 minutes) increase in TSH
+
+Process and interpretation
+The TRH test involves administration of a small amount of TRH intravenously, following which levels of TSH will be measured at several subsequent time points using samples of blood taken from a peripheral vein.The test is used in the differential diagnosis of secondary and tertiary hypothyroidism.  First, blood is drawn and a baseline TSH level is measured.  Then, TRH is administered via a vein.  After 30 minutes blood is drawn again and the levels of TSH are measured and compared to the baseline. Some authors recommend additional blood sampling at 15 minutes. In children, late blood sampling at 60 to 120 minutes is necessary.
+An increase in the serum TSH level following TRH administration means that the cause of the hypothyroidism is in the hypothalamus (tertiary hypothyroidism), i.e. the hypothalamus is not producing TRH.  Therefore, when TRH is given exogenously, TSH levels increase. If the increase in serum TSH level following TRH administration is absent or very slight, then the cause of the hypothyroidism is in the anterior pituitary gland, i.e. the pituitary is not secreting TSH.  Therefore, even when TRH is given exogenously, TSH levels do not rise as the pituitary is diseased.
+
+Side effects and risks
+TRH may cause nausea, vomiting and some patients experience an urge to urinate.Rarely, TRH may cause blood vessel constriction leading to hemorrhage in patients with pre-existing pituitary tumors. Accordingly, patients should be advised about the risks, albeit rare, of TRH testing.
+
+See also
+Thyrotropin-releasing hormone
+
+References
+
+3.  [1]

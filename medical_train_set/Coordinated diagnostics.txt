@@ -1,0 +1,22 @@
+Coordinated diagnostics is a portion of the coordinated care healthcare model that focuses on diagnostic workflow, real-time data flow, information systems, expertise, and informed decision making.  When practiced, coordinated diagnostics integrates the diagnostic data and activities of care providers, testing facilities, information systems providers, diagnostic domain experts, payers, and patients.  Coordinated diagnostics maximizes the effective use of diagnostic information and resources across the healthcare continuum to improve patient care while reducing overall costs.
+
+Practice
+When practicing coordinated diagnostics, actors within the healthcare continuum:
+
+Decide to perform particular diagnostic tests based on balancing the trade-offs between optimizing the patient’s heath outcome while minimizing  the cost of the diagnostic testing, treatment episodes, and overall patient care across episodes.
+Interpret diagnostic results accurately and completely based on a complete set of patient information.
+Communicate diagnostic information in real time to healthcare continuum actors that can take action.
+Engage patients and patient advocates in the diagnostic testing, data exchange, decision making, and action taking activities.To fully perform these activities, actors across the healthcare continuum need:
+
+A complete view of results and interpretations from prior diagnostic testing for the patient
+Prior diagnostic tests ordered for the patient that have not yet been resulted
+Relevant patient information such as medication history and family history
+Informed methodologies and tools that use all available information to guide decision makers through coordinated diagnostic activities
+Access to domain experts (e.g., pathologists) who provide consultative services
+Feedback mechanisms that organize and analyze historic diagnostic information to improve efficacy of the coordinated diagnostic processes
+
+Industry applicability
+The concept of coordinated diagnostics as a component of coordinated care is new to the Healthcare industry and its applicability to various industry challenges such as EHR interoperability and the correlation of diagnostic results across disciplines makes it a useful organizing principle.
+
+
+== References ==

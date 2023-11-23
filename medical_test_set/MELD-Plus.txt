@@ -1,0 +1,24 @@
+MELD-Plus is a risk score to assess severity of chronic liver disease that was resulted from a collaboration between Massachusetts General Hospital and IBM. The score includes nine variables as effective predictors for 90-day mortality after a discharge from a cirrhosis-related admission. The variables include all Model for End-Stage Liver Disease (MELD)'s components, as well as sodium, albumin, total cholesterol, white blood cell count, age, and length of stay.
+Because total cholesterol and hospital length of stay are typically not uniform factors across different hospitals and may vary in different countries, an additional model that included only seven of the nine variables was evaluated. This yielded a performance close to the one of using all nine variables and resulted in the following associations with increased mortality: INR, creatinine, total bilirubin, sodium, WBC, albumin, and age.
+The development of MELD-Plus was based on using unbiased approach toward discovery of biomarkers. In this approach, a feature selection machine learning algorithm observes a large collection of health records and identifies a small set of variables that could serve as the most efficient predictors for a given medical outcome. An example for a notable feature selection method is lasso (least absolute shrinkage and selection operator).
+
+Calculators
+A calculator capable of comparing MELD, MELD-Na, and MELD-Plus is available.Calculators capable of calculating MELD and MELD-Na are available.
+
+Press coverage
+Johnson HR. Developing a new score: how machine learning improves risk prediction.Livernois C. Harvard researchers develop predictive model for cirrhosis outcomes.Goedert J. IBM taps machine learning to predict cirrhosis mortality rates.Cohen JK. Harvard, IBM researchers develop prediction model for cirrhosis outcomes.Massachusetts General Hospital (Snapshot of Science).
+
+External validation
+A call for an additional validation of MELD-Plus was published in November 2019 in the European Journal of Gastroenterology & Hepatology.A study presented in June 2019 in Semana Digestiva (Vilamoura, Portugal) demonstrated that MELD-Plus was superior to assess mortality at 180 days vs. other liver-related scores in a population admitted due to hepatic encephalopathy.A study published in April 2018 in Surgery, Gastroenterology and Oncology reported on the increased accuracy of using MELD-Plus vs. MELD in predicting early acute kidney injury after liver transplantation.MELD-Plus was validated by using Explorys.MELD-Plus was proposed as advantageous for patients with low MELD-Na scores.
+
+Potential of alternative scores to extend life expectancy
+MELD 3.0 was introduced in 2021. A comparison between MELD 3.0, MELD-Plus, and other risk assessment scores in liver proposes approaches to more optimally allocate livers.United Network for Organ Sharing proposed that MELD-Na score (an extension of MELD) may better rank candidates based on their risk of pre-transplant mortality and is projected to save 50–60 lives total per year.  Furthermore, a study published in the New England Journal of Medicine in 2008, estimated that using MELD-Na instead of MELD would save 90 lives for the period from 2005 to 2006. In his viewpoint published in June 2018, co-creator of MELD-Plus, Uri Kartoun, suggested that "...MELD-Plus, if incorporated into hospital systems, could save hundreds of patients every year in the United States alone."A review specifying alternatives to MELD, including MELD-Na, MELD-sarcopenia, UKELD, D-MELD, iMELD, and MELD-Plus, was published in June 2019 in Seminars in Liver Disease.The optimized prediction of mortality (OPOM) score is another tool that has been proposed to serve as an alternative to Model for End-Stage Liver Disease.A review published in Transplantation in February 2020 highlighted the importance of incorporating machine-learning techniques into liver-related prediction tools, especially within the context of the limited accuracy of MELD-Na when applied to patients with low scores. Transplantation further published a correspondence emphasizing this point.
+
+Criticism of machine learning in prediction modeling
+Chen & Asch 2017 wrote: "With machine learning situated at the peak of inflated expectations, we can soften a subsequent crash into a “trough of disillusionment” by fostering a stronger appreciation of the technology's capabilities and limitations." However, the authors further added "Although predictive algorithms cannot eliminate medical uncertainty, they already improve allocation of scarce health care resources, helping to avert hospitalization for patients with low-risk pulmonary embolisms (PESI) and fairly prioritizing patients for liver transplantation by means of MELD scores."
+
+Source code
+A sample code for calculating MELD-Plus is available in GitHub.
+
+
+== References ==

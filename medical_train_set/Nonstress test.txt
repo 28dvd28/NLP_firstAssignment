@@ -1,0 +1,22 @@
+A nonstress test (NST) is a screening test used in pregnancy to assess fetal status by means of the fetal heart rate and its responsiveness. A cardiotocograph is used to monitor the fetal heart rate and presence or absence of uterine contractions. The test is typically termed "reactive" (also "reassuring") or "nonreactive" (also "nonreassuring").
+
+Premise
+The premise of the NST is that a well-oxygenated, non-acidemic fetus will spontaneously have temporary increases, termed "accelerations," in the fetal heart rate (FHR).Vibroacoustic stimulation can wake the fetus, and is sometimes used to speed up the test or to facilitate further evaluation of a non-reactive nonstress test.
+
+Interpretation
+A nonstress test can be classified as normal, atypical, or abnormal. A normal nonstress test will show a baseline fetal heart rate between 110 and 160 beats per minute with moderate variability (5- to 25-interbeat variability) and 2 qualifying accelerations in 20 minutes with no decelerations.
+"Reactive" is defined as the presence of two or more fetal heart rate accelerations within a 20-minute period. Each acceleration must increase the heart rate 15 beats per minute above the baseline rate, and last for at least 15 seconds when the fetus is above 32 weeks' gestation, or 10 beats per minute over 10 seconds when the fetus is at or below 32 weeks' gestation."Non-reactive" is defined as fewer than two adequate accelerations during a prolonged period, which may be over an hour.
+
+Confounding factors
+An NST may be non-reactive for reasons unrelated to fetal oxygenation status. These include fetal sleep, exposure to central nervous system depressants, exposure to beta-blockers, or chronic smoking during the pregnancy.
+
+Utility
+If the nonstress test is reactive, the rate of fetal demise in the following week is approximately 1.9 per 1000. A nonreactive nonstress test has a false positive rate of 75%-90%, and therefore is followed by more definitive testing, which may include a contraction stress test or a biophysical profile.
+
+See also
+Biophysical profile
+Cardiotocography
+Contraction stress test
+
+
+== References ==

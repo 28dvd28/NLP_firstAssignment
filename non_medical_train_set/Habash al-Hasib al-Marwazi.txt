@@ -1,0 +1,38 @@
+Ahmad ibn 'Abdallah Habash Hasib Marwazi (766 – d. after 869 in Samarra, modern Iraq) was a Persian astronomer, geographer, and mathematician from Merv in Khorasan, who was the first to describe the trigonometric ratios sine, cosine, tangent, and cotangent.
+Habash flourished in Baghdad, and died a centenarian some time after 869. He worked under two Abbasid caliphs, al-Ma'mun and al-Mu'tasim.
+
+Work
+Ahmad ibn 'Abdallah Habash Hasib Marwazi made astronomical observations from 100 to 2035, and compiled three zijes (astronomical tables): the first were still in the Hindu manner; the second, called the 'tested" tables, were the most important; they are likely identical with the "Ma'munic" or "Arabic" tables and may be a collective work of al-Ma'mun's  astronomers; the third, called tables of the Shah, were smaller.
+Apropos of the solar eclipse of 829, Habash gives us the first instance of a determination of time by an altitude (in this case, of the sun); a method  which was generally adopted by Muslim astronomers.
+In 830, he seems to have introduced the notion of  "shadow", umbra (versa), equivalent to our tangent in trigonometry, and he compiled a table of such shadows which seems to be the earliest of its kind. He also introduced the cotangent, and produced the first tables of for it.
+
+The Book of Bodies and Distances
+Al-Hasib conducted various observations at the Al-Shammisiyyah observatory in Baghdad and estimated a number of geographic and astronomical values. He compiled his results in The Book of Bodies and Distances, in which some of his results included the following:
+EarthEarth's circumference: 20,160 miles (32,444 km)
+Earth's diameter: 6414.54 miles (10323.201 km)
+Earth radius: 3207.275 miles (5161.609 km)MoonMoon's diameter: 1886.8 miles (3036.5 km)
+Moon's circumference: 5927.025 miles (9538.622 km)
+Radius of closest distance of Moon: 215,208;9,9 (sexagesimal) miles
+Half-circumference of closest distance of Moon: 676,368;28,45,25,43 (sexagesimal) miles
+Radius of furthest distance of Moon: 205,800;8,45 (sexagesimal) miles
+Diameter of furthest distance of Moon: 411,600.216 miles (662,406.338 km)
+Circumference of furthest distance of Moon: 1,293,600.916 miles (2,081,848.873 km)SunSun's diameter: 35,280;1,30 miles (56,777.6966 km)
+Sun's circumference: 110,880;4,43 miles (178,444.189 km)
+Diameter of orbit of Sun: 7,761,605.5 miles (12,491,093.2 km)
+Circumference of orbit of Sun: 24,392,571.38 miles (39,256,038 km)
+One degree along orbit of Sun: 67,700.05 miles (108,952.67 km)
+One minute along orbit of Sun: 1129.283 miles (1817.405 km)
+
+See also
+List of Muslim scientists
+List of pre-modern Iranian scientists and scholars
+
+Notes
+References
+Charette, François (2007). "Ḥabash al‐Ḥāsib: Abū Jaʿfar Aḥmad ibn ʿAbd Allāh al‐Marwazī". In Thomas Hockey; et al. (eds.). The Biographical Encyclopedia of Astronomers. New York: Springer. pp. 455–7. ISBN 978-0-387-31022-0. (PDF version)
+
+External links
+Handbuch der Geschichte : aus den Handschriften der k.k. Hofbibliothek zu Wien, der herzoglichen Bibliothek zu Gotha und der Universitäts-Bibliothek zu Leyden (1850), ed.: Ferdinand Wüstenfeld
+An extract from Ibn Kutaiba's 'Adab al-Kâtib; or, The writer's guide (1877), ed.: William Oliver Sproull
+Ibn Kutaiba's Adab-al-kâtib. Nach mehreren Handschriften hrsg. von Max Grünert (1900), ed.: Max Grünert
+Liber poesis et poetarum (1904), ed.: Michael Jan de Goeje

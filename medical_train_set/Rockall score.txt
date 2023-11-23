@@ -1,0 +1,11 @@
+Rockall risk scoring system  attempts to identify patients at risk of adverse outcome following acute upper gastrointestinal bleeding. Rockall et al. identified independent risk factors in 1996 which were later shown to predict mortality accurately. The scoring system uses clinical criteria (increasing age, co-morbidity, shock) as well as endoscopic finding (diagnosis, stigmata of acute bleeding). It is named for Professor Tim Rockall, who was the main investigator and first author of the studies that led to its formulation. A convenient mnemonic is ABCDE - i.e. Age, Blood pressure fall (shock), Co-morbidity, Diagnosis and Evidence of bleeding.
+
+Interpretation
+Total score is calculated by simple addition. A score less than 3 carries good prognosis but total score more than 8 carries high risk of mortality.
+
+See also
+Forrest classification
+Glasgow-Blatchford score
+
+
+== References ==

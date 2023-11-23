@@ -1,0 +1,9 @@
+The partial volume effect can be defined as the loss of apparent activity in small objects or regions because of the limited resolution of the imaging system.  It occurs in medical imaging and more generally in biological imaging such as positron emission tomography (PET) and single-photon emission computed tomography (SPECT).  If the object or region to be imaged is less than twice the full width at half maximum (FWHM) resolution in x-, y- and z-dimension of the imaging system, the resultant activity in the object or region is underestimated.
+A higher resolution decreases this effect, as it better resolves the tissue.Partial volume loss alone occurs only when the surrounding activity of the object or region is zero,
+or less or more than the object. And the loss of activity in the object generally involves an increase in activity in adjacent regions, which are considered outside the object (i.e., spillover). For a small object (e.g., a voxel) or an object of size comparable to the spatial resolution of the imaging system, the observed activity is the sum of activity due to partial volume loss plus spillover from adjacent regions. The method to correct for the partial volume effect is referred to as partial volume correction (see ).
+
+See also
+Spillover (imaging)
+
+
+== References ==

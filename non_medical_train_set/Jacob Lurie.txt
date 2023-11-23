@@ -1,0 +1,19 @@
+Jacob Alexander Lurie (born December 7, 1977) is an American mathematician who is a professor at the Institute for Advanced Study. Lurie is a 2014 MacArthur Fellow.
+
+Life
+When he was a student in the Science, Mathematics, and Computer Science Magnet Program at Montgomery Blair High School, Lurie took part in the International Mathematical Olympiad, where he won a gold medal with a perfect score in 1994. In 1996 he took first place in the Westinghouse Science Talent Search and was featured in a front-page story in the Washington Times.Lurie earned his bachelor's degree in mathematics from Harvard College in 2000 and was awarded in the same year the Morgan Prize for his undergraduate thesis on Lie algebras. He earned his Ph.D. from the Massachusetts Institute of Technology under supervision of Michael J. Hopkins, in 2004 with a thesis on derived algebraic geometry. In 2007, he became associate professor at MIT, and in 2009 he became professor at Harvard University. In 2019, he joined the Institute for Advanced Study as a permanent faculty member in mathematics.
+
+Mathematical work
+Lurie's research interests started with logic and the theory of surreal numbers while he was still in high school. He is best known for his work, starting with his thesis, on infinity categories and derived algebraic geometry. Derived algebraic geometry is a way of infusing homotopical methods into algebraic geometry, with two purposes: deeper insight into algebraic geometry (e.g. into intersection theory) and the use of methods of algebraic geometry in stable homotopy theory. The latter area is the topic of Lurie's work on elliptic cohomology. Infinity categories (in the form of André Joyal's quasi-categories) are a convenient framework to do homotopy theory in abstract settings. They are the main topic of his book Higher Topos Theory.
+Another part of Lurie's work is his article on topological field theories, where he sketches a classification of extended field theories using the language of infinity categories (cobordism hypothesis). In  joint work with Dennis Gaitsgory, he used his non-abelian Poincaré duality in an algebraic-geometric setting, to prove the Siegel mass formula for function fields.
+Lurie was one of the inaugural winners of the Breakthrough Prize in Mathematics in 2014, "for his work on the foundations of higher category theory and derived algebraic geometry; for the classification of fully extended topological quantum field theories; and for providing a moduli-theoretic interpretation of elliptic cohomology." Lurie was also awarded a MacArthur "Genius Grant" Fellowship in 2014.
+
+Publications
+Lurie, Jacob (2009), Higher Topos Theory, Annals of Mathematics Studies, vol. 170, Princeton University Press, arXiv:math.CT/0608040, ISBN 978-0-691-14049-0, MR 2522659
+
+References
+External links
+Lurie's website at the Institute for Advanced Study
+Lurie's website at Harvard (Jacob Lurie's Home Page)
+Jacob Lurie at the Mathematics Genealogy Project
+Jacob Lurie's results at International Mathematical Olympiad

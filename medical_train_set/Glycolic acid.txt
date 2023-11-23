@@ -1,0 +1,28 @@
+Glycolic acid (or hydroxyacetic acid; chemical formula HOCH2CO2H) is a colorless, odorless and hygroscopic crystalline solid, highly soluble in water. It is used in various skin-care products. Glycolic acid is widespread in nature. A glycolate (sometimes spelled "glycollate") is a salt or ester of glycolic acid.
+
+History
+The name "glycolic acid" was coined in 1848 by French chemist Auguste Laurent (1807–1853). He proposed that the amino acid glycine—which was then called glycocolle—might be the amine of a hypothetical acid, which he called "glycolic acid" (acide glycolique).Glycolic acid was first prepared in 1851 by German chemist Adolph Strecker (1822–1871) and Russian chemist Nikolai Nikolaevich Sokolov (1826–1877). They produced it by treating hippuric acid with nitric acid and nitrogen dioxide to form an ester of benzoic acid and glycolic acid (C6H5C(=O)OCH2COOH), which they called "benzoglycolic acid" (Benzoglykolsäure; also benzoyl glycolic acid). They boiled the ester for days with dilute sulfuric acid, thereby obtaining benzoic acid and glycolic acid (Glykolsäure).
+
+Preparation
+Glycolic acid can be synthesized in various ways. The predominant approaches use a catalyzed reaction of formaldehyde with synthesis gas (carbonylation of formaldehyde), for its low cost.It is also prepared by the reaction of chloroacetic acid with sodium hydroxide followed by re-acidification.
+Other methods, not noticeably in use, include hydrogenation of oxalic acid, and hydrolysis of the cyanohydrin derived from formaldehyde. Some of today's glycolic acids are formic acid-free. Glycolic acid can be isolated from natural sources, such as sugarcane, sugar beets, pineapple, cantaloupe and unripe grapes.Glycolic acid can also be prepared using an enzymatic biochemical process that may require less energy.
+
+Properties
+Glycolic acid is slightly stronger than acetic acid due to the electron-withdrawing power of the terminal hydroxyl group. The carboxylate group can coordinate to metal ions, forming coordination complexes. Of particular note are the complexes with Pb2+ and Cu2+ which are significantly stronger than complexes with other carboxylic acids. This indicates that the hydroxyl group is involved in complex formation, possibly with the loss of its proton.
+
+Applications
+Glycolic acid is used in the textile industry as a dyeing and tanning agent.
+
+Organic synthesis
+Glycolic acid is a useful intermediate for organic synthesis, in a range of reactions including: oxidation-reduction, esterification and long chain polymerization. It is used as a monomer in the preparation of polyglycolic acid and other biocompatible copolymers (e.g. PLGA). Commercially, important derivatives include the methyl (CAS# 96-35-5) and ethyl (CAS# 623-50-7) esters which are readily distillable (boiling points 147–149 °C and 158–159 °C, respectively), unlike the parent acid. The butyl ester (b.p. 178–186 °C) is a component of some varnishes, being desirable because it is nonvolatile and has good dissolving properties.
+
+Occurrence
+Plants produce glycolic acid during photorespiration. It is recycled by conversion to glycine within the peroxisomes and to tartronic acid semialdehyde within the chloroplasts.Because photorespiration is a wasteful side reaction in regard to photosynthesis, much effort has been devoted to suppressing its formation. One process converts glycolate into glycerate without using the conventional BASS6 and PLGG1 route; see glycerate pathway.
+
+Safety
+Glycolic acid is an irritant to the skin. It occurs in all green plants.
+
+References
+External links
+Glycolic acid MS Spectrum
+Hazardous Substances Data Bank

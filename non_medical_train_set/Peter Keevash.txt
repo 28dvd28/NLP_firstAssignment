@@ -1,0 +1,74 @@
+Peter Keevash (born 30 November 1978) is a British mathematician, working in combinatorics. He is a professor of mathematics at the University of Oxford and a Fellow of Mansfield College.
+
+Early years
+Keevash was born in Brighton, England, but mostly grew up in Leeds. He competed in the International Mathematical Olympiad in 1995. He entered  Trinity College, University of Cambridge, in 1995 and completed his B.A. in mathematics in 1998. He earned his doctorate from Princeton University with Benny Sudakov as advisor. He took a postdoctoral position at the California Institute of Technology before moving to Queen Mary, University of London as a lecturer, and subsequently professor, before his move to Oxford in September 2013.
+
+Mathematics
+Keevash has published many results in combinatorics, particularly in extremal graph and hypergraph theory and Ramsey Theory. In joint work with Tom Bohman he established the best-known lower bound for the off-diagonal Ramsey Number 
+  
+    
+      
+        R
+        (
+        3
+        ,
+        k
+        )
+      
+    
+    {\displaystyle R(3,k)}
+  , namely 
+  
+    
+      
+        R
+        (
+        3
+        ,
+        k
+        )
+        ≥
+        
+          (
+          
+            
+              
+                1
+                4
+              
+            
+            −
+            o
+            (
+            1
+            )
+          
+          )
+        
+        
+          
+            
+              k
+              
+                2
+              
+            
+            
+              log
+              ⁡
+              k
+            
+          
+        
+        .
+      
+    
+    {\displaystyle R(3,k)\geq \left({\frac {1}{4}}-o(1)\right){\frac {k^{2}}{\log k}}.}
+   (This result was obtained independently at the same time by Fiz Pontiveros, Griffiths and Morris.)
+On 15 January 2014, he released a preprint  establishing the existence of block designs with arbitrary parameters, provided only that the underlying set is sufficiently large and satisfies certain obviously necessary divisibility conditions. In particular, his work provides the first examples of Steiner systems with parameter t ≥ 6 (and in fact provides such systems for all t).
+In 2018, he was an invited speaker at the International Congress of Mathematicians in Rio de Janeiro.
+
+References
+External links
+Peter Keevash home page at the University of Oxford
+Klarreich, Erica (9 June 2015), "A Design Dilemma Solved, Minus Designs", Quanta

@@ -1,0 +1,4 @@
+Talarozole (formerly R115866, planned trade name Rambazole) was an investigational drug for the treatment of acne, psoriasis and other keratinization disorders. Development for that purpose has been discontinued. However, its effect in increasing retinoic acid is now being investigated in hand osteoarthritis.Talarozole inhibits the metabolism of retinoic acid by blocking cytochrome P450 enzyme CYP26 isoenzymes (CYP26A1 and possibly also CYP26B1), retinoic acid hydroxylases. Because of this mechanism, it is called a retinoic acid metabolism blocking agent (RAMBA).It has 750-fold higher potency than the earlier drug liarozole as well as greater selectivity, with more than 300-fold selectivity for inhibition of CYP26A1 over other steroid-metabolizing enzymes like CYP17A1 (17α-hydroxylase/17,20-lyase) and aromatase (CYP19A1).
+
+
+== References ==

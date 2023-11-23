@@ -1,0 +1,91 @@
+Occlusion according to The Glossary of Prosthodontic Terms Ninth Edition is defined as 'the static relationship between the incising or masticating surfaces of the maxillary or mandibular teeth or tooth analogues'.When exploring different complete denture occlusal schemes, it is more useful to define occlusion as the relative movement of one object to another viz the dynamic relationship between mandible to the maxillae during function. Bilateral balanced occlusion and non-balanced occlusion are two separate entities that make up complete denture occlusion. Bilateral balanced occlusion is observed when simultaneous contacts achieved in both centric and eccentric positions. Non-balanced occlusion is seen when teeth do not occlude in simultaneous contacts. Both concepts will be explored in greater detail in the following article.
+
+Historical background
+Historically, complete denture occlusion adopted a balanced occlusal scheme (i.e. balanced articulation: 'the bilateral simultaneous occlusal contact of the anterior and posterior teeth in excursive movements' synonyms bilateral balanced occlusion. Indeed, the bilateral balanced occlusion (BBO) scheme was adopted for reconstruction of dentate patients by both the gnathology school working on the West Coast of America and the Pankey-Mann Schuyler group working on the East Coast of the United States of America observed that using a balanced occlusion in dentate patients was suboptimal, in that this was associated this with restoration failure and cheek biting. There has been a gradual erosion for this approach for both dentate and edentulous patients.
+Generally, complete denture occlusion should be influenced by patient satisfaction following a paternalistic shift in the provision of dental care. Besford et al. suggests that provision that complete denture anterior disclusion should be driven by patient's aesthetic preferences incorporating an overjet. He describes that there should be a shift from a standardized visual aesthetic and instead the appearance of the complete denture should enable patients to 'regain their own personal imperfect dental identity', disregarding any occlusal scheme. Notably, studies have found that canine guidance occlusion (CGO) has superior patient preference compared to Bilateral Balanced Occlusion (BBO).Lemos et al. (2018) compared BBO to other occlusal schemes such as CGO and lingualized occlusion (LO). In this systematic review, they evaluated 18 studies with the aim of establishing which of the different occlusal schemes achieved higher patient satisfaction and masticatory performance. The results showed favourable outcomes from LO (five articles) for both these parameters. There was no significant difference between 'BBO and other schemes in terms of patient satisfaction and quality of life' in the remaining 13 articles. A possible explanation for this might be that LO penetrates the bolus better than BBO. From the patient's point of view, occlusal schemes are inconsequential compared to receiving the prosthesis.
+
+Balanced occlusal schemes
+These can be categorized accordingly:  
+
+Bilateral balanced occlusion;
+Lingualized occlusion;
+Frush's linear occlusion;
+Pleasure occlusion;
+Other schemes
+
+Bilateral balanced occlusion
+Gysi's geometrical concept underpinned bilateral occlusion schemes for both edentulous and dentate patients. Bizarrely, the theory was based on scratch-marks created using a simulated sharks' teeth model recorded on an opposing plaster cast.
+
+From the above observation, 33° 'cuspal formed' teeth were introduced such that the cuspal inclination would be parallel with the condylar angle in the sagittal/horizontal plane when set-up mid-way between the condyle and incisors. The aim of this scheme was to achieve cuspal contact in excursive movements such that this would improve the stability of the prostheses in lateral excursions and direct forces towards the alveolar ridges.
+
+Lingualized occlusion
+Lingualized occlusion is defined as a form of denture occlusion that articulates the maxillary lingual cusps with the mandibular occlusal surfaces in centric, working, and non-working mandibular positions. The concept of lingualized occlusion was again influenced by Gysi, when he designed a crossbite posterior teeth model concept. He observed that more than half of edentulous patients at the University of Zurich had a posterior crossbite following normal physiological residual ridge resorption. In addition, a lingualised occlusion overcame the difficulties of setting up teeth in the prosthetic laboratory according to a bilateral balanced occlusion. It is asserted, based on little evidence that this scheme should be adopted for patients with compromised alveolar bone.
+
+Frush's linear concept
+'Linear occlusal concept' was introduced by Frush in 1967. In this, the mesiodistal ridge of the lower posterior teeth contacted the upper posterior teeth with flat occlusal surface in order to achieve balanced occlusion. He relied on the intraoral corrections to obtain balanced occlusion. Again, his main goal was to eliminate deflective occlusal contacts and therefore increase stability of the prostheses.
+
+Pleasure concept
+Dr. Max Pleasure introduced the 'Pleasure curve' where he used a reverse Curve of Monson in the premolar area therefore generating a 'lever' balance effect. This concept arose from observations of tooth wear in both human and primate dentitions. The first molars are flat in the horizontal plane and the second molars follow the Curve of Monson.  Similarly, the first premolar teeth are shaped such that they have a reverse curve of Monson. The aim is the same as with all balanced occlusal schemes.
+
+Sears concept
+Non-anatomical teeth are set up according to curved occlusal plane both antero-posterior and laterally.
+
+Hanau's Quint
+No discussion of bilateral balanced occlusion cannot acknowledge the fundamental contribution of Rudolph L. Hanau in 1925 when he presented a discussion paper entitled, "Articulation: Defined, analysed, and formulated.
+Of note, Hanau was not a dentist, but rather an engineer. He believed articulation of artificial teeth was related to nine factors:
+
+Horizontal condylar inclination.
+ Compensating curve.
+ Protrusive incisal guidance.
+ Plane of orientation.
+ Buccolingual inclination of tooth axes.
+ Sagittal condylar pathway.
+ Sagittal incisal guidance.
+ Tooth alignment.
+ Relative cusp height.He embraced the above nine factors to achieve balanced occlusion using a staggering 44 statements. Subsequently, these were reduced to five factors (refer to the formula below) that make up the Classic Hanau's quint. The only shortcoming of the original diagram of the Hanau's quint is that Hanau suggested that the condylar guidance can be adjusted, and this created confusion for the others working in the field. There is a consensus that Hanau's contribution was central to evolution of the laws of articulation in order to achieve BBO.
+Thielemann subsequently simplified Hanau's quint as illustrated to the following formula in order to achieve balanced articulation:
+[K × I]/[OP × C × OK]
+K = Condyle guidance, I = Incisal guidance, C = Cusp height inclinations, OP = Inclination of the occlusal plane, OK = Curvature of the occlusal surfaces.
+
+Trapozzano concept
+Trapozzano then developed the triad of occlusion after carefully analysing Hanau's 5 factors of occlusion.  He eliminated the plane of orientation and compensating curves from the Hanau's five main factors. The reason for this was because of the high variability of this plane within the available ridge space. Trapozzano also stated that there is no need for compensating curves as an alteration in the cuspal angles will result in balanced occlusion.
+
+Boucher concept
+Then Boucher refined this further by arguing that three fixed factors are required to establish a balanced occlusion and are as following:
+
+The orientation of the occlusal plane, incisal guidance, and condylar guidance.
+The angulation of the cusp is of greater importance than the height of the cusp.
+The compensating curve enables an increase in the e effective height of the cusps without changing the form of the teeth.
+
+The Lott scheme
+Clearly, when considering the sagittal plane only, increasing the condylar angle and the overbite, results in increased separation of the posterior units. Therefore, in order to achieve a balanced occlusion, the compensating curves must be greater.
+
+The Bernard Levin occlusal scheme
+In this scheme, the Lott concept is refined by recording 1) the condylar angle, the simplest method being positional records, 2) and the incisal angle, by incorporating aesthetic and phonetic requirements. Then, the most important tool to achieve bilateral balanced occlusion is the use of compensating curves. Use of monoplane of low cusp angled teeth are advised.
+
+French concept
+In this bilateral balanced occlusal scheme, the posterior teeth are set up at different angles in the coronal plane; 5° for the first premolar teeth, 10° for second premolar teeth, and 15° angle for both the first and second molar teeth. In addition, the occlusal surfaces of mandibular posterior teeth are reduced in a buccal lingual dimension with the aim of improving stability of, particularly the lower prosthesis.
+Regardless which of the above occlusal schemes are adopted, it is difficult to achieve bilateral balanced occlusion in the prosthetic laboratory. Notwithstanding this, this aspiration of bilateral balanced occlusion is easier to achieve if the 'Buccal Upper Lingual Lower (BU-LL) and Mesial Upper -Distal Lower (MU-DL)' rules are adopted for adjusting cusps. When such are taken to the extreme, the resulting occlusal schemes are essentially the lingulized occlusal scheme, or the Frush linear occlusion.
+All the concepts discuss the inclination of the condyle and the teeth in one orientation, predominantly in the sagittal direction. Establishing balanced occlusion bilaterally is difficult because any change in the angulation of the teeth or the curve in buccolingual direction will affect the anteroposterior angulation, hence the difficulty in establishing the balance occlusion inside the patient's mouth. There are many variables that may influence the outcome of balanced occlusion. One major variable that these concepts did not consider is the patient's neuromuscular adaptation for their new denture.  Another point worthy of note is that the angle of the condyle in medial direction which also affects the direction of force. It is easy to establish the balanced occlusion on an articulator, but other variables come into play the moment the denture is inside the patient's mouth and this further affects the outcome of treatment.
+The assumption that articulator movement is similar to mandibular movement formed the basis of balanced occlusion schemes. Gysi's geometric theories of non-functional movement formed the basis of modern concepts of balanced occlusion. The studies illustrate the geometric variety of rotation centre about its asymmetrical location. To achieve this result, he relays a symmetrical fixed rotation on the articulator assuming that this can be used and ideal for complex anatomical situations. Using this concept, the patient can be trained to open their mandible without movement in the condylar path, demonstrated by McCollum and this movement point located in the condyle, called hinge axis. On the other hand, Dr Feinstein and Kurth could not find a definite hinge axis point and settled on a 2 mm area of nonmovement in the condylar region. The right and left condyle have distinct size, shape and angulation. Therefore, the value of hinge axis to determine or help in establishing balanced occlusion could be questioned.To remove occlusal interferences, Schuyler, introduced the BU-LL and MU-DL rule. This included reduction of the buccal cusp in the upper teeth and the lingual cusp of lower teeth in the frontal plane. Additionally, on the sagittal plane reductions are made on the mesial cusp for upper teeth and distal cusp of the lower teeth. Schuler developed this rule on an articulator whose movement is converse to the natural mandibular movement.One of the key factors in establishing the balanced occlusion is the assumption that condylar guidance of the patient is constant or fixed. The path of the condyle is determined by the temporal bone and that cannot be changed. However, records can be altered on the articulator or when transferring occlusal records from the patient's mouth to the articulator. Subsequently, it is difficult to state that condylar guidance is constant, and this may affect the statement that it is the only fixed factor in establishing balanced occlusion.In conclusion, an ideal occlusion is set by various groups based on a hypothetical assumption. While, questioning this concept may be ignorant, criticizing this technique does not mean it does not work on a clinical level. Other studies show that there is another occlusion scheme that can be considered in place of the balanced occlusion.
+
+Non-balanced occlusal schemes
+Introduction
+Mammals have undergone extensive changes in terms of their occlusion over time. A factor which influenced this change was diet. Dietary adjustment from an abrasive to soft diet has made a major difference in function, enabling the human dentition to not work as hard as it was before. As people grow older, they lose their natural dentition due to physiological changes.
+As a result of this, a full denture is required to restore their masticatory function. Patients and dentists both have a mutualistic, indispensable role in the construction of a fully functional denture, which include elements such as adequate retention, stability, extensions and aesthetic appearance.Apart from the balanced occlusion schemes as described above, other approaches for obtaining functional occlusion in complete dentures have been proposed. The concept of "Non-Balanced Occlusion" was based on the difficulty of achieving this, not only in the prosthetics laboratory, but for patients with displaceable mucosae. Then there is the much-quoted truism first cited by Boucher "Enter Bolus, Exit Balance"; whenever the patient masticates food on their working side, it negates the balance on the opposing side. As a result, the Non-Balanced occlusion concept was conceived as an alternative to the balanced occlusion scheme.
+
+Cuspid protected occlusion in complete dentures
+Canine guidance occlusion/mutually protected/ cuspid protection is a concept that was introduced by Nagao in 1919. It is  defined as the contact of maxillary cuspids with the lower cuspids or premolars on all eccentric movements. Support of the Cuspid Protected Occlusion (CPO) was made by early studies that showed predominance of innate CPO in mammals. They also argued that the canine tooth possessed enhanced proprioception, thereby 'protecting' unfavourable forces on other teeth in the dentition. There are parallels between Bilateral Balanced Occlusion (BBO) and canine guided occlusion in complete dentures in that there are simultaneous contacts in centric occlusion. The two concepts of occlusion in complete dentures differ during eccentric movements. Arguments for canine guided occlusion in complete dentures have been gaining momentum because of its ease of fabrication and better patient preference.There has been a presumption that canine guided occlusion in complete dentures promotes denture instability by introducing interferences during function. However, it has been shown that CPO has better patient preference for dental aesthetics compared with bilateral balanced occlusion. Also, it has been argued that CPO reduces destructive lateral forces on the alveolar bone by promoting vertical chewing. As stated above, it has been reported that fabrication of dentures using cuspid protection occlusal scheme both realizable and less time-consuming compared to constructing dentures with bilateral balanced occlusion.
+
+Monoplane Occlusion (Neutro-centric)
+This occlusal scheme was first described by Dr. M. M. DeVan in 1951. Monoplane occlusion involves having non-anatomic denture teeth with a 0˚ incisal guidance angle, arranged on a flat occlusal plane. As a consequence, when patients with monoplane occlusion occlude anteriorly, an interocclusal gap appears posteriorly. This is termed the 'Christensen phenomenon' and forms the basis for categorising monoplane occlusion as non-balanced. Monoplane occlusion correspondingly requires having anterior teeth with no vertical overlap thus resulting in suboptimal dental aesthetics. However, some studies have suggested that a monoplane occlusion can result in  reduced masticatory ability.  
+DeVan rejected the concept of BBO because in function, the stability of the denture is lost. He therefore suggested that function can most satisfactorily be achieved by a neurocentric scheme adopting the following five factors:
+
+Position: the artificial teeth should be placed in a central position in relation to the ridge. He argued that tongue function is paramount in achieving denture stabilisation;
+Proportion: By reducing the bucco-lingual dimension by 40%;
+Pitch: Compensating curves should not be employed, and the denture plane should be parallel to the denture base;
+Form: The use of cuspless teeth;
+Number of teeth: The number of denture teeth should be reduced from 8 to 6 posterior teeth.Monoplane occlusion correspondingly requires having anterior teeth with no vertical overlap thus resulting in suboptimal dental aesthetics. However, some studies have suggested that a monoplane occlusion can result in  reduced masticatory ability. DeVan argued that this occlusal scheme resulted in preservation of the alveolar bone.  
+
+
+== References ==

@@ -1,0 +1,14 @@
+Āryabhaṭa (c. 920 – c. 1000) also known as Arya Diya Jankhi was an Indian mathematician and astronomer, and the author of the Maha-Siddhanta. The numeral II is given to him to distinguish him from the earlier and more influential Āryabhaṭa I. Scholars are unsure of when exactly he was born, though David Pingree dates of his main publications between 950–1100. The manuscripts of his Maha-Siddhanta have been discovered from Gujarat, Rajasthan, Uttar Pradesh, and Bengal, so he probably lived in northern India.
+
+Maha Siddhanta
+Aryabhata wrote Maha-Siddhanta, also known as Arya-siddhanta, Sanskrit language work containing 18 chapters. It summarizes a lost work attributed to Parashara, and is probably based on Shridhara's work.The initial twelve chapters deal with topics related to mathematical astronomy and cover the topics that Indian mathematicians of that period had already worked on. The various topics that have been included in these twelve chapters are: the longitudes of the planets, lunar and solar eclipses, the estimation of eclipses, the lunar crescent, the rising and setting of the planets, association of the planets with each other and with the stars.
+The next six chapters of the book includes topics such as geometry, geography and algebra, which were applied to calculate the longitudes of the planets. In about twenty verses in the treatise, he gives elaborate rules to solve the indeterminate equation: by = ax + c. These rules have been applied to a number of different cases such as when c has a positive value, when c has a negative value, when the number of the quotients is an even number, when this number of quotients is an odd number, etc.
+
+Other contributions to maths
+Aryabhata II also deduced a method to calculate the cube root of a number, but his method was already given by Aryabhata I, many years earlier. Indian mathematicians were very keen to give the correct sine tables since they played a vital role to calculate the planetary positions as accurately as possible. Aryabhata II played a vital role in it by constructing a sine table, which was accurate up to five decimal places.
+
+References
+O'Connor, John J.; Robertson, Edmund F., "Aryabhata II", MacTutor History of Mathematics Archive, University of St Andrews
+
+Further reading
+Vagiswari, A. (2007). "Āryabhaṭa II". In Thomas Hockey; et al. (eds.). The Biographical Encyclopedia of Astronomers. New York: Springer. p. 64. ISBN 978-0-387-31022-0. (PDF version)

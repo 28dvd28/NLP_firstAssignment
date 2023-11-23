@@ -1,0 +1,21 @@
+Qin Jiushao (Chinese: 秦九韶; pinyin: Qín Jiǔsháo; Wade–Giles: Ch'in Chiu-shao, ca. 1202–1261), courtesy name Daogu (道古), was a Chinese mathematician, meteorologist, inventor, politician, and writer. He is credited for discovering Horner's method as well as inventing Tianchi basins, a type of rain gauge instrument used to gather meteorological data.
+
+Biography
+Although Qin Jiushao was born in Ziyang, Sichuan, his family came from Shandong province. He is regarded as one of the greatest mathematicians in Chinese history. This is especially remarkable because Qin did not devote his life to mathematics. He was accomplished in many other fields and held a series of bureaucratic positions in several Chinese provinces.
+Qin wrote Shùshū Jiǔzhāng ("Mathematical Treatise in Nine Sections") in 1247 CE. This treatise covered a variety of topics including indeterminate equations and the numerical solution of certain polynomial equations up to 10th order, as well as discussions on military matters and surveying. In the treatise Qin included a general form of the Chinese remainder theorem that used Da yan shu (大衍术) or algorithms to solve it. In geometry, he discovered "Qin Jiushao's formula" for finding the area of a triangle from the given lengths of three sides. This formula is the same as Heron's formula, proved by Heron of Alexandria about 60 BCE, though knowledge of the formula may go back to Archimedes.
+As precipitation was important agriculture and food production, Qin developed  precipitation gauges that was widely used in 1247 during the Mongol Empire/Southern Song dynasty to gather meteorological data. Qin Jiushao later records the application of rainfall measurements in the mathematical treatise. The book also discusses the use of large snow gauges made from bamboo situated in mountain passes and uplands which are speculated to be first referenced to snow measurement.Qin recorded the earliest explanation of how Chinese calendar experts calculated astronomical data according to the timing of the winter solstice. Among his accomplishments are the introduction techniques for solving certain types of algebraic equations using a numerical algorithm (equivalent to the 19th century Horner's method) and for finding sums of arithmetic series. He also introduced the use of the zero symbol into written Chinese mathematics.
+After he completed his work on mathematics, he ventured into politics. As a government official he was boastful, corrupt, and was accused of bribery and of poisoning his enemies. As a result, he was relieved of his duties multiple times. Yet in spite of these problems he managed to become very wealthy (Katz, 1993).
+
+Main work
+Shushu Jiuzhang (Mathematical Treatise in Nine Sections) (1248)
+
+References
+Bibliography
+Guo, Shuchun. Encyclopedia of China (Mathematics Volume), 1st ed.
+Qin Jiushao, [1]. (Chinese History Timeline), 2007.
+Ulrich  Libbrecht: Chinese Mathematics in the Thirteenth Century (The Shu-Shu-Chiu-Chang of Chin Chiu shao)  Dover Publication ISBN 0-486-44619-0
+Victor J. Katz "A history of mathematics: an introduction." New York (1993).
+
+External links
+O'Connor, John J.; Robertson, Edmund F., "Qin Jiushao", MacTutor History of Mathematics Archive, University of St Andrews
+Simon Fraser University biography for "Qin Jiushao"

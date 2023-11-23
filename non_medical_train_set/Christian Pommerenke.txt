@@ -1,0 +1,10 @@
+Christian Pommerenke (born 17 December 1933 in Copenhagen) is a  mathematician known for his work in complex analysis.
+He studied at the University of Göttingen (1954–58), achieving diploma in mathematics  (1957), Ph.D. (1959) on the dissertation Über die Gleichverteilung von Gitterpunkten auf m-dimensionalen Ellipsoiden (1959) and habilitation (1963). Pommerenke subsequently joined the faculty as Assistant (1958–64) and  Privatdozent (1964–66).  Around the same time he served as assistant professor at the University of Michigan in Ann Arbor (1961–62), was at Harvard University (1962–63) and was guest lecturer and reader at Imperial College in London (1965–67). Since 1967 he has been professor in complex analysis at the mathematics department of  the Technical University of Berlin.  He is now an emeritus. His doctoral students include Herbert Robert Stahl, known for proving the Bessis-Moussa-Villani (BMV) conjecture.
+
+Books
+Boundary behavior of conformal maps (Springer-Verlag, 1992
+Boundary Behaviour of Conformal Maps. Springer Science & Business Media. 9 April 2013. ISBN 978-3-662-02770-7; pbk reprint of 1992 original{{cite book}}:  CS1 maint: postscript (link)
+Univalent functions.  With Gerd Jensen
+
+
+== References ==

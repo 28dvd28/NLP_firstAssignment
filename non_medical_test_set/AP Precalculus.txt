@@ -1,0 +1,22 @@
+Advanced Placement (AP) Precalculus is an Advanced Placement precalculus course and examination, offered by the College Board, in development since 2021 and announced in May 2022. The course debuted in the fall of 2023, with the first exam session taking place in May 2024. The course and examination are designed to teach and assess precalculus concepts, as a foundation for a wide variety of STEM fields and careers, and are not solely designed as preparation for future mathematics courses such as AP Calculus AB/BC.
+
+Purpose
+According to the College Board, Offering a college-level precalculus course in high school will give students a new and valuable option for improving math readiness and staying on track for college.
+AP Precalculus centers on functions modeling dynamic phenomena. This research-based exploration of functions is designed to better prepare students for college-level calculus and provide grounding for other mathematics and science courses. In this course, students study a broad spectrum of function types that are foundational for careers in mathematics, physics, biology, health science, social science, and data science. Furthermore, as AP Precalculus may be the last mathematics course of a student's secondary education, the course is structured to provide a coherent capstone experience and is not exclusively focused on preparation for future courses.
+
+Topic outline
+Unit 1: Polynomial and Rational Functions (6–6.5 weeks)
+Unit 2: Exponential and Logarithmic Functions (6–6.5 weeks)
+Unit 3: Trigonometric and Polar Functions (7–7.5 weeks)
+Unit 4: Functions Involving Parameters, Vectors, and Matrices (7–7.5 weeks)
+Note that Unit 4 will not be tested on the AP exam.
+
+Exam
+The exam will be composed of 2 sections, each with 2 different types of questions.
+Section I will consist of 40 multiple choice questions. 28 will not allow the use of a calculator, while the last 12 will allow a calculator.  The non calculator section will be worth 43.75% of the exam score, while the calculator section will be worth 18.75%. Section II of the Exam will include 4 free response questions, with 2 not allowing a calculator and 2 allowing use of a calculator. Section II will be worth 37.5% of the exam score, with the non-calculator and calculator sections weighed equally.AP Precalculus exams will be scored on the standard 1–5 AP scale, with 5 signifying that the student is "extremely well qualified" for equivalent college credit and 1 signifying "no recommendation."
+
+See also
+Mathematics education in the United States
+
+
+== References ==

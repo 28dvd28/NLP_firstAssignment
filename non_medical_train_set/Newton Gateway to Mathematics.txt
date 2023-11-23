@@ -1,0 +1,63 @@
+The Newton Gateway to Mathematics, formerly known as the Turing Gateway to Mathematics (TGM), is a knowledge exchange center at the University of Cambridge in the UK. It is overseen by both the Isaac Newton Institute and the Centre for Mathematical Sciences. 
+Newton Gateway organizes multiple events and workshops that feature speakers from various industries, governments, and scientific organizations to discuss mathematical techniques and models. Previous speakers have been from many corporate backgrounds.
+
+Goals
+A primary function of the Newton Gateway to Mathematics is to provide a research site and knowledge pool for the transfer, translation, exchange, and dissemination of mathematical knowledge and for specific problem-solving.The organization's events attract international attendees, with the aim of collaborating on programs that can be applied to industrial operations, academic research, and community projects.
+
+History
+2013
+Originally named after the UK computer scientist and mathematician Alan Turing, the Newton Gateway to Mathematics was seed-financed in 2003 by the University of Cambridge's Higher Education Innovation Funding. Subsequent funding came from corporate and philanthropic partners.One of the first initiatives that set programs in motion at the then Turing Gateway to Mathematics was the first UK workshop on Optimization in Space Engineering (OSE) in November 2013 [1]. Held in Birmingham, this workshop in association with the European Space Agency (ESA) and the University of Southampton, some of the agenda included:
+
+Interplanetary trajectory optimization
+Non-circular spacecraft orbits
+Landing trajectoriesA follow-up workshop on Optimization in Space Engineering laid the groundwork for identifying challenges in the UK's aerospace industry. A third OSE workshop in September 2015 planned future workshops to further discuss problems and solutions for space engineering.
+It rebranded to become the Newton Gateway to Mathematics in January 2019.
+
+2014 and 2015
+The program was presented to explore solutions for the public sector, funded by the Engineering and Physical Sciences Research Council (EPSRC). Following a launch event at the Royal Society in London, subsequent events attracted delegates from government and academic organizations to focus on mathematics and public policy issues. The main themes consisted of the following:
+
+Mathematics for future cities systems
+Mathematical modeling of transport
+Energy systems relating to modeling variability
+Environment and climate change probability modeling
+Health and Society workshop associated with math insights
+Understanding data from various perspectives
+Optimization of Immunization programs
+Aging population preparation and shifting demographics
+Health and disability modelingThe Newton Gateway to Mathematics began publishing its quarterly newsletter in January 2015. This publication keeps partners and other interested individuals up to date on its events, programs, and workshops. Throughout its inception, the Newton Gateway has played a key role in bringing together scientists to discuss various types of multimodal clinical imaging that has addressed the challenges involved with solutions for cancer, heart disease, and antibiotic-resistant bacteria, among other major health concerns.
+Multimodality analysis has also been applied to Big Data involving advanced concepts from biology to medicine at these gatherings. Cutting-edge imaging technologies have been showcased, such as multi-contrast magnetic resonance imaging (MRI), positron emission tomography (PET), and dynamic imaging. This technology targets engineers, mathematicians, biologists, and other scientists who work with big data analytics.
+Over the years the Newton Gateway to Mathematics has branched out into covering diverse themes that span the entire field of mathematics. With its acclaimed personnel and partners, it aspires to be one of the most intriguing and informative centers for mathematical and scientific knowledge sharing in the world. Its affiliation with the University of Cambridge, one of the longest-running campuses of all time, and the Isaac Newton Institute, give it a prestigious profile, which is why it attracts prominent experts in the fields of math and science for speaking opportunities.
+
+2017
+In 2017, events that took place included the Environmental Modeling in Industry Study Group, Developments in Healthcare Imagine – Connecting with Academia, Data Sharing and Governance, and the 2nd Edwards Symposium.
+
+2019
+In January 2019, the organization rebranded, changing its name to the Newton Gateway to Mathematics in order to avoid confusion with other organizations.
+
+Location and buildings
+The Newton Gateway is located at 20 Clarkson Road, Cambridge, CB3, OEH, UK at the University of Cambridge, about 50 miles north of London. The Faulks Gatehouse is located within the University of Cambridge's Centre for Mathematical Sciences Site, and was financed by the Dill Faulks Educational Trust (DFET). Construction of the building, which consists of a semi-circular room for seminars and three offices, was completed in June 2001. The seminar room has a capacity for 50 people. Two of the three offices are occupied by the Newton Gateway to Mathematics.
+
+Organization and administration
+The Newton Gateway employs three full-time staff members, in which the Manager is responsible to the Director of the Isaac Newton Institute. The Isaac Newton Institute's Management Committee oversees the budget for both the Gateway's short-term and long-term fiscal planning, while the Gateway to Mathematics' staff handles day-to-day work. Ultimately, the Isaac Newton Institute's Director is the head of the entire operation. The current staff, as of 2018, includes Manager Jane Leeks, Knowledge Exchange Coordinator Clare Merritt, and Events and Marketing Coordinator Lissie Hope.
+
+Profile and mission
+A major goal of the Newton Gateway to Mathematics is to widen overall access to mathematics and accelerate learning curves for developing math skills. As a knowledge facilitator, the Gateway to Mathematics helps connect experts with knowledge seekers, particularly business executives who want to improve their companies with more efficient technology. The events cover a broad range of disciplines related to science and mathematics. In other words, every area of mathematics is considered in the Newton Gateway to Mathematics' planning for knowledge-sharing events. These events are designed to help attendees learn solutions to organizational problems, frequently involving data management. Among the contributors are renowned scientists like Onno Bokove, Carola-Bibiane Schönlieb, John Aston, Patrick Wolfe, Sofia Olhede, Mike Cates, Mike Cates, Raphael Blumenfeld or Mark Warner, FRS.
+While some meetings can be characterized as industry conferences, others are more casual receptions for networking. Annual dinners also give members opportunities to expand contacts and share information. As a catalyst to stimulate thinking on math's problems, the Newton Gateway to Mathematics looks for innovative approaches to make math more understandable. This strategy, as an example, helps inject new ideas into an analysis of UK economic issues and managing health care data. Types of professionals who may be asked as guest speakers include:
+
+accountants
+medical professionals
+science community researchers
+economists and financial analysts
+math professors
+investors and fund managers
+banking professionals
+government officials
+tax consultants and financial planners
+technology leaders
+aerospace engineersThe Newton Gateway to Mathematics sometimes partners with external organizations to deliver Open for Business events. Another example of an event that involves lunches, dinners, and hotel accommodations, is the tribute to 20th century renowned applied mathematics author Joseph "Joe" Keller in 2017. Supporters of programs beyond Isaac Newton Institute and the University of Cambridge include the University of Oxford, Cambridge University Press, Schlumberger, and the Institute of Mathematics and its Applications.
+One of the main ways for organizations and individuals to get involved with the Newton Gateway to Mathematics and gain access to its knowledge-sharing activities is to become a member of the Newton Gateway to Mathematics Partnership Scheme. Partners get to attend exclusive events where they can network with academic, government, and corporate representatives to gain further insights into mathematical problem-solving. The group organizes about 15–20 events per year. Additionally, partners can promote their brands on the initiative's website and newsletters, as well as get visibility in the Newton Gateway to Mathematics' Annual Report.
+
+References
+External links
+Official website
+Interactive map of the Mathematical Sciences site including links to the departments.

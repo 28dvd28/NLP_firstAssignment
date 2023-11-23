@@ -1,0 +1,37 @@
+Samuel James Patterson (September 7, 1948 in Belfast) is a Northern Irish mathematician specializing in analytic number theory.  He has been a professor at the University of Göttingen since 1981.
+
+Biography
+Patterson was born in Belfast and grew up in the east of the city, attending Grosvenor High School. He went to Clare College, Cambridge, in 1967, and received his BA in mathematics in 1970, and his Ph.D. (completed in 1974, awarded in 1975) on "The limit set of a Fuchsian group" under Alan Beardon.  He spent 1974–1975 at Göttingen, 1975–1979 he was back at Cambridge, and 1979–1981 he was at Harvard as Benjamin Pierce Lecturer. From 1981 to his retirement in 2011 he was professor of mathematics at Göttingen.
+His 18 PhD students include Jörg Brüdern and Bernd Otto Stratmann.He is the brother of the Northern Irish taxonomist David Joseph Patterson.
+
+Mathematics
+Subjects that Patterson deals with include discontinuous groups (Fuchsian groups), different zeta functions (for example those of Ruelle and Selberg, in particular those associated with certain groups of infinite covolume), metaplectic groups, generalized theta functions, and exponential sums in analytical number theory.
+In 1978, together with Roger Heath-Brown, he disproved the Kummer conjecture on cubic Gauss sums.He proposed a new conjecture which was based on insights from his determination of the coefficients of the cuspidal Fourier expansions of the metaplectic cubic theta function. This revised conjecture remained open until 2021, when it was finally proved by Alexander Dunn and Maksym Radziwiłł at Caltech.In 1976 Patterson introduced what later became known as the Patterson-Sullivan measure. The concept was further developed and extended by Dennis Sullivan starting in 1979. It has proved to be a useful tool in studying Fuchsian and Kleinian groups (and certain generalizations) and their limit sets.
+
+History of mathematics
+Patterson is also interested in the history of mathematics. For example, together with Ralf Meyer, he contributed an updated introduction to a new edition of a classic textbook by Hermann Weyl, and an introduction to the classic textbook of Whittaker and Watson.  He has collaborated with Norbert Schappacher on elucidating the biography of Kurt Heegner.
+
+Honors and awards
+In 1984 Patterson received the Whitehead Prize of the London Mathematical Society.  He is on the Executive Committee of the Leibniz Archives based in Hannover and has been a member of the Göttingen Academy of Sciences since 1998. From 1982 to 1994 he was an editor of Crelle's Journal.To mark his 60th birthday friends and colleagues in Göttingen organized a three day conference to celebrate his life in July, 2009. Speakers at this gathering included Daniel Bump, Dorian Goldfeld, 
+David Kazhdan, and Andrew Ranicki. A commemorative volume, Contributions in Analytic and Algebraic Number Theory (Springer 2012), edited by Valentin Blomer & Preda Mihăilescu, collecting articles related to or developed at the conference, was issued as a Festschrift for him.
+
+Selected papers
+Patterson, S. J. (1975). "A lattice-point problem in hyperbolic space". Mathematika. 22 (1): 81–88. doi:10.1112/S0025579300004526.
+Patterson, S. J. (1976). "The limit set of a Fuchsian group". Acta Mathematica. 136: 241–273. doi:10.1007/BF02392046.
+Patterson, S. J. (1975). "The Laplacian operator on a Riemann surface". Compositio Mathematica. 31 (1): 83–107.
+Patterson, S. J. (1976). "The Laplacian operator on a Riemann surface II". Compositio Mathematica. 32 (1): 71–112.
+Patterson, S. J. (1976). "The Laplacian operator on a Riemann surface III". Compositio Mathematica. 33 (3): 227–259.
+Patterson, S. J. (1977). "A cubic analogue of the theta series". Journal für die reine und angewandte Mathematik. 1977 (296): 125–161. doi:10.1515/crll.1977.296.125.
+Patterson, S. J. (1977). "A cubic analogue of the theta series II". Journal für die reine und angewandte Mathematik. 1977 (296): 217–220. doi:10.1515/crll.1977.296.217.
+Patterson, S. J. (1978). "On the distribution of Kummer sums". Journal für die reine und angewandte Mathematik. 1978 (303/304): 126–143. doi:10.1515/crll.1978.303-304.126.
+Heath-Brown, D. Roger; Patterson, S. J. (1979). "The distribution of Kummer sums at prime arguments". Journal für die reine und angewandte Mathematik. 1979 (310): 111–130. doi:10.1515/crll.1979.310.111. MR 0546667.
+Kazhdan, D. A.; Patterson, S. J. (1984). "Metaplectic forms". Publications Mathématiques de l'IHÉS. 59 (310): 35–142. doi:10.1007/BF02698770.
+Patterson, S. J. (1985). The Hardy-Littlewood method and Diophantine analysis in the light of Igusa'a Work′. Mathematica Goettingensis. Vol. 11.
+Kazhdan, D. A.; Patterson, S. J. (1986). "Towards a generalized shimura correspondence". Advances in Mathematics. 60 (2): 161–234. doi:10.1016/S0001-8708(86)80010-X.
+Patterson, S. J. (1989). "The Selberg zeta-function of a Kleinian group". Number theory, trace formulas and discrete groups. Symposium in Honor of Atle Selberg, Oslo/Norway 1987. pp. 409–441. doi:10.1016/B978-0-12-067570-8.50031-7.
+Patterson, S. J.; Perry, Peter A. (2001). "The divisor of Selberg's zeta function for Kleinian groups". Duke Mathematical Journal. 106 (2): 321–390. doi:10.1215/S0012-7094-01-10624-8.
+Livné, R.; Patterson, S. J. (2002). "The first moment of cubic exponential sums". Inventiones mathematicae. 148 (1): 79–116. doi:10.1007/s002220100189.
+
+References
+External links
+Samuel James Patterson at the Mathematics Genealogy Project

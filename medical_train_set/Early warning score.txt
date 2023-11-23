@@ -1,0 +1,31 @@
+An early warning score (EWS) is a guide used by medical services to quickly determine the degree of illness of a patient. It is based on the vital signs (respiratory rate, oxygen saturation, temperature, blood pressure, pulse/heart rate, AVPU response). Scores were developed in the late 1990s when studies showed that in-hospital deterioration and cardiac arrest were often preceded by a period of increasing abnormalities in the vital signs.
+
+Principles
+The resulting observations are compared to a normal range to generate a single composite score, for instance based on the following diagram (an early modified EWS):
+
+A score of five or more is statistically linked to increased likelihood of death or admission to an intensive care unit.Within hospitals, the EWS is used as part of a "track-and-trigger" system whereby an increasing score produces an escalated response varying from increasing the frequency of patient's observations (for a low score) up to urgent review by a rapid response or Medical Emergency Team (MET call). Concerns by nursing staff may also be used to trigger such call, as concerns may precede changes in vital signs.
+
+Optimal use
+Throughout the world the EWS is based on the principle that clinical deterioration can be seen through changes in multiple physiological measurements, as well as large changes within a single variable. However, the scale is calibrated to different populations and sometimes expanded to include additional parameters, specific to different parts of the world. The parameters scored may vary, as well as the weighting of the scores for worsening deterioration. Some systems also assign scores to other parameters including urine output, oxygen saturation, flow rate of oxygen administration and pain scores.
+There is a lack of consensus on what constitutes the 'ideal' early warning score system. Comparing different systems in clinical use shows variation in which parameters are scored and how those scores are assigned to differing levels of deterioration. There is however some evidence that certain parameters are better at predicting which patients will die within 24 hours than others. This has led to a call in several countries for the development of a national early warning score that would allow a standardised approach to assessing and responding to deteriorating patients.
+
+Variations
+A range of Early Warning Scores have been developed in response to the needs of specific patient types (e.g. PEWS for children) or to support local best practice (NEWS in the UK).
+These include:
+
+National Early Warning Score, UK
+In the UK, the Royal College of Physicians developed the National Early Warning Score (NEWS) in 2012 to replace local or regional scores. The NEWS score is the largest national EWS effort to date and has been adopted outside the UK.A second version of the score was introduced in 2017. The revised version was optimised for the identification of sepsis, alternative oxygen targets in people with underlying lung disease, and the onset of delirium. Additional implementation guidance was issued in March 2020. While many hospitals still use other scores, it has been proposed that all healthcare organisations should use the same score, plus clinical judgement, for diagnosis in the interest of patient safety. New research suggests this patient score can predict worsening condition in care home residents, and that the score could be used in care home settings as well as in hospitals.
+
+History
+The first recorded EWS was developed by a team in James Paget University Hospital, Norfolk, United Kingdom, and presented at the May 1997 conference of the Intensive Care Society.
+
+See also
+Glasgow Coma Scale
+Triage
+
+References
+External links
+
+Royal College of Physicians – NEWS2
+National Early Warning Score 2 online
+Modified Early Warning Score online

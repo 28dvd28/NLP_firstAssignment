@@ -1,0 +1,116 @@
+This is a shortened version of the eighth chapter of the ICD-9: Diseases of the Respiratory System. It covers ICD codes 460 to 519. The full chapter can be found on pages 283 to 300 of Volume 1, which contains all (sub)categories of the ICD-9. Volume 2 is an alphabetical index of Volume 1. Both volumes can be downloaded for free from the website of the World Health Organization.
+
+Acute respiratory infections (460–466)
+460 Acute nasopharyngitis (common cold)
+461 Acute sinusitis
+461.0 Sinusitis, acute, maxillary
+461.1 Sinusitis, acute, frontal
+461.9 Sinusitis, acute, NOS
+462 Pharyngitis, acute
+463 Tonsillitis, acute
+464 Acute laryngitis and tracheitis
+464.0 Laryngitis, acute, no obstruction
+464.3 Epiglottitis, acute
+464.4 Croup
+465 Acute upper respiratory infections of multiple or unspecified sites
+465.9 Upper respiratory infection, acute, NOS
+466 Acute bronchitis and bronchiolitis
+466.0 Bronchitis, acute
+466.11 Bronchiolitis, acute, due to RSV
+
+Other diseases of the upper respiratory tract (470–478)
+470 Deviated nasal septum
+471 Polyp, nasal cavity
+472 Chronic pharyngitis and nasopharyngitis
+472.0 Rhinitis, chronic
+473 Chronic sinusitis
+473.0 Sinusitis, chronic, maxillary
+473.1 Sinusitis, chronic, frontal
+473.9 Sinusitis, chronic, NOS
+474 Chronic disease of tonsils and adenoids
+474.1 Hypertrophy of tonsils and adenoids
+474.11 Tonsillar hypertrophy alone
+474.9 Tonsil/adenoid disease, chronic, unspec.
+475 Peritonsillar abscess
+476 Chronic laryngitis and laryngotracheitis
+476.0 Laryngitis, chronic
+477 Allergic rhinitis
+477.0 Rhinitis, allergic, due to pollen
+477.2 Rhinitis, allergic, due to animal dander
+477.9 Rhinitis, allergic, cause unspec.
+478 Other diseases of upper respiratory tract
+478.1 Abscess/ulcer of nose
+
+Pneumonia and influenza (480–488)
+480 Viral pneumonia
+480.31 Pneumonia, SARS associated coronavirus
+480.9 Pneumonia, viral, unspec.
+481 Pneumococcal pneumonia
+482 Other bacterial pneumonia
+482.9 Pneumonia, bacterial, unspec.
+483 Pneumonia due to other specified organism
+483.0 Mycoplasma pneumoniae
+485 Bronchopneumonia, organism unspecified
+486 Pneumonia, organism unspecified
+487 Influenza
+487.0 Influenza w/ pneumonia
+487.1 Influenza w/ other respiratory manifestations
+488 Influenza due to identified Avian influenza virus
+488.1 Influenza due to identified 2009 H1N1 virus
+
+Chronic obstructive pulmonary disease and allied conditions (490–496)
+490 Bronchitis, not specified as acute or chronic
+491 Chronic bronchitis
+492 Emphysema
+492.0 Emphysematous bleb
+492.8 Other emphysema
+493 Asthma
+493.0 Extrinsic asthma
+493.1 Intrinsic asthma
+493.2 Chronic obstructive asthma
+494 Bronchiectasis
+495 Extrinsic allergic alveolitis
+496 Chronic airway obstruction, not elsewhere classified
+496.0 COPD, Not Otherwise Specified
+
+Pneumoconioses and other lung diseases due to external agents (500–508)
+500 Coal workers' pneumoconiosis
+501 Asbestosis
+502 Pneumoconiosis due to other silica or silicates
+503 Pneumoconiosis due to other inorganic dust
+504 Pneumonopathy due to inhalation of other dust
+505 Pneumoconiosis, unspecified
+506 Respiratory conditions due to chemical fumes and vapors
+507 Pneumonitis due to solids and liquids
+508 Respiratory conditions due to other and unspecified external agents
+508.0 Acute pulmonary manifestations due to radiation
+508.1 Chronic and other pulmonary manifestations due to radiation
+
+Other diseases of respiratory system (510–519)
+510 Empyema
+511 Pleurisy
+511.0 Pleurisy without effusion or current tuberculosis
+511.1 Pleurisy with effusion with a bacterial cause other than tuberculosis
+511.8 Other specified forms of pleural effusion except tuberculous
+511.81 Malignant pleural effusion
+511.89 Other specified forms of effusion, except tuberculous
+511.9 Pleural effusion, NOS
+512 Pneumothorax
+512.8 Pneumothorax, spontaneous
+513 Abscess of lung and mediastinum
+514 Pulmonary congestion and hypostasis
+515 Postinflammatory pulmonary fibrosis
+516 Other alveolar and parietoalveolar pneumonopathy
+516.3 Idiopathic fibrosing alveolitis
+Hamman-Rich syndrome
+517 Lung involvement in conditions classified elsewhere
+517.1 Rheumatic pneumonia
+517.2 Lung involvement in systemic sclerosis
+517.3 Acute chest syndrome
+517.8 Lung involvement in other diseases classified elsewhere
+518 Other diseases of lung
+518.0 Atelectasis
+518.5 ARDS
+518.81 Respiratory failure, acute
+519 Other diseases of respiratory system
+519.2 Mediastinitis

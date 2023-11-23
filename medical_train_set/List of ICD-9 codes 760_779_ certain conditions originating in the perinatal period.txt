@@ -1,0 +1,135 @@
+This is a shortened version of the fifteenth chapter of the ICD-9: Certain Conditions originating in the Perinatal Period. It covers ICD codes 760 to 779. The full chapter can be found on pages 439 to 453 of Volume 1, which contains all (sub)categories of the ICD-9. Volume 2 is an alphabetical index of Volume 1. Both volumes can be downloaded for free from the website of the World Health Organization.
+
+Maternal causes of perinatal morbidity and mortality (760–763)
+760 Fetus or newborn affected by material conditions which may be unrelated to present pregnancy
+760.7 Noxious influences affecting fetus or newborn via placenta or breast milk
+760.71 Fetal alcohol syndrome
+760.72 Exposure to narcotics, perinatal
+760.75 Exposure to cocaine, perinatal
+761 Fetus or newborn affected by maternal complications of pregnancy
+761.1 Newborn affected by PROM
+762 Fetus or newborn affected by complications of placenta, cord, and membranes
+762.5 Other compression of umbilical cord affecting fetus or newborn
+763 Fetus or newborn affected by other complications of labor and delivery
+
+Other conditions originating in the perinatal period (764–779)
+Length of gestation and fetal growth
+764 Slow fetal growth and fetal malnutrition
+764.0 Newborn, light-for-dates, weight unspec.
+765 Disorders relating to short gestation and unspecified low birthweight
+765.1 Preterm infant, weight unspec.
+766 Disorders relating to long gestation and high birthweight
+766.0 Exceptionally large baby, 4,500g plus
+766.21 Post-term infant
+766.22 Prolonged gestation of infant
+
+Birth trauma
+767 Birth trauma
+767.0 Subdural and cerebral hemorrhage due to birth trauma
+767.1 Injuries to scalp
+767.11 Epicranial subaponeurotic hemorrhage
+767.2 Birth trauma, fracture of clavicle
+767.9 Birth trauma, unspec.
+
+Hypoxia/asphyxia/respiratory
+768 Intrauterine hypoxia and birth asphyxia
+768.3 Fetal distress, during labor, in infant
+768.5 Birth asphyxia, severe
+768.9 Birth asphyxia, unspec.
+769 Respiratory distress syndrome
+770 Other respiratory conditions of fetus and newborn
+770.1 Meconium aspiration syndrome
+
+Infections
+771 Infections specific to the perinatal period
+771.0 Congenital rubella
+771.1 Congenital cytomegalovirus infection
+771.2 Other congenital infections specific to the perinatal period
+771.3 Tetanus neonatorum
+771.4 Omphalitis of the newborn
+771.5 Neonatal infective mastitis
+771.6 Neonatal conjunctivitis and dacryocystitis
+771.7 Neonatal candida infection
+771.8 Other infections specific to the perinatal period
+771.81 Sepsis, neonatal
+
+Hemorrhage/hemolysis/endocrine/jaundice/hematologic
+772 Fetal and neonatal hemorrhage
+772.0 Fetal blood loss
+772.1 Intraventricular hemorrhage of fetus or newborn
+772.10 Intraventricular hemorrhage unspecified grade
+772.11 Intraventricular hemorrhage grade I
+772.12 Intraventricular hemorrhage grade II
+772.13 Intraventricular hemorrhage grade III
+772.14 Intraventricular hemorrhage grade IV
+772.2 Subarachnoid hemorrhage of newborn
+772.3 Umbilical hemorrhage after birth
+772.4 Gastrointestinal hemorrhage of fetus or newborn
+772.5 Adrenal hemorrhage of fetus or newborn
+772.6 Cutaneous hemorrhage of fetus or newborn
+772.8 Other specified hemorrhage of fetus or newborn
+772.9 Unspecified hemorrhage of newborn
+773 Hemolytic disease of fetus or newborn, due to isoimmunization
+773.0 Hemolytic disease, RH isoimmunization
+773.1 Hemolytic disease, ABO isoimmunization
+774 Other perinatal jaundice
+774.2 Jaundice, newborn, prematurity
+774.3 Jaundice, newborn, unspec.
+774.3 Lucey-Driscoll syndrome
+774.39 Jaundice, newborn, breast milk
+775 Endocrine and metabolic disturbances specific to the fetus and newborn
+775.0 Infant of diabetic mother syndrome
+775.4 Hypocalcemia
+775.6 Hypoglycemia, neonatal
+776 Hematological disorders of fetus and newborn
+776.0 Hemorrhagic disease of newborn
+776.1 Transient neonatal thrombocytopenia
+776.2 Disseminated intravascular coagulation in newborn
+776.3 Other transient neonatal disorders of coagulation
+776.4 Polycythemia neonatorum
+776.5 Congenital anemia
+776.6 Anemia of prematurity
+776.7 Transient neonatal neutropenia
+776.8 Other specified transient hematological disorders of fetus or newborn
+776.9 Unspecified hematological disorder specific to newborn
+
+Digestive
+777 Perinatal disorders of digestive system
+777.3 Swallowed maternal blood
+777.5 Necrotizing enterocolitis
+
+Integument/temperature regulation
+778 Conditions involving the integument and temperature regulation of fetus and newborn
+778.0 Hydrops fetalis not due to isoimmunization
+778.1 Sclerema neonatorum
+778.2 Cold injury syndrome of newborn
+778.3 Other hypothermia of newborn
+778.4 Other disturbances of temperature regulation of newborn
+778.5 Other and unspecified edema of newborn
+778.6 Congenital hydrocele
+778.7 Breast engorgement in newborn
+778.8 Other specified conditions involving the integument of fetus and newborn
+778.9 Unspecified condition involving the integument and temperature regulation of fetus and newborn
+
+Other
+779 Other and ill-defined conditions originating in the perinatal period
+779.0 Convulsions in newborn
+779.1 Other and unspecified cerebral irritability in newborn
+779.2 Cerebral depression coma and other abnormal cerebral signs in fetus or newborn
+779.3 Feeding problems in newborn
+779.31 Feeding problems in newborn
+779.32 Bilious vomiting in newborn
+779.33 Other vomiting in newborn
+779.34 Failure to thrive in newborn
+779.4 Drug reactions and intoxications specific to newborn
+779.5 Drug withdrawal syndrome in newborn
+779.6 Termination of pregnancy (fetus)
+779.7 Preventricular leukomalacia
+779.8 Other specified conditions originating in the perinatal period
+779.81 Neonatal bradycardia
+779.82 Neonatal tachycardia
+779.83 Delayed separation of umbilical cord
+779.84 Meconium staining
+779.85 Cardiac arrest of newborn
+779.89 Other specified conditions originating in the perinatal period
+779.9 Unspecified condition originating in the perinatal period

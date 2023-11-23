@@ -1,0 +1,14 @@
+Pentagastrin (trade name Peptavlon) is a synthetic polypeptide that has effects like gastrin when given parenterally. It stimulates the secretion of gastric acid, pepsin, and intrinsic factor, and has been used as a diagnostic aid as the pentagastrin-stimulated calcitonin test.
+Pentagastrin binds to the cholecystokinin-B receptor, which is expressed widely in the brain.  Activation of these receptors activates the phospholipase C second messenger system.  When given intravenously it may cause panic attacks.Pentagastrin's IUPAC chemical name is "N-((1,1-dimethylethoxy)carbonyl)-beta-alanyl-L-tryptophyl-L-methionyl-L-alpha-aspartyl-L-phenylalaninamide".
+
+Pentagastrin stimulation test
+Pentagastrin is also used as a stimulation test to elevate of several hormones, such as serotonin.  It provokes flushing and is useful in evaluating patients who describe flushing, but have normal or only marginally elevated biochemical markers for carcinoid syndrome.It has been used to stimulate ectopic gastric mucosa for the detection of Meckels diverticulum by nuclear medicine.
+
+Calcitonin test
+The pentagastrin-stimulated calcitonin test is a diagnostic test for medullary carcinoma of the thyroid (MTC). MTC is a malignancy of the calcitonin-secreting cells of the thyroid gland, and thus MTC is commonly associated with an elevated calcitonin level, but an elevated level may not always be obvious. The pentagastrin-stimulated calcitonin test is useful in cases of suspected MTC that are not associated with elevated calcitonin. In these patients, injecting pentagastrin will cause calcitonin levels to rise significantly above the normal or basal range. After a total thyroidectomy for medullary thyroid carcinoma, the pentagastrin-stimulated calcitonin release can be used to detect residual parafollicular C-cells.
+
+See also
+CCK-4
+
+
+== References ==

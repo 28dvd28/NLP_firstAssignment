@@ -1,0 +1,34 @@
+Marshall Harvey Stone (April 8, 1903 – January 9, 1989) was an American mathematician who contributed to real analysis, functional analysis, topology and the study of Boolean algebras.
+
+Biography
+Stone was the son of Harlan Fiske Stone, who was the Chief Justice of the United States in 1941–1946. Marshall Stone's family expected him to become a lawyer like his father, but he became enamored of mathematics while he was a Harvard University undergraduate. He completed a Harvard PhD in 1926, with a thesis on differential equations that was supervised by George David Birkhoff. Between 1925 and 1937, he taught at Harvard, Yale University, and Columbia University. Stone was promoted to a full professor at Harvard in 1937.
+During World War II, Stone did classified research as part of the "Office of Naval Operations" and the "Office of the Chief of Staff" of the United States Department of War. In 1946, he became the chairman of the Mathematics Department at the University of Chicago, a position that he held until 1952. While chairman, Stone hired several notable mathematicians including Paul Halmos, André Weil, Saunders Mac Lane, Antoni Zygmund, and Shiing-Shen Chern. He remained on the faculty at this university until 1968, after which he taught at the University of Massachusetts Amherst until 1980.
+
+Accomplishments
+Stone made several advances in the 1930s:
+
+In 1930, he proved the Stone–von Neumann uniqueness theorem.
+In 1932, he published a 662 page long monograph titled Linear transformations in Hilbert space and their applications to analysis, which was a presentation about self-adjoint operators. Much of its content is now deemed to be part of functional analysis.
+In 1932, he proved conjectures by Hermann Weyl on spectral theory, arising from the application of group theory to quantum mechanics.
+In 1934, he published two papers setting out what is now called Stone–Čech compactification theory. This theory grew out of his attempts to understand more deeply his results on spectral theory.
+In 1936, he published a long paper that included Stone's representation theorem for Boolean algebras, an important result in mathematical logic, topology, universal algebra and category theory. The theorem has been the starting point for what is now called Stone duality.
+In 1937, he published the Stone–Weierstrass theorem which generalized Weierstrass's theorem on the uniform approximation of continuous functions by polynomials.Stone was elected to the American Academy of Arts and Sciences in 1933 and the National Academy of Sciences (United States) in 1938. He was elected to the American Philosophical Society in 1943. He presided over the American Mathematical Society, 1943–44, and the International Mathematical Union, 1952–54. In 1982, he was awarded the National Medal of Science.
+
+Selected publications
+Stone, M. H. (1926). "A comparison of the series of Fourier and Birkhoff". Trans. Amer. Math. Soc. 28 (4): 695–761. doi:10.1090/s0002-9947-1926-1501372-6. MR 1501372.
+Linear transformations in Hilbert space and their applications to analysis. New York: American Mathematical Society. 1932.
+Stone, M. H. (1934). "Boolean algebras and their applications to topology". Proc Natl Acad Sci U S A. 20 (3): 197–202. Bibcode:1934PNAS...20..197S. doi:10.1073/pnas.20.3.197. PMC 1076376. PMID 16587875.
+The theory of real functions. Ann Arbor: Edwards Brothers. 1940.
+Stone, Marshall H. (1957). "Mathematics and the future of science". Bull. Amer. Math. Soc. 63 (2): 61–76. doi:10.1090/s0002-9904-1957-10098-6. MR 0086013.
+Lectures on preliminaries to functional analysis. Madras: Institute of Mathematical Sciences. 1963. Notes by B. Ramachandran{{cite book}}:  CS1 maint: postscript (link) (50 pages)
+
+See also
+Convex space
+Ideals
+Unbounded operator
+Stone algebra
+
+References
+External links
+O'Connor, John J.; Robertson, Edmund F., "Marshall H. Stone", MacTutor History of Mathematics Archive, University of St Andrews
+Johnstone, Peter (1982). Stone Spaces. Cambridge: Cambridge University Press. ISBN 0-521-23893-5.

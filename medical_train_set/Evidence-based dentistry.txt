@@ -1,0 +1,87 @@
+Evidence-based dentistry (EBD) is the dental part of the more general movement toward evidence-based medicine and other evidence-based practices. The pervasive access to information on the internet includes different aspects of dentistry for both the dentists and patients. This has created a need to ensure that evidence referenced to are valid, reliable and of good quality.Evidence-based dentistry has become more prevalent than ever, as information, derived from high-quality, evidence-based research is made available to clinicians and patients in clinical guidelines. By formulating evidence-based best-practice clinical guidelines that practitioners can refer to with simple chairside and patient-friendly versions, this need can be addressed.
+Evidence-based dentistry has been defined by the American Dental Association (ADA) as "an approach to oral healthcare that requires the judicious integration of systematic assessments of clinically relevant scientific evidence, relating to the patient's oral and medical condition and history, with the dentist's clinical expertise and the patient's treatment needs and preferences."Three main pillars or principles exist in evidence-based dentistry. The three pillars are defined as:
+
+Relevant scientific evidence
+Patient needs and preferences
+Clinician's expertise                  The use of high-quality research to establish the guidelines for best practices defines evidence-based practice. In essence, evidence-based dentistry requires clinicians to remain constantly updated on current techniques and procedures so that patients can continuously receive the best treatment possible.
+
+History
+Evidence-based dentistry (EBD) was first introduced by Gordon Guyatt and the Evidence-Based Medicine Working Group at McMaster University in Ontario, Canada, in the 1990s as part of the larger movement toward evidence-based medicine and other evidence-based practices.
+
+Clinical decision making
+Much praise has gone to the dentistry approach of clinical decision making. In an EB case report written by Miller SA, is focused on the "use of evidence-based decision-making in private practice for emergency treatment of dental trauma". The case concludes with high praise for this method, going as far to say that "[the] evidence-based method was efficient, and very helpful in optimizing the management of the emergency dental treatment". However, it is important to ensure that the collection of data in the evidence during evidence-based clinical decision making isn’t corrupted. Crawford JM writes about publication bias, as well as the possible effects it can have on evidence-based clinical making. He writes that it is important to watch out for publication bias, as it can "hinder advancements in oral health care by decreasing the availability of scientific evidence and threatening the validity of evidence-based practice".There are many tools that have been developed for dental-based clinical decision making. Authors Rios Santos JV, Castello Castaneda C, and Bullon P all documented the "development of a computer application to help the decision making process in teaching dentistry." It offers the ability to review information, to help reinforce information that is learned by students. Teaching staff can also "design any theme they wish, increasing the efficiency and support capabilities of the program".
+
+Principles
+In summary, there are three main pillars exist in evidence-based dentistry which serves as its main principles. The three pillars are defined as:
+
+Dentists' clinical expertise
+Patient needs and preferences
+Relevant scientific evidence
+
+Dentists' clinical expertise
+Much less attention is paid to both the other two spheres of EBD, clinical expertise and patient values.Clinical expertise plays a part in the successful outcomes of treatment with diagnostic skills preventing over and under-treatments, technical dental skills maximizing the longevity of surgical and restorative procedures and communication skills being core to patient management and perceived success.
+
+Patients needs and preferences
+Not all patients have the same priorities for their care. Understanding a patient's individual needs, wants and circumstances gives the clinician a place from which to discuss treatment options available with the patient. This might be competing priorities between dentists, therapists, and hygienists who generally aim for longevity and aesthetics and patients who may be more interested in keeping costs down, aesthetics or would prefer less invasive treatments.
+
+Relevant scientific evidence
+Given that "Patient needs and preferences" and "Dentist's clinical expertise" are variable and will differ among numerous clinicians and population, "Relevant scientific evidence" is of critical importance. Therefore, it is imperative that information referenced to are derived from high-quality, evidence-based research, which can be used to establish the guidelines for providing the best practices.
+In essence, Evidence-based dentistry can allow clinicians to remain constantly updated on the newest techniques and procedures so that patients can continuously receive the best treatment possible.
+
+Evidence based process
+Best scientific evidence
+The new model set by EBM uses a systematic process to incorporate current research into practice. The evidence-based process requires the practitioner to develop five key skills:
+
+Formulate information needs/questions into four part questions to identify the patient/problem (P), intervention (I), comparison (C), and outcomes (O), known mnemonically as the PICO questions.
+Conduct an efficient computerized search of the literature for the appropriate type and level of evidence.
+Critically appraise the evidence for validity with an understanding of research methods.
+Apply the results of the evidence to patient care or practice in consideration for the patient's preferences, values and circumstances.
+Evaluate the process and your performance through self-evaluation.The American Dental Association defined evidence-based dentistry like so:
+
+Evidence-based dentistry (EBD) is an approach to oral health care that requires the judicious integration of systematic assessments of clinically relevant scientific evidence, relating to the patient's oral and medical condition and history, with the dentist's clinical expertise and the patient's treatment needs and preferences.
+The American Dental Education Association (ADEA) has incorporated the definition of evidence-based dentistry into core competencies required by dental education programs. These competencies focus on graduates to become lifelong learners and consumers of current research findings and require students to develop skills that are reflective of evidence-based dentistry.A dentist's learning curve for using the evidence-based process can be steep, but there are continuing education courses, workbooks and tools available to simplify the integration of current research into practice.
+
+Assessing the quality of evidence
+Need for continuing education
+Dental graduates around the globe are possibly up to date at the time they graduate, but usually are fundamentally lacking in the understanding of trials/studies design and relevance/importance. Dental specialty training, however, stresses evidence-based outcomes, results and methodologies. But this becomes out of date as new information and technology appear. Hence it is important, especially with regards to patient safety, for dentists to be able to keep up to date with developments. Having an understanding of how to interpret research results, and some practice in reading the literature in a structured way, can turn the dental literature into a useful and comprehensible practice tool. For this to happen, EBD learning absolutely needs to be at the heart of dental education. Dental students can be taught EBD concept during their time in dental school so that they will develop the ability to evaluate critically new knowledge and determine its relevance to the clinical problems and challenges presented by the individual patient. They also acquire the ability to interpret, assess, integrate, and apply data and information in the process of clinical problem solving, reasoning, and decision making. EBD is a lifelong learning process and help to develop ability to learn independently.
+
+Medication prescribing
+Dentists can prescribe medications upon initial registration. This is important as evidence has shown that general practitioners prefer to refer to dentists for the management of dental emergencies. Research has shown that there are potential limitations in the knowledge of dental students for conventional and complementary and alternative medications.
+
+Organisations that develop evidence-based guidelines and policies
+Scottish Intercollegiate Guidelines Network
+Formed in 1993, the Scottish Intercollegiate Guidelines Network (SIGN) goals are to decrease the discrepancy in treatments and results, through the creation and dissemination of nationwide clinical guidelines encompassing recommendations for effective practice established on up-to-date evidence to improve the quality of health care for patients in Scotland.SIGN guidelines are established using a clear methodology constructed on three fundamental principles, which are:
+
+Development is carried out by multidisciplinary, nationwide representative groups
+A systematic review is conducted to recognise and analytically evaluate the evidence
+Recommendations are clearly connected to the supporting evidenceAs of 2009, SIGN has also adopted the practise of implementing the GRADE methodology to all its SIGN guidelines.
+
+Scottish Dental Clinical Effectiveness Programme
+Part of NHS Education for Scotland (NES), the Scottish Dental Clinical Effectiveness Programme (SDCEP) is an initiative of the National Dental Advisory Committee (NDAC) which is an organisation of dental professionals, across all specialities, that functions as consultative wing to the Chief Dental Officer. Its main goal is to appraise the best available and pertinent information with regards to dentistry and convert it into guidelines which are easily comprehensible and executable.
+The Scottish Dental Clinical Effectiveness Programme consist of a central group for Programme Development and multiple other groups for guideline development. With
+the principal objective of developing guidance that delivers the best quality of patient care through supporting dental teams, the SDCEP uses the most suitable high-quality evidences from a plethora of sources to make guidelines recommendations.
+Founded under the intention of NDAC to give a systematized methodology when providing clinical guidance for the dental profession, the SDCEP has since become a crucial factor between the gold standard practice guidelines and dental education and practice.
+
+Limitations and criticism
+Despite the high praise for evidence-based dentistry, there are a number of limitation and criticism that has been given to the process. Chambers DW provides quite a bit of criticism, as well as a number of limitations that evidence-based dentistry provides. In no particular order of importance, a number of mentioned objections towards this format are:
+
+Evidence-based dentistry is too clumsy due to the concept being poorly defined
+The implementation of evidence-based dentistry has been distorted by too heavy of an emphasis of computerized searches for research findings that meet the standards of academics
+Although EBD advocates enjoy sharing anecdotal accounts of mistakes others have made, faulting others is not proof that one's own position is correct
+There is no systematic, high-quality evidence that EBD is effective
+Patient and practitioner values are the shortest leg of the stool. As they are so little recognized, their integration in EBD is problematic and ethical tensions exist where paternalism privileges science over patient's self-determined best interests.
+
+Literature
+Evidence-based dental journals have been developed as resources for busy clinicians to aid in the integration of current research into practice. These journals publish concise summaries of original studies as well as review articles. These critical summaries, consist of an appraisal of original research, with discussion of the relevant, practical information of the research study.
+
+Evidence-Based Dentistry
+Journal of Evidence-Based Dental Practice.Systematic reviews are also helpful for the busy practitioner because they combine the results of multiple studies that have investigated the same specific phenomenon or question.
+
+References
+Further reading
+External links
+ADA Policy Statement on Evidence-Based Dentistry
+American Dental Association Center for Evidence-based Dentistry
+American Student Dental Association on Evidence-Based Dentistry
+Cochrane Oral Health Group
+Evidentista

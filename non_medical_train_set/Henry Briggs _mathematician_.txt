@@ -1,0 +1,37 @@
+Henry Briggs (1 February 1561 – 26 January 1630) was an English mathematician notable for changing the original logarithms invented by John Napier into common (base 10) logarithms, which are sometimes known as Briggsian logarithms in his honour. The specific algorithm for long division in modern use was introduced by Briggs c. 1600 AD.Briggs was a committed Puritan and an influential professor in his time.
+
+Personal life
+Briggs was born at Daisy Bank, Sowerby Bridge, near Halifax, in Yorkshire, England. After studying Latin and Greek at a local grammar school, he entered St John's College, Cambridge, in 1577, and graduated in 1581. In 1588, he was elected a Fellow of St John's.  In 1592, he was made reader of the physical lecture founded by Thomas Linacre; he also read some of the mathematical lectures. During this period, he took an interest in navigation and astronomy, collaborating with Edward Wright.
+In 1596, he became first professor of geometry in the recently founded Gresham College, London, where he also taught astronomy and navigation. He lectured there for nearly 23 years, and made Gresham College a centre of English mathematics, from which he supported the new ideas of Johannes Kepler.
+He was a friend of Christopher Heydon, a writer on astrology, though Briggs himself rejected astrology for religious reasons. He once called astrology, "a mere system of groundless conceits".At this time, Briggs obtained a copy of Mirifici Logarithmorum Canonis Descriptio, in which Napier introduced the idea of logarithms. It has also been suggested that he knew of the method outlined in Fundamentum Astronomiae published by the Swiss clockmaker Jost Bürgi, through John Dee. Napier's formulation was awkward to work with, but the book fired Briggs' imagination – in his lectures at Gresham College he proposed the idea of base 10 logarithms in which the logarithm of 10 would be 1; and soon afterwards he wrote to the inventor on the subject. Briggs was active in many areas, and his advice in astronomy, surveying, navigation, and other activities like mining was frequently sought.  Briggs in 1619 invested in the London Company, and he had two sons: Henry, who later emigrated to Virginia, and Thomas, who remained in England.Briggs died on 26 January 1630, and was buried in the chapel of Merton College, Oxford.  Dr Smith, in his Lives of the Gresham Professors, characterizes him as a man of great probity, a condemner of riches, and contented with his own station, preferring a studious retirement to all the splendid circumstances of life. The lunar crater Briggs is named in his honour.
+
+Mathematical contributions
+In 1616 Briggs visited Napier at Edinburgh in order to discuss the suggested change to Napier's logarithms. The following year he again visited for a similar purpose. During these conferences the alteration proposed by Briggs was agreed upon; and on his return from his second visit to Edinburgh, in 1617, he published the first chiliad of his logarithms, giving 14-digit common logarithms of the integers from 1 to 1000.
+In 1619 he was appointed Savilian Professor of Geometry at the University of Oxford, and resigned his professorship of Gresham College in July 1620.  Soon after his settlement at Oxford he was incorporated Master of Arts.In 1622 he published a small tract on the Northwest Passage to the South Seas, through the Continent of Virginia and Hudson Bay.  The tract is notorious today as the origin of the cartographic myth of the Island of California.  In it Briggs stated he had seen a map that had been brought from Holland that showed the Island of California.  The tract was republished three years later (1625) in Pvrchas His Pilgrimes (vol 3, p848).
+In 1624 his Arithmetica Logarithmica was published, in folio, a work containing the logarithms of thirty thousand natural numbers to fourteen decimal places (1-20,000 and 90,001 to 100,000).
+The remaining logarithms of the numbers 20,001 to 90,000 were later calculated by Adriaan Vlacq in his table of logarithms of the numbers 1 to 100,000 being accurate to 10 places. Alexander John Thompson published a table of logarithms of the numbers 1 to 100,000 accurate to 20 places in 1952. Briggs was one of the first to use finite-difference methods to compute tables of functions.He also completed a table of logarithmic sines and tangents for the hundredth part of every degree to fourteen decimal places, with a table of natural sines to fifteen places, and the tangents and secants for the same to ten places; all of which were printed at Gouda in 1631 and published in 1633 under the title of Trigonometria Britannica; this work was probably a successor to his 1617 Logarithmorum Chilias Prima ("The First Thousand Logarithms"), which gave a brief account of logarithms and a long table of the first 1000 integers calculated to the 14th decimal place.
+English translations of Briggs's Arithmetica and the first part of his Trigonometria Britannica are available on the web.
+
+Bibliography
+A Table to find the Height of the Pole, the Magnetical Declination being given (London, 1602, 4to)
+"Tables for the Improvement of Navigation", printed in the second edition of Edward Wright's treatise entitled Certain Errors in Navigation detected and corrected (London, 1610, 4to)
+A Description of an Instrumental Table to find the part proportional, devised by Mr Edward Wright (London, 1616 and 1618, 12rno)
+Logarithmorum Chilias prima (London, 1617, 8vo) (http://locomat.loria.fr contains a reconstruction of this table)
+Lucubrationes et Annotationes in opera posthuma J. Neperi (Edinburgh, 1619, 4to)
+Euclidis Elementorum VI. libri priores (London, 1620. folio)
+A Treatise on the North-West Passage to the South Sea (London, 1622, 4to), reprinted in Samuel Purchas's Pilgrims, vol. iii. p. 852
+Arithmetica Logarithmica (London, 1624, folio) (http://locomat.loria.fr contains a reconstruction of this table)
+Trigonometria Britannica (Goudae, 1633, folio) (http://locomat.loria.fr contains a reconstruction of this table)
+two Letters to Archbishop James Usher
+Mathematica ab Antiquis minus cognita.Some other works, as his Commentaries on the Geometry of Peter Ramus, and Remarks on the Treatise of Longomontanus respecting the Quadrature of the Circle were not published.
+
+See also
+BKM algorithm
+CORDIC algorithm
+
+References
+External links
+ Media related to Henry Briggs (mathematician) at Wikimedia Commons
+Henry Briggs (mathematician) at the Encyclopædia Britannica
+400 Years of Geometry at Gresham College, lecture by Robin Wilson on Henry Briggs, given at Gresham College, 14 May 2008 (available for video, audio and text download)
+O'Connor, John J.; Robertson, Edmund F., "Henry Briggs", MacTutor History of Mathematics Archive, University of St Andrews

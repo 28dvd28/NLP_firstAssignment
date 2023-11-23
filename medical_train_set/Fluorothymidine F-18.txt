@@ -1,0 +1,4 @@
+Fluorothymidine F-18 (FLT) is a tumor-specific PET tracer and radiopharmaceutical. It is an isotopologue of alovudine. FLT is suitable for monitoring how tumors respond to cytostatic therapy. FLT accumulates in proliferating cells where it indicates the activity of the enzyme thymidine kinase. Cell division can be characterized by the activity of that enzyme. FLT is phosphorylated as though it were thymidine, and is subsequently incorporated into DNA. Thymidine is essential for DNA replication. Considering that FLT lacks a 3′-hydroxy group, transcription of DNA is impeded following incorporating of FLT. FLT indicates changes in tumor cell proliferation by tracking the restoration of nucleosides from degenerated DNA.
+
+
+== References ==

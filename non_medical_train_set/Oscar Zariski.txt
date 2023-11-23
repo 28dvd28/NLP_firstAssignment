@@ -1,0 +1,56 @@
+Oscar Zariski (April 24, 1899 – July 4, 1986) was a Russian-born American mathematician and one of the most influential algebraic geometers of the 20th century.
+
+Education
+Zariski was born Oscher (also transliterated as Ascher or Osher) Zaritsky to a Jewish family (his parents were Bezalel Zaritsky and Hanna Tennenbaum) and in 1918 studied at the University of Kyiv. He left Kyiv in 1920 to study at the University of Rome where he became a disciple of the Italian school of algebraic geometry, studying with Guido Castelnuovo, Federigo Enriques and Francesco Severi.
+Zariski wrote a doctoral dissertation in 1924 on a topic in Galois theory, which was proposed to him by Castelnuovo. At the time of his dissertation publication, he changed his name to Oscar Zariski.
+
+Johns Hopkins University years
+Zariski emigrated to the United States in 1927 supported by Solomon Lefschetz. He had a position at Johns Hopkins University where he became professor in 1937. During this period, he wrote Algebraic Surfaces as a summation of the work of the Italian school.
+The book was published in 1935 and reissued 36 years later, with detailed notes by Zariski's students that illustrated how the field of algebraic geometry had changed. It is still an important reference.
+It seems to have been this work that set the seal of Zariski's discontent with the approach of the Italians to birational geometry. He addressed the question of rigour by recourse to commutative algebra. The Zariski topology, as it was later known, is adequate for biregular geometry, where varieties are mapped by polynomial functions. That theory is too limited for algebraic surfaces, and even for curves with singular points. A rational map is to a regular map as a rational function is to a polynomial: it may be indeterminate at some points. In geometric terms, one has to work with functions defined on some open, dense set of a given variety. The description of the behaviour on the complement may require infinitely near points to be introduced to account for limiting behaviour along different directions. This introduces a need, in the surface case, to use also valuation theory to describe the phenomena such as blowing up (balloon-style, rather than explosively).
+
+Harvard University years
+After spending a year 1946–1947 at the University of Illinois at Urbana–Champaign, Zariski became professor at Harvard University in 1947 where he remained until his retirement in 1969. In 1945, he fruitfully discussed foundational matters for algebraic geometry with André Weil. Weil's interest was in putting an abstract variety theory in place, to support the use of the Jacobian variety in his proof of the Riemann hypothesis for curves over finite fields, a direction rather oblique to Zariski's interests. The two sets of foundations weren't reconciled at that point.
+At Harvard, Zariski's students included Shreeram Abhyankar, Heisuke Hironaka, David Mumford, Michael Artin and Steven Kleiman—thus spanning the main areas of advance in singularity theory, moduli theory and cohomology in the next generation. Zariski himself worked on equisingularity theory. Some of his major results, Zariski's main theorem and the Zariski theorem on holomorphic functions, were amongst the results generalized and included in the programme of Alexander Grothendieck that ultimately unified algebraic geometry.
+Zariski proposed the first example of a Zariski surface in 1958.
+
+Views
+Zariski was a Jewish atheist.
+
+Awards and recognition
+Zariski was elected to the United States National Academy of Sciences in 1944, the American Academy of Arts and Sciences in 1948, and the American Philosophical Society in 1951. Zariski was awarded the Steele Prize in 1981, and in the same year the Wolf Prize in Mathematics with Lars Ahlfors. He wrote also Commutative Algebra in two volumes, with Pierre Samuel. His papers have been published by MIT Press, in four volumes. In 1997 a conference was held in his honor in Obergurgl, Austria.
+
+Publications
+Zariski, Oscar (2004) [1935], Abhyankar, Shreeram S.; Lipman, Joseph; Mumford, David (eds.), Algebraic surfaces, Classics in mathematics (second supplemented ed.), Berlin, New York: Springer-Verlag, ISBN 978-3-540-58658-6, MR 0469915
+Zariski, Oscar (1958), Introduction to the problem of minimal models in the theory of algebraic surfaces, Publications of the Mathematical Society of Japan, vol. 4, The Mathematical Society of Japan, Tokyo, MR 0097403
+Zariski, Oscar (1969) [1958], Cohn, James (ed.), An Introduction to the Theory of Algebraic Surfaces, Lecture notes in mathematics, vol. 83, Berlin, New York: Springer-Verlag, doi:10.1007/BFb0082246, ISBN 978-3-540-04602-8, MR 0263819
+Zariski, Oscar; Samuel, Pierre (1975) [1958], Commutative algebra I, Graduate Texts in Mathematics, vol. 28, Berlin, New York: Springer-Verlag, ISBN 978-0-387-90089-6, MR 0090581
+Zariski, Oscar; Samuel, Pierre (1975) [1960], Commutative algebra. Vol. II, Berlin, New York: Springer-Verlag, ISBN 978-0-387-90171-8, MR 0389876
+Zariski, Oscar (2006) [1973], Kmety, François; Merle, Michel; Lichtin, Ben (eds.), The moduli problem for plane branches, University Lecture Series, vol. 39, Providence, R.I.: American Mathematical Society, ISBN 978-0-8218-2983-7, MR 0414561(original title): Le problème des modules pour les branches planes{{citation}}:  CS1 maint: postscript (link)
+Zariski, Oscar (1972), Collected papers. Vol. I: Foundations of algebraic geometry and resolution of singularities, Cambridge, Massachusetts-London: MIT Press, ISBN 978-0-262-08049-1, MR 0505100
+Zariski, Oscar (1973), Collected papers. Vol. II: Holomorphic functions and linear systems, Mathematicians of Our Time, Cambridge, Massachusetts-London: MIT Press, ISBN 978-0-262-01038-2, MR 0505100
+Zariski, Oscar (1978), Artin, Michael; Mazur, Barry (eds.), Collected papers. Volume III. Topology of curves and surfaces, and special topics in the theory of algebraic varieties, Mathematicians of Our Time, Cambridge, Massachusetts-London: MIT Press, ISBN 978-0-262-24021-5, MR 0505104
+Zariski, Oscar (1979), Lipman, Joseph; Teissier, Bernard (eds.), Collected papers. Vol. IV. Equisingularity on algebraic varieties, Mathematicians of Our Time, vol. 16, MIT Press, ISBN 978-0-262-08049-1, MR 0545653
+
+See also
+Zariski ring
+Zariski tangent space
+Zariski surface
+Zariski topology
+Zariski–Riemann surface
+Zariski space (disambiguation)
+Zariski's lemma
+Zariski's main theorem
+
+Notes
+References
+Blass, Piotr (2013), "The influence of Oscar Zariski on algebraic geometry" (PDF), Notices of the American Mathematical Society
+Mumford, David (1986), "Oscar Zariski: 1899–1986" (PDF), Notices of the American Mathematical Society, 33 (6): 891–894, ISSN 0002-9920, MR 0860889
+Parikh, Carol (2009) [1991], The Unreal Life of Oscar Zariski, Springer, ISBN 9780387094304, MR 1086628
+Gouvêa, Fernando Q. (1 January 2009). "Review of The Unreal Life of Oscar Zariski by Carol Parikh". MAA Reviews, Mathematical Association of America, maa.org.
+
+External links
+
+O'Connor, John J.; Robertson, Edmund F., "Oscar Zariski", MacTutor History of Mathematics Archive, University of St Andrews
+Oscar Zariski at the Mathematics Genealogy Project
+Biography from United States Naval Academy.

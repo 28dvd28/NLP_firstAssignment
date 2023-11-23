@@ -1,0 +1,14 @@
+Wu Jing (Chinese: 吳敬; pinyin: Wú Jìng; Wade–Giles: Wu Ching, fl. 15th century), courtesy name Xinmin (信民), art name Zhu Yi Weng (主一翁), was a Chinese accountant, mathematician, and writer of the Ming dynasty who in 1450 published the arithmetic treatise Jiuzhang Suanfa Bilei Daquan (九章算法比類大全, "Complete Description of the Nine Chapters on Arithmetical Techniques").
+
+Life
+According to the 1488 foreword to Wu Jing's book written by Xiang Qi (項麒), a Ministry of Justice administrator who also hailed from Renhe (仁和, modern Hangzhou), Wu apparently worked as an accountant for several local officials and had a hand on the census, land surveys, and taxations of Zhejiang province.
+
+Work
+Jiuzhang Suanfa Bilei Daquan originally contained nine chapters excluding the "table of contents" chapter. After a fire destroyed many printing woodblocks, Wu Jing's grandson Wu Ne (吳訥) added some materials as he prepared the manuscript for re-printing. Currently, there are at least four extant copies from the Ming dynasty, housed separately in four libraries in Beijing and Shanghai.Every chapter begins with a topic from an "ancient" mathematical book, followed by Wu Jing's explanation of how real-life problems are solved with arithmetics. For example, in the first chapter, "Land" (方田), Wu described how to approximate land areas of different shapes and included 214 problems.
+
+Reception
+Because he was concerned with real-life problems, Wu Jing often preferred approximations over exact solutions. The Ming-period mathematician Cheng Dawei criticized Wu's work as "disorganized and containing numerous mistakes" in his Suanfa tongzong (1592). The Qing-period scholar Mei Wending, however, considered Wu's work superior to Suanfa tongzong.Wu did not come up with new ways of solving older problems; he did, however, invent new methods of using the abacus. He also proposed using colors and visualization to solve math (especially geometric) problems, which may have influenced Chinese cartography.The modern mathematician Qian Baocong noticed several identical arithmetic methods in Wu's work and the slightly later Treviso Arithmetic (1478).
+
+References
+
+Lao Hansheng (劳汉生) (1999). "吴敬《九章算法比类大全》" [Wu Jing's Jiuzhang Suanfa Bilei Daquan]. In Li Di (李迪) (ed.). 中国数学史大系，第六卷：西夏金元明 [Compendium of the History of Chinese Mathematics, Volume Six: Western Xia, Jin, Yuan, and Ming] (in Chinese). Beijing Normal University Press. pp. 330–345. ISBN 7-303-04927-4.

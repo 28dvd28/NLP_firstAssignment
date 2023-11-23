@@ -1,0 +1,31 @@
+Ludolph van Ceulen (German: [fan ˈkɔʏlən], Dutch: [vɑŋˈkøːlə(n)]; 28 January 1540 – 31 December 1610) was a German-Dutch mathematician from Hildesheim. He emigrated to the Netherlands.
+
+Biography
+Van Ceulen moved to Delft most likely in 1576 to teach fencing and mathematics and in 1594 opened a fencing school in Leiden. In 1600 he was appointed the first professor of mathematics at the Engineering School,  Duytsche Mathematique, established by Maurice, Prince of Orange, at the relatively new Leiden University.  He shared this professorial level at the school with the surveyor and cartographer, Simon Fransz van Merwen, which shows that the intention was to promote practical, rather than theoretical instruction.
+The curriculum for the new Engineering School was devised by Simon Stevin who continued to act as the personal advisor to the Prince. At first the professors at Leiden refused to accept the status of Van Ceulen and Van Merwen, especially as they taught in Dutch rather than Latin.  Theological professors generally believed that practical courses were not acceptable studies for a university, but they were not willing to reject the School outright since it was founded by Prince Maurice.
+Leiden University governors heard in April 1600 that Adriaan Metius, a fortification advisor to Prince Maurice and the States General, had been recruited and raised to the level of a full professor to teach mathematics at the rival Franeker University. The Leiden governors' main problem was to match Franeker University, without raising the status too much of Duytsche Mathematique.  So they quickly recruited mathematician Rudolf Snellius to the university—as distinct from the Engineering School—but then relegated him to the Faculty of Arts.
+When the first degrees were to be conferred on Engineering School graduates in 1602 (under protest from the University) the governors and University's senate refused to award them except via an examination conducted by the Universities' own mathematics professor, Rudolf Snellius—ensuring that Van Ceulen and Van Merwen were seen as inferior to the university's own mathematician.
+However Rudolf Snellius and his son Willebrord Snellius (the formulator of Snell's law—who replaced his father) both taught mathematics at Leiden University and appear to have cooperated closely with Van Ceulen, Van Merwen, Simon Stevin and the Engineering School. Willebrord Snellius, in fact, worked closely with Stevin.
+Van Ceulen died in Leiden in 1610.
+
+Calculating π
+Ludolph van Ceulen spent a major part of his life calculating the numerical value of the mathematical constant π, using essentially the same methods as those employed by Archimedes some seventeen hundred years earlier. He published a 20-decimal value in his 1596 book Van den Circkel ("On the Circle"), which was published before he moved to Leiden, and he later expanded this to 35 decimals.Van Ceulen's 20 digits is more than enough precision for any conceivable practical purpose. Even if a circle was perfect down to the atomic scale, the thermal vibrations of the molecules of ink would make most of those digits physically meaningless. Future attempts to calculate π to ever greater precision have been driven primarily by curiosity about the number itself.
+
+Legacy
+After his death, the "Ludolphine number",
+
+3.14159265358979323846264338327950288...,was engraved on his tombstone in Leiden. The tombstone was eventually lost, but later restored in 2000.
+His book "De circulo & adscriptis liber" was translated into Latin after his death by Snellius.In Germany, π is still sometimes referred to as the "Ludolphine number".
+
+See also
+Area of a circle
+
+References
+External links
+Ludolph van Ceulen at the Mathematics Genealogy Project
+"Digits of Pi" by Barry Arthur Cipra (includes photo of tombstone)
+Oomes, R. M. Th. E.; Tersteeg, J. J. T. M.; Top, J. "The epitaph of Ludolph van Ceulen." Nieuw Arch. Wiskd. (5)  1  (2000),  no. 2.  online (in Dutch)
+O'Connor, John J.; Robertson, Edmund F., "Ludolph van Ceulen", MacTutor History of Mathematics Archive, University of St Andrews
+"Ludolph van Ceulen (1540-1610)" (in Dutch). Archived from the original on 5 May 2006. Retrieved 31 March 2008.
+Ludolph van Ceulen (1596) Vanden circkel - Linda Hall Library
+Ludolph van Ceulen (1619) De circulo et adscriptis liber and Surdorum quadraticorum arithmetica - Linda Hall Library

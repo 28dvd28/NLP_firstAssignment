@@ -1,0 +1,25 @@
+John Frank Adams  (5 November 1930 – 7 January 1989) was a British mathematician, one of the major contributors to homotopy theory.
+
+Life
+He was born in Woolwich, a suburb in south-east London, and attended Bedford School. He began his academic career at Trinity College, Cambridge, as a student of Abram Besicovitch, but soon switched to algebraic topology. He received his PhD from the University of Cambridge in 1956.  His thesis, written under the direction of Shaun Wylie, was titled On spectral sequences and self-obstruction invariants. He held the Fielden Chair at the University of Manchester (1964–1970), and became Lowndean Professor of Astronomy and Geometry at the University of Cambridge (1970–1989). He was elected a Fellow of the Royal Society in 1964.
+His interests included mountaineering—he would demonstrate how to climb right round a table at parties (a Whitney traverse)—and the game of Go.
+He died in a car crash in Brampton.  There is a memorial plaque for him in the Chapel of Trinity College, Cambridge.
+
+Work
+In the 1950s, homotopy theory was at an early stage of development, and unsolved problems abounded.  Adams made a number of important theoretical advances in algebraic topology, but his innovations were always motivated by specific problems.  Influenced by the French school of Henri Cartan and Jean-Pierre Serre, he reformulated and strengthened their method of killing homotopy groups in spectral sequence terms, creating the basic tool of stable homotopy theory now known as the Adams spectral sequence. This begins with Ext groups calculated over the ring of cohomology operations, which is the Steenrod algebra in the classical case. He used this spectral sequence to attack the celebrated Hopf invariant one problem, which he completely solved in a 1960 paper by making a deep analysis of secondary cohomology operations.  The Adams–Novikov spectral sequence is an analogue of the Adams spectral sequence using an extraordinary cohomology theory in place of classical cohomology: it is a computational tool of great potential scope.
+Adams was also a pioneer in the application of K-theory. He invented the Adams operations in K-theory, which are derived from the exterior powers; they are now also widely used in purely algebraic contexts.  Adams introduced them in a 1962 paper to solve the famous vector fields on spheres problem. Subsequently he used them to investigate the Adams conjecture, which is concerned (in one instance) with the image of the J-homomorphism in the stable homotopy groups of spheres. A later paper of Adams and Michael F. Atiyah uses the Adams operations to give an extremely elegant and much faster version of the above-mentioned Hopf invariant one result.
+In 1974 Adams became the first recipient of the Senior Whitehead Prize, awarded by the London Mathematical Society. He was a visiting scholar at the Institute for Advanced Study in 1957–58.Adams had many talented students, and was highly influential in the development of algebraic topology in Britain and worldwide. His University of Chicago lectures were published in a 1996 series titled "Chicago Lectures in Mathematics Series", such as Lectures on Exceptional Lie Groups and Stable Homotopy and Generalised Homology ISBN 0-226-00524-0 .
+
+Recognition
+The main mathematics research seminar room in the Alan Turing Building at the University of Manchester is named in his honour.
+
+See also
+Adams filtration
+
+References
+Publications
+Adams, J. Frank (1992), May, J. Peter; Thomas, Charles B. (eds.), The selected works of J. Frank Adams. Vol. I, Cambridge University Press, ISBN 0-521-41063-0, MR 1203312
+Adams, J. Frank (1992), May, J. Peter; Thomas, Charles B. (eds.), The selected works of J. Frank Adams. Vol. II, Cambridge University Press, ISBN 978-0-521-11068-6, MR 1203312
+
+External links
+Frank Adams at Find a Grave

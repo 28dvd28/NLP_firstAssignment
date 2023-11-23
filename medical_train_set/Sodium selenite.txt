@@ -1,0 +1,21 @@
+Sodium selenite is the inorganic compound with the formula Na2SeO3. This salt is a colourless solid.  The pentahydrate Na2SeO3(H2O)5 is the most common water-soluble selenium compound.
+
+Synthesis and fundamental reactions
+Sodium selenite usually is prepared by the reaction of selenium dioxide with sodium hydroxide:
+SeO2  +  2 NaOH   →   Na2SeO3  +  H2OThe hydrate converts to the anhydrous salt upon heating to 40 °C.
+According to X-ray crystallography, both anhydrous Na2SeO3 and its pentahydrate feature pyramidal SeO32−.  The Se-O distances range from 1.67 to 1.72 Å. Oxidation of this anion gives sodium selenate, Na2SeO4.
+
+Applications
+Together with the related barium and zinc selenites, sodium selenite is mainly used in the manufacture of colorless glass. The pink color imparted by these selenites cancels out the green color imparted by iron impurities.Because selenium is an essential element, sodium selenite is an ingredient in dietary supplements such as multi-vitamin/mineral products, but supplements that provide only selenium use L-selenomethionine or a selenium-enriched yeast.
+The US Food and Drug Administration approved a selenium supplement to animal diets; the most common form is sodium selenite for pet foods. According to one article, "not much was known about which selenium compounds to approve for use in animal feeds when the decisions were made back in the 1970s .. At the time the regulatory action was taken, only the inorganic selenium salts (sodium selenite and sodium selenate) were available at a cost permitting their use in animal feed.”
+Sodium selenite has been proposed as an effective suicide agent.
+
+Safety
+Selenium is toxic in high concentrations. As sodium selenite, the chronic toxic dose for human beings was described as about 2.4 to 3 milligrams of selenium per day. In 2000, the U.S. Institute of Medicine set the adult Tolerable upper intake levels (UL) for selenium from all sources - food, drinking water and dietary supplements - at 400 μg/day. The European Food Safety Authority reviewed the same safety question and set its UL at 300 μg/day.
+
+See also
+Selenite (ion)
+
+References
+External links
+Linus Pauling Institute page on selenium

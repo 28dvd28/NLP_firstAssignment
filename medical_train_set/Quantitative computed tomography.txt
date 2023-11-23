@@ -1,0 +1,53 @@
+Quantitative computed tomography (QCT) is a medical technique that measures bone mineral density (BMD) using a standard X-ray Computed Tomography (CT) scanner with a calibration standard to convert Hounsfield Units (HU) of the CT image to bone mineral density values.  Quantitative CT scans are primarily used to evaluate bone mineral density at the lumbar spine and hip.
+In general, solid phantoms placed in a pad under the patient during CT image acquisition are used for calibration. These phantoms contain materials that represent a number of different equivalent bone mineral densities. Usually either calcium hydroxyapatite (CaHAP) or potassium phosphate (K2HPO4) are used as the reference standard.
+
+History
+QCT was invented at University of California San Francisco (UCSF) during the 1970s.   Douglas Boyd, PhD and Harry Genant, MD used a CT head scanner to do some of the seminal work on QCT.
+At the same time, CT imaging technology progressed rapidly and Genant and Boyd worked with one of EMI's first whole body CT systems in the late 1970s and early 1980s to apply the quantitative CT method to the spine, coining the term "QCT." Genant later published several articles on spinal QCT in the early 1980s with Christopher E. Cann, PhD. Today, QCT is being used in hundreds of medical imaging centers around the world, both clinically and as a powerful research tool.
+
+Three-dimensional QCT imaging
+Originally, conventional 2D QCT used individual, thick CT slice images through each of multiple vertebrae which involved tilting the CT scanner gantry to align the slice with each vertebra.  Today, modern 3D QCT uses the ability of CT scanners to rapidly acquire multiple slices to construct three-dimensional images of the human body.  Using 3D imaging substantially reduced image acquisition time, improved reproducibility and enabled QCT bone density analysis of the hip.
+
+Diagnostic use
+QCT exams are typically used in the diagnosis and monitoring of osteoporosis.
+
+Lumbar spine
+At the spine, QCT is used to measure the bone mineral density of only the spongy interior bone separately from the dense cortical bone that forms the exterior walls of the vertebrae. The trabecular bone has much higher metabolic activity than the cortical bone and so is affected by age, disease and therapy-related changes earlier and to a greater degree than cortical bone. This means that QCT of the spine has an advantage compared to other bone density tests because earlier changes in bone mineral density may be detected .
+
+Hip
+Clinically, QCT is used at the hip to produce areal BMD measurements and T-Scores that are equivalent to DXA measurements. The exam can be done without particular attention to the positioning of the patient's limbs because the software allows the hip anatomy to be manipulated after the image is captured, allowing the exam to be performed on patients with arthritic hips who may find traditional exams uncomfortable.
+
+Contraindications for use
+QCT bone densitometry should not be used for patients who have the following conditions:
+
+Patients who have recently had another radiological procedure that includes the introduction of high density contrast material (barium, iodine, thorotrast, thorium) or radio-opaque catheters and tubes.
+Patients who are pregnant or may be pregnant.
+
+Radiation dose
+QCT scan protocols are low-dose and can limit the amount of radiation exposure to between 200-400μSv for a spine exam This is comparable to a set of mammograms and typically substantially less than a standard CT exam. Using other non-IV contrast abdominal or pelvic scans such as a Virtual Colonography studies, the QCT exam can be performed without requiring any further image acquisition or consequent radiation dose to the patient.
+
+Advantages
+QCT enables spine BMD measurements on patients with scoliosis, which cannot usually be measured using Dual-energy X-ray absorptiometry (DXA). In addition, QCT can avoid the artificially high BMD measurements that can confuse the results from DXA in arthritic patients, patients who are obese, who suffer from disc space narrowing or spinal degenerative diseases, aortic calcification or osteophytes.
+
+Reproducibility
+Short-term precision estimates of BMD measurement by 3D QCT have been published for the lumbar spine as 0.8% and femoral neck as 0.69%.
+
+Dual use of CT images
+Several studies have shown that bone density may be measured by QCT using CT images that were ordered for other purposes.  Using pre-existing images, including CT colonography exams, QCT allows for bone density screening without submitting the patient to any additional radiation exposure. The feasibility of using routine abdominal contrast-enhanced CT scans for the evaluation of bone density by QCT has also been demonstrated.
+
+Reporting
+Average bone mineral density is calculated and then compared to age and sex matched controls. At the spine, a volumetric BMD measurement is made using QCT and rather than using T-Scores, it should be compared to guideline thresholds from the American College of Radiology (ACR): a BMD < 80 mg/cm3 indicates osteoporosis; a BMD < 120 mg/cm3 and > 80 mg/cm3 indicates osteopenia; and a BMD above 120 mg/cm3 is considered normal.
+At the hip, a DXA-equivalent T-score may be calculated for comparison to the WHO classification at the proximal femur as normal, osteopenia (T-Score < -1.0 and > -2.5) or osteoporosis (T-Score < -2.5). This T-Score may also be used for fracture risk probability calculation in the WHO FRAX tool with "T-Score" as the appropriate DXA setting.
+
+Peripheral quantitative computed tomography
+In medicine, peripheral quantitative computed tomography, commonly abbreviated pQCT, is a type of quantitative computed tomography (QCT), used for making measurements of the bone mineral density (BMD) in a peripheral part of the body, such as the forearms or legs as opposed to QCT that measures bone mineral density at the hip and spine. It is useful for measuring bone strength.
+
+Comparison to DXA
+Unlike most other common techniques for measuring BMD, a pQCT scan is able to measure volumetric bone mineral density, plus other measures such as the stress-strain index (SSI) and the geometry of the bone. DXA is only able to provide the areal bone mineral density.
+High-resolution peripheral quantitative computed tomography (HR-pQCT) is better than DXA at detecting bone microarchitecture, modeling whole-bone geometry using 3-dimensional information from scans. This method allows estimation of bone strength and other mechanical properties.
+
+See also
+Dual energy X-ray absorptiometry (DXA)
+
+
+== References ==

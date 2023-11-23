@@ -1,0 +1,24 @@
+In anesthesia, the Mallampati score or Mallampati classification,  named after the Indian anaesthesiologist Seshagiri Mallampati, is used to predict the ease of endotracheal intubation. The test comprises a visual assessment of the distance from the tongue base to the roof of the mouth, and therefore the amount of space in which there is to work. It is an indirect way of assessing how difficult an intubation will be; this is more definitively scored using the Cormack–Lehane classification system, which describes what is actually seen using direct laryngoscopy during the intubation process itself. A high Mallampati score (class 3 or 4) is associated with more difficult intubation as well as a higher incidence of sleep apnea.
+
+Technique
+The score is assessed by asking the patient, in a sitting posture, to open their mouth and to protrude the tongue as much as possible. The anatomy of the oral cavity is visualized; specifically, the assessor notes whether the base of the uvula, faucial pillars (the arches in front of and behind the tonsils) and soft palate are visible. Scoring is generally done without phonation. Depending on whether the tongue is maximally protruded and/or the patient asked to phonate, the scoring may vary.Modified Mallampati Scoring:
+Class I: Soft palate, uvula, fauces, pillars visible.
+Class II: Soft palate, major part of uvula, fauces visible.
+Class III: Soft palate, base of uvula visible.
+Class IV: Only hard palate visible.Original Mallampati Scoring:
+Class 1: Faucial pillars, soft palate and uvula could be visualized.
+Class 2: Faucial pillars and soft palate could be visualized, but uvula was masked by the base of the tongue.
+Class 3: Only soft palate visualized.Further research may be needed to determine the most effective consistent and predictive approach on which to standardize Mallampati Scoring.
+
+Clinical significance
+While Mallampati classes I and II are associated with relatively easy intubation, classes III and IV are associated with increased difficulty.
+A systematic review of 42 studies, with 34,513 participants, found that the modified Mallampati score is a good predictor of difficult direct laryngoscopy and intubation, but poor at predicting difficult bag mask ventilation. Therefore, the study concluded that while useful in combination with other tests to predict the difficulty of an airway, it is not sufficiently accurate alone.
+
+See also
+Cormack-Lehane classification system
+Simplified Airway Risk Index
+Thyromental distance
+
+References
+External links
+Mallampati score - fpnotebook.com

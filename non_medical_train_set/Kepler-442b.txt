@@ -1,0 +1,43 @@
+Kepler-442b (also known by its Kepler object of interest designation KOI-4742.01) is a confirmed near-Earth-sized exoplanet, likely rocky, orbiting within the habitable zone of the K-type main-sequence star Kepler-442, about 1,206 light-years (370 pc) from Earth in the constellation of Lyra.The planet orbits its host star at a distance of about 0.409 AU (61.2 million km; 38.0 million mi) with an orbital period of roughly 112.3 days. It has a mass of around 2.3 and has a radius of about 1.34 times that of Earth. It is one of the more promising candidates for potential habitability, as its parent star is at least 40% less massive than the Sun – thus, it can have a lifespan of about 30 billion years.The planet was discovered by NASA's Kepler spacecraft using the transit method, in which it measures the dimming effect that a planet causes as it crosses in front of its star. NASA announced the confirmation of the exoplanet on 6 January 2015.
+
+Physical characteristics
+Mass, radius, and temperature
+Kepler-442b is a super-Earth, an exoplanet with a mass and radius bigger than Earth's but smaller than the ice giants Uranus and Neptune. It has an equilibrium temperature of 233 K (−40 °C; −40 °F). It has a radius of 1.34 R🜨. Because of its radius, it is likely to be a rocky planet with a solid surface. The mass of the exoplanet is estimated to be 2.36 MEarth. The surface gravity on Kepler-442b would be 30% stronger than Earth, assuming a rocky composition similar to that of Earth.
+
+Host star
+The planet orbits a (K-type) star named Kepler-442. The star has a mass of 0.61 M☉ and a radius of 0.60 R☉. It has a temperature of 4,402 K (4,129 °C; 7,464 °F) and is around 2.9 billion years old, with some uncertainty. In comparison, our Sun is 4.6 billion years old and has a temperature of 5,778 K (5,505 °C; 9,941 °F). The star is somewhat metal-poor, with a metallicity (Fe/H) of −0.37, or 43% of the solar amount. Its luminosity (L☉) is 12% that of the Sun.
+The star's apparent magnitude, or how bright it appears from Earth's perspective, is 14.76. Therefore, it is too dim to be seen with the naked eye.
+
+Orbit
+Kepler-442b orbits its host star with an orbital period of 112 days. It has an orbital radius of about 0.4 AU (60 million km; 37 million mi) (slightly larger than the distance of Mercury from the Sun, which is approximately 0.38 AU (57 million km; 35 million mi)). It receives about 70% of Earth's sunlight from the Sun.
+
+Habitability
+The planet is in the habitable zone of its star, a region where liquid water could exist on the planet's surface. It is one of the most Earth-like planets yet found in size and temperature. It is just outside the zone (around 0.362 AU (54.2 million km; 33.7 million mi)) in which tidal forces from its host star would be enough to fully tidally lock it. As of July 2018, Kepler-442b was considered the most habitable non-tidally-locked exoplanet discovered.
+
+Stellar factors
+K-type main-sequence stars are smaller than the Sun and live longer, remaining on the main sequence for 18 to 34 billion years compared to the Sun's estimated lifespan of 10 billion years. Despite these properties, the small M-type and K-type stars can threaten life. Because of their high stellar activity at the beginning of their lives, they emit strong solar winds. The duration of this period is inversely linked to the size of the star. However, because of the uncertainty of the age of Kepler-442, it is likely it may have passed this stage, making Kepler-442b potentially more suitable for habitability.
+
+Tidal effects and further reviews
+Because Kepler-442b is closer to its star than Earth is to the Sun, the planet will probably rotate much more slowly than Earth; its day could be weeks or months long (see Tidal effects on rotation rate, axial tilt, and orbit). This is reflected in its orbital distance, just outside of the point where the tidal interactions from its star would be strong enough to tidally lock it. Kepler-442b's axial tilt (obliquity) is likely tiny, in which case it would not have tilt-induced seasons as Earth and Mars do. Its orbit is probably close to circular (eccentricity 0.04), so it will also lack eccentricity-induced seasonal changes like Mars.
+One review essay in 2015 concluded that Kepler-442b, Kepler-186f, and Kepler-62f were likely the best candidates for being potentially habitable planets. Also, according to an index developed in 2015, Kepler-442b is even more likely to be habitable than a hypothetical "Earth twin" with physical and orbital parameters matching those of Earth. Going by this index, Earth has a rating of 0.829, but Kepler-442b has a rating of 0.836. The actual habitability is uncertain because Kepler-442b's atmosphere and surface are unknown. The paper introducing the habitability index clarifies that a higher-than-Earth value "does not mean these planets are 'more habitable' than Earth".
+
+Discovery and follow-up studies
+In 2009, NASA's Kepler spacecraft was completing observing stars on its photometer, the instrument it uses to detect transit events when a planet crosses in front of and dims its host star for a brief and roughly regular period. In this last test, Kepler observed 50,000 stars in the Kepler Input Catalog, including Kepler-442; the telescope sent the preliminary light curves to the Kepler science team for analysis, who chose prominent planetary companions from the bunch for follow-up at observatories. Observations for the potential exoplanet candidates took place between 13 May 2009 and 17 March 2012. After observing the respective transits, which for Kepler-442b occurred roughly every 113 days (its orbital period), the scientists eventually concluded that a planetary body was responsible for the periodic 113-day transits. The discovery, along with the unique planetary systems of the stars Kepler-438 and Kepler-440, was announced on 6 January 2015.At nearly 370 parsecs (1,200 ly) distant, Kepler-442b is too remote and its star too far for current telescopes or the next generation of planned telescopes to determine its mass or whether it has an atmosphere. The Kepler spacecraft focused on a single small region of the sky. Still, next-generation planet-hunting space telescopes, such as TESS and CHEOPS, will examine nearby stars throughout the sky.
+The James Webb Space Telescope and future large ground-based telescopes can then study nearby stars with planets to analyze atmospheres, determine masses, and infer compositions. Additionally, the Square Kilometer Array would significantly improve radio observations over the Arecibo Observatory and Green Bank Telescope.
+
+See also
+List of potentially habitable exoplanets
+Kepler-62f
+Kepler-186f
+Kepler-452b
+Kepler-440b
+Kepler-438b
+
+References
+External links
+
+NASA – Mission overview.
+NASA – Kepler Discoveries – Summary Table.
+NASA – Kepler-442b at The NASA Exoplanet Archive.
+NASA – Kepler-442b at Extrasolar Planets Encyclopaedia.
+Habitable Exolanets Catalog at UPR-Arecibo.

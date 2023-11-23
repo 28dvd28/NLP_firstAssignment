@@ -1,0 +1,17 @@
+In medicine, LDL apheresis is a form of apheresis, resembling dialysis, to eliminate the cholesterol-containing particle low-density lipoprotein (LDL) from the bloodstream.
+
+Uses
+It is used in diseases featuring high LDL, such as the rare homozygous familial hypercholesterolemia, when the heterozygous form does not respond to medical treatment, or when the treatment has led to dangerous side-effects (such as rhabdomyolysis).
+The procedure takes 2–4 hours and must be repeated every several weeks to keep the LDL levels from accumulation and causing cardiovascular disease.
+It is an expensive procedure, limiting its use to severe cases of hyperlipidemia.
+
+Principles
+LDL apheresis works by leading venous blood through a column containing beads coated with antibodies to apolipoprotein B (the main protein of LDL particles), dextran sulfate cellulose beads, modified polyacrylate beads, or by precipitating LDL with heparin at low pH, double membrane filtration or immunoadsorption utilizing Lp(a)-specific antibodies. In all cases (apart from polyacrylate absorption), plasma is separated from cells by a cell separator.
+
+References
+Gordon BR, Incorporation of Low-Density Lipoprotein Apheresis into the Treatment Program of Patients With Severe Hypercholesterolemia. Current Atherosclerosis Reports 2000;2:308-313. PMID 11122759.
+Thompson GR. LDL Apheresis. Atherosclerosis 2003;167:1-13. PMID 12618263.
+Vella A, Pineda AA, O'Brien T. Low-density lipoprotein apheresis for the treatment of refractory hyperlipidemia. Mayo Clin Proc 2001;76:1039-46. PMID 11605688.
+
+External links
+Official website of American Society for Apheresis (ASFA)

@@ -1,0 +1,18 @@
+Nathan Michael Dunfield (born 1975) is an American mathematician, specializing in Topology.
+
+Career
+Dunfield did his undergraduate studies at Oregon State University, obtaining a B.S. in mathematics in 1994. For his graduate studies, he went to the  University of Chicago, obtaining his Ph.D. in 1999, with a thesis on Cyclic Surgery, Degrees of Maps of Character Curves, and Volume Rigidity for Hyperbolic Manifolds written under the supervision of Peter Shalen and Melvin Rothenberg.He then was a Benjamin Peirce Assistant Professor at Harvard University (1999–2003) and an associate professor at the California Institute of Technology (2003–2007), after which he moved to the University of Illinois at Urbana–Champaign, where he was promoted to professor in 2018.
+
+Work
+Dunfield is an expert in group theory, low-dimensional topology, three-manifolds, and computational aspects of these fields.  He is also, with Marc Culler, one of the key developers of the program SnapPy, the modern version of Jeffrey Weeks' program SnapPea.
+Dunfield is an editor for the New York Journal of Mathematics.
+
+Selected publications
+Dunfield, Nathan; Gukov, Sergei; Rasmussen, Jake; The superpolynomial for knot homologies. Experimental Mathematics 15 (2006), 129–159. math.GT/0505662.
+Dunfield, Nathan; Calegari, Danny; Laminations and groups of homeomorphisms of the circle. Inventiones Mathematicae 152 (2003) 149–207. math.GT/0203192.
+Dunfield, Nathan; Cyclic surgery, degrees of maps of character curves, and volume rigidity for hyperbolic manifolds. Inventiones Mathematicae 136 (1999) 3, 623–657. math.GT/9802022.
+
+References
+External links
+"Publications of Nathan Dunfield".
+"Dunfield's home page at UIUC".

@@ -1,0 +1,46 @@
+Mihnea Popa (born 11 August 1973) is a Romanian-American mathematician at Harvard University, specializing in algebraic geometry.  He is known for his work on complex birational geometry, Hodge theory, abelian varieties, and vector bundles.
+
+Academic career
+Popa received his bachelor's degree in 1996 from the University of Bucharest. He studied mathematics at the University of California, Los Angeles from 1996 to 1997, and then in 2001 he received his Ph.D. from the University of Michigan under the supervision of Robert Lazarsfeld. His thesis was titled Linear Series on Moduli Spaces of Vector Bundles on Curves. From 2001 to 2005, Popa was a Benjamin Peirce Assistant Professor at Harvard University and from 2005 to 2007 an assistant professor at the University of Chicago. He joined the University of Illinois at Chicago as an associate professor in 2007 and became a full professor in 2011. In 2014 he moved to Northwestern University, and in 2020 he became a professor at Harvard University.
+
+Awards and honors
+Popa is an honorary member of the Institute of Mathematics of the Romanian Academy. He was an AMS Centennial Fellow in 2005–2007, a Sloan Research Fellow in 2007–2009, and a Simons Fellow in 2015–2016. In 2015 he became a fellow of the American Mathematical Society. In 2018 he was an Invited Speaker at the International Congress of Mathematicians  in Rio de Janeiro.
+
+Selected publications
+Pareschi, Giuseppe; Popa, Mihnea (2003). "Regularity on abelian varieties I". Journal of the American Mathematical Society. 16 (2): 285–302. arXiv:math/0110003. doi:10.1090/S0894-0347-02-00414-9. MR 1949161. S2CID 15351749.
+Farkas, Gavril; Popa, Mihnea (2005). "Effective divisors on 
+  
+    
+      
+        
+          
+            
+              
+                M
+              
+              ¯
+            
+          
+          
+            g
+          
+        
+      
+    
+    {\displaystyle {\overline {\mathcal {M}}}_{g}}
+  , curves on K3 surfaces, and the slope conjecture". Journal of Algebraic Geometry. 14 (2): 241–267. arXiv:math/0305112. doi:10.1090/S1056-3911-04-00392-3. MR 2123229. S2CID 1659630.
+Ein, Lawrence; Lazarsfeld, Robert; Mustață, Mircea; Nakamaye, Michael; Popa, Mihnea (2006). "Asymptotic invariants of base loci". Annales de l'Institut Fourier. 56 (6): 1701–1734. arXiv:math/0308116. doi:10.5802/aif.2225. MR 2282673. S2CID 33125067.
+Lazarsfeld, Robert; Popa, Mihnea (2010). "Derivative complex, BGG correspondence, and numerical inequalities for compact Kähler manifolds". Inventiones Mathematicae. 182 (3): 605–633. arXiv:0907.0651. Bibcode:2010InMat.182..605L. doi:10.1007/s00222-010-0269-4. MR 2737707. S2CID 667056.
+Popa, Mihnea; Schnell, Christian (2013). "Generic vanishing theory via mixed Hodge modules". Forum of Mathematics, Sigma. 1: Paper No. e1, 60 pp. arXiv:1112.3058. doi:10.1017/fms.2013.1. MR 3090229. S2CID 26554421.
+Popa, Mihnea; Schnell, Christian (2014). "Kodaira dimension and zeros of holomorphic one-forms". Annals of Mathematics. 179 (3): 1109–1120. arXiv:1212.5714. doi:10.4007/annals.2014.179.3.6. MR 3171760. S2CID 8073319.
+Popa, Mihnea (2016). "Kodaira–Saito vanishing and applications". L'Enseignement mathématique. 62 (1): 49–89. arXiv:1407.3294. doi:10.4171/LEM/62-1/2-5. MR 3605809. S2CID 32670893.
+Positivity for Hodge modules and geometric applications, in Proceedings of Symposia in Pure Mathematics, Vol. 97, Part I, Algebraic Geometry: Salt Lake City 2015, pp. 555–584. arXiv:1605.08093
+Mustață, Mircea; Popa, Mihnea (2019). "Hodge Ideals". Memoirs of the American Mathematical Society. 262 (1268): v+80 pp. arXiv:1605.08088. doi:10.1090/memo/1268. ISBN 978-1-4704-3781-7. MR 4044463. S2CID 119700627.
+Popa, Mihnea; Schnell, Christian (18 October 2016). "Viehweg's hyperbolicity conjecture for families with maximal variation". Inventiones Mathematicae. Springer Science and Business Media LLC. 208 (3): 677–713. arXiv:1511.00294. doi:10.1007/s00222-016-0698-9. ISSN 0020-9910. S2CID 34920237.
+Pareschi, Giuseppe; Popa, Mihnea; Schnell, Christian (19 May 2017). "Hodge modules on complex tori and generic vanishing for compact Kähler manifolds". Geometry & Topology. Mathematical Sciences Publishers. 21 (4): 2419–2460. arXiv:1505.00635. doi:10.2140/gt.2017.21.2419. ISSN 1364-0380. S2CID 20275751.
+Mustață, Mircea; Popa, Mihnea (2020). "Hodge Ideals for -Divisors, -Filtration, and Minimal Exponent". Forum of Mathematics, Sigma. Cambridge University Press (CUP). 8. doi:10.1017/fms.2020.18. ISSN 2050-5094. S2CID 218780383.
+
+References
+External links
+Homepage
+Mihnea Popa publications indexed by Google Scholar

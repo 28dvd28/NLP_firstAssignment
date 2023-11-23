@@ -1,0 +1,14 @@
+The Deauville 5-point scoring system is an internationally  accepted and utilized five-point scoring system for the fluorodeoxyglucose (FDG) avidity of a Hodgkin lymphoma or Non-Hodgkin lymphoma tumor mass as seen on FDG positron emission tomography:
+Score 1: No uptake above the background
+Score 2: Uptake ≤ mediastinum
+Score 3: Uptake > mediastinum but ≤ liver
+Score 4: Uptake moderately increased compared to the liver at any site
+Score 5: Uptake markedly increased compared to the liver at any site
+Score X: New areas of uptake unlikely to be related to lymphoma
+Scores of 1 and 2 are considered to be negative and 4 and 5 are considered to be positive. "Score 3 should be interpreted according to the clinical context but in many Hodgkin Lymphoma patients indicates a good prognosis with standard treatment."
+
+History
+Deauville score was developed at Guy's and Saint Thomas Hospital in London after an international meeting at Deauville, France in 2009.
+
+
+== References ==

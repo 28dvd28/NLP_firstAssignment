@@ -1,0 +1,32 @@
+Iobenguane, or MIBG, is an aralkylguanidine analog of the adrenergic neurotransmitter norepinephrine (noradrenaline), typically used as a radiopharmaceutical. It acts as a blocking agent for adrenergic neurons. When radiolabeled, it can be used in nuclear medicinal diagnostic and therapy techniques as well as in neuroendocrine chemotherapy treatments.
+It localizes to adrenergic tissue and thus can be used to identify the location of tumors such as pheochromocytomas and neuroblastomas. With iodine-131 it can also be used to treat tumor cells that take up and metabolize norepinephrine.
+
+Usage and mechanism
+MIBG is absorbed by and accumulated in granules of adrenal medullary chromaffin cells, as well as in pre-synaptic adrenergic neuron granules. The process in which this occurs is closely related to the mechanism employed by norepinephrine and its transporter in vivo. The norepinephrine transporter (NET) functions to provide norepinephrine uptake at the synaptic terminals and adrenal chromaffin cells. MIBG, by bonding to NET, finds its roles in imaging and therapy.
+
+Metabolites and excretion
+Less than 10% of the administered MIBG gets metabolized into m-iodohippuric acid (MIHA), and the mechanism for how this metabolite is produced is unknown.
+
+Diagnostic imaging
+MIBG concentrates in endocrine tumors, most commonly neuroblastoma, paraganglioma, and pheochromocytoma. It also accumulates in norepinephrine transporters in adrenergic nerves in the heart, lungs, adrenal medulla, salivary glands, liver, and spleen, as well as in tumors that originate in the neural crest. When labelled with iodine-123 it serves as a whole-body, non-invasive scintigraphic screening for germ-line, somatic, benign, and malignant neoplasms originating in the adrenal glands. It can detect both intra and extra-adrenal disease. The imaging is highly sensitive and specific.Iobenguane concentrates in presynaptic terminals of the heart and other autonomically innervated organs. This enables the possible non-invasive use as an in vivo probe to study these systems.Alternatives to imaging with 123I-MIBG, for certain indications and under clinical and research use, include the positron-emitting isotope iodine-124, and other radiopharmaceuticals such as 68Ga-DOTA and 18F-FDOPA for positron emission tomography (PET). 123I-MIBG imaging on a gamma camera can offer significantly higher cost-effectiveness and availability compared to PET imaging, and is particularly effective where 131I-MIBG therapy is subsequently planned, due to their directly comparable uptake.
+
+Side effects
+Side effects post imaging are rare but can include tachycardia, pallor, vomiting, and abdominal pain.
+
+Radionuclide therapy
+MIBG can be radiolabelled with the beta emitting radionuclide 131I for the treatment of certain pheochromocytomas, paragangliomas, carcinoid tumors, neuroblastomas, and medullary thyroid cancer.
+
+Thyroid precautions
+Thyroid blockade with (nonradioactive) potassium iodide is indicated for nuclear medicine scintigraphy with iobenguane/mIBG. This competitively inhibits radioiodine uptake, preventing excessive radioiodine levels in the thyroid and minimizing risk of thyroid ablation (in treatment with 131I). The minimal risk of thyroid cancer is also reduced as a result.The dosing regime for the FDA-approved commercial 123I-MIBG product Adreview is potassium iodide or Lugol's solution containing 100 mg iodide, weight adjusted for children and given an hour before injection. EANM guidelines, endorsed by the SNMMI, suggest a variety of regimes in clinical use, for both children and adults.Product labeling for diagnostic 131I iobenguane recommends giving potassium iodide one day before injection and continuing 5 to 7 days following.  131I iobenguane used for therapeutic purposes requires a different pre-medication duration, beginning 24–48 hours before iobenguane injection and continuing 10–15 days after injection.
+
+Clinical trials
+Iobenguane I 131 for cancers
+Iobenguane I 131, marketed under the trade name Azedra, has had a clinical trial as a treatment for malignant, recurrent or unresectable pheochromocytoma and paraganglioma, and the FDA approved it on July 30, 2018. The drug is developed by Progenics Pharmaceuticals.
+
+References
+External links
+"Iobenguane". Drug Information Portal. U.S. National Library of Medicine.
+"Iobenguane I 131". Drug Information Portal. U.S. National Library of Medicine.
+"Iobenguane I 123". Drug Information Portal. U.S. National Library of Medicine.
+"iobenguane I 131". NCI Drug Dictionary.
+"Iobenguane I 131". National Cancer Institute. 15 August 2018.

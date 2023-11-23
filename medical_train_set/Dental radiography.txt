@@ -1,0 +1,256 @@
+Dental radiographs, commonly known as X-rays, are radiographs used to diagnose hidden dental structures, malignant or benign masses, bone loss, and cavities.
+A radiographic image is formed by a controlled burst of X-ray radiation which penetrates oral structures at different levels, depending on varying anatomical densities, before striking the film or sensor. Teeth appear lighter because less radiation penetrates them to reach the film. Dental caries, infections and other changes in the bone density, and the periodontal ligament, appear darker because X-rays readily penetrate these less dense structures. Dental restorations (fillings, crowns) may appear lighter or darker, depending on the density of the material.
+The dosage of X-ray radiation received by a dental patient is typically small (around 0.150 mSv for a full mouth series), equivalent to a few days' worth of background environmental radiation exposure, or similar to the dose received during a cross-country airplane flight (concentrated into one short burst aimed at a small area). Incidental exposure is further reduced by the use of a lead shield, lead apron, sometimes with a lead thyroid collar. Technician exposure is reduced by stepping out of the room, or behind adequate shielding material, when the X-ray source is activated.
+Once photographic film has been exposed to X-ray radiation, it needs to be developed, traditionally using a process where the film is exposed to a series of chemicals in a dark room, as the films are sensitive to normal light. This can be a time-consuming process, and incorrect exposures or mistakes in the development process can necessitate retakes, exposing the patient to additional radiation. Digital X-rays, which replace the film with an electronic sensor, address some of these issues, and are becoming widely used in dentistry as the technology evolves. They may require less radiation and are processed much more quickly than conventional radiographic films, often instantly viewable on a computer. However digital sensors are extremely costly and have historically had poor resolution, though this is much improved in modern sensors.
+
+It is possible for both tooth decay and periodontal disease to be missed during a clinical exam, and radiographic evaluation of the dental and periodontal tissues is a critical segment of the comprehensive oral examination. The photographic montage at right depicts a situation in which extensive decay had been overlooked by a number of dentists prior to radiographic evaluation.
+
+Intraoral radiographic views
+Placing the radiographic film or sensor inside the mouth produces an intraoral radiographic view.
+
+Periapical view
+Periapical radiographs are taken to evaluate the periapical area of the tooth and surrounding boneFor periapical radiographs, the film or digital receptor should be placed parallel vertically to the full length of the teeth being imaged.The main indications for periapical radiography are
+Detect apical inflammation/ infection including cystic changes
+Assess periodontal problems
+Trauma-fractures to tooth and/or surrounding bone
+Pre/ post apical surgery/extraction. Pre extraction planning for any developmental anomalies and root morphology. Post extraction radiographs for any root fragments any other co-lateral damages.
+Detect any presence or position of unerupted teeth
+Endodontics. For any endodontic treatment, a pre-treatment radiograph is taken to measure the working length of the canals and this measurement is confirmed with electronic apex locator. A 'cone fit' radiograph is used when Master Apical Cone is placed in wet canal to correct working length to achieve frictional fit apically. Next, obturation verification radiograph is indicated after the canal space is fully filled with master cone, sealer and accessory cones. In the end, a final radiograph is taken after a definitive restoration is placed to check the final outcome of root canal treatment.
+Evaluation of implants.Intraoral periapical radiographs are widely used for the preoperative due to its simple technique, low cost and less radiation exposure and widely available in clinical settings.
+
+Bitewing view
+The bitewing view is taken to visualize the crowns of the posterior teeth and the height of the alveolar bone in relation to the cementoenamel junctions, which are the demarcation lines on the teeth which separate tooth crown from tooth root. Routine bitewing radiographs are commonly used to examine for interdental caries and recurrent caries under existing restorations. When there is extensive bone loss, the films may be situated with their longer dimension in the vertical axis so as to better visualize their levels in relation to the teeth. Because bitewing views are taken from a more or less perpendicular angle to the buccal surface of the teeth, they more accurately exhibit the bone levels than do periapical views. Bitewings of the anterior teeth are not routinely taken.
+The name bitewing refers to a little tab of paper or plastic situated in the center of the X-ray film, which when bitten on, allows the film to hover so that it captures an even amount of maxillary and mandibular information.
+
+Occlusal view
+The occlusal view reveals the skeletal or pathologic anatomy of either the floor of the mouth or the palate. The occlusal film, which is about three to four times the size of the film used to take a periapical or bitewing, is inserted into the mouth so as to entirely separate the maxillary and mandibular teeth, and the film is exposed either from under the chin or angled down from the top of the nose. Sometimes, it is placed in the inside of the cheek to confirm the presence of a sialolith in Stenson's duct, which carries saliva from the parotid gland. The occlusal view is not included in the standard full mouth series.
+1. Anterior oblique occlusal mandible – 45°
+Technique: the collimator is positioned in the midline, thru the chin aiming an angle of 45° to the image receptor which is placed centrally into the mouth, on to the occlusal surface of the lower arch.
+Indications:
+1) Periapical status of lower incisor teeth for patients who cannot tolerate periapical radiographs.
+2) Assess the size of lesions such as cyst or tumours at anterior area of mandible
+2. Lateral oblique occlusal mandible – 45°
+Technique: The collimator is positioned from below and behind the angle of mandible and parallel to the lingual surface of the mandible, aiming upwards and forwards at the image receptors which is placed centrally into the mouth, on to the occlusal surface of lower arch. Patients must turn their head away from the side of investigation.
+Indications:
+1)    Detection of any sialoliths in submandibular salivary glands
+2)    Used to demonstrate unerupted lower 8's
+3)    Assess the size of lesions such as cyst or tumours in the posterior of body and angle of mandible
+
+Full mouth series
+A full mouth series is a complete set of intraoral X-rays taken of a patients' teeth and adjacent hard tissue. This is often abbreviated as either FMS or FMX (or CMRS, meaning Complete Mouth Radiographic Series). The full mouth series is composed of 18 films, taken the same day:
+
+four bitewings
+two molar bitewings (left and right)
+two premolar bitewings (left and right)
+eight posterior periapicals
+two maxillary molar periapicals (left and right)
+two maxillary premolar periapicals (left and right)
+two mandibular molar periapicals (left and right)
+two mandibular premolar periapicals (left and right)
+six anterior periapicals
+two maxillary canine-lateral incisor periapicals (left and right)
+two mandibular canine-lateral incisor periapicals (left and right)
+two central incisor periapicals (maxillary and mandibular)The Faculty of General Dental Practice of the Royal College of Surgeons of England publication Selection Criteria in Dental Radiography holds that given current evidence full mouth series are to be discouraged due to the large numbers of radiographs involved, many of which will not be necessary for the patient's treatment. An alternative approach using bitewing screening with selected periapical views is suggested as a method of minimising radiation dose to the patient while maximizing diagnostic yield. Contrary to advice that emphasises only conducting radiographs when in the patient's interest, recent evidence suggests that they are used more frequently when dentists are paid under fee-for-service
+
+Intra-oral radiographic techniques
+Accurate positioning is of utmost importance to produce diagnostic radiographs and to avoid retakes, hence minimizing the radiation exposure of the patient. The requirements for ideal positioning include:
+Tooth and image receptor (film packet or digital sensor) should be parallel to one another
+The long axis of the image receptor is vertical for incisors and canines, and horizontal for premolars and molars. There should be enough receptor beyond the apices of the teeth for record of the apical tissues.
+The X-ray beam from the tube-head should meet the tooth and the image receptor at right angles in both the vertical and horizontal planes
+Positioning should be reproducible
+The tooth under investigation and image receptor should be in contact, or as close together as possibleHowever, the anatomy of the oral cavity makes it challenging to satisfy the ideal positioning requirements. Two different techniques have hence been developed to be utilised in the undertaking of an intra-oral radiograph – Paralleling technique and Bisected angle technique. It is generally accepted that the paralleling technique offers more advantages than disadvantages, and gives a more reflective image, as compared to the bisecting angle technique.
+
+Paralleling Technique
+This can be used for both periapical and bitewing radiographs. The image receptor is placed in a holder and positioned parallel to the long axis of the tooth being imaged. The X-ray tube head is aimed at right angles, both vertically and horizontally, to both the tooth and the image receptor. This positioning has the potential to satisfy four out of the five above requirements – the tooth and image receptor cannot be in contact whilst they are parallel. Because of this separation, a long focus-to-skin distance is required to prevent magnification.This technique is advantageous as the teeth are viewed exactly parallel with the central ray and therefore there are minimal levels of object distortion. With the use of this technique, the positioning can be duplicated with the use of film holders. This makes the recreation of the image is possible, which allows for future comparison. There is some evidence that the use of the paralleling technique reduces the radiation hazard to the thyroid gland, as compared to the use of the bisecting angle technique. This technique, however, may be impossible in some patients due to their anatomy, e.g. a shallow/flat palate.
+
+Bisecting Angle Technique
+The bisecting angle technique is an older method for periapical radiography. It can be a useful alternative technique when the ideal receptor placement using the paralleling technique cannot be achieved, for reasons such as anatomical obstacles e.g. tori, shallow palate, shallow floor of mouth, or narrow arch width.This technique is based on the principle of aiming the central ray of the X-ray beam at 90° to an imaginary line which bisects the angle formed by the long axis of the tooth and the plane of the receptor. The image receptor is placed as close as possible to the tooth under investigation, without bending the packet. Applying the geometrical principle of similar triangles, the length of the tooth on the image will be the same as that of the actual length of the tooth in the mouth.The many inherent variables can inevitably result in image distortion and reproducible views are not possible with this technique. An incorrect vertical tube head angulation will result in foreshortening or elongation of the image, while an incorrect horizontal tube head angulation will cause overlapping of the crowns and roots of teeth.Many frequent errors that arise from the bisecting angle technique include: improper film positioning, incorrect vertical angulation, cone-cutting, and incorrect horizontal angulation.
+
+Extraoral radiographic views
+Placing the photographic film or sensor outside the mouth, on the opposite side of the head from the X-ray source, produces an extra-oral radiographic view.
+A lateral cephalogram is used to evaluate dentofacial proportions and clarify the anatomic basis for a malocclusion, and an antero-posterior radiograph provides a face-forward view.
+
+Lateral cephalometric radiography
+Lateral cephalometric radiography (LCR) is a standardized and reproducible form of skull radiography taken from the side of the face with precise positioning. It is used primarily in orthodontics and orthognathic surgery to assess the relationship of the teeth to the jaws, and the jaws to the rest of the facial skeleton. LCR is analyzed using cephalometric tracing or digitizing to obtain maximum clinical information.Indications of LCR include:
+Diagnosis of skeletal and/or soft tissues abnormalities
+Treatment planning
+Baseline for monitoring treatment progress
+Appraisal of orthodontic treatment and orthognathic surgery results
+Assessment of unerupted, malformed, or misplaced teeth
+Assessment of upper incisor root length
+Clinical teaching and research
+
+Panoramic films
+Panoramic films are extraoral films, in which the film is exposed while outside the patient's mouth, and they were developed by the United States Army as a quick way to get an overall view of a soldier's oral health. Exposing eighteen films per soldier was very time consuming, and it was felt that a single panoramic film could speed up the process of examining and assessing the dental health of the soldiers; as soldiers with toothache were incapacitated from duty. It was later discovered that while panoramic films can prove very useful in detecting and localizing mandibular fractures and other pathologic entities of the mandible, they were not very good at assessing periodontal bone loss or tooth decay.
+
+Computed tomography
+There is increasing use of CT (computed tomography) scans in dentistry, particularly to plan dental implants; there may be significant levels of radiation and potential risk. Specially designed CBCT (cone beam CT) scanners can be used instead, which produce adequate imaging with a stated tenfold reduction in radiation. Although computed tomography offers high quality images and accuracy, the radiation dose of the scans is higher than the other conventional radiography views, and its use should be justified. Controversy surrounds the degree of radiation reduction though as the highest quality cone beam scans use radiation doses not dissimilar to modern conventional CT scans.
+
+Cone beam computed tomography
+Cone beam computed tomography (CBCT), also known as digital volume tomography (DVT), is a special type of X-ray technology that generates 3D images. In the recent years, CBCT has been developed specifically for its use in the dental and maxillofacial areas to overcome the limitations of 2D imaging such as buccolingual superimposition. It is becoming the imaging modality of choice in certain clinical scenarios although clinical research justifies its limited use.
+Indications of CBCT, according to the SEDENTEXCT (Safety and Efficacy of a New and Emerging Dental X-ray Modality) guidelines include:Developing dentition
+
+Assessment of unerupted and/or impacted teeth
+Assessment of external resorption
+Assessment of cleft palate
+Treatment planning for complex maxillofacial skeletal abnormalitiesRestoration of dentition (if conventional imaging is inadequate)
+
+Assessment of infra-bony defects and furcation lesions
+Assessment of root canal anatomy in multi-rooted teeth
+Treatment planning of surgical endodontic procedures and complex endodontic treatments
+Assessment of dental traumaSurgical
+
+Assessment of lower third molars where intimate relationship with the inferior dental canal is suspected
+Assessment of unerupted teeth
+Prior to implant placement
+Assessment of pathological lesions of the jaws (cysts, tumors, giant cell lesions, etc.)
+Assessment of facial fractures
+Treatment planning of orthognathic surgery
+Assessment of bony elements of the maxillary antra and TMJResearch
+A cross sectional diagnostic study compared and correlated bone sounding and open bone measurements with conventional radiograph and CBCT for periodontal disease. The study did not find any superior result of CBCT over the conventional techniques, except for lingual measurements.
+
+Localisation techniques
+The concept of parallax was first introduced by Clark in 1909. It is defined as "the apparent displacement or difference in apparent direction of an object as seen from two different points not on a straight line with the object". It is used to overcome the limitations of the 2D image in the assessment of relationships of structures in a 3D object.
+It is mostly used to ascertain the position of an unerupted tooth in relation to the erupted ones (i.e. if the unerupted tooth is buccally / palatally placed / in line of the arch). Other indications for radiographic localization include: separating the multiple roots/canals of teeth in endodontics, assessing the displacement of fractures, or determining the expansion or destruction of bone.
+
+Horizontal parallax: Involves the taking of two radiographs at different horizontal angles, with the same vertical angulation. (E.g. two intra-oral periapical radiographs)
+Based on the rule of parallax, the more distant object will appear to move in the same direction as the tube shift, while the object which is nearer to the tube will appear to move in the opposite direction. (Same Lingual Opposite Buccal - SLOB rule)
+Vertical parallax: Involves the taking of two radiographs at different vertical angulations (E.g. one periapical and one maxillary anterior occlusal; one maxillary anterior occlusal and one panoramic)
+MBD Rule: Commonly employed in endodontics, the MBD rule states that when an exposure is given (about 5-7o) from the Mesial surface, the Buccal root or canal will lie to the Distal of the imageWith the rise in 3D radiographic techniques, the use of CBCT can be used to replace the undertaking of parallax radiographs, overcoming the limitations of the 2D radiographic technique. In cases of impacted teeth, the image obtained via CBCT can determine the buccal-palatal position and angulation of the impacted tooth, as well as the proximity of it to the roots of adjacent teeth and the degree of root resorption, if any.
+
+Faults
+Dental radiographs are an essential component to aid in diagnosis. Alongside an efficient clinical examination, a dental radiograph of a high quality can show essential diagnostic information crucial for the ongoing treatment planning for a patient. Of course when a dental radiograph is recorded many faults may arise. This is immensely variable due to differing use of: image receptor type, X-ray equipment, levels of training and processing materials etc.
+
+General faults
+As previously stated a major difference in dental radiography is the versatile use of film vs digital radiography. This in itself leads to a long list of faults associated with each type of image receptor. Some typical film faults are discussed below with a variety of reasons as to why that fault has occurred.
+
+Dark film
+Overexposure of the image from the use of faulty X-ray equipment and/or incorrect exposure time
+Overdevelopment due to excessive time in developing agent
+Developer either being too hot and/or too concentrated
+Fogging due to poor storage conditions
+Use of old stock
+Faulty processing unit
+Thin patient tissues (The differences in the tissues atomic number depicts the different attenuation of the X-ray beam. Also the penetrative power itself is a component to achieve adequate contrast)
+
+Pale image
+Underexposure due to faulty X-ray equipment and/or incorrect exposure time
+Underdeveloped due to inadequate time in developing agent
+Developer either being too cold/dilute/exhausted
+Developer contaminated by fixing agent
+Excessively thick patient tissues
+Film packet being back to front also results in a pale image accompanied by an embossed appearance from the lead pattern inside the image receptor packet.
+Inadequate/low contrast due to:
+processing error
+under/overdeveloped
+developer contaminated by fixer
+inadequate fixing time
+fixer solution exhausted
+Fogging due to:
+Poor storage conditions
+Poor stock control/out of date
+Faulty cassettes
+Faulty processing unit
+Exposure to white light
+Lack of sharpness and clarity due to:
+Movement of patient/equipment during exposure
+Excessive bending of the film packet during exposure
+Poor film/screen contact within a cassette
+Speed of intensifying screens (the faster the screen the poorer the detail)
+Overexposure causing burn out edges of thin object (Cervical Burnout)
+Poor positioning in panoramic radiography
+Marked film due to:
+Bend/crimps in the film (dark lines)
+Careless handling of film in the darkroom leading to fingerprints and nail marks
+Splashes of chemicals before processing
+Patient biting too hard onto the film
+Dirty intensifying screens
+Static electricity causing a black starburst appearance
+Green tint to the film due to Insufficient fixing
+Double exposure which may occur when two images superimposed as a result of the receptor being used twice
+Partial image due to:
+Failure to direct collimator to centre of image receptor
+Manual processing – developer level too low and film only partially submerged in developer
+
+Exclusively digital faults
+As film and digital are very different in how they work and how they are handled it is inevitable that their faults will also differ. Below is a list of some typical digital faults which may arise. It must be kept in mind that these also vary as per the type of digital image receptor which is used:
+Thin white lines on PSP image
+Scratched phosphor plate
+White areas on edge of PSP image
+Phosphor coating de-bonding
+Areas of white "burn out"
+PSP underexposed or plate exposed to light before processing
+Grainy digital image.
+Under exposed
+Fine zig-zag line through image
+Dust in PSP scanner at level of laser
+White curved area at corner of image
+PSP corner folder forward in mouth
+Paler "finger shaped" area on image
+Finger print on PSP surface
+Curved darker area corner of CCD
+Damage to photocells in solid state sensor
+Paler portion of image
+Caused by bend across PSP
+"Marble effect" to image
+PSP exposed to excessive heat
+
+Faults in processing
+The potential faults associated with the choice of image receptor used have been covered, it should also be noted that other faults elsewhere in the process of formulating an ideal diagnostic radiograph can occur. The majority of these have already been mentioned due to other faults but due to processing inaccuracies alone these may occur:
+
+blank/clear film due to the wrong sequence of solutions (the correct sequence should be develop, wash then fixer)
+dark spots form due to developer drips on film before processing
+white or blank spots due to fixer drops on film before processing
+black or dark film due to an improper safelight or too warm a solution
+partial image due to processing solutions being low, film not covered completely by solution, films touching sides of tanks and/or each other on belt
+stained glass effect (reticulation) due to a large temperature difference of solution baths
+yellow-brownish stains due to an improper water bath
+stains from old solutions particularly the developer
+risk of retaking on the same image receptor causing a double exposure to patient health implication
+
+Faults in technique
+The training of staff is also an area which can lead to faults in the formulation of an ideal diagnostic radiograph. If someone is not adequately trained this can lead to discrepancies in pretty much any aspect in the process of achieving a diagnostic radiographic image. Below are some examples:
+Foreshortening of image (causing the structures on the X-ray to appear too short). This is due to an excessive vertical angulation of the X-ray tube whilst taking the radiograph.
+Elongation of the image refers to a lengthening effect on the structures of the X-ray which is due to a decreased vertical angulation of the X-ray tube
+Sometimes due to a bend in the film can lead to an elongation effect on just a few teeth rather than the whole image
+Overlapping of proximal surfaces is an error of improper horizontal angulation of the image receptor, either being too far forward or backward in respect the X-ray beam
+Slanting of the occlusal plane is when the film In the patient's mouth has been improperly placed as the occlusal plane should parallel to the margin of the film
+Apical region not visible
+Blurred distorted – movement
+Cone cut appearance which may occur when the X-ray beam is not positioned perpendicular over the film
+Double exposure occurs when two images are taken on one radiograph
+Reversible film
+Crimp marks
+Light image
+Dark image
+Image geometry: of which it compiles of the X-ray beam, object and image receptor all of which depend on a specific relationship to each other. Object and film should be in contact or as close together as possible, object and film should be parallel to one another and the X-ray tube head should be positioned so that beam meets the object and the film at right angles.
+Characteristics of the X-ray Beam: ideal beam should be able to sufficiently penetrate the film emulsion to produce good contrast, parallel and have a focal trough
+
+Image quality scale
+It is inevitable that some faults may occur despite the efforts of prevention, so a set of criteria for what is an acceptable image has been created. This has to be implemented so that the amount of re-exposure to a patient is minimal in order to get a diagnostic image and to improve the manner in which radiographs are taken in practice.
+When considering the quality of a radiographic image there are many factors which come into play. These can be split into sub-categories such as: Radiographic Technique, Type of image receptor (film or digital) and/or the processing of the image. A combination of all these factors are taken into account alongside the quality of the image itself to determine a specific grade for the image to determine if it is up to a standard for diagnostic use or not.
+The following grades have since been updated but may still be used in literature and by some clinicians:
+Grade 1 is given when there is an excellent quality image where no errors are prevalent in patient preparation, exposure, positioning, processing and/or film handling.
+Grade 2 is given when there is a diagnostically acceptable image where some error of patient preparation, exposure, positioning, processing and/or film handling. Although these errors may be prevalent they do not detract from the diagnostic utility of the radiograph.
+Grade 3 is given when there are significant errors in patient preparation, exposure, film handling, processing and/or positioning which renders the radiograph diagnostically unacceptableIn 2020, FGDP updated guidance on a simplified system for image quality rating and analysis. The new system has the following grades:
+
+Diagnostically Acceptable (A) = no errors or minimal errors in either patient preparation, exposure, positioning, image processing, and is of sufficient image quality to answer the clinical question
+Diagnostically Not Acceptable (N) = errors in either patient preparation, exposure, positioning, or image processing, which render the image diagnostically unacceptableThe targets for Grade A radiographs are no less than 95% for digital, and no less than 90% for film imaging. Hence, the targets for Grade N radiographs are no more than 5% for digital, and no more than 10% for film imaging.
+
+Film reject analysis
+To maintain a high standard of images, each radiograph should be examined and appropriately graded. In simplistic terms as depicted by the World Health Organisation, "this is a well designed quality assurance programme which should be comprehensive but inexpensive to operate and maintain." The aim of the quality assurance is to continually achieve diagnostic radiographs of consistently high standards, therefore reducing the number of repeat radiographs by determining all sources of error to allow their correction. This, in turn, will then reduce the exposure to the patient keeping the doses as low as reasonably possible, as well as keeping a low cost.
+Quality assurance consists of close monitoring of image quality on a day to day basis, comparing each radiograph to one of a high standard. If a film does not reach this standard it goes through the process of film reject analysis. This is where diagnostically unacceptable radiographs are examined to determine the reason for their faults, to ensure the same mistakes are not made again. The X-ray equipment is also something to acknowledge and ensure that it is always compliant with the current regulations.
+
+Regulations
+There are numerous risks associated with the taking of dental radiographs. Even though the dose to the patient is minimal, the collective dose needs to be considered in this context as well. Therefore, it is incumbent on the operator and prescriber to be aware of their responsibilities when it comes to exposing a patient to ionizing radiation. These dental radiographies have been indicated as a risk factor for cancer of salivary gland and for intracranial tumors due to improper protection from radiation. It is believed that children are more at risk from these effects of radiographic examination due to their increased rate of cellular division. Children are also more at risk due to the number of dental radiographs that are encountered during adolescence. The United Kingdom has two sets of regulations related to the taking of X-rays. These are the Ionizing Radiations Regulations of 2017 (IRR17) and the Ionizing Radiations Medical Exposures Regulations of 2018 (IRMER18). IRR17 principally relates to the protection of workers and the public, along with the equipment standards. IRMER18 is specific for patient protection. These regulations replace the previous versions which were being followed for many years (IRR99 and IRMER2000). This change has come primarily due to Basic Safety Standards Directive 2013 (BSSD; also known as European Council Directive 2013/59/Euratom), which all European Union member states are legally required to transpose into their national laws by 2018.The above regulations are specific to the United Kingdom; the EU and USA are principally governed by the directive 2013/59/Eurotam and The Federal Guidance For Radiation Protection, respectively. The goal of all these standards, including others governing other countries, is primarily to protect the patient, operators, maintain safe equipment and ensure quality assurance. The UK's Health and Safety Executive (HSE) has also published an accompanying Approved Code of Practice (ACoP) and associated guidance, which gives practical advise on how to comply with the law. Following the ACoP is not obligatory. However, compliance with it can prove very beneficial for the legal person if they were to face any negligence or lack of compliance to the law issues, as it will confirm that the said legal person has been implementing good practice.
+
+See also
+Digital radiography
+Orthopantomogram
+Radiography
+X-ray
+
+References
+External links
+Oakley, P. A., & Harrison, D. E. (2021). Are Continued Efforts to Reduce Radiation Exposures from X-Rays Warranted? Dose-Response. https://doi.org/10.1177/1559325821995653
+X-Rays - American Dental Association.

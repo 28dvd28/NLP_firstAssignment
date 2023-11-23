@@ -1,0 +1,21 @@
+In medicine, specifically gastroenterology, the Child–Pugh score (or the Child–Turcotte–Pugh (CTP) score or Child Criteria) is used to assess the prognosis of chronic liver disease, mainly cirrhosis. Although it was originally used to predict mortality during surgery, it is now used to determine the prognosis, as well as the required strength of treatment and the necessity of liver transplantation.
+
+Scoring
+The score employs five clinical measures of liver disease. Each measure is scored 1–3, with 3 indicating most severe derangement.Either the prothrombin time or INR should be used to calculate the Child–Pugh score, not both. 
+
+In primary sclerosing cholangitis (PSC) and primary biliary cholangitis (PBC), some use a modified Child–Pugh score where the bilirubin references are changed to reflect the fact that these diseases feature high conjugated bilirubin levels. The upper limit for 1 point is 68 μmol/L (4 mg/dL) and the upper limit for 2 points is 170 μmol/L (10 mg/dL).
+
+Interpretation
+Chronic liver disease is classified into Child–Pugh class A to C, employing the added score from above.
+
+Related scoring systems
+MELD Score
+MELD-Plus
+
+History
+The surgeon and portal hypertension expert Charles Gardner Child (1908–1991) (with Turcotte) of the University of Michigan first proposed the scoring system in 1964 in a textbook on liver disease. It was modified by Pugh et al. in 1972 in a report on surgical treatment of bleeding from esophageal varices. They replaced Child's criterion of nutritional status with the prothrombin time or INR, and assigned scores of 1–3 to each variable.
+
+References
+External links
+Child–Pugh calculator from LiverpoolMedics
+Online calculator of the Child–Pugh score

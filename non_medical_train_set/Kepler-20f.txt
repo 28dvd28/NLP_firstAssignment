@@ -1,0 +1,19 @@
+Kepler-20f (also known by its Kepler Object of Interest designation KOI-070.05) is an exoplanet orbiting the Sun-like star Kepler-20, the second outermost of five such planets discovered by NASA's Kepler spacecraft. It is located approximately 929 light-years (285 parsecs, or about 8.988×1015 km) from Earth in the constellation Lyra. The exoplanet was found by using the transit method, in which the dimming effect that a planet causes as it crosses in front of its star is measured. The planet is notable as it has the closest radius to Earth known so far.
+
+Characteristics
+Mass, radius and temperature
+Kepler-20f is very likely (>95% chance) a rocky planet because of its radius, which is notable as being the closest to Earth yet: 1.004 R🜨. However, although its radius is almost the same as Earth's, its surface conditions are not Earth-like in any way. The equilibrium temperature of Kepler-20f is approximately 705 K (432 °C; 809 °F), too hot to support liquid water on its surface and hot enough to melt some types of metal. But because of its size, it can be expected to have an atmosphere of water vapor. The mass of the planet can be approximated to around 0.66–3.04 MEarth, depending on its composition. An Earth-like composition would have its mass to be around 1.2 MEarth.
+
+Host star
+Kepler-20 is a Sun-like star in the constellation Lyra with a mass of 0.91 (± 0.03) M☉ and a radius of 0.94 (± 0.06) R☉, and is thought to be 8.8 billion years old, though there is a large uncertainty in its age. The star's metallicity is 0.01 (± 0.04), meaning that the level of iron (and, presumably, other elements) in the star is almost the same as that of the Sun. Metallicity plays an important role in planetary systems, and stars with higher metallicity are more likely to have planets detected around them. This may be because the higher metallicity provides more material with which to quickly build planets into gas giants or because the higher metallicity increases planet migration towards the host star, making the planet easier to detect. The star has four other known planets in orbit: Kepler-20b, Kepler-20c, Kepler-20d, and Kepler-20e. All of the planets in the system would fit inside the orbit of Mercury.
+Kepler-20 has an apparent magnitude of 12.51, too dim to be seen from Earth with the naked eye.
+
+Orbit
+Discovery
+In 2009, NASA's Kepler spacecraft was completing observing stars on its photometer, the instrument it uses to detect transit events, in which a planet crosses in front of and dims its host star for a brief and roughly regular period of time. In this last test, Kepler observed 50000 stars in the Kepler Input Catalog, including Kepler-20; the preliminary light curves were sent to the Kepler science team for analysis, who chose obvious planetary companions from the bunch for follow-up at observatories. Observations for the potential exoplanet candidates took place between 13 May 2009 and 17 March 2012. After observing the respective transits, which for Kepler-20f occurred roughly every 19 days (its orbital period), it was eventually concluded that a planetary body was responsible for the periodic 19-day transits. The exoplanet, along with the other planets of the Kepler-20 system and other planets around stars studied by Kepler, were announced on December 20, 2011.
+
+See also
+Kepler-20e – another exoplanet in the Kepler-20 system, with a radius slightly smaller than that of Earth.
+
+
+== References ==

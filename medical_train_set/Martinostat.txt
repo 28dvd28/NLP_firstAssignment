@@ -1,0 +1,4 @@
+Martinostat is a histone deacetylase inhibitor (HDACi) that is potent against recombinant class I HDACs (isoforms 1-3) and class IIb HDAC (isoform 6) with low nanomolar affinities.  In tissue CETSA assays, martinostat exhibits selectivity for class I HDACs (isoforms 1-3).  When tagged with the radioisotope carbon-11, martinostat can be used to quantify HDAC in the brain and peripheral organs using positron emission tomography.  Martinostat was given a name that adopted the style of other HDAC inhibitors, such as vorinostat, entinostat, and crebinostat, that recognized the academic center in which it was developed, the Martinos Center for Biomedical Imaging.
+
+
+== References ==

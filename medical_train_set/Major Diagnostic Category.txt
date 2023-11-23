@@ -1,0 +1,13 @@
+The Major Diagnostic Categories (MDC) are formed by dividing all possible principal diagnoses (from ICD-9-CM) into 25 mutually exclusive diagnosis areas. MDC codes, like diagnosis-related group (DRG) codes, are primarily a claims and administrative data element unique to the United States medical care reimbursement system. DRG codes also are mapped, or grouped, into MDC codes.
+The diagnoses in each MDC correspond to a single organ system or cause and, in general, are associated with a particular medical specialty. MDC 1 to MDC 23 are grouped according to principal diagnoses. Patients are assigned to MDC 24 (Multiple Significant Trauma) with at least two significant trauma diagnosis codes (either as principal or secondaries) from different body site categories. Patients assigned to MDC 25 (HIV Infections) must have a principal diagnosis of an HIV Infection or a principal diagnosis of a significant HIV related condition and a secondary diagnosis of an HIV Infection.
+MDC 0, unlike the others, can be reached from a number of diagnosis/procedure situations, all related to transplants. This is due to the expense involved for the transplants so designated and because these transplants can be needed for a number of reasons which do not all come from one diagnosis domain.  DRGs which reach MDC 0 are assigned to the MDC for the principal diagnosis instead of to the MDC associated with the designated DRG.
+
+List of Major Diagnostic Categories
+See also
+Diagnosis-related group
+Diagnosis code
+Medical classification
+
+References
+External links
+Utah Department of Health - description of MDC

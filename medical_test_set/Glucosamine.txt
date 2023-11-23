@@ -1,0 +1,56 @@
+Glucosamine (C6H13NO5) is an amino sugar and a prominent precursor in the biochemical synthesis of glycosylated proteins and lipids. Glucosamine is part of the structure of two polysaccharides, chitosan and chitin. Glucosamine is one of the most abundant monosaccharides. Produced commercially by the hydrolysis of shellfish exoskeletons or, less commonly, by fermentation of a grain such as corn or wheat, glucosamine has many names depending on country.Although a common dietary supplement, there is little evidence that it is effective for relief of arthritis or pain, and is not an approved prescription drug.
+
+Dietary supplement
+Oral glucosamine is a dietary supplement and is not a prescription drug. Glucosamine is marketed as a supplement to support the structure and function of joints, and the marketing is targeted to people with osteoarthritis.Commonly sold forms of glucosamine are glucosamine sulfate, glucosamine chondroitin, glucosamine hydrochloride, and N-acetylglucosamine. Of the three commonly available forms of glucosamine, only glucosamine sulfate is given a "likely effective" rating for treating osteoarthritis. Glucosamine is often sold in combination with other supplements such as chondroitin sulfate and methylsulfonylmethane.Glucosamine, along with commonly used chondroitin, is not routinely prescribed to treat people who have symptomatic osteoarthritis of the knee, as there is insufficient evidence that this treatment is helpful.As is common with heavily promoted dietary supplements, the claimed benefits of glucosamine are based principally on clinical and laboratory studies. Clinical studies on glucosamine efficacy are divided, with some reporting relief from arthritic pain and stiffness, while others report no benefit above placebo.As of 2015, there is no evidence that consumption of glucosamine by sport participants prevents or limits joint damage after injury.
+
+Adverse effects and drug interactions
+Glucosamine with or without chondroitin elevates the international normalized ratio (INR) in individuals who are taking the blood thinner, warfarin. It may also interfere with the efficacy of chemotherapy for treating cancer symptoms.Adverse effects are mild and infrequent and may include stomach upset, constipation, diarrhea, headache, and rash.Since glucosamine is usually derived from the shells of shellfish, it may be unsafe for those with shellfish allergy. Many manufacturers of glucosamine derived from shellfish include a warning that those with a seafood allergy should consult a healthcare professional before taking the product. Alternatively, non-shellfish-derived forms of glucosamine are available.Another concern has been that the extra glucosamine could contribute to diabetes by interfering with the normal regulation of the hexosamine biosynthesis pathway, but several investigations found no evidence that this occurs. Other studies conducted in lean or obese subjects concluded that oral glucosamine at standard doses does not affect insulin resistance.
+
+Biochemistry
+Glucosamine is naturally present in the shells of shellfish, animal bones, bone marrow, and fungi.D-Glucosamine is made naturally in the form of glucosamine-6-phosphate, and is the biochemical precursor of all nitrogen-containing sugars. Specifically in humans, glucosamine-6-phosphate is synthesized from fructose 6-phosphate and glutamine by glutamine—fructose-6-phosphate transaminase as the first step of the hexosamine biosynthesis pathway.  The end-product of this pathway is uridine diphosphate N-acetylglucosamine (UDP-GlcNAc), which is then used for making glycosaminoglycans, proteoglycans, and glycolipids.
+As the formation of glucosamine-6-phosphate is the first step for the synthesis of these products, glucosamine may be important in regulating their production; however, the way that the hexosamine biosynthesis pathway is actually regulated, and whether this could be involved in contributing to human disease remains unclear.
+
+Manufacturing
+Most glucosamine is manufactured by processing chitin from the shells of shellfish including shrimp, lobsters, and crabs.  To meet the demands of vegetarians and others with objections to shellfish, manufacturers have brought glucosamine products to market made using fungus Aspergillus niger and from fermenting corn.
+
+History
+Glucosamine was first prepared in 1876 by Georg Ledderhose by the hydrolysis of chitin with concentrated hydrochloric acid.  The stereochemistry was not fully determined until the 1939 work of Walter Haworth.
+
+Legal status
+United States
+In the United States, glucosamine is not approved by the Food and Drug Administration (FDA) for medical use in humans.  Since glucosamine is classified as a dietary supplement in the United States, evidence of safety is required by FDA regulations, but evidence of efficacy is not required so long as it is not advertised as a treatment for a medical condition.In 2004, the FDA declared there was insufficient evidence for supplement manufacturers to state that glucosamine was effective for treating arthritis, joint degeneration, or cartilage deterioration, a position remaining in effect as of 2018.
+
+Europe
+In most of Europe, glucosamine is approved as a medical drug and is sold in the form of glucosamine sulfate. In this case, evidence of safety and efficacy is required for the medical use of glucosamine and several guidelines have recommended its use as an effective and safe therapy for osteoarthritis.
+The Task Force of the European League Against Rheumatism (EULAR) committee has granted glucosamine sulfate a level of toxicity of 5 in a 0-100 scale, and recent OARSI (Osteoarthritis Research Society International) guidelines for hip and knee osteoarthritis indicate an acceptable safety profile. By 2014, the OARSI did not recommend glucosamine for disease modification, and considered it "uncertain" for symptom relief, in knee osteoarthritis.
+
+Class-action lawsuits
+In 2013, without admitting fault, manufacturer Rexall Sundown and NBTY agreed to pay up to US$2 million to settle consumer claims related to the wording of certain claims on the packaging of glucosamine bottles sold at Costco under the Kirkland label.In August 2012, a class-action lawsuit was filed in New York claiming that 21st Century Healthcare, Inc. had falsely advertised that its "Glucosamine 750 Chondroitin 600 Triple Strength" dietary supplements would restore lost cartilage. In April 2013, a San Diego man launched a proposed class-action lawsuit in California Federal Court accusing Nutramax Laboratories, Walmart and Rite Aid of falsely advertising the effectiveness of glucosamine.
+
+Research
+Humans
+Because glucosamine is a precursor for glycosaminoglycans, and glycosaminoglycans are a major component of cartilage, research has focused on the potential for supplemental glucosamine to improve cartilage structure and alleviate arthritis, but there is little evidence from clinical trials that it is effective for alleviating arthritis pain.
+
+Bioavailability
+Two studies measured the concentrations of glucosamine in the synovial fluid and plasma after oral administration of glucosamine sulfate to both healthy volunteers and people with osteoarthritis.In the first study, glucosamine sulfate was given to healthy volunteers in doses of 750, 1,500, or 3,000 mg once daily. In the second study, oral glucosamine sulfate capsules (1,500 mg) were given daily for two weeks to 12 people with osteoarthritis. Glucosamine concentrations in plasma and synovial fluid increased significantly from baseline levels, and the levels in the two fluids were highly correlated. The authors interpreted that these levels could be biologically advantageous to articular cartilage, but the levels are still ten- to one hundredfold lower than required to positively influence the cartilage (chondrocytes) to build new tissue. Glucosamine sulfate uptake in synovial fluid may be as much as 20%, or it could be negligible, indicating no biological significance.
+
+Veterinary medicine
+Dogs
+Some studies have shown efficacy of glucosamine supplementation for dogs with osteoarthritis pain, particularly in combination with other nutraceuticals like chondroitin, while others have not. A trial of oral combination capsules (glucosamine, chondroitin, and manganese ascorbate) in dogs with osteoarthritis found no benefit on either gait analysis or subjective assessments by the veterinarian or owner.
+
+Horses
+The use of glucosamine in equine medicine exists, but one meta-analysis judged extant research too flawed to be of value in guiding treatment of horses.A number of studies have measured the bioavailability of glucosamine after oral administration to horses. When given as a single oral dose (9 g) with or without chondroitin sulfate (3 g) to ten horses, glucosamine (hydrochloride) was detected in the blood with a maximum level of 10.6±6.9 μg/mL at two hours after dosing. Another study examined both the serum and the joint synovial fluid after nasogastric (oral) or intravenous administration of 20 mg/kg glucosamine hydrochloride to eight adult horses. Although joint fluid concentrations of glucosamine reached 9–15 μmol/L following intravenous dosing, it was only 0.3–0.7 μmol/L with nasogastric dosing. The authors calculated that these glucosamine synovial fluid levels achieved by the oral route were 500 times lower than that required to have a positive effect on the metabolism of cartilage cells. A follow-up study by the same research group compared glucosamine sulfate with glucosamine hydrochloride at the same dose (20 mg/kg) in eight horses and found a higher fluid concentration with the sulfate preparation (158 ng/mL compared to 89 ng/mL one hour post oral dose). They concluded that these higher synovial fluid levels obtained with the sulfate derivative were still too low to have a relevant biological effect on articular cartilage.
+A three-month trial of an oral dosage regime of a commercial preparation of glucosamine sulfate, chondroitin sulfate and methylsulfonylmethane was performed in veteran horses with no effect on gait stiffness, with exercise alone in the control group being effective. The intravenous use of a combination of N-acetylglucosamine, pentosan polysulfate and sodium hyaluronate in horses with surgically-induced osteoarthritis saw improvements in X-ray changes to the cartilage but not histologically or in biochemical outcomes, suggesting more evidence is needed for this combination and route of administration.
+
+See also
+Chitobiose
+Chitosan
+Chondroitin sulfate
+Methylsulfonylmethane
+
+References
+External links
+"Glucosamine". Drug Information Portal. U.S. National Library of Medicine.
+Glucosamine and Chondroitin for Osteoarthritis Pain, Arthritis Foundation
+Glucosamine, DailyMed, U.S. National Library of Medicine
+MedFacts Natural Products

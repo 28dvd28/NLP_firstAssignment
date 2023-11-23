@@ -1,0 +1,62 @@
+Tooth wear refers to loss of tooth substance by means other than dental caries. Tooth wear is a very common condition that occurs in approximately 97% of the population. This is a normal physiological process occurring throughout life; but with increasing lifespan of individuals and increasing retention of teeth for life, the incidence of non-carious tooth surface loss has also shown a rise. Tooth wear varies substantially between people and groups, with extreme attrition and enamel fractures common in archaeological samples, and erosion more common today.Tooth wear is predominantly the result of a combination of three processes; attrition, abrasion and erosion. These forms of tooth wear can further lead to a condition known as abfraction, where by tooth tissue is 'fractured' due to stress lesions caused by extrinsic forces on the enamel. Tooth wear is a complex, multi-factorial problem and there is often difficulty identifying a single causative factor.  However, tooth wear is often a combination of the above processes. Many clinicians, therefore, make diagnoses such as "tooth wear with a major element of attrition", or "tooth wear with a major element of erosion" to reflect this. This makes the diagnosis and management difficult. Therefore, it is important to distinguish between these various types of tooth wear, provide an insight into diagnosis, risk factors, and causative factors, in order to implement appropriate interventions. Tooth wear evaluation system (TWES) may help determine the most likely aetiology of tooth wear. Heavy tooth wear is commonly found on the occlusal (chewing) surface, but non-carious cervical lesions from tooth wear are also common in some populations.Multiple indices have been developed in order to assess and record the degree of tooth wear, the earliest was that by Paul Broca. In 1984, Smith and Knight developed the tooth wear index (TWI) where four visible surfaces (buccal, cervical, lingual, occlusal-incisal) of all teeth present are scored for wear, regardless of the cause. A more recent index Basic Erosive Wear Examination (BEWE) from 2008 by Bartlett et al., is now also in use.
+
+Causes
+Attrition
+Attrition is loss of tooth substance caused by physical tooth-to-tooth contact. The word attrition is derived from the Latin verb attritium, which refers to the action of rubbing against something. Attrition mostly causes wear of the incisal and occlusal surfaces of the teeth. Attrition has been associated with masticatory force and parafunctional activity such as bruxism. A degree of attrition is normal, especially in elderly individuals.
+
+Abrasion
+Abrasion is loss of tooth substance caused by physical means other than teeth. The term is derived from the Latin verb abrasum, which means ‘to scrape off’. It tends to present as rounded ditching around the cervical margins of teeth, commonly described as ‘shallow’, concave or wedge shaped notches. Causative factors have been linked to this condition and include vigorous, horizontal tooth brushing, using toothpaste with a relatively high RDA value (above 250), pipe smoking or nail biting. It has also been shown that improper use of dental floss or Toothpicks can lead to wear on the interproximal (in-between) surfaces of the teeth.
+
+Erosion
+Erosion is chemical dissolution of tooth substance caused by acids, unrelated to the acid produced by bacteria in dental plaque. Erosion may occur with excessive consumption of acidic foods and drinks, or medical conditions involving repeated regurgitation and reflux of gastric acid. It is derived from the Latin word erosum, which describes the action ‘to corrode’. This is usually on the palatal (inside) surfaces of upper front teeth and the occluding (top) surfaces of the molar teeth. Dental erosion is rarely seen in the archaeological record, but certain cases have been described which suggested acidic fruits and/or plants were regularly consumed.
+Gastroesophageal reflux disease (GERD)
+Vomiting, e.g. bulimia, alcoholism
+Rumination
+Eructation (burping)
+Dietary - liquids of low pH and high titratable acids.
+
+Abfraction
+Abfraction is loss of tooth substance at the cervical margins, purportedly caused by minute flexure of teeth under occlusal loading. The term is derived from the Latin words ab and functio meaning ‘away’ and ‘breaking’ respectively. Abfraction presents as triangular lesions along the cervical margins of the buccal surfaces of the teeth where the enamel is thinner and therefore, in the presence of occluding forces, is prone to fracture. Whether abfraction exists or not is debated.
+
+Diagnosis
+Tooth wear indices are useful tools for carrying out epidemiological studies and for general use in dental practices.
+
+Basic erosive wear examination
+The Basic Erosive Wear Examination was first described by Bartlett et al. in 2008. The partial scoring system is based on the surface area affected. Within a sextant (i.e. teeth in mouth divided into 6 parts), the most severely affected tooth surface (buccal, occlusal or lingual/palatal)(see dental terminology) is recorded according to the severity of the wear (see Table 1). A cumulative score is then matched to a risk level and guidance for its management by a clinician. The management includes steps which identify and eliminate main aetiological factors, preventative treatment and also any operative and symptomatic intervention required by the patient. The frequency of repeating the index ranges from 6–12 months depending on the risk level of patients.
+
+Tooth wear index
+The Tooth Wear Index (TWI) (see Table 2) was developed by Smith and Knight in 1984. TWI scores each visible surface (buccal/B, cervical/C, lingual/L and occlusal-incisal/O/I) (see dental terminology).  This index has been widely used in epidemiological studies.
+
+Other indices
+Eccles-Index 
+Modified TWI 
+Linkosalo and Markkanen 
+O'Brien Index 
+Lussi Index 
+O'Sullivan Index 
+Simplified Tooth Wear Index (STWI) 
+Exact Tooth Wear Index 
+Visual Erosion Dental Examination (VEDE) 
+Evaluating Index of Dental Erosion (EVIDE)
+
+Treatment
+Once the cause of tooth wear has been identified and a preventative regime has been put in place, the patient should be reviewed for 6–12 months to establish that the intervention has been successful before any active management is carried out. Once this has been achieved a decision needs to be made whether or not it is necessary to carry out restorative treatment or if it can simply be managed by non-invasive methods.Where restorative treatment is necessary, it must be decided whether to conform to the existing occlusion (typically for moderate wear, where only a few teeth are affected) or reorganise the occlusion (severe wear, unstable occlusion). Where the occlusion is reorganised, it can first be tested using a reversible method (i.e. a hard occlusal splint). A decision is made after full occlusal assessment including assessment of contacts in intercuspal position (ICP) and retruded contact position (RCP) as well as analysing casts articulated in a semi-adjustable articulator to use for a diagnostic wax up of any proposed restorative work.Active restorative management depends upon the location of the wear (localised or generalised), the severity of the wear, and the patient's occlusal vertical dimension (OVD), which may have changed as a result of tooth wear. There are three potential scenarios of tooth wear:
+Excessive wear with loss of OVD
+Excessive wear without loss of OVD but with space available
+Excessive wear without loss of OVD but with limited space availableScenario 1 is relatively common, whereas scenario 2 is quite rare and tends to occur when the wear is rapidly occurring. Scenario 3 occurs due to a phenomenon called dentoalveolar compensation whereby the dentoalveolar tissues compensate for wear of teeth by increasing the bony support in order to maintain a constant OVD. This makes things difficult as there is no room to build the teeth back up to their original height without increasing the OVD.The options for restoring this loss in tooth height are: 
+Increasing the OVD - this is the traditional approach and involves restoring all teeth to an increased height in order to create a new ICP at an increased OVD
+Occlusal adjustment - this is typically used for anterior teeth only, whereby the patient's occlusion is reorganised into the RCP position to utilise increased space in this position
+Crown lengthening or orthodontic extrusion - this is useful when crowns are to be placed in a worn dentition but there is inadequate crown height and you do not want to change the OVD
+Relative axial tooth movement - this is the most commonly used method and can be used for localised or generalised wear, the idea is to prop the bite open thereby causing the extrusion of worn teeth to provide extra crown height for restoration, this can be done using simple direct restorations or more complex indirect restorations, this idea was first established by Dahl and is often referred to as the Dahl effectPulp vitality must also be taken into consideration prior to treatment, when teeth have severe wear it is possible that they have become non-vital.
+
+See also
+Attrition
+Abrasion
+Erosion
+Abfraction
+Bruxism
+
+References
+
+
+== External links ==

@@ -1,0 +1,12 @@
+Marc Lackenby is a professor of mathematics at the University of Oxford whose research concerns knot theory, low-dimensional topology, and group theory.
+Lackenby studied mathematics at the University of Cambridge beginning in 1990, and earned his Ph.D. in 1997, with a dissertation on Dehn Surgery and Unknotting Operations supervised by W. B. R. Lickorish. After positions as Miller Research Fellow at the University of California, Berkeley and as Research Fellow at Cambridge, he joined Oxford as a Lecturer and Fellow of St Catherine's in 1999. He was promoted to Professor at Oxford in 2006.Lackenby's research contributions include
+a proof of a strengthened version of the 2π theorem on sufficient conditions for Dehn surgery to produce a hyperbolic manifold,[L00]
+a bound on the hyperbolic volume of a knot complement of an alternating knot,[L04]
+and a proof that every diagram of the unknot can be transformed into a diagram without crossings by only a polynomial number of Reidemeister moves.[L15] In February 2021 he announced a new unknot recognition algorithm that runs in quasi-polynomial time.Lackenby won the Whitehead Prize of the London Mathematical Society in 2003.
+In 2006, he won the Philip Leverhulme Prize in mathematics and statistics.
+He was an invited speaker at the International Congress of Mathematicians in 2010.
+
+Selected publications
+References
+External links
+Home page

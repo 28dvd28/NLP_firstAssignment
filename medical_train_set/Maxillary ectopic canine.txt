@@ -1,0 +1,68 @@
+An ectopic maxillary canine is a canine which is following abnormal path of eruption in the maxilla. An impacted tooth is one which is blocked from erupting by a physical barrier in the path of eruption. Ectopic eruption may lead to impaction. Previously, it was assumed that 85% of ectopic canines are displaced palatally, however a recent study suggests the true occurrence is closer to 50%. While maxillary canines can also be displaced buccally, it is thought this arises as a result of a lack of space. Most of these cases resolve themselves with the permanent canine erupting without intervention.
+
+Aetiology
+There are two main theories on the aetiology of palatally impacted canines. One is the genetic theory whereby the cause is thought to be polygenic. There is a high rate of incidence of ectopic canines with dental anomalies such as pegged lateral incisors, missing lateral incisors, delayed eruption, and the absence of crowding.A second theory, the guidance theory, is that the root of the lateral incisor guides the eruption of the canine. Hence, even if the lateral incisor is diminutive or missing because of genetics, local environmental factors ultimately result in the eruption of the canine in an abnormal position.
+
+Epidemiology
+Canines are the 2nd most commonly impacted tooth after third molars, with a prevalence of 1.5% in the population. Impactions occur twice as frequently in females (1.17%) as in males (0.51%). Approximately 8% of impaction cases are bilateral (affecting both permanent canines).
+
+Signs and symptoms
+Delayed eruption of permanent canine
+Erupted contralateral permanent canine
+Retained deciduous canine
+Unable to clinically palpate permanent canine
+Loss of vitality and increased mobility of the lateral and/or central incisors
+Discolouration of upper incisors
+Distal tipping of lateral incisors
+Diminutive lateral incisor
+
+Sequelae
+Early diagnosis of maxillary ectopic canines is essential as delayed diagnosis may result in complications such as the resorption of upper incisors. Maxillary ectopic canines can result in the resorption of central incisors in 15% of cases, and lateral incisors in 34% of cases. Resorption is common, especially amongst females with enlarged dental follicles.
+Although thought to be rare, there could also be cystic changes occurring in the crown of the ectopic canine. Hence if not diagnosed early, treatment could be complicated / extended.
+
+Diagnosis
+Clinically
+In normal development, canines are typically palpable in the buccal sulcus by ages 10–11.
+If a primary canine is retained beyond the age of 12 to 13 years, with no signs of mobility and no labial canine bulge, impaction of the permanent canine should be suspected. A radiograph should be taken to confirm the diagnosis.
+
+Radiographically
+However, there is limited use in taking a radiograph before the age of 10–11. To locate the permanent canine, the parallax technique is often used. The parallax technique is done by taking two radiographs in different positions. There could be either a vertical shift or a horizontal shift between the two radiographs. A vertical shift might be done by taking a periapical and an upper anterior occlusal, while a horizontal shift might be done by taking two periapicals with significant horizontal tube shift. An image shift principle is then applied to the two radiographs taken. A useful acronym is the ‘SLOB’ rule, which stands for “same lingual opposite buccal”. This means that when looking at the radiographs from e.g. a left to right direction, if the canine has moved in the same direction, then following the “same lingual” part of the rule, the canine is positioned lingually. 
+There is low evidence base for choosing either preferentially. However, one study suggests that using a horizontal parallax is more accurate than a vertical parallax in locating ectopic canines.An alternative method is the use of CBCT (small field of view). These can also be used to localise ectopic canines three dimensionally.
+However, due to the higher dose of ionising radiation, the current British Orthodontic Society Orthodontic Radiographs Guidelines state that there is no justification for the routine usage of CBCT imaging to localise ectopic canines.
+Although the use of CBCT can be effective when conventional imaging fails to localise the ectopic canine, it is recommended that advice should be sought from a Dental /Maxillofacial Radiology Specialist prior to use.
+
+Treatment / Management
+Early Intervention
+The extraction of the deciduous canine may encourage the ectopic permanent canine to erupt. This interceptive treatment is recommended for children aged 10–13 with normal physiological spacing. This is supported by the Royal College of Surgeons England (RCS Eng) guidelines; based primarily on 2 studies:
+
+A case series, with no control group
+One randomised controlled trialAccording to the RSC Eng Guidelines, space maintenance should be considered after the extraction of the deciduous canine. A follow-up radiograph should be taken 12 months after, and if no improvement is reported, an alternative treatment option should be considered. Other interceptive methods primarily involve creating space in the maxilla to allow the palatally-displaced canine to erupt successfully.
+
+Maxillary expansion using rapid maxillary expansion, transpalatal arch, or quadhelix appliances
+Anteroposterior expansion using headgear
+Combination using fixed appliances
+
+Management
+Monitor
+Surgical exposure and orthodontic alignment
+Pre-op assessments (radiographs, CBCT)
+Surgical exposure
+Bonding of attachments
+Bonding of attachment at time of exposure superior to post-exposure; eyelet attachment lower failure rate than conventional bracket
+Factors that determine if this treatment should be considered are:
+The case is not suitable for interceptive extraction of the deciduous canine.
+The patient is willing to wear fixed orthodontic appliances.
+The patient is well motivated and have good dental health.
+Orthodontic alignment isn't made impractical by the position of the canine (e.g. it's not too close to the midline, isn't above the apices of adjacent teeth and isn't angled horizontally.)
+
+Surgical removal of the palatally ectopic permanent canine
+This treatment option is considered when:
+
+The deciduous canine has been lost and there is good contact between the lateral incisor and first premolar giving acceptable dental aesthetics.
+The patient doesn't want active treatment and/or is happy with their dental appearance
+When the canine is severely malpositioned, when alignment and transplantation isn't being considered and in cases where there are pathological changes and/or its retention would impede orthodontic tooth movement.Orthodontics can then be used to bring the premolar into a position that makes it look like a canine by rotating it, using buccal root torque to change its inclination and/or grinding the palatal cusp to improve aesthetics.
+
+Transplantation
+
+
+== References ==

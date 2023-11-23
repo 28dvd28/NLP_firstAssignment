@@ -1,0 +1,22 @@
+The ABCD2 score is a clinical prediction rule used to determine the risk for stroke in the days following a transient ischemic attack (TIA, a condition in which temporary brain dysfunction results from oxygen shortage in the brain). Its usefulness was questioned in a 2015 review as it was not found to separate those who are at low from those who are at high risk of future problems. A high score correctly predicted 87% of the people who did have a stroke in the following 7 days but also many people who did not have problems.The ABCD2 score is based on five parameters (age, blood pressure, clinical features, duration of TIA, and presence of diabetes); scores for each item are added together to produce an overall result ranging between zero and seven. People found to have a high score are often sent to a specialist sooner. Other clinical risk factors, such as atrial fibrillation and anticoagulation treatment, as well as ongoing or recurrent TIA, are also relevant.The ABCD2 score was proposed in 2007 as a modified version of the ABCD score of 2005 (the ABCD score did not consider the presence of diabetes). In the largest study based on emergency department testing of the ABCD2 score in an acute setting, the score performed poorly in both high-risk and low-risk patients. The study found the score to be 31.6% sensitive in high-risk patients (score >5) and only 12.5% specific in low-risk patients (score ≤2).
+
+Scoring system
+For example, a person aged 60 (1 point) with normal blood pressure (0 point) and without diabetes (0 point) who experienced a TIA lasting 10 minutes (1 point) with a speech disturbance but no weakness on one side of the body (1 point) would score a total of 3 points.
+
+Interpretation
+The risk for stroke can be estimated from the ABCD2 score as follows:
+
+Score 1-3 (low)
+2 day risk = 1.0%
+7 day risk = 1.2%
+Score 4-5 (moderate)
+2 day risk = 4.1%
+7 day risk = 5.9%
+Score 6–7 (high)
+2 day risk = 8.1%
+7 day risk = 11.7%
+
+References
+External links
+ABCD2 score online calculator Archived 2015-12-14 at the Wayback Machine
+ABCD2 Score for TIA with expert insights

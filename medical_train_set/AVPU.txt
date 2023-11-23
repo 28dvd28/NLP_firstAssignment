@@ -1,0 +1,28 @@
+The AVPU scale (an acronym from "alert, verbal, pain, unresponsive") is a system by which a health care professional can measure and record a patient's level of consciousness. It is mostly used in emergency medicine protocols, and within first aid.
+It is a simplification of the Glasgow Coma Scale, which assesses a patient response in three measures: eyes, voice and motor skills. The AVPU scale should be assessed using these three identifiable traits, looking for the best response of each.
+
+Meaning of the mnemonic
+The AVPU scale has four possible outcomes for recording (as opposed to the 13 possible outcomes on the Glasgow Coma Scale). The assessor should always work from best (A) to worst (U) to avoid unnecessary tests on patients who are clearly conscious. The four possible recordable outcomes are:
+Alert: The patient is fully awake (although not necessarily oriented). This patient will have spontaneously open eyes, will respond to voice (although may be confused) and will have bodily motor function.
+Verbal: The patient makes some kind of response when you talk to them, which could be in any of the three component measures of eyes, voice or motor – e.g. patient's eyes open on being asked "Are you OK?". The response could be as little as a grunt, moan, or slight move of a limb when prompted by the voice of the rescuer.
+Pain: The patient makes a response on any of the three component measures on the application of pain stimulus, such as a central pain stimulus like a sternal rub or a peripheral stimulus such as squeezing the fingers. A patient with some level of consciousness (a fully conscious patient would not require a pain stimulus) may respond by using their voice, moving their eyes, or moving part of their body (including abnormal posturing).
+Unresponsive: Sometimes seen noted as 'unconscious', this outcome is recorded if the patient does not show any eye, voice or motor response to voice or pain.In first aid, an AVPU score of anything less than A is often considered an indication to get further help, as the patient is likely to be in need of more definitive care. In the hospital or long term healthcare facilities, caregivers may consider an AVPU score of less than A to be the patient's normal baseline.In some emergency medical services protocols, "Alert" can be subdivided into a scale of 1 to 4, in which 1, 2, 3 and 4 correspond to certain attributes, such as time, person, place, and event. For example, a fully alert patient might be considered "alert and oriented x 4" if they could correctly identify the time, their name, their location, and the event.
+EMS crews may begin with an AVPU assessment, to be followed by a GCS assessment if the AVPU score is below "A."
+
+Limitations
+The AVPU scale is not suitable for long-term neurological observation of a patient; in this situation, the Glasgow Coma Scale is more appropriate.
+
+Comparison with other classification systems
+When compared to the Glasgow Coma Scale (GCS) the AVPU classification of alertness has been suggested to correspond in the following manner: 
+
+Alert = 15 GCS
+Voice Responsive = 13 GCS
+Pain Responsive = 8 GCS
+Unconscious/DOA = 3 GCS(Kelly, Upex and Bateman, 2004)The AVPU scale can also be compared to the Pediatric Glasgow Coma Scale (PGCS). The PGCS corresponds with the AVPU classification of consciousness in the following manner:
+Alert = 11–15 PGCS
+Voice Responsive = 5–15 PGCS
+Pain Responsive = 4–12 PGCS
+Unconscious/DOA = 3–5 PGCS
+
+
+== References ==

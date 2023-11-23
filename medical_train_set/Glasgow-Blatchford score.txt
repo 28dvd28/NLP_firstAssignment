@@ -1,0 +1,23 @@
+The Glasgow-Blatchford bleeding score (GBS) is a screening tool to assess the likelihood that a person with an acute upper gastrointestinal bleeding (UGIB) will need to have medical intervention such as a blood transfusion or endoscopic intervention. The tool may be able to identify people who do not need to be admitted to hospital after a UGIB. Advantages of the GBS over the Rockall score, which assesses the risk of death in UGIB, include a lack of subjective variables such as the severity of systemic diseases and the lack of a need for oesophagogastroduodenoscopy (OGD) to complete the score, a feature unique to the GBS.
+In a controlled study, 16% of people presenting with UGIB had a GBS score of "0", considered low. Among this group there were no deaths or interventions needed and people were able to be effectively treated in an outpatient setting.
+
+Criteria
+The score is calculated using the table below:
+
+In the validation group, scores of 6 or more were associated
+with a greater than 50% risk of needing an intervention.
+
+Score
+Score is equal to "0" if the following are all present:
+Hemoglobin level > 12.9 g/dL (men) or > 11.9 g/dL (women)
+Systolic blood pressure > 109 mm Hg
+Pulse < 100/minute
+Blood urea nitrogen level < 6.5 mmol/L
+No melena or syncope
+No past or present liver disease or heart failure
+
+See also
+Rockall score
+
+
+== References ==

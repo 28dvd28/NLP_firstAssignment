@@ -1,0 +1,33 @@
+A cascade effect is an inevitable and sometimes unforeseen chain of events due to an act affecting a system. If there is a possibility that the cascade effect will have a negative impact on the system, it is possible to analyze the effects with a consequence / impact analysis. Cascade effects are commonly visualised in tree structures, also called event trees.
+
+In aeronautics
+Cascade effects seen in the perspective of space travelling are theoretical possibilities that "space junk" or a satellite destroyed by a meteor will send debris throughout the orbits of most telecommunication satellites destroying them in the process and subsequently sending that debris into all possible orbits, destroying everything in orbit around the Earth, known as the Kessler syndrome. It is theorized that if this occurs, space flight beyond Earth will become very difficult if not impossible.
+
+In medicine
+In biology, according to Mold and Stein, the term cascade refers to "a process that, once started, proceeds stepwise to its full, seemingly inevitable, conclusion". The main cause of a cascade of injury in medicine is by misdiagnosis and medical error. These result in iatrogenic injury and from medical error flows a cascade of effects and results often including pain, disability, loss of job, poverty and homelessness which obviously cause mental health problems and may cause death. In medicine, a cascade effect may also refer to a chain of events initiated by an unnecessary test, an unexpected result, or patient or physician anxiety, which results in ill-advised tests or treatments that may cause harm to patients as the results are pursued.  An example would be ordering a full body CT scan without a clear reason, finding an incidentaloma and undergoing a debilitating surgery to remove it, despite the fact that the condition was asymptomatic and possibly benign.
+
+In ecology
+There is also an ecological definition of cascade effects, in which the death of one key species in an ecosystem triggers the extinction of other species.
+
+In disaster risk reduction and emergency planning
+Cascading effects are the dynamics present in disasters, in which the impact of a physical event or the development of an initial technological or human failure generates a sequence of events in human subsystems that result in physical, social or economic disruption. Thus, an initial impact can trigger other phenomena that lead to consequences with significant magnitudes. Cascading effects are complex and multi-dimensional and evolve constantly over time. They are associated more with the magnitude of vulnerability than with that of hazards. Low-level hazards can generate broad chain effects if vulnerabilities are widespread in the system or not addressed properly in sub-systems. For these reasons, it is possible to isolate the elements of the chain and see them as individual (subsystem) disasters in their own right. In particular, cascading effects can interact with the secondary or intangible effects of disasters.
+In this definition, it is embraced the multidimensional and complex nature of cascades. The different possible failures that can generate chain effects are integrated, while progression and magnitude become important. As it provides a mechanism for spreading cascades in space and time, vulnerability is considered critical. This is related to the technique of isolating single effects and seeing them as possible autonomous cause-effect sequences, while in some events cascading effects coincide with secondary or intangible ones.
+The figure above illustrates the differences between: (a) linear paths of chain -effects, and (b) complex paths of cascades. In "cascading disasters," secondary emergencies escalate and become the centre of a crisis, challenging the coordination of emergency relief and long-term recovery.
+The different levels of cascading effects that are present in complex events suggest a differentiation between cascading effects and Cascading disasters have been defined as:
+
+Cascading disasters are extreme events, in which cascading effects increase in progression over time and generate unexpected secondary events of strong impact. These tend to be at least as serious as the original event, and to contribute significantly to the overall duration of the disaster's effects. These subsequent and unanticipated crises can be exacerbated by the failure of physical structures, and the social functions that depend on them, including critical facilities, or by the inadequacy of disaster mitigation strategies, such as evacuation procedures, land use planning and emergency management strategies. Cascading disasters tend to highlight unresolved vulnerabilities in human society. In cascading disasters one or more secondary events can be identified and distinguished from the original source of disaster.
+
+See also
+Avalanche effect
+Butterfly effect
+Cascading failure
+Chain reaction
+Domino effect
+Innovation butterfly
+Kessler syndrome
+Ripple effect
+Snowball effect
+Unintended consequences
+
+
+== References ==

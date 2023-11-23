@@ -1,0 +1,27 @@
+Aquapheresis is a medical technology designed to remove excess salt and water from the body safely, predictably, and effectively from patients with a condition called fluid overload. It removes the excess salt and water and helps to restore a patient's proper fluid balance, which is called euvolemia.
+
+Uses
+Aquapheresis is used to treat a condition called fluid overload or hypervolemia. Fluid overload can be caused by many reasons, including heart failure, liver cirrhosis, hypertension and certain kidney diseases.  Fluid overload can also be experienced after certain surgical operations.  Congestive heart failure is the most common reason for fluid overload.
+
+How it works
+Blood containing excess salt and water is withdrawn from a patient using peripheral or central venous catheters and passed through a special filter.  Using a form of ultrafiltration, the filter separates the excess salt and water from the blood and the blood is returned to the patient while the fluid is collected in a bag for later disposal.
+Anti-coagulation therapy is often used with aquapheresis to prevent blood from clotting the ultrafiltration filter. Patients must discontinue any anticoagulant medications before starting aquapheresis so they can be placed on intravenous heparin therapy. Once the Heparin therapy is initiated, the patient's PTT (partial thromboplastin time) levels will be monitored closely per hospital protocol to prevent excessive anti-coagulation. If a patient is allergic to Heparin or has a condition known as Heparin-induced Thrombocytopenia (HIT), an alternative intravenous anti-coagulate may be used.
+The blood is outside the body for less than a minute and the total amount of blood is 33 milliliters (2.5 tablespoons). It is thus an extracorporeal therapy.
+Up to a 500 milliliter (1 pint) of excess fluid can be removed per hour. The average removal rate is 250 milliliter (1/2 pint) per hour.
+The fluid removed is isotonic to blood and therefore electrolyte balance is maintained throughout therapy and up to 3.2 grams of sodium per liter can be removed.
+Aquapheresis therapy is delivered by three basic components: a console (the machine with two pumps), the blood filter circuit, and the venous catheter(s).
+
+See also
+Fluid balance
+Fluid overload
+Blood volume
+Diuretics
+Apheresis
+Congestive Heart Failure
+Hypervolemia
+Ultrafiltration (renal)
+Ultrafiltration
+
+References
+External links
+The UNLOAD Study: Ultrafiltration Versus Intravenous Diuretics for Patients Hospitalized for Acute Decompensated Heart Failure. http://www.unloadstudy.com

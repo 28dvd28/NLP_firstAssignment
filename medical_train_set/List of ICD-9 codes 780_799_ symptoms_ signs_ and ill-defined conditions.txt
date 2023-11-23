@@ -1,0 +1,223 @@
+This is a shortened version of the sixteenth chapter of the ICD-9: Symptoms, Signs and Ill-defined Conditions. It covers ICD codes 780 to 799. The full chapter can be found on pages 455 to 471 of Volume 1, which contains all (sub)categories of the ICD-9. Volume 2 is an alphabetical index of Volume 1. Both volumes can be downloaded for free from the website of the World Health Organization.
+
+Symptoms (780–789)
+780 General symptoms
+780.0 Alteration of consciousness
+780.01 Coma
+780.02 Transient alteration of awareness
+780.03 Persistent vegetative state
+780.09 Semicoma, stupor
+780.1 Hallucinations
+780.2 Syncope
+780.3 Convulsions
+780.31 Febrile convulsions
+780.32 Complex febrile convulsions
+780.39 Other convulsions
+780.4 Dizziness/vertigo, NOS
+780.5 Sleep disturbance, unspec.
+780.50 Unspecified sleep disturbance
+780.51 Insomnia with sleep apnea, unspecified
+780.52 Insomnia, unspecified
+780.53 Hypersomnia with sleep apnea, unspecified
+780.54 Hypersomnia, unspecified
+780.55 Disruptions of 24-hour sleep-wake cycle, unspecified
+780.56 Dysfunctions associated with sleep stages or arousal from sleep
+780.57 Unspecified sleep apnea
+780.58 Sleep related movement disorder, unspecified
+780.59 Other sleep disturbances
+780.6 Fever, nonperinatal
+780.7 Malaise and fatigue
+780.71 Chronic fatigue syndrome
+780.72 Functional quadriplegia
+780.79 Other malaise and fatigue
+780.8 Sweating, excessive
+780.9 Other general symptoms
+780.91 Fussy infant
+780.92 Crying, infant, excessive
+780.93 Memory loss
+780.94 Early satiety
+780.95 Other excessive crying
+780.96 Generalized pain
+780.97 Altered mental status
+780.99 Other general symptoms
+781 Symptoms involving nervous and musculoskeletal systems
+781.0 Abnormal involuntary movements
+781.1 Disturbances, smell and taste
+781.2 Gait abnormality
+781.3 Lack of coordination
+Dysdiadochokinesia
+Ataxia NOS
+Hypotonia
+781.5 Clubbing of fingers
+781.8 Neurologic neglect syndrome
+781.9 Other symptoms involving nervous and musculoskeletal systems
+781.91 Loss of height
+781.92 Abnormal posture
+781.94 Facial weakness
+782 Symptoms involving skin and other integumentary tissue
+782.0 Sensory disturbance skin
+782.1 Rash, nonvesicular, unspec.
+782.2 Localized swelling/mass, superficial
+782.3 Edema, localized, NOS
+782.4 Jaundice
+782.5 Cyanosis
+782.7 Petechiae
+782.8 Change in skin texture
+782.9 Other symptoms involving skin
+783 Symptoms concerning nutrition, metabolism and development
+783.0 Anorexia
+Loss of appetite
+783.1 Abnormal weight gain
+783.2 Abnormal loss of weight
+783.3 Feeding difficulties and mismanagement
+783.4 Lack of expected normal physiological development
+783.5 Polydipsia
+783.6 Polyphagia
+783.9 Other
+784 Symptoms involving head and neck
+784.0 Headache
+784.1 Throat pain
+784.2 Swelling mass or lump in head and neck
+784.3 Aphasia
+784.4 Voice disturbance
+784.41 Aphonia
+784.49 Hoarseness
+784.5 Dysarthria
+784.6 Other symbolic dysfunction
+784.60 Symbolic dysfunction, unspecified
+784.61 Alexia and dyslexia
+784.7 Epistaxis
+784.8 Hemorrhage from throat
+784.9 Other symptoms involving head and neck
+784.91 Postnasal drip
+785 Symptoms involving cardiovascular system
+785.0 Tachycardia
+785.1 Palpitations
+785.2 Murmur of heart, undiagnosed
+785.3 Other abnormal heart sounds
+785.4 Gangrene
+785.5 Shock, unspec.
+785.50 Shock unspecified
+785.51 Cardiogenic shock
+785.52 Septic shock
+785.6 Enlarged lymph nodes
+785.9 Bruit
+786 Symptoms involving respiratory system and other chest symptoms
+786.0 Dyspnea and respiratory abnormalities
+786.03 Apnea
+786.04 Cheyne-Stokes respiration
+786.05 Shortness of breath
+786.06 Tachypnea
+786.07 Wheezing
+786.09 Other respiratory abnormalities
+Bradypnea
+786.1 Stridor
+786.2 Cough
+786.3 Hemoptysis
+786.4 Abnormal sputum
+786.5 Chest pain, unspec.
+786.51 Precordial pain
+786.52 Pleuritic pain
+786.6 swelling, mass, or lump in chest
+786.7 Abnormal chest sounds
+Rales
+786.8 Hiccoughs
+787 Symptoms involving digestive system
+787.0 Nausea and vomiting
+787.01 Nausea w/vomiting
+787.02 Nausea, alone
+787.03 Vomiting, alone
+787.1 Heartburn
+787.2 Dysphagia
+787.3 Gas/bloating
+787.4 Visible peristalsis
+787.5 Abnormal bowel sounds
+787.6 Encopresis, NOS, fecal incontinence
+787.9 Other symptoms involving digestive system
+787.91 Diarrhea, NOS
+788 Symptoms involving urinary system
+788.0 Renal colic
+788.1 Dysuria
+788.2 Retention of urine
+788.3 Urinary incontinence
+788.30 Urinary incontinence unspecified
+788.31 Urge incontinence
+788.32 Stress incontinence
+788.33 Mixed incontinence
+788.34 Incontinence without sensory awareness
+788.35 Post-void dribbling
+788.36 Nocturnal enuresis
+788.37 Continuous leakage
+788.38 Overflow incontinence
+788.39 Other urinary incontinence
+788.4 Frequency of urination and polyuria
+788.41 Urinary frequency
+788.42 Polyuria
+788.43 Nocturia
+788.5 Oliguria and anuria
+788.6 Other abnormality of urination
+788.63 Urgency of urination
+789 Other symptoms involving abdomen and pelvis
+789.0 Abdominal pain
+789.1 Hepatomegaly
+789.2 Splenomegaly
+789.3 Abdominal/pelvic mass, unspec.
+789.4 Abdominal rigidity
+789.5 Ascites
+789.6 Abdominal tenderness
+
+Nonspecific abnormal findings (790–796)
+790 Nonspecific findings on examination of blood
+790.0 Abnormal red blood cell
+790.1 Elevated sedimentation rate
+790.2 Abnormal glucose
+790.21 Impaired fasting glucose
+790.22 Impaired glucose tolerance test (oral)
+790.29 Other abnormal glucose
+790.3 Excessive blood level of alcohol
+790.4 Abnormal transaminase/LDH
+790.5 Other nonspecific abnormal serum enzyme levels
+790.6 Abnormal blood chemistry, other
+Iron overload disorder
+790.7 Bacteremia (not septicemia)
+790.8 Viremia, unspecified
+790.9 Other nonspecific findings on examination of blood
+790.91 Abnormal arterial blood gases
+790.92 Abnormal coagulation profile
+790.93 Abnormal prostate specific antigen
+790.99 Other
+Reticulocytosis
+791 Nonspecific findings on examination of urine
+791.0 Proteinuria
+Albuminuria
+791.2 Hemoglobinuria
+791.5 Glycosuria
+792 Nonspecific abnormal findings in other body substances
+792.1 Blood in stool, occult
+793 Nonspecific abnormal findings on radiological and other examination
+793.1 Abnormal X-ray, lung TERM: 9/30/11
+793.8 Mammogram, abnormal, unspec.
+794 Nonspecific abnormal results of function studies
+794.1 Peripheral nervous system and special senses
+794.15 Abnormal auditory function study
+794.3 Cardiovascular
+794.31 Abnormal electrocardiogram
+795 Nonspecific abnormal histological and immunological findings
+795.0 Nonspecific abnormal Papanicolaou smear of cervix
+795.5 Positive PPD TERM: 9/30/11
+796 Other nonspecific abnormal findings
+796.2 Elevated BP w/o hypertension
+
+Ill-defined and unknown causes of morbidity and mortality (797–799)
+797 Senility without mention of psychosis
+798 Sudden death, cause unknown
+798 Sudden infant death syndrome
+799 Other ill-defined and unknown causes of morbidity and mortality
+799.0 Asphyxia
+799.1 Respiratory arrest
+799.2 Nervousness
+799.3 Debility
+799.4 Cachexia
+799.8 Other ill-defined conditions
+799.81 Decreased libido
+799.89 Other ill-defined conditions

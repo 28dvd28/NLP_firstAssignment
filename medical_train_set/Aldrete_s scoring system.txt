@@ -1,0 +1,17 @@
+Aldrete's scoring system is a commonly used scale for determining when postsurgical patients can be safely discharged from the post-anesthesia care unit (PACU), generally to a second stage (phase II) recovery area, hospital ward, or home. It was devised in 1970 by Jorge Antonio Aldrete, a Mexican anesthesiologist, while working at the Denver Veterans Affairs Hospital.
+
+Scoring system
+The original scoring system was developed before the invention of pulse oximetry and used the patient's colouration as a surrogate marker of their oxygenation status. A modified Aldrete scoring system was described in 1995 which replaces the assessment of skin colouration with the use of pulse oximetry to measure SpO2.
+
+Limitations
+Many institutions caring for surgical patients set minimum Aldrete score thresholds that patients must reach in each category prior to discharge from a PACU, although this use of individual scores was not described in the original scoring system. Additionally, no time limit prior to discharge is dictated in the original paper. The scoring system does not take co-morbid conditions into account for individual patients. Activity (limb movement) scores may be affected by the use of regional or caudal anaesthesia. Temperature, urine output, oral intake, blood results and psychomotor testing are not included.
+
+Alternatives
+The following criteria also exist:
+White in 1999 proposed "fast-track criteria" to determine if patients can be transferred straight from theatre to Phase II recovery. He proposes a minimum overall score of 12 with no score <1 in any category. He includes consciousness, activity, circulation, respiration, oxygen saturations, pain and emesis. This does not include bleeding or urine output. This was used by Song et al. 2004.
+Post anaesthetic discharge scoring system (PADSS) used by Chung et al. 1995.
+Discharge criteria tool used by Brown et al. 2008.
+DASAIM discharge assessment tool used by Gartner et al. 2010.
+
+
+== References ==

@@ -1,0 +1,35 @@
+Abū’l-‘Abbās al-Faḍl ibn Ḥātim al-Nairīzī (Arabic: أبو العباس الفضل بن حاتم النيريزي; Persian: ابوالعباس فضل بن حاتم نیریزی; Latin: Anaritius, Nazirius, c. 865 – c. 922) was a Persian mathematician and astronomer from Nayriz, now in Fars Province, Iran.
+
+Life
+Little is known of al-Nairīzī, though his nisba refers to the town of Neyriz. He mentioned al-Mu'tadid, the Abbasid caliph, in his works, and so scholars have assumed that al-Nairīzī flourished in Baghdad during this period. Al-Nairīzī wrote a book for al-Mu'tadid on atmospheric phenomena. He died in c. 922.
+
+Mathematics
+Al-Nayrizi wrote a commentary to the translation in Arabic by Al-Ḥajjāj ibn Yūsuf ibn Maṭar of Euclid's Elements. Both the translation and the commentary have survived, as well as a 12th-century Latin translation by Gerard of Cremona. Al-Nayrizi's commentary contains unique extracts of two other commentaries on the Elements, produced by Hero of Alexandria and Simplicius of Cilicia.Al-Nairīzī used the umbra (versa), the equivalent to the tangent, as a genuine trigonometric line, as did the Persian astronomer al-Marwazi before him. He gave a proof of the Pythagorean theorem using the Pythagorean tiling.Al-Nayrizi gave a mathematical proof of the parallel postulate based on the assumption that parallel lines are equidistant. He wrote a treatise on an exact method for the numerical determination of the kibla and a text about a device for measuring the heights, widths, and depths.
+
+Astronomy
+Al-Nairīzī wrote a treatise on the spherical astrolabe, an elaborate work that seems to be the best Persian work on the subject. It is divided into four books:
+An historical and critical introduction of the astrolabe;
+A description of the instrument; and a comparison with other astronomical instruments;
+Applications of the instrument;
+Applications of the instrument.Ibn al-Nadim mentions Nayrizi as a distinguished astronomer with eight works by him listed in his book al-Fihrist.Al-Nayrizi's most important astronomical works, his commentary on Ptolemy's Almagest and both his zijes, are lost. He produced treatises on the spherical astrolabe and astrological conjunctions, both of which are extant.
+
+References
+Sources
+Hogendijk, J.P. (1986). "Al-Nayrīzī". The Encyclopaedia of Islam. Vol. 7. Leiden: Brill. ISBN 90-04-09419-9.
+Nelsen, Roger B. (2003). "Paintings, plane tilings, and proofs" (PDF). Math Horizons. Mathematical Association of America. 11 (2): 5–8. doi:10.1080/10724117.2003.12021741. S2CID 126000048.
+Sarton, George (1962). Introduction to the History of Science. Vol. 1. Baltimore, Maryland: Published for the Carnegie Institution of Washington, by the Williams & Wilkins Co. OCLC 1238437.
+
+Texts and translations
+Euclid (1893). Besthorn, R. O.; Heiberg, J. L. (eds.). Codex Leidensis 339, I. Euclidis Elementa (in Latin and Arabic). Translated by Abū ʹl ʹAbbās al-Fadhl ibn Hātim al-Narīzī. Haunia (Copenhagen): Libraria Glydendaliana. OCLC 66287985.
+
+Further reading
+Brentjez, Sonja (1992). "Der Ṯābit b. Qurra zugeschriebene Zusatz I, 462 zu Euklid I, 46 in MS Leiden 399,1". In Demidov, S.S.; Rowe, D.; Folkerts, M.; Scriba, C.J. (eds.). Amphora (in German). Basel.: Birkhäuser. pp. 91–120. doi:10.1007/978-3-0348-8599-7_5. ISBN 978-3-0348-9696-2.
+DeYoung, Gregg (2007). "Nayrīzī: Abū al‐ʿAbbās al‐Faḍl ibn Ḥātim al‐Nayrīzī". In Thomas Hockey; et al. (eds.). The Biographical Encyclopedia of Astronomers. New York: Springer. p. 823. ISBN 978-0-387-31022-0. (PDF version)
+O'Connor, John J.; Robertson, Edmund F., "Abu'l Abbas al-Fadl ibn Hatim Al-Nayrizi", MacTutor History of Mathematics Archive, University of St Andrews
+Sabra, A. I. (1981). "Al-Nayrīzī, Abu'l-'Abbās Al-Faḍl Ibn Ḥātim". In Gillispie, Charles Coulston; Holmes, Frederic Lawrence (eds.). Dictionary of Scientific Biography. Vol. 10. New York: Scribner. pp. 5–7. OCLC 755137603.
+Sezgin, Fuat (2021). "III. Arab mathematicians". Sezgin Online. Brill. doi:10.1163/2667-3975_SEZO_COM_503. Retrieved 1 May 2023.
+Suter, Heinrich (1900). Die Mathematiker und Astronomen der Araber und ihre Werke (in German). Leipzig: Teubner. p. 45. OCLC 230703086.
+
+External links
+Al-Nairizi's Commentary on Euclid's Elements - Codex Leidensis 399: Euclidis Elementa cum Commentariis al-Nairzii (Bestorn, Heiberg) -  ابو العباس الفضل بن حاتم النريزى كتاب اوقليدس المختصر فى علم الاصول المقدمة from Joseph G. Leichter (sel-published)
+Texts relating to al-Nayrizi from the Bibliothèque nationale de France

@@ -1,0 +1,501 @@
+Radionuclide angiography is an area of nuclear medicine which specialises in imaging to show the functionality of the right and left ventricles of the heart, thus allowing informed diagnostic intervention in heart failure. It involves use of a radiopharmaceutical, injected into a patient, and a gamma camera for acquisition. A MUGA scan (multigated acquisition) involves an acquisition triggered (gated) at different points of the cardiac cycle. MUGA scanning is also called equilibrium radionuclide angiocardiography, radionuclide ventriculography (RNVG), or gated blood pool imaging, as well as SYMA scanning (synchronized multigated acquisition scanning).
+This mode of imaging uniquely provides a cine type of image of the beating heart, and allows the interpreter to determine the efficiency of the individual heart valves and chambers. MUGA/Cine scanning represents a robust adjunct to the now more common echocardiogram. Mathematics regarding acquisition of cardiac output (Q) is well served by both of these methods as well as other inexpensive models supporting ejection fraction as a product of the heart/myocardium in systole. The advantage of a MUGA scan over an echocardiogram or an angiogram is its accuracy. An echocardiogram measures the shortening fraction of the ventricle and is limited by the user's ability.  Furthermore, an angiogram is invasive and, often, more expensive.  A MUGA scan provides a more accurate representation of cardiac ejection fraction.
+
+History
+The MUGA scan was first introduced in the early 1970s and quickly became accepted as the preferred technique for measurement of left ventricular ejection fraction (LVEF) with a high degree of accuracy. Several early studies demonstrated an excellent correlation of MUGA-derived LVEF with values obtained by cardiac catheterization contrast ventriculography.
+
+Purpose
+Radionuclide ventriculography is done to evaluate coronary artery disease (CAD), valvular heart disease, congenital heart diseases, cardiomyopathy, and other cardiac disorders. MUGA is typically ordered for the following patients:
+With known or suspected coronary artery disease, to diagnose the disease and predict outcomes
+With lesions in their heart valves
+With congestive heart failure
+Who have undergone percutaneous transluminal coronary angioplasty, coronary artery bypass graft surgery, or medical therapy, to assess the efficacy of the treatment
+With low cardiac output after open-heart surgery
+Who are undergoing cardiotoxic drug agents such as in chemotherapy e.g., with doxorubicin or immunotherapy (herceptin)
+Who have had a cardiac transplantRadionuclide ventriculography gives a much more precise measurement of left ventricular ejection fraction (LVEF) than a transthoracic echocardiogram (TTE). Transthoracic echocardiogram is highly operator dependant, therefore radionuclide ventriculography is a more reproducible measurement of LVEF. Its primary use today is in monitoring cardiac function in patients receiving certain chemotherapeutic agents (anthracyclines: doxorubicin or daunorubicin) which are cardiotoxic.  The chemotherapy dose is often determined by the patient's cardiac function.  In this setting, a much more accurate measurement of ejection fraction, than a transthoracic echocardiogram can provide, is necessary.
+
+Procedure
+The MUGA scan is performed by labeling the patient's red blood pool with a radioactive tracer, technetium-99m-pertechnetate (Tc-99m), and measuring radioactivity over the anterior chest as the radioactive blood flows through the large vessels and the heart chambers.The introduction of the radioactive marker can either take place in vivo or in vitro.
+In the in vivo method, stannous (tin) ions are injected into the patient's bloodstream. A subsequent intravenous injection of the radioactive substance, technetium-99m-pertechnetate, labels the red blood cells in vivo. With an administered activity of about 800 MBq, the effective radiation dose is about 6 mSv.In the in vitro method, some of the patient's blood is drawn and the stannous ions (in the form of stannous chloride) are injected into the drawn blood. The technetium is subsequently added to the mixture as in the in vivo method.
+In both cases, the stannous chloride reduces the technetium ion and prevents it from leaking out of the red blood cells during the procedure.The in vivo technique is more convenient for the majority of patients since it is less time-consuming and less costly and more than 80 percent of the injected radionuclide usually binds to red blood cells with this approach. Red blood cell binding of the radioactive tracer is generally more efficient than in vitro labeling, and it is preferred in patients with indwelling intravenous catheters to decrease the adherence of Tc-99m to the catheter wall and increase the efficiency of blood pool labeling.The patient is placed under a gamma camera, which detects the low-level 140 keV gamma radiation being given off by Technetium-99m (99mTc). As the gamma camera images are acquired, the patient's heart beat is used to 'gate' the acquisition. The final result is a series of images of the heart (usually sixteen), one at each stage of the cardiac cycle.Depending on the objectives of the test, the doctor may decide to perform either a resting or a stress MUGA. During the resting MUGA, the patient lies stationary, whereas during a stress MUGA, the patient is asked to exercise during the scan. The stress MUGA measures the heart performance during exercise and is usually performed to assess the impact of a suspected coronary artery disease. In some cases, a nitroglycerin MUGA may be performed, where nitroglycerin (a vasodilator) is administered prior to the scan.The resulting images show that the volumetrically derived blood pools in the chambers of the heart and timed images may be computationally interpreted to calculate the ejection fraction and injection fraction of the heart. The Massardo method can be used to calculate ventricle volumes. This nuclear medicine scan yields an accurate, inexpensive and easily reproducible means of measuring and monitoring the ejection and injection fractions of the ventricles, which are one of many of the important clinical metrics in assessing global heart performance.
+
+Radiation exposure
+It exposes patients to less radiation than do comparable chest x-ray studies. However, the radioactive material is retained in the patient for several days after the test, during which sophisticated radiation alarms may be triggered, such as in airports. Radionuclide ventriculography has largely been replaced by echocardiography, which is less expensive, and does not require radiation exposure.
+
+Results
+Normal results
+In normal subjects, the left ventricular ejection fraction (LVEF) should be about 50%(range, 50-80%). There should be no area of abnormal wall motion (hypokinesis, akinesis or dyskinesis). Abnormalities in cardiac function may be manifested as a decrease in LVEF and/or the presence of abnormalities in global and regional wall motion. For normal subjects, peak filling rates should be between 2.4 and 3.6 end diastolic volume (EDV) per second, and the time to peak filling rate should be 135-212 ms.
+
+Abnormal results
+An uneven distribution of technetium in the heart indicates that the patient has coronary artery disease, a cardiomyopathy, or blood shunting within the heart. Abnormalities in a resting MUGA usually indicate a heart attack, while those that occur during exercise usually indicate ischemia. In a stress MUGA, patients with coronary artery disease may exhibit a decrease in ejection fraction.
+For a patient that has had a heart attack, or is suspected of having another disease that affects the heart muscle, this scan can help pinpoint the position in the heart that has sustained damage as well as assess the degree of damage. MUGA scans are also used to evaluate heart function prior to and while receiving certain chemotherapies (e.g. doxorubicin (Adriamycin)) or immunotherapy (specifically, herceptin) that have a known effect on heart function.
+
+Massardo method
+The Massardo method is one of a number of approaches for estimating the volume of the ventricles and thus ultimately the ejection fraction. Recall that a MUGA scan is a nuclear imaging method involving the injection of a radioactive isotope (Tc-99m) that acquires gated 2D images of the heart using a SPECT scanner. The pixel values in such an image represent the number of counts (nuclear decays) detected from within that region in a given time interval. The Massardo method enables a 3D volume to be estimated from such a 2D image of decay counts via:
+  
+    
+      
+        V
+        =
+        1.38
+        
+          M
+          
+            3
+          
+        
+        
+          r
+          
+            
+              3
+              2
+            
+          
+        
+      
+    
+    {\displaystyle V=1.38M^{3}r^{\frac {3}{2}}}
+   ,
+where 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   is the pixel dimension and 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   is the ratio of total counts within the ventricle to the number of counts within the brightest (hottest) pixel. The Massardo method relies on two assumptions: (i) the ventricle is spherical and (ii) the radioactivity is homogeneously distributed.The ejection fraction, 
+  
+    
+      
+        
+          E
+          
+            f
+          
+        
+      
+    
+    {\displaystyle E_{f}}
+  , can then be calculated:
+
+  
+    
+      
+        
+          E
+          
+            f
+          
+        
+        (
+        %
+        )
+        =
+        
+          
+            EDV - ESV
+            EDV
+          
+        
+        ×
+        100
+      
+    
+    {\displaystyle E_{f}(\%)={\frac {\text{EDV - ESV}}{\text{EDV}}}\times 100}
+  ,
+where the EDV (end-diastolic volume) is the volume of blood within the ventricle immediately before a contraction and the ESV (end-systolic volume) is the volume of blood remaining in the ventricle at the end of a contraction. The ejection fraction is hence the fraction of the end-diastolic volume that is ejected with each beat.The Siemens Intevo SPECT scanners employ the Massardo method in their MUGA scans. Other methods for estimating ventricular volume exist, but the Massardo method is sufficiently accurate and simple to perform, avoiding the need for blood samples, attenuation corrections or decay corrections.
+
+Derivation
+Define the ratio 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   as the ratio of counts within the chamber of the heart to the counts in the hottest pixel:
+  
+    
+      
+        r
+        =
+        
+          
+            Total counts within the chamber
+            Total counts in the hottest pixel
+          
+        
+        =
+        
+          
+            
+              N
+              
+                t
+              
+            
+            
+              N
+              
+                m
+              
+            
+          
+        
+      
+    
+    {\displaystyle r={\frac {\text{Total counts within the chamber}}{\text{Total counts in the hottest pixel}}}={\frac {N_{t}}{N_{m}}}}
+   .
+Assuming that the activity is homogeneously distributed, the total count is proportional to the volume. The maximum pixel count is thus proportional to the length of the longest axis perpendicular to the collimator, 
+  
+    
+      
+        
+          D
+          
+            m
+          
+        
+      
+    
+    {\displaystyle D_{m}}
+  , times the cross-sectional area of a pixel, 
+  
+    
+      
+        
+          M
+          
+            2
+          
+        
+      
+    
+    {\displaystyle M^{2}}
+  . We can thus write:
+  
+    
+      
+        
+          N
+          
+            m
+          
+        
+        =
+        K
+        
+          M
+          
+            2
+          
+        
+        
+          D
+          
+            m
+          
+        
+      
+    
+    {\displaystyle N_{m}=KM^{2}D_{m}}
+   ,
+where 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   is some constant of proportionality with units counts/cm
+  
+    
+      
+        
+          
+          
+            3
+          
+        
+      
+    
+    {\displaystyle ^{3}}
+  . The total counts, 
+  
+    
+      
+        
+          N
+          
+            t
+          
+        
+      
+    
+    {\displaystyle N_{t}}
+  , can be written 
+  
+    
+      
+        
+          N
+          
+            t
+          
+        
+        =
+        K
+        
+          V
+          
+            t
+          
+        
+      
+    
+    {\displaystyle N_{t}=KV_{t}}
+   where 
+  
+    
+      
+        
+          V
+          
+            t
+          
+        
+      
+    
+    {\displaystyle V_{t}}
+   is the volume of the ventricle and 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   is the same constant of proportionality since we are assuming a homogeneous distribution of activity. The Massardo method now makes the simplification that the ventricle is spherical in shape, giving
+
+  
+    
+      
+        
+          N
+          
+            t
+          
+        
+        =
+        K
+        
+          (
+          
+            
+              π
+              6
+            
+          
+          )
+        
+        
+          D
+          
+            3
+          
+        
+      
+    
+    {\displaystyle N_{t}=K\left({\frac {\pi }{6}}\right)D^{3}}
+   ,
+where 
+  
+    
+      
+        D
+      
+    
+    {\displaystyle D}
+   is the diameter of the sphere and is thus equivalent to 
+  
+    
+      
+        
+          D
+          
+            m
+          
+        
+      
+    
+    {\displaystyle D_{m}}
+   above. This allows us to express the ratio 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   as
+  
+    
+      
+        r
+        =
+        
+          
+            
+              N
+              
+                t
+              
+            
+            
+              N
+              
+                m
+              
+            
+          
+        
+        =
+        
+          
+            
+              π
+              
+                D
+                
+                  2
+                
+              
+            
+            
+              6
+              
+                M
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle r={\frac {N_{t}}{N_{m}}}={\frac {\pi D^{2}}{6M^{2}}}}
+   ,
+finally giving the diameter of the ventricle in terms of 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+  , i.e. counts, alone:
+
+  
+    
+      
+        
+          D
+          
+            2
+          
+        
+        =
+        
+          (
+          
+            
+              6
+              π
+            
+          
+          )
+        
+        
+          M
+          
+            2
+          
+        
+        r
+      
+    
+    {\displaystyle D^{2}=\left({\frac {6}{\pi }}\right)M^{2}r}
+  .
+From this, the volume of the ventricle in terms of counts alone is simply
+
+  
+    
+      
+        
+          V
+          
+            t
+          
+        
+        =
+        
+          
+            
+              6
+              π
+            
+          
+        
+        
+          M
+          
+            3
+          
+        
+        
+          r
+          
+            
+              3
+              2
+            
+          
+        
+        ≈
+        1.38
+        
+          M
+          
+            3
+          
+        
+        
+          r
+          
+            
+              3
+              2
+            
+          
+        
+      
+    
+    {\displaystyle V_{t}={\sqrt {\frac {6}{\pi }}}M^{3}r^{\frac {3}{2}}\approx 1.38M^{3}r^{\frac {3}{2}}}
+  .
+
+References
+External links
+Radionuclide+Angiography at the U.S. National Library of Medicine Medical Subject Headings (MeSH)

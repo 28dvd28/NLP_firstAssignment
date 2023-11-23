@@ -1,0 +1,12 @@
+Cycloastragenol is a triterpenoid isolated from various legume species in the genus Astragalus that is purported to have telomerase activation activity. A preliminary in vitro study on human CD4 and CD8 T cells found that cycloastragenol may moderately increase telomerase activity and inhibit the onset of cellular senescence.
+
+History
+Cycloastragenol was patented  by Geron Corporation and sold to Telomerase Activation Sciences in early 2013 who are developing it as a product named TA-65.  Bill Andrews of Sierra Sciences has done testing on the anti-aging aspect of TA-65;, as well as Maria Blasco in the journal Aging Cell, finding no increase in murine median or mean lifespan but some physiological anti-aging effects without augmenting cancer incidence. TA sciences was served with a consent order by the Federal Trade Commission for deceptive advertising implying that TA-65 can reverse aging and repair DNA damage.
+
+Potential pharmacology
+Its mode of action is purported to be the activation of the human enzyme telomerase.Cycloastragenol intake improved health span but not lifespan in normal mice.As part of a study sponsored by RevGenetics, the cycloastragenol-based product TA-65 was tested by UCLA scientist Rita B. Effros and RevGenetics scientist Hector F. Valenzuela. The small study (using T-cells taken from 6 participants) found that TA-65 activated telomerase in cultured cells in all samples, while another Astragalus extract did not. The clinical significance of this work is uncertain.
+Toxicity testing is limited and safety for the human consumer has not been adequately demonstrated. TA-65 was shown to improve biological markers associated with human health span through the lengthening of short telomeres and rescuing of old cells, although the significance of these findings in actual life expectancy is unknown. Publications in high-impact peer-reviewed journals are lacking however, and much of the online documentation supporting its use is sponsored by its manufacturers.
+As disordered telomerase function is a feature of almost all cancers, there is an unproven, but theoretical risk of oncogene-mediated cancer promotion through the use of telomerase activators.
+
+
+== References ==

@@ -1,0 +1,25 @@
+The psychiatric interview refers to the set of tools that a mental health worker (most times a psychiatrist or a psychologist but at times social workers or nurses) uses to complete a psychiatric assessment.
+The goals of the psychiatric interview are:
+
+Build rapport.
+Collect data about the patient's current difficulties, past psychiatric history and medical history, as well as relevant developmental, interpersonal and social history.
+Diagnose the mental health issue(s).
+Understand the patient's personality structure, use of defense mechanisms and coping strategies.
+Improve the patient's insight.
+Create a foundation for a therapeutic alliance.
+Foster healing.The data collected through the psychiatric interview is mostly subjective, based on the patient's report, and many times can not be corroborated by objective measurements. As such, one the interview's goals is to collect data that is both valid and reliable.
+Validity refers to how the data compares to an ideal absolute truth that the interviewer needs to access and uncover. Challenges that might affect the interview validity include can be categorized as patient related factors and interviewer related factors. Patient's related factors include:
+
+Shame: the patient might feel ashamed to discuss some of his difficulties.
+Fear of being judged: while not ashamed the patient might be reluctant to discuss some of the issues that she thinks that she can be judged for.
+Lack of awareness: patient might have distorted recollection of past events with significant emotional valence.
+Cognitive deficits: the patient might have a memory deficit that might impair his ability to correctly recall past events.
+Secondary gain: the patient decided to misrepresent fact in order to gain a certain benefit (e.g. disability benefits) or avoid a certain penalty (e.g. insanity defense).Interviewer related factors include:
+
+Powerful feelings of like or dislike that might affect the interviewer objectivity.
+Lack of experience: the interviewer lack the skills and knowledge necessary to explore a specific area of pathology.
+Diagnostic bias: the interviewer is invested in a specific psychiatric diagnosis (e.g. same patient might be diagnosed with schizophrenia by a schizophrenia researcher or bipolar disorder with psychotic features by a bipolar disorder researcher).Reliability refers to how datasets collected by different interviewers or the same interview at different times compare with one another. Ideal reliability is when a dataset will be stable irrespective of changes in specifics of the data collection.
+Different interview techniques have been shown to result in variations in the validity and reliability of the collected data.  Open-ended question ("Tell me about your sleep.") have been shown to have better validity but less reliability than closed-ended questions("Do you have sleeping difficulties?")
+
+
+== References ==

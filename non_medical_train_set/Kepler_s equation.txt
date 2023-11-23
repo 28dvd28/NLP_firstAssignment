@@ -1,0 +1,2361 @@
+In orbital mechanics, Kepler's equation relates various geometric properties of the orbit of a body subject to a central force.
+It was derived by Johannes Kepler in 1609 in Chapter 60 of his Astronomia nova, and in book V of his Epitome of Copernican Astronomy (1621) Kepler proposed an iterative solution to the equation. This equation and its solution, however, first appeared in 9th century work of Habash al-Hasib al-Marwazi related to problems of parallax. The equation has played an important role in the history of both physics and mathematics, particularly classical celestial mechanics.
+
+Equation
+Kepler's equation is
+
+where 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   is the mean anomaly, 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   is the eccentric anomaly, and 
+  
+    
+      
+        e
+      
+    
+    {\displaystyle e}
+   is the eccentricity.
+The 'eccentric anomaly' 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   is useful to compute the position of a point moving in a Keplerian orbit. As for instance, if the body passes the periastron at coordinates 
+  
+    
+      
+        x
+        =
+        a
+        (
+        1
+        −
+        e
+        )
+      
+    
+    {\displaystyle x=a(1-e)}
+  , 
+  
+    
+      
+        y
+        =
+        0
+      
+    
+    {\displaystyle y=0}
+  , at time 
+  
+    
+      
+        t
+        =
+        
+          t
+          
+            0
+          
+        
+      
+    
+    {\displaystyle t=t_{0}}
+  , then to find out the position of the body at any time, you first calculate the mean anomaly 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   from the time and the mean motion 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   by the formula 
+  
+    
+      
+        M
+        =
+        n
+        (
+        t
+        −
+        
+          t
+          
+            0
+          
+        
+        )
+      
+    
+    {\displaystyle M=n(t-t_{0})}
+  , then solve the Kepler equation above to get 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+  , then get the coordinates from:
+
+where 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   is the semi-major axis, 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   the semi-minor axis.
+Kepler's equation is a transcendental equation because sine is a transcendental function, meaning it cannot be solved for 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   algebraically. Numerical analysis and series expansions are generally required to evaluate 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+  .
+
+Alternate forms
+There are several forms of Kepler's equation. Each form is associated with a specific type of orbit. The standard Kepler equation is used for elliptic orbits (
+  
+    
+      
+        0
+        ≤
+        e
+        <
+        1
+      
+    
+    {\displaystyle 0\leq e<1}
+  ). The hyperbolic Kepler equation is used for hyperbolic trajectories (
+  
+    
+      
+        e
+        >
+        1
+      
+    
+    {\displaystyle e>1}
+  ). The radial Kepler equation is used for linear (radial) trajectories (
+  
+    
+      
+        e
+        =
+        1
+      
+    
+    {\displaystyle e=1}
+  ). Barker's equation is used for parabolic trajectories (
+  
+    
+      
+        e
+        =
+        1
+      
+    
+    {\displaystyle e=1}
+  ).
+When 
+  
+    
+      
+        e
+        =
+        0
+      
+    
+    {\displaystyle e=0}
+  , the orbit is circular. Increasing 
+  
+    
+      
+        e
+      
+    
+    {\displaystyle e}
+   causes the circle to become elliptical. When 
+  
+    
+      
+        e
+        =
+        1
+      
+    
+    {\displaystyle e=1}
+  , there are three possibilities:
+
+a parabolic trajectory,
+a trajectory going in or out along an infinite ray emanating from the centre of attraction,
+or a trajectory that goes back and forth along a line segment from the centre of attraction to a point at some distance away.A slight increase in 
+  
+    
+      
+        e
+      
+    
+    {\displaystyle e}
+   above 1 results in a hyperbolic orbit with a turning angle of just under 180 degrees. Further increases reduce the turning angle, and as 
+  
+    
+      
+        e
+      
+    
+    {\displaystyle e}
+   goes to infinity, the orbit becomes a straight line of infinite length.
+
+Hyperbolic Kepler equation
+The Hyperbolic Kepler equation is:
+
+where 
+  
+    
+      
+        H
+      
+    
+    {\displaystyle H}
+   is the hyperbolic eccentric anomaly.
+This equation is derived by redefining M to be the square root of −1 times the right-hand side of the elliptical equation:
+
+  
+    
+      
+        M
+        =
+        i
+        
+          (
+          
+            E
+            −
+            e
+            sin
+            ⁡
+            E
+          
+          )
+        
+      
+    
+    {\displaystyle M=i\left(E-e\sin E\right)}
+  (in which 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   is now imaginary) and then replacing 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   by 
+  
+    
+      
+        i
+        H
+      
+    
+    {\displaystyle iH}
+  .
+
+Radial Kepler equation
+The Radial Kepler equation is:
+
+where 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   is proportional to time and 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   is proportional to the distance from the centre of attraction along the ray. This equation is derived by multiplying Kepler's equation by 1/2 and setting 
+  
+    
+      
+        e
+      
+    
+    {\displaystyle e}
+   to 1:
+
+  
+    
+      
+        t
+        (
+        x
+        )
+        =
+        
+          
+            1
+            2
+          
+        
+        
+          [
+          
+            E
+            −
+            sin
+            ⁡
+            E
+          
+          ]
+        
+        .
+      
+    
+    {\displaystyle t(x)={\frac {1}{2}}\left[E-\sin E\right].}
+  and then making the substitution
+
+  
+    
+      
+        E
+        =
+        2
+        
+          sin
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        
+          
+            x
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle E=2\sin ^{-1}({\sqrt {x}}).}
+
+Inverse problem
+Calculating 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   for a given value of 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   is straightforward. However, solving for 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   when 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   is given can be considerably more challenging. There is no closed-form solution.
+One can write an infinite series expression for the solution to Kepler's equation using Lagrange inversion, but the series does not converge for all combinations of 
+  
+    
+      
+        e
+      
+    
+    {\displaystyle e}
+   and 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   (see below).
+Confusion over the solvability of Kepler's equation has persisted in the literature for four centuries. Kepler himself expressed doubt at the possibility of finding a general solution:
+
+I am sufficiently satisfied that it [Kepler's equation] cannot be solved a priori, on account of the different nature of the arc and the sine.  But if I am mistaken, and any one shall point out the way to me, he will be in my eyes the great Apollonius.
+Fourier series expansion (with respect to 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  ) using Bessel functions is 
+
+  
+    
+      
+        E
+        =
+        M
+        +
+        
+          ∑
+          
+            m
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          
+            2
+            m
+          
+        
+        
+          J
+          
+            m
+          
+        
+        (
+        m
+        e
+        )
+        sin
+        ⁡
+        (
+        m
+        M
+        )
+        ,
+        
+        e
+        ≤
+        1
+        ,
+        
+        M
+        ∈
+        [
+        −
+        π
+        ,
+        π
+        ]
+        .
+      
+    
+    {\displaystyle E=M+\sum _{m=1}^{\infty }{\frac {2}{m}}J_{m}(me)\sin(mM),\quad e\leq 1,\quad M\in [-\pi ,\pi ].}
+  With respect to 
+  
+    
+      
+        e
+      
+    
+    {\displaystyle e}
+  , it is a Kapteyn series.
+
+Inverse Kepler equation
+The inverse Kepler equation is the solution of Kepler's equation for all real values of 
+  
+    
+      
+        e
+      
+    
+    {\displaystyle e}
+  :
+
+  
+    
+      
+        E
+        =
+        
+          
+            {
+            
+              
+                
+                  
+                    
+                      ∑
+                      
+                        n
+                        =
+                        1
+                      
+                      
+                        ∞
+                      
+                    
+                    
+                      
+                        
+                          M
+                          
+                            
+                              n
+                              3
+                            
+                          
+                        
+                        
+                          n
+                          !
+                        
+                      
+                    
+                    
+                      lim
+                      
+                        θ
+                        →
+                        
+                          0
+                          
+                            +
+                          
+                        
+                      
+                    
+                    
+                    
+                      
+                        (
+                      
+                    
+                    
+                      
+                        
+                          
+                            d
+                          
+                          
+                            
+                            n
+                            −
+                            1
+                          
+                        
+                        
+                          
+                            d
+                          
+                          
+                            θ
+                            
+                              
+                              n
+                              −
+                              1
+                            
+                          
+                        
+                      
+                    
+                    
+                      
+                        (
+                      
+                    
+                    
+                      
+                        (
+                      
+                    
+                    
+                      
+                        θ
+                        
+                          
+                            θ
+                            −
+                            sin
+                            ⁡
+                            (
+                            θ
+                            )
+                          
+                          
+                            3
+                          
+                        
+                      
+                    
+                    
+                      
+                        
+                          )
+                        
+                      
+                      
+                        
+                        
+                        
+                        n
+                      
+                    
+                    
+                      
+                        )
+                      
+                    
+                    
+                      
+                        )
+                      
+                    
+                    ,
+                  
+                
+                
+                  e
+                  =
+                  1
+                
+              
+              
+                
+                  
+                    
+                      ∑
+                      
+                        n
+                        =
+                        1
+                      
+                      
+                        ∞
+                      
+                    
+                    
+                      
+                        
+                          M
+                          
+                            n
+                          
+                        
+                        
+                          n
+                          !
+                        
+                      
+                    
+                    
+                      lim
+                      
+                        θ
+                        →
+                        
+                          0
+                          
+                            +
+                          
+                        
+                      
+                    
+                    
+                    
+                      
+                        (
+                      
+                    
+                    
+                      
+                        
+                          
+                            d
+                          
+                          
+                            
+                            n
+                            −
+                            1
+                          
+                        
+                        
+                          
+                            d
+                          
+                          
+                            θ
+                            
+                              
+                              n
+                              −
+                              1
+                            
+                          
+                        
+                      
+                    
+                    
+                      
+                        (
+                      
+                    
+                    
+                      
+                        (
+                      
+                    
+                    
+                      
+                        θ
+                        
+                          θ
+                          −
+                          e
+                          sin
+                          ⁡
+                          (
+                          θ
+                          )
+                        
+                      
+                    
+                    
+                      
+                        
+                          )
+                        
+                      
+                      
+                        
+                        n
+                      
+                    
+                    
+                      
+                        )
+                      
+                    
+                    
+                      
+                        )
+                      
+                    
+                    ,
+                  
+                
+                
+                  e
+                  ≠
+                  1
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle E={\begin{cases}\displaystyle \sum _{n=1}^{\infty }{\frac {M^{\frac {n}{3}}}{n!}}\lim _{\theta \to 0^{+}}\!{\Bigg (}{\frac {\mathrm {d} ^{\,n-1}}{\mathrm {d} \theta ^{\,n-1}}}{\bigg (}{\bigg (}{\frac {\theta }{\sqrt[{3}]{\theta -\sin(\theta )}}}{\bigg )}^{\!\!\!n}{\bigg )}{\Bigg )},&e=1\\\displaystyle \sum _{n=1}^{\infty }{\frac {M^{n}}{n!}}\lim _{\theta \to 0^{+}}\!{\Bigg (}{\frac {\mathrm {d} ^{\,n-1}}{\mathrm {d} \theta ^{\,n-1}}}{\bigg (}{\Big (}{\frac {\theta }{\theta -e\sin(\theta )}}{\Big )}^{\!n}{\bigg )}{\Bigg )},&e\neq 1\end{cases}}}
+  Evaluating this yields:
+
+  
+    
+      
+        E
+        =
+        
+          
+            {
+            
+              
+                
+                  
+                    s
+                    +
+                    
+                      
+                        1
+                        60
+                      
+                    
+                    
+                      s
+                      
+                        3
+                      
+                    
+                    +
+                    
+                      
+                        1
+                        1400
+                      
+                    
+                    
+                      s
+                      
+                        5
+                      
+                    
+                    +
+                    
+                      
+                        1
+                        25200
+                      
+                    
+                    
+                      s
+                      
+                        7
+                      
+                    
+                    +
+                    
+                      
+                        43
+                        17248000
+                      
+                    
+                    
+                      s
+                      
+                        9
+                      
+                    
+                    +
+                    
+                      
+                        1213
+                        7207200000
+                      
+                    
+                    
+                      s
+                      
+                        11
+                      
+                    
+                    +
+                    
+                      
+                        151439
+                        12713500800000
+                      
+                    
+                    
+                      s
+                      
+                        13
+                      
+                    
+                    +
+                    ⋯
+                    
+                       with 
+                    
+                    s
+                    =
+                    (
+                    6
+                    M
+                    
+                      )
+                      
+                        1
+                        
+                          /
+                        
+                        3
+                      
+                    
+                    ,
+                  
+                
+                
+                  e
+                  =
+                  1
+                
+              
+              
+                
+              
+              
+                
+                  
+                    
+                      
+                        1
+                        
+                          1
+                          −
+                          e
+                        
+                      
+                    
+                    M
+                    −
+                    
+                      
+                        e
+                        
+                          (
+                          1
+                          −
+                          e
+                          
+                            )
+                            
+                              4
+                            
+                          
+                        
+                      
+                    
+                    
+                      
+                        
+                          M
+                          
+                            3
+                          
+                        
+                        
+                          3
+                          !
+                        
+                      
+                    
+                    +
+                    
+                      
+                        
+                          (
+                          9
+                          
+                            e
+                            
+                              2
+                            
+                          
+                          +
+                          e
+                          )
+                        
+                        
+                          (
+                          1
+                          −
+                          e
+                          
+                            )
+                            
+                              7
+                            
+                          
+                        
+                      
+                    
+                    
+                      
+                        
+                          M
+                          
+                            5
+                          
+                        
+                        
+                          5
+                          !
+                        
+                      
+                    
+                    −
+                    
+                      
+                        
+                          (
+                          225
+                          
+                            e
+                            
+                              3
+                            
+                          
+                          +
+                          54
+                          
+                            e
+                            
+                              2
+                            
+                          
+                          +
+                          e
+                          )
+                        
+                        
+                          (
+                          1
+                          −
+                          e
+                          
+                            )
+                            
+                              10
+                            
+                          
+                        
+                      
+                    
+                    
+                      
+                        
+                          M
+                          
+                            7
+                          
+                        
+                        
+                          7
+                          !
+                        
+                      
+                    
+                    +
+                    
+                      
+                        
+                          (
+                          11025
+                          
+                            e
+                            
+                              4
+                            
+                          
+                          +
+                          4131
+                          
+                            e
+                            
+                              3
+                            
+                          
+                          +
+                          243
+                          
+                            e
+                            
+                              2
+                            
+                          
+                          +
+                          e
+                          )
+                        
+                        
+                          (
+                          1
+                          −
+                          e
+                          
+                            )
+                            
+                              13
+                            
+                          
+                        
+                      
+                    
+                    
+                      
+                        
+                          M
+                          
+                            9
+                          
+                        
+                        
+                          9
+                          !
+                        
+                      
+                    
+                    +
+                    ⋯
+                    ,
+                  
+                
+                
+                  e
+                  ≠
+                  1
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle E={\begin{cases}\displaystyle s+{\frac {1}{60}}s^{3}+{\frac {1}{1400}}s^{5}+{\frac {1}{25200}}s^{7}+{\frac {43}{17248000}}s^{9}+{\frac {1213}{7207200000}}s^{11}+{\frac {151439}{12713500800000}}s^{13}+\cdots {\text{ with }}s=(6M)^{1/3},&e=1\\\\\displaystyle {\frac {1}{1-e}}M-{\frac {e}{(1-e)^{4}}}{\frac {M^{3}}{3!}}+{\frac {(9e^{2}+e)}{(1-e)^{7}}}{\frac {M^{5}}{5!}}-{\frac {(225e^{3}+54e^{2}+e)}{(1-e)^{10}}}{\frac {M^{7}}{7!}}+{\frac {(11025e^{4}+4131e^{3}+243e^{2}+e)}{(1-e)^{13}}}{\frac {M^{9}}{9!}}+\cdots ,&e\neq 1\end{cases}}}
+  These series can be reproduced in Mathematica with the InverseSeries operation.
+
+InverseSeries[Series[M - Sin[M], {M, 0, 10}]]
+InverseSeries[Series[M - e Sin[M], {M, 0, 10}]]These functions are simple Maclaurin series. Such Taylor series representations of transcendental functions are considered to be definitions of those functions. Therefore, this solution is a formal definition of the inverse Kepler equation. However, 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   is not an entire function of 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   at a given non-zero 
+  
+    
+      
+        e
+      
+    
+    {\displaystyle e}
+  . Indeed, the derivative
+
+  
+    
+      
+        
+          d
+          M
+        
+        
+          /
+        
+        
+          d
+        
+        E
+        =
+        1
+        −
+        e
+        cos
+        ⁡
+        E
+      
+    
+    {\displaystyle \mathrm {dM} /\mathrm {d} E=1-e\cos E}
+  goes to zero at an infinite set of complex numbers when 
+  
+    
+      
+        e
+        <
+        1
+        ,
+      
+    
+    {\displaystyle e<1,}
+   the nearest to zero being at 
+  
+    
+      
+        E
+        =
+        ±
+        i
+        
+          cosh
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        1
+        
+          /
+        
+        e
+        )
+        ,
+      
+    
+    {\displaystyle E=\pm i\cosh ^{-1}(1/e),}
+   and at these two points
+
+  
+    
+      
+        M
+        =
+        E
+        −
+        e
+        sin
+        ⁡
+        E
+        =
+        ±
+        i
+        
+          (
+          
+            
+              cosh
+              
+                −
+                1
+              
+            
+            ⁡
+            (
+            1
+            
+              /
+            
+            e
+            )
+            −
+            
+              
+                1
+                −
+                
+                  e
+                  
+                    2
+                  
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle M=E-e\sin E=\pm i\left(\cosh ^{-1}(1/e)-{\sqrt {1-e^{2}}}\right)}
+  (where inverse cosh is taken to be positive), and 
+  
+    
+      
+        
+          d
+        
+        E
+        
+          /
+        
+        
+          d
+        
+        M
+      
+    
+    {\displaystyle \mathrm {d} E/\mathrm {d} M}
+   goes to infinity at these values of 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  . This means that the radius of convergence of the Maclaurin series is 
+  
+    
+      
+        
+          cosh
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        1
+        
+          /
+        
+        e
+        )
+        −
+        
+          
+            1
+            −
+            
+              e
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle \cosh ^{-1}(1/e)-{\sqrt {1-e^{2}}}}
+   and the series will not converge for values of 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   larger than this. The series can also be used for the hyperbolic case, in which case the radius of convergence is 
+  
+    
+      
+        
+          cos
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        1
+        
+          /
+        
+        e
+        )
+        −
+        
+          
+            
+              e
+              
+                2
+              
+            
+            −
+            1
+          
+        
+        .
+      
+    
+    {\displaystyle \cos ^{-1}(1/e)-{\sqrt {e^{2}-1}}.}
+   The series for when 
+  
+    
+      
+        e
+        =
+        1
+      
+    
+    {\displaystyle e=1}
+   converges when 
+  
+    
+      
+        M
+        <
+        2
+        π
+      
+    
+    {\displaystyle M<2\pi }
+  .
+While this solution is the simplest in a certain mathematical sense,, other solutions are preferable for most applications. Alternatively, Kepler's equation can be solved numerically.
+The solution for 
+  
+    
+      
+        e
+        ≠
+        1
+      
+    
+    {\displaystyle e\neq 1}
+   was found by Karl Stumpff in 1968, but its significance wasn't recognized.One can also write a Maclaurin series in 
+  
+    
+      
+        e
+      
+    
+    {\displaystyle e}
+  . This series does not converge when 
+  
+    
+      
+        e
+      
+    
+    {\displaystyle e}
+   is larger than the Laplace limit (about 0.66), regardless of the value of 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   (unless 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   is a multiple of 2π), but it converges for all 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   if 
+  
+    
+      
+        e
+      
+    
+    {\displaystyle e}
+   is less than the Laplace limit. The coefficients in the series, other than the first (which is simply 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  ), depend on 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   in a periodic way with period 2π.
+
+Inverse radial Kepler equation
+The inverse radial Kepler equation (
+  
+    
+      
+        e
+        =
+        1
+      
+    
+    {\displaystyle e=1}
+  ) can also be written as:
+
+  
+    
+      
+        x
+        (
+        t
+        )
+        =
+        
+          ∑
+          
+            n
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          [
+          
+            
+              lim
+              
+                r
+                →
+                
+                  0
+                  
+                    +
+                  
+                
+              
+            
+            
+              (
+              
+                
+                  
+                    
+                      t
+                      
+                        
+                          
+                            2
+                            3
+                          
+                        
+                        n
+                      
+                    
+                    
+                      n
+                      !
+                    
+                  
+                
+                
+                  
+                    
+                      
+                        d
+                      
+                      
+                        
+                        n
+                        −
+                        1
+                      
+                    
+                    
+                      
+                        d
+                      
+                      
+                        r
+                        
+                          
+                          n
+                          −
+                          1
+                        
+                      
+                    
+                  
+                
+                
+                
+                  (
+                  
+                    
+                      r
+                      
+                        n
+                      
+                    
+                    
+                      
+                        (
+                        
+                          
+                            
+                              3
+                              2
+                            
+                          
+                          
+                            
+                              (
+                            
+                          
+                          
+                            sin
+                            
+                              −
+                              1
+                            
+                          
+                          ⁡
+                          (
+                          
+                            
+                              r
+                            
+                          
+                          )
+                          −
+                          
+                            
+                              r
+                              −
+                              
+                                r
+                                
+                                  2
+                                
+                              
+                            
+                          
+                          
+                            
+                              )
+                            
+                          
+                        
+                        )
+                      
+                      
+                        
+                        −
+                        
+                          
+                            2
+                            3
+                          
+                        
+                        n
+                      
+                    
+                  
+                  )
+                
+              
+              )
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle x(t)=\sum _{n=1}^{\infty }\left[\lim _{r\to 0^{+}}\left({\frac {t^{{\frac {2}{3}}n}}{n!}}{\frac {\mathrm {d} ^{\,n-1}}{\mathrm {d} r^{\,n-1}}}\!\left(r^{n}\left({\frac {3}{2}}{\Big (}\sin ^{-1}({\sqrt {r}})-{\sqrt {r-r^{2}}}{\Big )}\right)^{\!-{\frac {2}{3}}n}\right)\right)\right]}
+  Evaluating this yields:
+
+  
+    
+      
+        x
+        (
+        t
+        )
+        =
+        p
+        −
+        
+          
+            1
+            5
+          
+        
+        
+          p
+          
+            2
+          
+        
+        −
+        
+          
+            3
+            175
+          
+        
+        
+          p
+          
+            3
+          
+        
+        −
+        
+          
+            23
+            7875
+          
+        
+        
+          p
+          
+            4
+          
+        
+        −
+        
+          
+            1894
+            3031875
+          
+        
+        
+          p
+          
+            5
+          
+        
+        −
+        
+          
+            3293
+            21896875
+          
+        
+        
+          p
+          
+            6
+          
+        
+        −
+        
+          
+            2418092
+            62077640625
+          
+        
+        
+          p
+          
+            7
+          
+        
+        −
+         
+        ⋯
+         
+        
+          
+            |
+          
+        
+        
+          p
+          =
+          
+            
+              (
+              
+                
+                  
+                    
+                      3
+                      2
+                    
+                  
+                
+                t
+              
+              )
+            
+            
+              2
+              
+                /
+              
+              3
+            
+          
+        
+      
+    
+    {\displaystyle x(t)=p-{\frac {1}{5}}p^{2}-{\frac {3}{175}}p^{3}-{\frac {23}{7875}}p^{4}-{\frac {1894}{3031875}}p^{5}-{\frac {3293}{21896875}}p^{6}-{\frac {2418092}{62077640625}}p^{7}-\ \cdots \ {\bigg |}{p=\left({\tfrac {3}{2}}t\right)^{2/3}}}
+  To obtain this result using Mathematica:
+
+InverseSeries[Series[ArcSin[Sqrt[t]] - Sqrt[(1 - t) t], {t, 0, 15}]]
+
+Numerical approximation of inverse problem
+Newton's method
+For most applications, the inverse problem can be computed numerically by finding the root of the function:
+
+  
+    
+      
+        f
+        (
+        E
+        )
+        =
+        E
+        −
+        e
+        sin
+        ⁡
+        (
+        E
+        )
+        −
+        M
+        (
+        t
+        )
+      
+    
+    {\displaystyle f(E)=E-e\sin(E)-M(t)}
+  This can be done iteratively via Newton's method:
+
+  
+    
+      
+        
+          E
+          
+            n
+            +
+            1
+          
+        
+        =
+        
+          E
+          
+            n
+          
+        
+        −
+        
+          
+            
+              f
+              (
+              
+                E
+                
+                  n
+                
+              
+              )
+            
+            
+              
+                f
+                ′
+              
+              (
+              
+                E
+                
+                  n
+                
+              
+              )
+            
+          
+        
+        =
+        
+          E
+          
+            n
+          
+        
+        −
+        
+          
+            
+              
+                E
+                
+                  n
+                
+              
+              −
+              e
+              sin
+              ⁡
+              (
+              
+                E
+                
+                  n
+                
+              
+              )
+              −
+              M
+              (
+              t
+              )
+            
+            
+              1
+              −
+              e
+              cos
+              ⁡
+              (
+              
+                E
+                
+                  n
+                
+              
+              )
+            
+          
+        
+      
+    
+    {\displaystyle E_{n+1}=E_{n}-{\frac {f(E_{n})}{f'(E_{n})}}=E_{n}-{\frac {E_{n}-e\sin(E_{n})-M(t)}{1-e\cos(E_{n})}}}
+  Note that 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   and 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   are in units of radians in this computation.  This iteration is repeated until desired accuracy is obtained (e.g. when 
+  
+    
+      
+        f
+        (
+        E
+        )
+      
+    
+    {\displaystyle f(E)}
+   < desired accuracy). For most elliptical orbits an initial value of 
+  
+    
+      
+        
+          E
+          
+            0
+          
+        
+        =
+        M
+        (
+        t
+        )
+      
+    
+    {\displaystyle E_{0}=M(t)}
+   is sufficient. For orbits with 
+  
+    
+      
+        e
+        >
+        0.8
+      
+    
+    {\displaystyle e>0.8}
+  , a initial value of 
+  
+    
+      
+        
+          E
+          
+            0
+          
+        
+        =
+        π
+      
+    
+    {\displaystyle E_{0}=\pi }
+   can be used. Numerous works developed accurate (but also more complex) start guesses. If 
+  
+    
+      
+        e
+      
+    
+    {\displaystyle e}
+   is identically 1, then the derivative of 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  , which is in the denominator of Newton's method, can get close to zero, making derivative-based methods such as Newton-Raphson, secant, or regula falsi numerically unstable. In that case, the bisection method will provide guaranteed convergence, particularly since the solution can be bounded in a small initial interval. On modern computers, it is possible to achieve 4 or 5 digits of accuracy in 17 to 18 iterations. A similar approach can be used for the hyperbolic form of Kepler's equation.: 66–67  In the case of a parabolic trajectory, Barker's equation is used.
+
+Fixed-point iteration
+A related method starts by noting that 
+  
+    
+      
+        E
+        =
+        M
+        +
+        e
+        sin
+        ⁡
+        
+          E
+        
+      
+    
+    {\displaystyle E=M+e\sin {E}}
+  . Repeatedly substituting the expression on the right for the 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   on the right yields a simple fixed-point iteration algorithm for evaluating 
+  
+    
+      
+        E
+        (
+        e
+        ,
+        M
+        )
+      
+    
+    {\displaystyle E(e,M)}
+  . This method is identical to Kepler's 1621 solution.
+
+The number of iterations, 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  , depends on the value of 
+  
+    
+      
+        e
+      
+    
+    {\displaystyle e}
+  . The hyperbolic form similarly has 
+  
+    
+      
+        H
+        =
+        e
+        sinh
+        ⁡
+        H
+        −
+        M
+      
+    
+    {\displaystyle H=e\sinh H-M}
+  .
+This method is related to the Newton's method solution above in that
+
+  
+    
+      
+        
+          E
+          
+            n
+            +
+            1
+          
+        
+        =
+        
+          E
+          
+            n
+          
+        
+        −
+        
+          
+            
+              
+                E
+                
+                  n
+                
+              
+              −
+              e
+              sin
+              ⁡
+              (
+              
+                E
+                
+                  n
+                
+              
+              )
+              −
+              M
+              (
+              t
+              )
+            
+            
+              1
+              −
+              e
+              cos
+              ⁡
+              (
+              
+                E
+                
+                  n
+                
+              
+              )
+            
+          
+        
+        =
+        
+          E
+          
+            n
+          
+        
+        +
+        
+          
+            
+              (
+              M
+              +
+              e
+              sin
+              ⁡
+              
+                
+                  E
+                  
+                    n
+                  
+                
+              
+              −
+              
+                E
+                
+                  n
+                
+              
+              )
+              (
+              1
+              +
+              e
+              cos
+              ⁡
+              
+                
+                  E
+                  
+                    n
+                  
+                
+              
+              )
+            
+            
+              1
+              −
+              
+                e
+                
+                  2
+                
+              
+              (
+              cos
+              ⁡
+              
+                
+                  E
+                  
+                    n
+                  
+                
+              
+              
+                )
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle E_{n+1}=E_{n}-{\frac {E_{n}-e\sin(E_{n})-M(t)}{1-e\cos(E_{n})}}=E_{n}+{\frac {(M+e\sin {E_{n}}-E_{n})(1+e\cos {E_{n}})}{1-e^{2}(\cos {E_{n}})^{2}}}}
+  To first order in the small quantities 
+  
+    
+      
+        M
+        −
+        
+          E
+          
+            n
+          
+        
+      
+    
+    {\displaystyle M-E_{n}}
+   and 
+  
+    
+      
+        e
+      
+    
+    {\displaystyle e}
+  ,
+
+  
+    
+      
+        
+          E
+          
+            n
+            +
+            1
+          
+        
+        ≈
+        M
+        +
+        e
+        sin
+        ⁡
+        
+          
+            E
+            
+              n
+            
+          
+        
+      
+    
+    {\displaystyle E_{n+1}\approx M+e\sin {E_{n}}}
+  .
+
+See also
+Kepler's laws of planetary motion
+Kepler problem
+Kepler problem in general relativity
+Radial trajectory
+
+References
+External links
+
+Danby, John M.; Burkardt, Thomas M. (1983). "The solution of Kepler's equation. I". Celestial Mechanics. 31 (2): 95–107. Bibcode:1983CeMec..31...95D. doi:10.1007/BF01686811. S2CID 189832421.
+Conway, Bruce A. (1986). "An improved algorithm due to Laguerre for the solution of Kepler's equation". 24th Aerospace Sciences Meeting. doi:10.2514/6.1986-84.
+Mikkola, Seppo (1987). "A cubic approximation for Kepler's equation" (PDF). Celestial Mechanics. 40 (3): 329–334. Bibcode:1987CeMec..40..329M. doi:10.1007/BF01235850. S2CID 122237945.
+Nijenhuis, Albert (1991). "Solving Kepler's equation with high efficiency and accuracy". Celestial Mechanics and Dynamical Astronomy. 51 (4): 319–330. Bibcode:1991CeMDA..51..319N. doi:10.1007/BF00052925. S2CID 121845017.
+Markley, F. Landis (1995). "Kepler equation solver". Celestial Mechanics and Dynamical Astronomy. 63 (1): 101–111. Bibcode:1995CeMDA..63..101M. doi:10.1007/BF00691917. S2CID 120405765.
+Fukushima, Toshio (1996). "A method solving kepler's equation without transcendental function evaluations". Celestial Mechanics and Dynamical Astronomy. 66 (3): 309–319. Bibcode:1996CeMDA..66..309F. doi:10.1007/BF00049384. S2CID 120352687.
+Charles, Edgar D.; Tatum, Jeremy B. (1997). "The convergence of Newton-Raphson iteration with Kepler's equation". Celestial Mechanics and Dynamical Astronomy. 69 (4): 357–372. Bibcode:1997CeMDA..69..357C. doi:10.1023/A:1008200607490. S2CID 118637706.
+Stumpf, Laura (1999). "Chaotic behaviour in the Newton iterative function associated with Kepler's equation". Celestial Mechanics and Dynamical Astronomy. 74 (2): 95–109. Bibcode:1999CeMDA..74...95S. doi:10.1023/A:1008339416143. S2CID 122491746.
+Palacios, Manuel (2002). "Kepler equation and accelerated Newton method". Journal of Computational and Applied Mathematics. 138 (2): 335–346. Bibcode:2002JCoAM.138..335P. doi:10.1016/S0377-0427(01)00369-7.
+Boyd, John P. (2007). "Rootfinding for a transcendental equation without a first guess: Polynomialization of Kepler's equation through Chebyshev polynomial equation of the sine". Applied Numerical Mathematics. 57 (1): 12–18. doi:10.1016/j.apnum.2005.11.010.
+Pál, András (2009). "An analytical solution for Kepler's problem". Monthly Notices of the Royal Astronomical Society. 396 (3): 1737–1742. arXiv:0904.0324. Bibcode:2009MNRAS.396.1737P. doi:10.1111/j.1365-2966.2009.14853.x.
+Esmaelzadeh, Reza; Ghadiri, Hossein (2014). "Appropriate starter for solving the Kepler's equation". International Journal of Computer Applications. 89 (7): 31–38. Bibcode:2014IJCA...89g..31E. doi:10.5120/15517-4394.
+Zechmeister, Mathias (2018). "CORDIC-like method for solving Kepler's equation". Astronomy and Astrophysics. 619: A128. arXiv:1808.07062. Bibcode:2018A&A...619A.128Z. doi:10.1051/0004-6361/201833162.Kepler's Equation at Wolfram Mathworld

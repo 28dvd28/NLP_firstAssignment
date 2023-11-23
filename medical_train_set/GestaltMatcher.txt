@@ -1,0 +1,11 @@
+GestaltMatcher is a continuously updated collection of medical images of individuals with rare diseases and open-source AIs for the interpretation of such data. As of March 2023, GestaltMatcher DataBase (GMDB) contained approximately 10,000 case reports with a molecular diagnosis and clinical features annotated with HPO terminology. Medical images include, for example, facial photographs of patients with genetic syndromes manifesting with facial dysmorphic features, as well as radiographs from those with skeletal dysplasias.
+GestaltMatcher allows users to find and publish case reports, including medical images, if that option is chosen in the dynamic consent module. By that means, GMDB complements medRxiv and can also be used as a repository for re-identifiable images in preprints.
+
+History
+The GestaltMatcher project started in April 2021 during the revision of the manuscript from Hsieh, et al. with funding from University of Bonn and the German Research Foundation (DFG). The reviewers and editors of Nature Genetics asked for FAIR data in order to reproduce the algorithmic results described in that work. Since then, the database (GMDB) has grown by contributions from its community. Since January 2022, GMDB can be used as repository for medical imaging data for preprints submitted to medRxiv. In February 2023, at the 14th ICHG meeting in Cape Town, Prof. Shahida Moosa (Stellenbosch University) reported the 10,000 case, which is a patient from South Africa with Mabry syndrome. Prof. Peter Krawitz also announced at the conference that AGD e.V., a German non-profit organization, will oversee the GMDB from this point forward.
+
+References
+External links
+GestaltMatcher
+GMDB
+AGD e.V., operator of the service

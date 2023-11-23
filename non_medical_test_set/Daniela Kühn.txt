@@ -1,0 +1,13 @@
+Daniela Kühn (born 1973) is a German mathematician and the Mason Professor in Mathematics at the University of Birmingham in Birmingham, England. She is known for her research in combinatorics, and particularly in extremal combinatorics and graph theory.
+
+Biography
+Kühn earned the Certificate of Advanced Studies in Mathematics (Cambridge Mathematical Tripos) from Cambridge University in 1997 and a Diploma in Mathematics from the Chemnitz University of Technology in 1999, followed by her doctorate from the University of Hamburg in 2001, under the supervision of Reinhard Diestel. After working as a postdoctoral researcher at Hamburg and the Free University of Berlin, she moved to the University of Birmingham as a lecturer in 2004, and was awarded the Mason Professorship of Mathematics in 2010.
+
+Research
+In 2004 Kühn published a pair of papers in Combinatorica with her thesis advisor, Reinhard Diestel, concerning the cycle spaces of infinite graphs. In these graphs the appropriate generalizations of cycles and spanning trees hinge on a proper treatment of the ends of the graph. Reviewer R. Bruce Richter writes that "the results are extremely satisfactory, in the sense that standard theorems for finite graphs have perfect analogues" but that "there is nothing simple about any aspect of this work. It is a nice mix of graph-theoretic and topological ideas."In 2011, Kühn and her co-authors published a proof of Sumner's conjecture, that every n-vertex polytree forms a subgraph of every (2n − 2)-vertex tournament, for all but finitely many values of n. MathSciNet reviewer K. B. Reid wrote that their proof "is an important and welcome development in tournament theory".
+
+Awards and honours
+In 2002, Kühn won the Richard Rado Prize, a biennial best dissertation award given by the Section for Discrete Mathematics of the German Mathematical Society. Together with Deryk Osthus and Alain Plagne, she was one of the first winners of the European Prize in Combinatorics in 2003. Together with Osthus, she was a recipient of the 2014 Whitehead Prize of the London Mathematical Society for "their many results in extremal graph theory and related areas. Several of their papers resolve long-standing open problems in the area." She was an Invited Speaker at the 2014 International Congress of Mathematicians, in Seoul. and appointed as a Royal Society Wolfson Research Merit Award holder in 2015.
+
+
+== References ==

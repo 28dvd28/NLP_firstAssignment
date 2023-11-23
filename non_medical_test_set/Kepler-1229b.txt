@@ -1,0 +1,26 @@
+Kepler-1229b (also known by its Kepler Object of Interest designation KOI-2418.01) is a confirmed super-Earth exoplanet, likely rocky, orbiting within the habitable zone of the red dwarf Kepler-1229, located about 870 light years (267 parsecs) from Earth in the constellation of Cygnus. It was discovered in 2016 by the Kepler space telescope. The exoplanet was found by using the transit method, in which the dimming effect that a planet causes as it crosses in front of its star is measured.
+
+Physical characteristics
+Mass, radius and temperature
+Kepler-1229b is likely a rocky super-Earth, an exoplanet with a radius and mass bigger than Earth, but smaller than that of the gas giants Neptune and Uranus. It is 2.7 times the mass of earth. It has an equilibrium temperature of 213 K (−60 °C; −76 °F).
+
+Host star
+The planet orbits a (M-type) star named Kepler-1229, orbited by a total of one planet. The star has a mass of 0.54 M☉ and a radius of 0.51 R☉. It has a temperature of 3724 K and is about 3.72 billion years old. In comparison, the Sun is 4.6 billion years old and has a temperature of 5778 K.The star's apparent magnitude, or how bright it appears from Earth's perspective, is 15.474. Therefore, it is too dim to be seen with the naked eye.
+
+Orbit
+Kepler-1229b orbits its host star with about 4% of the Sun's luminosity every 86.829 days at a distance of 0.2896 AU (close to that of Mercury, which orbits at a distance of 0.387 AU).
+
+Habitability
+The exoplanet, along with eight others, was announced to be orbiting in the habitable zone of its parent star, the region where, with the correct conditions and atmospheric properties, liquid water may exist on the surface of the planet. Kepler-1229b has a radius of 1.4 R🜨, so it is likely rocky. Its host star is a red dwarf, with about half as much mass than the Sun does. As a result, stars like Kepler-1229 have the ability to live up to 50–60 billion years, 5–6 times longer than the Sun will live.The planet is likely tidally locked, with one side of its hemisphere permanently facing towards the star, while the opposite side shrouded in eternal darkness. However, between these two intense areas, there would be a sliver of habitability – called the terminator line, where the temperatures may be suitable (about 273 K (0 °C; 32 °F)) for liquid water to exist. Additionally, a much larger portion of the planet may be habitable if it supports a thick enough atmosphere to transfer heat to the side facing away from the star.
+
+Discovery and follow-up studies
+In 2013, before the two wheels failed, NASA's Kepler spacecraft was completing observing stars on its photometer, the instrument it uses to detect transit events, in which a planet crosses in front of and dims its host star for a brief and near-regular period of time. In this last test, Kepler observed 50000 stars in the Kepler Input Catalog, including Kepler-1229; the preliminary light curves were sent to the Kepler science team for analysis, who chose obvious planetary companions from the bunch for follow-up at observatories. The radial velocity observations confirmed that a planetary body was responsible for the dips observed in Kepler-1229's light curve, thus confirming it as a planet. The planet was then announced in the newest catalog released by NASA on May 12, 2016, about 3 years later.At nearly 770 light-years (236 pc) distant, Kepler-1229b is too remote and its star too far for current telescopes or the next generation of planned telescopes to determine its mass or whether it has an atmosphere. The Kepler spacecraft focused on a single small region of the sky but next-generation planet-hunting space telescopes, such as TESS and CHEOPS, will examine nearby stars throughout the sky. Nearby stars with planets can then be studied by the upcoming James Webb Space Telescope and future large ground-based telescopes to analyze atmospheres, determine masses and infer compositions. Additionally the Square Kilometer Array would significantly improve radio observations over the Arecibo Observatory and Green Bank Telescope.
+
+See also
+List of potentially habitable exoplanets
+Kepler-62f – similar exoplanet with around the same radius and stellar flux.
+
+Notes
+
+
+== References ==

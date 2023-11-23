@@ -1,0 +1,26 @@
+Enamelin is an enamel matrix protein (EMPs), that in humans is encoded by the ENAM gene. It is part of the non-amelogenins, which comprise 10% of the total enamel matrix proteins. It is one of the key proteins thought to be involved in amelogenesis (enamel development). The formation of enamel's intricate architecture is thought to be rigorously controlled in ameloblasts through interactions of various organic matrix protein molecules that include: enamelin, amelogenin, ameloblastin, tuftelin, dentine sialophosphoprotein, and a variety of enzymes. Enamelin is the largest protein (~168kDa) in the enamel matrix of developing teeth and is the least abundant (encompasses approximately 1-5%) of total enamel matrix proteins. It is present predominantly at the growing enamel surface.
+
+Structure
+Enamelin is thought to be the oldest member of the enamel matrix protein (EMP) family, with animal studies showing remarkable conservation of the gene phylogenetically. All other EMPs are derived from enamelin, such as amelogenin. EMPs belong to a larger family of proteins termed 'secretory calcium-binding phosphoproteins' (SCPP).Similar to other enamel matrix proteins, enamelin undergoes extensive post-translational modifications (mainly phosphorylation), processing, and secretion by proteases. Enamelin has three putative phosphoserines (Ser54, Ser191, and Ser216 in humans) phosphorylated by a Golgi-associated secretory pathway kinase (FAM20C) based on their distinctive Ser-x-Glu (S-x-E) motifs. The major secretory product of the ENAM gene has 1103 amino acids (post-secretion), and has an acidic isoelectric point ranging from 4.5–6.5 (depending on the fragment).At the secretory stage, the enzyme matrix metalloproteinase-20 (MMP20) proteolytically cleaves the secreted enamelin protein immediately upon release, into several smaller polypeptides; each having their own functions. However, the whole protein (~168 kDa) and its largest derivative fragment (~89 kDa) are undetectable in the secretory stage; these are existent only at the mineralisation front. Smaller polypeptide fragments remain embedded in the enamel, throughout the secretory stage enamel matrix. These strongly bind to the mineral and arrest seeded crystal growth.
+
+Function
+The primary function of the proteins acts at the mineralisation front; growth sites where it is the interface between the ameloblast plasma membrane and lengthening extremity of crystals. The key activities of enamelin can be summarised:
+
+Necessary for the adhesion of ameloblasts to the surface of the enamel in the secretory stage
+Binds to hydroxyapatite and promotes crystallite elongation
+Act as a modulator for de novo mineral formationIt is speculated that this protein could interact with amelogenin or other enamel matrix proteins and be important in determining growth of the length of enamel crystallites. The mechanism of this proposed co-interaction is synergistic ("Goldilocks effect"). With enamelin enhancing the rates of crystal nucleation via the creation of addition sites for EMPs, such as amelogenin, to template calcium phosphate nucleation.It is best thought to understand the overarching function of enamelin as the proteins responsible for correct enamel thickness formation.
+
+Clinical significance
+Mutations in the ENAM gene can cause certain subtypes of amelogenesis imperfecta (AI), a heterogenous group of heritable conditions in which enamel in malformed. Point mutations can cause autosomal-dominant hypoplastic AI, and novel ENAM mutations can cause autosomal-recessive hypoplastic AI. However, mutations in the ENAM gene mainly tend to lead to the autosomal-dominant AI. The phenotype of the mutations are generalised thin enamel and no defined enamel layer.A moderately higher than usual ENAM expression leads to protrusive structures (often, horizontal grooves) on the surface of enamel, and with high transgene expression, the enamel layer is almost lost.
+
+See also
+Ameloblastin
+Amelogenin
+Amelogenesis
+Amelogenesis imperfecta
+
+References
+Further reading
+External links
+ENAM human gene location in the UCSC Genome Browser.
+ENAM human gene details in the UCSC Genome Browser.

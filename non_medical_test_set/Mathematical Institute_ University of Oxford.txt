@@ -1,0 +1,56 @@
+The Mathematical Institute is the mathematics department at the University of Oxford in England. It is one of the nine departments of the university's Mathematical, Physical and Life Sciences Division. The institute includes both pure and applied mathematics (Statistics is a separate department) and is one of the largest mathematics departments in the United Kingdom with about 200 academic staff. It was ranked (in a joint submission with Statistics) as the top mathematics department in the UK in the 2021 Research Excellence Framework. Research at the Mathematical Institute covers all branches of mathematical sciences ranging from, for example, algebra, number theory, and geometry to the application of mathematics to a wide range of fields including industry, finance, networks, and the brain. It has more than 850 undergraduates and 550 doctoral or masters students. The institute inhabits a purpose-built building between Somerville College and Green Templeton College on Woodstock Road, next to the Faculty of Philosophy.
+
+History
+The earliest forerunner of the Mathematical Institute was the School of Geometry and Arithmetic in the Bodleian Library's main quadrangle. This was completed in 1620.Notable mathematicians associated with the university include Christopher Wren who, before his notable career as an architect, made contributions in analytical mathematics, astronomy, and mathematical physics; Edmond Halley who published a series of profound papers on astronomy while Savilian Professor of Geometry in the early 18th century; John Wallis, whose innovations include using the symbol 
+  
+    
+      
+        ∞
+      
+    
+    {\displaystyle \infty }
+   for infinity; Charles Dodgson, who made significant contributions to geometry and logic while also achieving fame as a children's author under his pen name Lewis Carroll; and Henry John Stephen Smith, another Savilian Professor of Geometry, whose work in number theory and matrices attracted international recognition to Oxford mathematics. Dodgson jokingly proposed that the university should grant its mathematicians a narrow strip of level ground, reaching "ever so far", so that they could test whether or not parallel lines ever meet.The building of an institute was originally proposed by G. H. Hardy in 1930. Lectures were normally given in the individual colleges of the university and Hardy proposed a central space where mathematics lectures could be held and where mathematicians could regularly meet. This proposal was too ambitious for the university, who allocated just six rooms for mathematicians in an extension to the Radcliffe Science Library built in 1934. A dedicated Mathematical Institute was built in 1966 and was located at the northern end of St Giles' near the junction with Banbury Road in central north Oxford. The needs of the institute soon outgrew its building, so it also occupied a neighbouring house on St Giles and two annexes: Dartington House on Little Clarendon Street, and the Gibson Building on the site of the Radcliffe Infirmary.In 2008 the institute was given US$25 million — the largest grant ever for a mathematics department in the UK — to establish the Oxford Centre for Collaborative Applied Mathematics (OCCAM). Since 2013 the institute has been housed in the purpose-built Andrew Wiles Building in the Radcliffe Observatory Quarter in North Oxford, near the original Radcliffe Infirmary. Wiles, the university's Regius Professor of Mathematics, is known for proving Fermat's Last Theorem. The design and construction of the building was informed by the academic staff to incorporate mathematical ideas; Sir Roger Penrose designed a non-periodic pattern (a Penrose tiling) to decorate the ground at the entrance, and two structures where natural light enters the building have "crystals" illustrating concepts from graph theory and the vibration of a two-dimensional surface.
+
+Research
+The institute is home to a number of research groups and funded research centres. Groups in mathematical logic, algebra, number theory, numerical analysis, geometry, topology, and mathematical physics date back to at least the 1960s. More recent groups include a combinatorics group, the Wolfson Centre for Mathematical Biology (WCMB), the Oxford Centre for Industrial Applied Mathematics (OCIAM) which includes a centre studying financial derivatives, and the Oxford Centre for Nonlinear Partial Differential Equations (OxPDE). In the 21st century, the institute's research topics have come to include quantum computing, tumour growth, and string theory, among other physical, biological, and economic problems. In 2012 the office of the President of the Clay Mathematics Institute (CMI) moved to the Mathematical Institute as Nick Woodhouse became CMI's president. The CMI offers the Millennium Prizes of one million dollars for solving famous mathematical problems that were unsolved in 2000. The current CMI president, Martin Bridson, is also based at the institute.Like other university departments in the UK, the institute has been rated for the quality and impact of its research. In the 2008 Research Assessment Exercise, Oxford was joint first (with the University of Cambridge) for applied mathematics and third for pure mathematics. In the 2014 Research Excellence Framework, the institute submitted jointly with the Department of Statistics, getting the highest placement for mathematical sciences in the UK. In the 2021 Research Excellence Framework, Oxford maintained its top place.
+
+Teaching
+The institute has more than 850 undergraduate students on four degree courses: Mathematics, Mathematics and Statistics, Mathematics and Philosophy, and Mathematics and Computer Science. Students decide during their degree whether to earn a Bachelor of Arts (BA) after three years or to continue to a fourth year to earn a Master of Mathematics (MMath). In 2017, the time allowed for exams was increased from 90 to 105 minutes for each paper for all students, with one motivation being to improve women's scores and close the gender performance gap. The 550 postgraduate students take one of five courses to earn a Master of Science (MSc) or conduct research to earn a DPhil (the Oxford name for a Doctor of Philosophy).The Guardian's 2021 ranking of "Best UK universities for mathematics" placed Oxford at the top.
+
+Outreach
+The institute promotes understanding of mathematics outside the university by running public lectures, by hosting events for school students, and by supporting staff members who promote mathematics to the general public. Of those staff members, the best known are Sir Roger Penrose, David Acheson, and Marcus du Sautoy. Penrose, a former Rouse Ball Professor of Mathematics who has an emeritus post at the institute, has written a series of popular books on mathematics and physics. Acheson has reached a wide audience through publishing, radio, and YouTube. Du Sautoy is the current Simonyi Professor for the Public Understanding of Science and is known as a television and radio broadcaster as well as an author of popular books on mathematics.
+
+Historical statutory professors
+Oxford's Regius Professor of Mathematics was created in 2016 as part of Queen Elizabeth's 90th birthday celebrations. Regius Professorships are awarded "to reflect an exceptionally high standard of teaching and research at an institution". The first and current holder of this chair is Sir Andrew Wiles.
+The Savilian Professor of Geometry was created in 1619 by Sir Henry Savile, at a time when the successes of astronomy and geometry prompted new interest in mathematical education.
+The Wallis Professor of Mathematics was created in 1969 to celebrate John Wallis, who was Savilian Professor of Geometry for 54 years.
+The Waynflete Professor of Pure Mathematics was created as a result of a Royal Commission reviewing the university in 1877. It honours the 15th-century bishop William of Waynflete, founder of Magdalen College.
+The institute hosts the Rouse Ball Professor of Mathematics, a chair endowed in 1925 by Walter William Rouse Ball. A Cambridge mathematician and historian of mathematics, Rouse Ball hoped that the new professor "would not neglect [the] historical and philosophical aspects [of mathematics]." The chair was initially advertised as a Chair in Mathematical Physics.
+The Sedleian Professor of Natural Philosophy was established in 1621 by Sir William Sedley, 4th Baronet of Aylesford. While some of the first holders of this chair had medical degrees, it has more recently become associated with applied mathematics.
+The Simonyi Professor for the Public Understanding of Science was endowed in 1995 by the Hungarian software architect Charles Simonyi. Its first holder was the ethologist Richard Dawkins. It has been associated with the institute since 2008, when the chair was taken up by Marcus du Sautoy.
+
+Alumni
+Sir Michael Atiyah was a member between 1961 and 1990. Mary Cartwright, who earned her first degree and doctorate at Oxford, was the first female mathematician to be awarded Fellowship of the Royal Society and the first female president of the London Mathematical Society.
+
+In popular culture
+In 2015, the final episode, "What Lies Tangled", of the British television detective drama Lewis was set and filmed in the Mathematical Institute. Sir Andrew Wiles played a professor who appears in the background of one shot.
+
+References
+Sources
+Fauvel, John; Flood, Raymond; Wilson, Robin, eds. (2013). Oxford figures : eight centuries of the mathematical sciences (Second ed.). Oxford: Oxford University Press. ISBN 9780199681976.
+Flood, Raymond; Fauvel, John. "John Wallis". In Fauvel, Flood & Wilson (2013).
+Fauvel, John. "Eight centuries of mathematical traditions". In Fauvel, Flood & Wilson (2013).
+Chapman, Allan (2013a). "The first professors". In Fauvel, Flood & Wilson (2013).
+Chapman, Allan (2013b). "Edmond Halley". In Fauvel, Flood & Wilson (2013).
+Hannabuss, Keith (2013a). "The 19th century". In Fauvel, Flood & Wilson (2013).
+Hannabuss, Keith (2013b). "Henry Smith". In Fauvel, Flood & Wilson (2013).
+Wilson, Robin. "Charles Dodgson". In Fauvel, Flood & Wilson (2013).
+Rayner, Margaret E. "The 20th century". In Fauvel, Flood & Wilson (2013).
+Atiyah, Michael. "Some personal reminiscences". In Fauvel, Flood & Wilson (2013).
+Neumann, Peter M. "Recent Developments". In Fauvel, Flood & Wilson (2013).
+Woodhouse, Nick (2014). The Andrew Wiles Building: a short history (PDF). University of Oxford.
+
+External links
+
+The Mathematical Institute website
+Oxford Mathematics on YouTube

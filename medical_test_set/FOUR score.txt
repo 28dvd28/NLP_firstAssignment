@@ -1,0 +1,10 @@
+The FOUR Score is a clinical grading scale designed for use by medical professionals in the assessment of patients with impaired level of consciousness. It was developed by Dr. Eelco F.M. Wijdicks and colleagues in Neurocritical care at the Mayo Clinic in Rochester, Minnesota. "FOUR" in this context is an acronym for "Full Outline of UnResponsiveness".
+The FOUR Score is a 17-point scale (with potential scores ranging from 0 - 16). Decreasing FOUR Score is associated with worsening level of consciousness. The FOUR Score assesses four domains of neurological function: eye responses, motor responses, brainstem reflexes, and breathing pattern.
+The rationale for the development of the FOUR Score constituted creation of a clinical grading scale for the assessment of patients with impaired level of consciousness that can be used in patients with or without endotracheal intubation. The main clinical grading scale in use for patients with impaired level of consciousness has historically been the Glasgow Coma Scale (GCS), which cannot be administered to patients with an endotracheal tube (one component of the GCS is the assessment of verbal responses, which are not possible in the presence of an endotracheal tube).The FOUR score has been validated with reference to the Glasgow Coma Scale in several clinical contexts, including assessment by physicians in the Neurocritical Care Unit, assessment by intensive care nurses, assessment of patients in the medical intensive care unit (ICU), and assessment of patients in the Emergency Department. Comparison of the inter-observer reliability of the FOUR Score and the GCS suggests that the FOUR Score may have a modest but significant advantage in this particular measure of test function.Overall, FOUR score has better biostatistical properties than Glasgow Coma Scale in terms of sensitivity, specificity, accuracy and positive predictive value.
+
+See also
+Glasgow Coma Scale
+Level of consciousness
+
+
+== References ==

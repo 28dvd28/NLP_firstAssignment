@@ -1,0 +1,41 @@
+Many types of glucose tests exist and they can be used to estimate blood sugar levels at a given time or, over a longer period of time, to obtain average levels or to see how fast body is able to normalize changed glucose levels. Eating food for example leads to elevated blood sugar levels. In healthy people these levels quickly return to normal via increased cellular glucose uptake which is primarily mediated by increase in blood insulin levels.Glucose tests can reveal temporary/long-term hyperglycemia or hypoglycemia. These conditions may not have obvious symptoms and can damage organs in the long-term. Abnormally high/low levels, slow return to normal levels from either of these conditions and/or inability to normalize blood sugar levels means that the person being tested probably has some kind of medical condition like type 2 diabetes which is caused by cellular insensitivity to insulin. Glucose tests are thus often used to diagnose such conditions.
+
+Testing methods
+Tests that can be performed at home are used in blood glucose monitoring for illnesses that have already been diagnosed medically so that these illnesses can be maintained via medication and meal timing. Some of the home testing methods include
+fingerprick type of glucose meter - need to prick self finger 8-12 times a day.
+continuous glucose monitor - the CGM monitors the glucose levels every 5 minutes approximately.Laboratory tests are often used to diagnose illnesses and such methods include
+
+fasting blood sugar (FBS), fasting plasma glucose (FPG): 10–16 hours after eating
+glucose tolerance test: continuous testing
+postprandial glucose test (PC): 2 hours after eating
+random glucose testSome laboratory tests don't measure glucose levels directly from body fluids or tissues but still indicate elevated blood sugar levels. Such tests measure the levels of glycated hemoglobin, other glycated proteins, 1,5-anhydroglucitol etc. from blood.
+
+Use in medical diagnosis
+Glucose testing can be used to diagnose or indicate certain medical conditions.High blood sugar may indicate
+
+gestational diabetes. This temporary form of diabetes appears during pregnancy, and with glucose-controlling medication or insulin symptoms can be improved.
+type 1 and type 2 diabetes or prediabetes. If diagnosed with diabetes, regular glucose tests can help manage or maintain conditions. Type 1, is commonly seen in children or teenagers whose bodies are not producing enough insulin. Type 2 diabetes, is typically seen in adults who are overweight. The insulin in their bodies are either not working normally, or there is not being enough produced.Low blood sugar may indicate
+
+insulin overuse
+starvation
+underactive thyroid
+Addison's disease
+insulinoma
+kidney disease
+
+Preparing for testing
+Fasting prior to glucose testing may be required with some test types. Fasting blood sugar test, for example, requires 10–16 hour-long period of not eating before the test.Blood sugar levels can be affected by some drugs and prior to some glucose tests these medications should be temporarily given up or their dosages should be decreased. Such drugs may include salicylates (Aspirin), birth control pills, corticosteroids, tricyclic antidepressants, lithium, diuretics and phenytoin.Some foods contain caffeine (coffee, tea, colas, energy drinks etc.). Blood sugar levels of healthy people are generally not significantly changed by caffeine, but in diabetics caffeine intake may elevate these levels via its ability to stimulate the adrenergic nervous system.
+
+Reference ranges
+Fasting blood sugar
+A level below 5.6 mmol/L (100 mg/dL) 10–16 hours without eating is normal. 5.6–6 mmol/L (100–109 mg/dL) may indicate prediabetes and oral glucose tolerance test (OGTT) should be done for high-risk individuals (old people, those with high blood pressure etc.). 6.1–6.9 mmol/L (110–125 mg/dL) means OGTT should be done even if other indicators of diabetes are not present. 7 mmol/L (126 mg/dL) and above indicates diabetes and the fasting test should be repeated.
+
+Glucose tolerance test
+Postprandial glucose test
+Random glucose test
+See also
+Hyperglycemia
+Hypoglycemia
+
+
+== References ==

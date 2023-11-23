@@ -1,0 +1,27 @@
+In medicine, the Charlson Comorbidity Index (CCI) predicts the mortality for a patient who may have a range of concurrent conditions (comorbidities), such as heart disease, AIDS, or cancer (considering a total of 17 categories). A score of zero means that no comorbidities were found; the higher the score, the higher the predicted mortality rate is. For a physician, this score is helpful in deciding how aggressively to treat a condition.
+It is one of the most widely used scoring system for comorbidities. The index was developed by Mary Charlson and colleagues in 1987, but the methodology has been adapted several times since then based on the findings of additional studies. Many variations of the Charlson comorbidity index have been presented, including the Charlson/Deyo, Charlson/Romano, Charlson/Manitoba, and Charlson/D'Hoores comorbidity indices.
+
+Calculation
+Each condition is assigned a score of 1, 2, 3, or 6, depending on the risk of dying associated with each one. Clinical conditions and associated scores are as follows:
+
+1 each: Myocardial infarction, congestive heart failure, peripheral vascular disease, cerebrovascular disease, dementia, chronic pulmonary disease, rheumatologic disease, peptic ulcer disease, liver disease (if mild, or 3 if moderate/severe), diabetes (if controlled, or 2 if uncontrolled)
+2 each: Hemiplegia or paraplegia, renal disease, malignancy (if localized, or 6 if metastatic tumor), leukemia, lymphoma
+6 each: AIDS. Patients who are 50 years old or more get additional points:
+50-59 years old: +1 point
+60-69 years old: +2 points
+70-79 years old: +3 points
+80 years old or more: +4 pointsScores are summed to provide a total score to predict mortality. 
+Currently 17 categories are considered in the popular Charlson/Deyo variant, instead of 19 in the original score. The weights were also adapted in 2003.Conditions can be identified using the International Classification of Diseases (ICD) diagnosis codes commonly used in patient records.
+
+Use
+For a physician, this score is helpful in deciding how aggressively to treat a condition. For example, a patient may have cancer with comorbid heart disease and diabetes. These comorbidities may be so severe that the costs and risks of cancer treatment would outweigh its short-term benefit.
+Since patients often do not know how severe their conditions are, nurses were originally supposed to review a patient's chart and determine whether a particular condition was present in order to calculate the index. Subsequent studies have adapted the comorbidity index into a questionnaire for patients.
+The Charlson index, especially the Charlson/Deyo, followed by the Elixhauser have been most commonly referred by the comparative studies of comorbidity and multimorbidity measures.
+
+See also
+Comorbidity
+Comorbidity–polypharmacy score (CPS)
+Elixhauser Comorbidity Index
+
+
+== References ==

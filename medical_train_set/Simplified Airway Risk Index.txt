@@ -1,0 +1,18 @@
+The Simplified Airway Risk Index (SARI), or El-Ganzouri Risk Index (EGRI), is a multivariate risk score thought to estimate the risk of difficult tracheal intubation.
+The SARI score ranges from 0 to 12 points, where a higher number of points indicates a more difficult airway. A SARI score of 4 or above is thought to indicate a difficult intubation.
+Seven parameters is used to calculate the SARI score: Mouth opening, thyromental distance, Mallampati score, movement of the neck, the ability to create an underbite, body weight and previous intubation history.
+
+Calculation
+Mouth opening: A mouth opening greater than 4 centimeters between the incisors results in 0 points whereas a distance below results in 1 point.
+Thyromental distance:A  thyromental distance greater than 6.5 centimeters results in 0 point whereas a distance between 6-6.5 centimeters is given 1 point and finally a distance below 6 centimeters is given 2 points.
+Mallampati score: Class I and II of the modified mallampati scoring results in 0 points whereas a class III is given 1 point and a class IV 2 points.
+Movement of the neck: The ability to move the neck more than 90 degrees results in 0 points whereas a movement range of 80-90 degrees results in 1 point and a movement range below 80 degrees results in 2 points.
+Underbite: If the patient is able to protrude the jaw enough to create an underbite a score of 0 is given if not 1 point.
+Body weight: A weight below 90 kilograms results in 0 points. A weight between 90 and 110 kilograms is given 1 point and a weight above 110 kilograms counts as 2 points.
+Previous intubation history: If the patient has previously been intubated without any difficulties, a score of 0 points is given. If the patient has not previously been intubated, is unsure whether there were any difficulties or no records can be produced, a score of 1 point is given. If there is a positive history of difficulties intubating 2 points is given.
+
+See also
+Cormack-Lehane classification system
+
+
+== References ==

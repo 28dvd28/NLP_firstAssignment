@@ -1,0 +1,25 @@
+Lymphography is a medical imaging technique in which a radiocontrast agent is injected, and then an X-ray picture is taken to visualise structures of the lymphatic system, including lymph nodes, lymph ducts, lymphatic tissues, lymph capillaries and lymph vessels. Lymphangiography is the same procedure, used only to visualize the lymph vessels. The x-ray film or image of the lymphatic vessels and lymph nodes is called a lymphogram or a lymphangiogram.
+Radiographs can be taken after injection of a radiopaque contrast medium into small lymphatic vessels (these are made visible by prior subcutaneous injection of patent blue dye). The resulting lymphogram is used to find the locations of large vessels and nodes, and to identify sites of blockage in lymphatic drainage.
+Lymph nodes can also be detected via radionuclide imaging after injection of radioactive colloids. Macrophages phagocytose these foreign bodies and sequester in the nodes.
+
+Use
+Lymphography is used to visualise the structures of the lymphatic system, including lymph nodes, lymph ducts, lymphatic tissues, lymph capillaries and lymph vessels. It can be used during thoracic duct embolisation.Lymphography is not commonly used in modern medicine since the adoption of CT scan and PET scan technologies.
+
+Risks
+Lymphograhy is usually considered a very safe procedure. The most serious adverse reaction tends to be a possible allergic reaction to injected contrast agent.Lymphography is often an invasive procedure. It may be difficult to access lymphatic vessels, as they are usually very narrow and hard to locate. The procedure also takes a very long time to perform.
+
+Technique
+A needle or catheter is inserted into a lymphatic vessel in either the foot or the arm. A contrast agent is injected into the lymphatic vessel. This may be around 2 to 4 millilitres of iotrolan or iodixanol solution. This is performed at a very slow rate of around 0.1 millilitres per minute. This prevents damage to the lymphatic vessel and disrupting the normal rate of lymph flow. It can take approximately 60 to 90 minutes for all the contrast medium to be injected. Once the contrast medium is injected, the catheter is removed, and the incisions are stitched and bandaged.
+A fluoroscope is used to follow the dye as it spreads through the lymphatic system through the legs, into the groin, and along the back of the abdominal cavity. X-rays are taken of the legs, pelvis, abdomen, and thorax areas. The next day, another set of X-rays may be taken.
+If a site of cancer (breast cancer or melanoma) is being studied to evaluate spreading, a mixture of blue dye and a radioactive tracer is injected next to the mass. Special cameras detect the spread of tracer along lymph channels to outlying lymph nodes. A surgeon will then use the visible blue dye or radioactivity within nodes to guide biopsy within adjacent tissues (such as the arm pit for breast cancer) to determine possible routes of cancer spread.
+
+History
+Etymology
+The name comes from the Greek words "Λέμφος" ("Lemphos")("lymph"), "water lymph", and "graphien" "Γραφή"("Graphy"), "to write or record".
+
+References
+Bibliography
+Guermazi A, Brice P, Hennequin C, Sarfati E (2003). "Lymphography: an old technique retains its usefulness". Radiographics. 23 (6): 1541–58, discussion 1559–60. doi:10.1148/rg.236035704. PMID 14615563. Full text
+
+External links
+About lymphangiogram (National Library of Medicine and the National Institutes of Health)

@@ -1,0 +1,94 @@
+Molar incisor hypomineralisation (MIH) is a type of enamel defect affecting, as the name suggests, the first molars and incisors in the permanent dentition. MIH is considered a worldwide problem and usually occurs in children under 10 years old. This developmental condition is caused by the lack of mineralisation of enamel during its maturation phase, due to interruption to the function of ameloblasts. Many factors have been suggested, such as genetics and medical problems during pregnancy, but only childhood illness, fever in particular, seems to be associated with MIH. However, further studies on the aetiology of MIH are required because it is believed to be multifactorial.MIH often presents as discolouration on one to four affected permanent molars and the associated incisors. The enamel of the affected teeth appears yellow, brown, cream or white and thus are sometimes referred to as ‘cheese molars’. These teeth are deemed less aesthetically pleasing, hence causing distress in children with MIH and their parents. It is important to note that although there is difference in enamel translucency in the affected teeth, there should not be any changes to the enamel thickness, unlike in enamel hypoplasia.As a consequence, children with MIH are more likely to experience tooth decay compared to those without the condition. Moreover, the development of tooth decay is very rapid due to the less mineralised enamel. MIH only becomes visible once the permanent molars start to erupt and that is when opacities on the tooth can be observed if it is affected. It will be useful for the children who are suspected to suffer from MIH to visit their dentist more frequently during the eruption of their first permanent molars to prevent any further complications affecting their oral health.
+
+Signs and symptoms
+The distribution of disease in those affected with MIH can vary greatly. It can be common for the enamel of one molar to be affected while the enamel of the contralateral molar is clinically unaffected, or with minor defects only.
+
+Lesions
+The lesions that appear in teeth affected with MIH can present as opacities that vary from white to yellow-brown. They are usually asymmetrical in appearance, with a sharp demarcation that distinguishes between normal and affected enamel. The lesions usually do not involve the cervical third of affected teeth.
+
+Post-eruptive breakdown
+Post-eruptive breakdown (PEB) is a clinical feature, often observed in the majority of severely affected cases.  The rate of PEB may be increased by the loading of masticatory forces on enamel weakened by MIH. The lesions resulting from PEB are irregularly shaped, with rough margins from the shearing of the enamel.  PEB is more likely to occur in MIH affected teeth with yellow or brown opacities rather than those with white opacities, as darker lesions reflect a greater deficit in mineral content.
+
+Atypical caries
+Teeth affected with MIH are at an increased risk of acquiring dental caries. This is because the properties of the enamel are altered by increased porosity and decreased hardness. Essentially, the balance between mineralisation and demineralisation shifts to favour demineralisation of enamel, giving the tooth less resilience in structure, thereby making it vulnerable to caries.The poor structural properties of the enamel in teeth with MIH also increase the likelihood of cavitation of any lesions, thereby causing the lesion to progress at a faster rate. Progression of the carious lesion is also more rapid in teeth with MIH as patients may experience tooth sensitivity while carrying out oral hygiene, causing them to avoid doing so and consequentially accelerating the decay.
+
+Hypersensitivity
+Teeth affected by MIH are often affected by hypersensitivity due to changes in temperature or toothbrushing. A study has suggested that a possible cause of hypersensitivity in MIH is the inflammatory reactions in the pulp due to oral bacteria penetrating through the hypomineralised enamel into the dentinal tubules.
+
+Difficult to anaesthetise
+It has been reported that MIH-affected teeth were more difficult to anaesthetise. Difficulty achieving anaesthesia in MIH-affected teeth may be caused by the chronic inflammation of the pulp due to the penetration of bacteria as the presence of inflammation can reduce the efficacy of local anaesthetics  which may then result in more anaesthetic being given to achieve anaesthesia. Some dental treatment has been undertaken without local anaesthesia which could result in a child becoming more fearful and anxious when receiving dental treatment. This can be especially challenging in paediatric dentistry thus more specialised methods may be needed to increase the efficiency of anaesthetising teeth.Opacities due to MIH can be quite visible especially on anterior teeth which could present as a problem aesthetically. Patients frequently claim aesthetic discomfort when anterior teeth are involved. The discoloured appearance of the anterior teeth could also have negative effects on a child’s psychological development and self-esteem.
+
+Tooth breakdown and restoration problems
+MIH-affected teeth are more prone to breakdown as they are hypomineralised which weakens the enamel structure. Restorations placed on MIH-affected teeth were found to be more prone to failure due to both loss of tooth structure and material loss. The enamel can also fracture more easily due to chewing forces.
+
+Causes
+The exact cause of MIH is unknown but thought to be multifactorial.Pre-natally: risks, such as infection, maternal psychological stress and frequent exposure to ultrasonic scans were all correlated with increased risks of MIH.
+During the perinatal stage, Pitiphat found that cesarean section and complications during vaginal delivery could contribute to an increased chance of MIH. Children born preterm and those with poor general health or systemic conditions in their first 3 years of development also run a higher risk of developing MIH.  It has also been proposed that developmental dental defects were associated with long-term breastfeeding due to exposure to dioxin.
+More recent evidence has suggested a relationship between respiratory diseases and oxygen shortage of the ameloblasts and MIH. Lastly oxygen shortage combined with low birth weight is suspected to be a contributing factor
+
+Diagnosis
+Differential diagnosis
+It is essential to exclude other causes of enamel opacities, differentiating MIH from them, to ensure an appropriate treatment plan is made. These conditions include:
+
+Dental caries, which is the most common cause of destruction of dental hard tissues. This is more unlikely in a patient with a previously intact primary dentition. White spot lesions are also uncommon on incisors, hence ruling out dental caries.
+Fluorosis, which can result from an intake of a high fluoride concentration while the tooth is still undergoing mineralisation. Fluorosis presents as irregular, diffuse enamel opacities which affect more than 1 tooth, in contrast to the well-demarcated borders of hypomineralised enamel seen in MIH.
+Amelogenesis imperfecta, a genetic condition, and thus there may be a history of similar defects in other family members. This condition affects both the primary and permanent dentition, and all surfaces tend to be equally affected, differentiating it from MIH.
+Trauma to primary incisors resulting in discolouration of permanent incisors.
+Administration of tetracycline during pregnancy and to children under 6 resulting in tooth staining (grey or yellow).
+Enamel hypoplasia, caused by defective enamel matrix formation, is a quantitative defect which presents as a localised reduction in enamel thickness. This differs from hypomineralisation, which is a qualitative defect affecting the translucency of enamel.
+
+Classification
+MIH examination should be carried out on clean, wet teeth. The ideal age for examination is when the child is 8 years old - the age where all permanent first molars and most of the incisors are erupted. The permanent first molar will also still be in a comparatively sound condition without excessive post-eruption breakdown. Judgements of each individual teeth should be recorded, aiding the correct diagnosis of the condition.
+There is currently a lack of standardisation in the scoring system and severity indices used to record the diagnosis of MIH. Various systems commonly employed in studies include:
+
+Modified Defect of Dental Enamel (DDE) Index: This set of criteria allows for enamel defects to be detected, enabling a distinction between demarcated and diffused opacities.
+European Academy of Paediatric Dentistry (EAPD) judgement criteria: This set of criteria was developed in 2003 to standardise classifications for use in epidemiological studies. However, while it allows the categorisation of the enamel condition, it does not address the severity of the enamel condition.
+Molar Hypomineralisation Severity Index (MHSI): This set of criteria has been developed to address deficiencies in indices concerning the severity of hypomineralisation. It is based on both the clinical characteristics of hypomineralised defects and the EAPD judgement criteria. It was found to be effective in guiding the clinical management of children by predicting treatment undertaken for affected permanent first molars.
+Ghanim et al index: The index combines principles of the EAPD judgement criteria and DDE index in order to grade the clinical status, amount of tooth surface area affected, and other enamel defects comparable to MIH. The index has been validated  and a training manual was developed to assist researchers in implementing the index in a standardised manner.
+
+Prevention
+Prevention is of prior importance at an early developmental age as the defective tooth is more likely to have caries and post-eruptive breakdown due to its increased porosity.  Appropriate dietary advice and toothpaste with a fluoride level of at least 1,000 ppm F should be recommended. For treating spontaneous hypersensitivity professional applications of fluoride varnish (e.g. Duraphat 22,600ppm F) or 0.4% stannous fluoride gel may be helpful.Casein Phosphopepetide-Amorphus Calcium Phosphate (CPP-ACP) provides a supersaturated environment of calcium and phosphate on the enamel surface to enhance remineralisation in the form of toothpaste or sugar free chewing gum. Its clinical effectiveness is still debatable but may benefit those patients who complain of mild pain to external stimuli.
+
+Treatment
+The frequency of first permanent molar treatment for children with MIH is nearly 10 times greater compared to children without MIH. The available treatment modalities for MIH is extensive but the decision on which treatment should be used is complex and multi-factorial. Factors may include: condition severity, the patient’s dental age, the child/parent’s social background and expectations. There are treatment modalities available to manage children affected by MIH; however, the evidence supporting these modalities are still weak.
+
+Anterior teeth
+Etch-bleach-seal technique
+Involves repeated cycles of etching with 37% phosphoric acid followed by applying 5% sodium hypochlorite until improvement of discolouration is achieved. Clear resin composite or resin infiltrate can be used to seal the lesion after the technique.
+
+Microabrasion
+The aesthetics of a child’s anterior teeth is a concern for both children and their parents alike.
+Yellow or brownish-yellow defects are of full thickness, and therefore may respond to bleaching with carbamide peroxide. However, careful consideration should be made of the risks including hypersensitivity, mucosal irritation and enamel surface alterations.Creamy-yellow or whitish-creamy defects are less porous and variable in depth, and may respond to microabrasion with 18% hydrochloric acid or 37.5% phosphoric acid and abrasive paste. Again, this should be undertaken cautiously as microabrasion may result in loss of enamel.
+
+Veneers
+Direct or indirect composite veneers can be effective in improving aesthetics with minimal tooth tissue removal. Ceramic veneers as a treatment option should be delayed due to the risks of resulting in a short clinical crown height, immature tooth pulp irritation and also the instability of the gingival margins during the eruption of teeth.
+
+Posterior teeth
+Fissure sealants
+The placement of fissure sealants on permanent molars without post-eruptive breakdown should be undertaken. Use of a 5th generation bonding adhesive prior to fissure sealant application may improve retention rates of fissure sealants.For partially erupted molars with inadequate moisture control, glass ionomer cements (GIC) can be considered as an interim treatment option. As the retention rate of GIC is often poor, replacement with a resin-based fissure sealant is recommended following tooth eruption.Resin-based fissure sealants can be beneficial to patients affected with mild MIH where the first permanent molars have fully erupted, although the degree of hypomineralization affects the bond strength of said sealants.  The bond strength of resin based fissure sealants to affected MIH can be enhanced by pre-treating with 5% sodium hypochlorite for one minute after etching, and applying a bonding agent. However, more evidence is needed from clinical based studies.
+
+Direct restorations
+Cavity design
+There is still much debate of whether margin extension should include removal of all defective enamel or only the porous enamel. The former provides sound enamel for bonding but leads to excessive tooth tissue loss. The latter is less invasive, but the margins may have a high risk of breakdown due to defective bonding. Yet, it is agreed that adhesive restorations should be used as opposed to those reliant upon mechanical retention (such as amalgam).
+
+Composite resin restorations
+Composite resin material has been shown to have longer-term stability in MIH teeth, with a median survival rate of 5.2 years and a success rate of 74%-100%  during a 4-year follow-up period. Self-etching adhesive was found to have better bond strength to enamel affected by MIH compared to total etch single-bottle adhesive. The use of composite should be considered both for permanent molars affected by MIH, as well as incisors. Furthermore, composite veneers may achieve a better aesthetic result where deep lesions are seen in incisors.
+
+Glass ionomer cement (GIC) restorations
+GIC materials have adhesive capabilities with both enamel and dentine, long-term fluoride release and hydrophilicity when there is inadequate moisture control intra-orally, during early post-eruptive stages. However, GIC’s poorer mechanical properties suggest avoidance in stress-bearing areas. In later post-eruptive stages GIC may be valuable as sub-layer beneath composite restorations.
+
+Indirect restorations
+Preformed metal crowns
+Pre-formed metal crowns (PMC), also known as stainless steel crowns, can be used to reduce the risk of marginal breakdown, coronal leakage and has a good longevity. The use of preformed metal crowns on MIH-affected molars can prevent further tooth loss, control hypersensitivity and aim to establish correct interproximal and occlusal contact. They are relatively inexpensive and require little preparation.To prevent further tooth preparation and tissue loss, use of the Hall Technique should also be considered. There advantage is use during any stage of post-eruptive breakdown, but evidence of their efficacy is limited. Although the PMC has evidence to show that it is well accepted, a few of the children and their carers expressed their concerns about the metallic appearances of the restoration.
+
+Cast restorations
+Cast restorations may include full coverage crowns for MIH-affected permanent teeth. Generally cast restorations requiring tooth preparation are not recommended in young children due to large pulp size, short crown height and potential difficulties in obtaining a good impression for subgingival crown margins.
+
+Extractions
+A list of considerations can affect the final decision on whether extraction of the affected teeth should be carried out or should it be retained such as: severity of MIH; patient’s aesthetic expectations; whether the patient is suitable to undergo orthodontic treatment; orthodontic concerns (e.g. crowding, facial profile, missing or supernumerary teeth, presence of third molars).Timely extractions are often the preferred treatment plan for first permanent molars that are severely affected and symptomatic. The facilitation of eruption of the second permanent molars to the space of the first permanent molar removes the burden of continuous restorative treatment.A favourable occlusion may be acquired following a well-planned treatment and this eliminates the need for fixed orthodontic appliances therapy. However, a comprehensive discussion of the possible need of orthodontic sequelae and treatment is important.Favorable eruption position of the second permanent molar may result if the first permanent molar is extracted when the child is at the age of between 8–10 years old. This is when the crown formation of the second permanent molar is complete and the mineralization of the bifurcation is commenced.Extraction of first permanent molars before 8 years old increases the chances of the unerupted second permanent premolar drifting distally. Extraction after the age of 10 years reduces the likelihood of the mesial movement of the second permanent molar in to the first permanent molar space and may result in tilting of the second permanent molar.
+
+Epidemiology
+Since first recognised in the late 1970s, the condition has puzzled many people. It is thought to be a unique defect unlike other enamel disturbances e.g. fluorosis or amelogenesis imperfecta.Many prevalence studies have now been published from findings across the globe. However, there is a large amount of variation across the results of these studies. It is reported that the prevalence of MIH ranges from 3.6% to 40.2%  with an estimate of 14.2% of the global population suffering. Worldwide there is much variation between continents with South America having the highest prevalence (18%), closely followed by Oceania (16.3%). The continent found to have least sufferers was Africa (10.9%).Multiple studies have provided evidence that there is no gender difference. However, a study by Kathmandu University reports that post eruptive breakdown occurs more frequently in boys than it does in girls. A different study found that children under the age of 10 are more highly affected by the disease (15.1%) compared to older children (12.1%).
+
+
+== References ==

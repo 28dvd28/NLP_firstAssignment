@@ -1,0 +1,51 @@
+An invasome are a type of artificial vesicle nanocarrier that transport substances through the skin, the most superficial biological barrier. Vesicles are small particles surrounded by a lipid layer that can carry substances into and out of the cell. Artificial vesicles can be engineered to deliver drugs within the cell, with specific applications within transdermal drug delivery. However, the skin proves to be a barrier to effective penetration and delivery of drug therapies. Thus, invasomes are a new generation of vesicle with added structural components to assist with skin penetration.
+
+Transdermal Drug Delivery
+Transdermal drug delivery (TDD) systems aim to deliver drug therapies topically for local and systemic delivery. They have been gaining increasing attention within the field of drug delivery because of their potential to improve bioavailability, reduce side effects, and avoid first pass metabolism, compared to oral medications. However, TDD systems face the challenge of overcoming the barrier of the topmost skin layer, the stratum corneum.
+
+Skin Barrier
+Transdermal drug delivery systems are methods to transport drug therapies across the skin barrier. The skin is the largest organ of the body and its primary aim is to protect the body against chemical, thermal, radiation, and microbial threats. However, it is not completely waterproof, allowing some exchange of gas, heat, and fluids from its external environment.To effectively shield against external injuries, the skin is composed of several layers: the three distinguishing layers are the epidermis, the dermis, and the subcutaneous layer, or hypodermis. The bottommost layer is the hypodermis. It is primarily composed of adipose tissue. Next is the dermis, a 3-5 mm thick layer made up of fibrous proteins, an interfibrillar gel, salts, and water. The epidermis is the topmost layer of skin and where vascularization ends. Due to the lack of vascularization, the transfer of fluids, nutrients, and waste across the epidermis occurs through the epidermal-dermal junction. The epidermis is further divided into five layers. From innermost to outermost is the germinative stratum, the spinous stratum, the granular stratum, the lucid stratum, and the stratum corneum. The majority of the epidermis is composed of corneocytes, which develop from the proliferation, differentiation, and keratinization of keratinocytes. These fundamental skin cells continually renew as they move upwards toward the surface of the skin. The stratum corneum is a 10-15 μm thick layer of dead keratin-rich corneocytes tightly packed within a lipid-rich matrix, often described and depicted as a brick-and-mortar structure.
+
+Penetration Routes for Transdermal Drug Delivery
+Penetration of the stratum corneum is recognized as the largest challenge of TDD. Due to its tight cell structure, it is the rate limiting barrier for drug absorption. Thus, several methods of penetrating the stratum corneum have been explored. A couple of common methods include delivery through the intercellular route and the transcellular route. The roundabout, intercellular route seeks to bypass the corneocytes by transporting molecules through the lipid-rich intercellular space between the cells. The transcellular route seeks to transport molecules directly through the cells of the stratum corneum. In this method, molecules must travel through both corneocytes and the intercellular lipid space. The method of choice is dependent on physical and chemical properties of the transporting compounds; however, the intercellular route is the most common. Thus, the intercellular lipid barrier has been a subject of investigation to allow for greater understanding of how to develop transportation mechanisms of molecules through the stratum corneum.
+
+Methods for Increased Transdermal Penetration
+In recent decades, due to the increasing use of therapeutic medications through transdermal pathways, techniques for improving permeation through the stratum corneum have been explored. The primary two routes of exploration have been chemical and physical penetration-enhancing mechanisms.A brief overview of physical penetration methods are summarized in the table below.
+
+Chemical characteristics to enhance drug delivery include incorporating salt formations, drug-ion pairs, eutectic mixtures, chemical penetration enhancers, and utilizing liposomal vesicles. Vesicles have shown the ability to be paired with current physical penetration techniques to synergistically improve drug penetration.
+
+Invasome Characteristics
+Other vesicular systems, such as liposomes and ethosomes, have already been extensively researched and utilized as drug transporters, but the penetration barrier has resulted in studies to modify current vesicles to add characteristics for improved penetration of the stratum corneum.Invasome vesicular systems are artificial vesicles composed of phospholipids, terpene, and ethanol. A phospholipid bilayer creates the external structure of the spherical particle. Within the bilayer are terpenes. Terpenes are naturally-occurring hydrocarbon chains that are commonly used in aromatics and scent products, but also have been used for the development of pharmaceuticals. Within the center of the terpene-and-phospholipid bilayer is a core that contains an aqueous hydroethanolic solution, along with the relevant drug.
+
+Invasome Penetration
+Compared with other vesicular systems, the terpenes and ethanol function synergistically to increase the flexibility of invasomes, which allows for a softer, fluidic structure that increases penetration efficacy of the skin barrier.
+
+Terpenes
+Terpenes are known to be effective penetration enhancers. They function in invasomes by breaking apart the tight phospholipid structure of the stratum corneum, increasing the permeability of the intercellular space.
+
+Ethanol
+Like terpenes, ethanol has also been shown to disrupt the lipid structure of the stratum corneum, as well as loosening the invasome phospholipid bilayer. Ethanol also softens the lipids which increases the deformability of invasomes, allowing them to flatten to travel through the tight intercellular spaces of the skin.
+
+Penetration Mechanism
+The terpenes and ethanol have been shown to loosen the invasome's phospholipid structure, allowing some of the terpenes and ethanolic solution to leak out of the invasome. There, they also separate the lipids of the stratum corneum. The smaller, flexible invasome is then able to travel intercellularly, passing through the stratum corneum to the viable cell layer where the drug is released and reaches systemic circulation. Thus, the terpenes and ethanol work in conjunction to both break up the phospholipids of the invasome they inhabit so they can pass through, as well as loosen the tight cellular matrix of the stratum corneum, giving the already-flexible invasomes an increased penetration ability.
+
+Invasome Preparation
+Several preparation techniques of invasomes exist, but the most commonly used techniques are mechanical dispersion and thin-film hydration.
+
+Mechanical Dispersion
+During lipid dispersion, the lipid and organic solvent are added with a drug of choice; then the solution is vortexed and sonicated for five minutes. PBS is added to the solution with additional vortexing, and then an aqueous buffer is used to hydrate the mixture. The spontaneous swelling of the lipids then creates the invasome vesicles, which are finally sonicated, lyophilized, and experience high-pressure extrusion.
+
+Thin-Film Hydration
+During thin-film hydration, also known as the conventional film method, lipids and drugs are added to ethanol and sonicated. A rotary flash evaporator is used to dry the mixture; nitrogen gas is used to remove harmful residual solvent. The resulting thin lipid films are hydrated using a PBS, and after cooling the terpene mixture is added to form the invasomes. Finally, the invasome solution is vortexed and ultrasonicated.
+
+Applications
+Pharmaceutical Applications
+Invasomes have been considered in a range of applications. Apart from cosmetics, they are increasingly becoming a part of pharmaceuticals and drug delivery research. Areas for use include delivery of immunosuppressive, anticancer, antiacne, contraceptive, erectile dysfunction, antihypertensive, alopecia, and antipsychotic drug therapies.
+
+Delivery Methods
+Invasomes can be paired with transdermal delivery methods to target the skin barrier. Examples of these techniques include patches, microneedles, and creams.
+
+Transdermal patches are medicated adhesives that can be applied to the skin. Compared to conventional hypodermic needles and oral delivery methods, patches allow for controlled release of drugs through the skin using built-in release mechanisms that allow drug reservoirs to discharge. Additionally, patches can be paired with microneedles to increase drug absorption.Microneedles are minimally invasive arrays of needles that bypass the stratum corneum. They can range in length from a few micrometers up to 2000 μm, with the needles existing in several forms: solid, coated, dissolving, hollow, and hydrogel-forming.Medical creams have been used for centuries due to their relative simplicity, ease of preparation, and ease of use. They are medically-treated, semi-solid formulations for topical drug delivery. Benefits of creams include increased patient compliance and avoidance of first pass metabolism.
+
+
+== References ==

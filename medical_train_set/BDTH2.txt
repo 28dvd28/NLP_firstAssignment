@@ -1,0 +1,25 @@
+BDTH2 (also called BDET and BDETH2; trade names B9, MetX, and OSR#1) is an organosulfur compound that is used as a chelation agent.  It is a colourless solid.  The molecule consists of two thiol groups and linked via a pair of amide groups.
+
+Preparation
+The compound was reported in about 1994 after a search for chelating agents selective for mercury. It was licensed in 2006 to CTI Science with the long-term goal of using BDTH2 to treat mercury poisoning. This compound is prepared by treating isophthaloyl dichloride with two equiv of cysteamine:
+
+Use
+Environmental remediation
+BDTH2 can be used to chelate heavy metals like lead, cadmium, copper, manganese, zinc, iron, and mercury from ground water, coal tailings, gold ore, waste water of battery-recycling plants, and contaminated soil.BDTH2 appears to bind mercury more strongly than do other chelators. The mercury-BDT complex does not break down even at high pH and in the presence of cyanides, as in waste water of gold mines. The particular stability of the mercury bond can be attributed to the linear position of the two thiols. The company Covalent Research Technologies had investigated BDTH2 for the removal of mercury from flue gas without success.
+
+Clinical use
+Animal experiments with inorganic mercury showed, that BDTH2 effectively binds mercury in the body, and the resulting mercury derivative is excreted in the feces. Experimental animals showed no signs of poisoning. It is unclear, how the BDTH2-mercury-chelate behaves in the long term. BDTH2 is lipophilic, as opposed to DMPS and DMSA; this enables it to cross lipid membranes, including the blood-brain-barrier, and enter bone marrow. In animal experiments, mercury in brain tissue neither increased nor decreased. There are indications that the BDTH2-mercury-compound moves into adipose tissue. It is unknown how BDTH2 works with methyl-mercury.
+BDTH2 appears to bind copper and zinc in vivo weakly. In contrast, DMPS und DMSA bind these ions more strongly. Its affinity is low for other "hard" ions, e.g., Ca2+, Mg2+, Na+, and K+.Until July 2010, CTI Science sold BDTH2 as a nutritional supplement under the name OSR#1. Since OSR#1 didn't fulfill criteria of a nutritional supplement, its sale was stopped under pressure of the U.S. Food and Drug Administration. In January 2012, BDTH2 was designated by the European Commission as an orphan drug, which guarantees CTI Science ten years of exclusive marketing rights. In April 2012, the FDA designated the compound as an orphan drug.
+
+Potential applications
+Like most thiols, BDTH2 binds to mercury salts to form thiolate complexes.  In principle, it could be used to remove mercury from water for industrial applications under a wide range of conditions, including the high pH and cyanide of the effluent from gold mining. In industrial use, BDTH2 is easy to make and can be used either as-is or in the form of sodium or potassium salts that are more soluble in water.BDTH2 binds to mercury with a strong, nonpolar covalent bond within a water-insoluble organic framework. The resulting BDT–Hg precipitate is stable, and leaches mercury only under highly acidic or basic conditions. BDTH2 also binds to other elements, including arsenic, cadmium, copper, lead, and selenium. It is effective and economical for removing small traces of mercury from polluted soil, as the precipitate is inert and can be left in the soil after treatment.
+
+Dietary supplement and controversy
+BDTH2 had been marketed under the name OSR#1 as a dietary supplement for treatment of autism.    The U.S. Food and Drug Administration determined that BDTH2 is a drug rather than a supplement and issued a warning, resulting in its removal from the market.  The main proponent of the compound, Dr. Boyd Haley, was chairman of the department of chemistry where research is also conducted on the utility of this compound for remediation of heavy metal pollution.
+
+See also
+Chelation therapy
+
+References
+External links
+Poster: Complete Remediation of Groundwater Arsenic Using a Merloc B9, Zerovalent Iron Filtration Column (PDF-file; 8,38 MB)

@@ -1,0 +1,21 @@
+The Canadian CT head rule (abbreviated CCTHR or CCHR; also sometimes referred to as the Canadian Computed Tomography Head Rule) is a medical scale used to decide whether patients with minor head injuries should undergo cranial CT scans. It was originally described by Stiell et al. in a paper published in the Lancet in 2001, in which they initially used it only on patients with Glasgow Coma Scale scores of between 13 and 15. Since then, the CCTHR has become the most widely researched and extensively validated rule of its kind, though a 2011 systematic review noted that "its exclusion criteria make it difficult to apply universally."
+
+Criteria
+The CCTHR excludes patients who:
+
+did not experience a traumatic brain injury
+have a Glasgow Coma Scale score of lower than 13,
+are under the age of 16,
+has a bleeding disorder or is using warfarin, and/or
+has a visible open skull fracture.Under the CCTHR, patients with minor head injuries should only receive CT scans if one or more of the following criteria are met:
+Glasgow Coma Scale score lower than 15 at 2 hours after injury
+Suspected open or depressed skull fracture
+Any sign of basal skull fracture
+Two or more episodes of vomiting
+Age 65 or older
+Amnesia before impact of 30 or more minutes
+Dangerous mechanism (this is defined by Stiell et al. (2005) as "a pedestrian struck by a motor vehicle, an occupant ejected from a motor vehicle, or a fall from an elevation of 3 or more feet or 5 stairs.")The first five criteria are considered "high-risk", whereas criteria 6 and 7 are considered "medium-risk".
+
+References
+External links
+Canadian CT head rule on Radiopaedia

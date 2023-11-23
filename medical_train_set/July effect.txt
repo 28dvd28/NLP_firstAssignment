@@ -1,0 +1,28 @@
+The July effect, sometimes referred to as the July phenomenon, is a perceived but scientifically unfounded increase in the risk of medical errors and surgical complications that occurs in association with the time of year in which United States medical school graduates begin residencies. A similar period in the United Kingdom is known as the killing season or, more specifically, Black Wednesday, referring to the first Wednesday in August when postgraduate trainees commence their rotations.
+
+United States
+A Journal of General Internal Medicine study, published in 2010, investigated medical errors from 1979 to 2006 in United States hospitals and found that medication errors increased 10% during the month of July at teaching hospitals, but not in neighboring hospitals. Surgical errors did not increase, leading to the hypothesis that medication errors are easier for new personnel to make because they are prescribing drugs on their own, rather than being cross-checked by others. The study did not have sufficient data to link the increased errors to new residents, however, and further study would need to be done in order to determine the sources of this increase. A criticism of the study suggests that the supervision of new residents and the patient loads at teaching hospitals have improved since 1979 and that the results may be skewed by including much older data.Other studies searching for the July effect have found variable evidence of an increased risk, with several studies finding no risk at all.
+A 2010 scientific review published in the Journal of Surgical Education found no July effect for patients with acute appendicitis.
+A 2010 study published in the Journal of Trauma found an increased risk of errors that resulted in preventable complications but these errors had no significant impact on mortality.
+A 2009 study published in the Journal of the American College of Surgeons found no month-by-month differences in outcomes of medical trauma patients.
+A 2009 study published in the Journal of Stroke and Cerebrovascular Diseases found no evidence of the July effect for patients with acute ischemic stroke.
+A 2009 study published in the Southern Medical Journal found no difference in the medical management of patients with acute cardiovascular conditions.
+A 2008 study published in The American Journal of Surgery found no seasonal difference in outcomes for cardiac surgery patients.
+A 2007 study published in the Annals of Surgery found a significant seasonal variation with surgical outcomes, with an increase in postsurgical morbidity and mortality associated with the beginning of the academic year.
+A 2006 Journal of Neurosurgery: Pediatrics study found a small increase in the risks associated with cerebrospinal fluid shunt surgery in children during the months of July and August.
+A 2003 Obstetrics & Gynecology study found no July effect in obstetric procedures.
+A 2011 systematic review in the Annals of Internal Medicine found that during year-end changeovers, hospital mortality increases and hospital efficiency decreases.
+A 2016 study in JAMA Surgery found no evidence of the July effect in patient-experience outcomes in surgical patients.
+A 2019 study from the Yale School of Medicine found no difference in morbidity or mortality after Whipple procedures (pancreaticoduodenectomy) performed in July compared to the remainder of the academic year.
+
+United Kingdom
+In Britain, there is an influx of newly qualified doctors into the National Health Service (NHS) each August, and this period is associated with an increase in medical errors. The phenomenon has been recognised by Professor Sir Bruce Keogh, medical director of the NHS. The term "Killing Season" originated in the 1994 British medical drama series Cardiac Arrest written by Jed Mercurio (under the pseudonym John MacUre). In an episode first broadcast on BBC1 on 5 May 1994, the character Dr. Claire Maitland consoles a junior who has just committed a fatal error with the dialogue: "You come out of medical school knowing bugger all. No wonder August is the killing season. We all kill a few patients while we're learning."The day when junior doctors typically start work has also been dubbed "Black Wednesday" among NHS staff. A 2009 Imperial College London study of records for 300,000 patients at 170 hospitals between 2000 and 2008 found that death rates were 6 percent higher on Black Wednesday than the previous Wednesday. The study also found that typically fewer patients attended A&E on the first Wednesday in August than the previous week.
+
+References
+External links
+Laerdal Medical: The July Effect – Improving Patient Safety
+Bakhtiari, Elyas "Preparing for the July Effect: Five Strategies for Integrating New Residents Archived 10 June 2015 at the Wayback Machine, HealthLeaders Media, 7 June 2010
+Stout CL, Chapman JR, Scoglietti VC, et al. (September 2008). "'July Effect': an evaluation of a level I teaching hospital's trauma service seasonal mortality rates". Am Surg. 74 (9): 878–879. doi:10.1177/000313480807400925. PMID 18807684. S2CID 33794165.
+Bakaeen FG, Huh J, Lemaire SA, et al. (July 2009). "The July effect: impact of the beginning of the academic cycle on cardiac surgical outcomes in a cohort of 70,616 patients". Ann. Thorac. Surg. 88 (1): 70–75. doi:10.1016/j.athoracsur.2009.04.022. PMID 19559195.
+Highstead RG, Johnson LC, Street JH, Trankiem CT, Kennedy SO, Sava JA (November 2009). "July – as good a time as any to be injured". J Trauma. 67 (5): 1087–1090. doi:10.1097/TA.0b013e3181b8441d. PMID 19901672.
+Anderson KL, Koval KJ, Spratt KF (December 2009). "Hip fracture outcome: is there a 'July effect'?". Am. J. Orthop. 38 (12): 606–611. PMID 20145785.

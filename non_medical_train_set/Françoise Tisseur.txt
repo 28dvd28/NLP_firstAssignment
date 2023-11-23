@@ -1,0 +1,20 @@
+Françoise Tisseur is a numerical analyst and Professor of Numerical Analysis
+at the Department of Mathematics, University of Manchester, UK. 
+She works in numerical linear algebra and in particular on nonlinear eigenvalue problems and  structured matrix problems, 
+including the development of algorithms and software.She is a graduate of the
+University of St-Etienne,  France, from where she gained her 
+Maitrise (Mathematical Engineering) in 1993,
+Diplome d'Etude Approfondie in 1994, and PhD (Numerical Analysis) in 1997.
+She has contributed software to LAPACK, ScaLAPACK, and the MATLAB distribution.
+Tisseur is a member of the editorial boards of the SIAM Journal on Matrix Analysis and Applications, the IMA Journal of Numerical Analysis and the Electronic Journal of Linear Algebra.
+
+Awards and honours
+Tisseur was awarded the 2010 Whitehead Prize by the London Mathematical Society for her research achievements in numerical linear algebra, including polynomial eigenvalue and structured matrix problems.
+She was awarded the 2011–2012 Adams Prize of the University of Cambridge
+for her work on polynomial eigenvalue problems and holds a Royal Society Wolfson Research Merit Award in 2014–2019.  She delivered the Olga Taussky-Tood Lecture at the International Congress on Industrial and Applied Mathematics in Valencia, Spain, in 2019. She is the 2020 winner of the Fröhlich Prize of the London Mathematical Society "for her important and highly innovative contributions to the analysis, perturbation theory, and numerical solution of nonlinear eigenvalue problems".Tisseur became a Fellow of the Society for Industrial and Applied Mathematics in 2016 "for contributions to numerical linear algebra, especially numerical methods for eigenvalue problems". She held an EPSRC Leadership Fellowship in 2011–2016, and is a Fellow of the Institute of Mathematics and its Applications.
+
+References
+External links
+"MathSciNet". Retrieved October 25, 2010.
+"Zentralblatt MATH". Retrieved October 25, 2010.
+Françoise Tisseur publications indexed by Google Scholar

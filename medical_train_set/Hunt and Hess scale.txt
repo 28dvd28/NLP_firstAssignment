@@ -1,0 +1,13 @@
+The Hunt and Hess scale, introduced in 1968, is one of the grading systems used to classify the severity of a subarachnoid hemorrhage based on the patient's clinical condition. It is used as a predictor of patient's prognosis/outcome, with a higher grade correlating to lower survival rate. Other scales which describe the clinical presentation of subarachnoid hemorrhage patients include the World Federation of Neurosurgical Societies classification, which combines consciousness and motor deficit in its scoring. 
+The scale is named for Dr. William E. Hunt (26 November 1921 - 26 January 1999) and Dr. Robert McDonald Hess (24 June 1931 - 3 October 2019)
+
+Description grade
+Asymptomatic, mild headache, slight nuchal rigidity
+Moderate to severe headache, nuchal rigidity, no neurologic deficit other than cranial nerve palsy
+Drowsiness, confusion, mild focal neurologic deficit
+Stupor, moderate-severe hemiparesis
+Coma, decerebrate posturingIt gives an index of the mortality associated with the various grades. The mortality is minimum with grade 1 and maximum with grade 5.
+
+References
+Hunt WE, Hess RM. “Surgical risk as related to time of intervention in the repair of intracranial aneurysms.” Journal of Neurosurgery 1968 Jan;28(1):14-20.
+Hunt WE, Meagher JN, Hess RM. “Intracranial aneurysm. A nine-year study.” Ohio State Medical Journal 1966 Nov;62(11):1168-71.

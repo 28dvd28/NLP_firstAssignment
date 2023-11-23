@@ -1,0 +1,9 @@
+Photopharmacology, an emerging approach in medicine, involves activating and deactivating photoswitchable molecules with light for target drug delivery. Clinicians use the energy of light to change the shape and chemical properties of a drug, resulting in different biological activity. This is done to ultimately achieve control of when and where drugs are active in a reversible manner, and to prevent side effects and exposure to the environment of antibiotics. Switching drugs "on" and "off" is achieved by introducing photoswitches such as azobenzene, spiropyran or diarylethene into the drug. Photopharmalogical drugs with a photoswitch have two different states, which light can toggle between. Since both states have a different structure, the activity of the drug is different, hence the "on" and "off" state of the drug. An example is photostatin, which is an  inhibitor that can be switched on and off in vivo to optically control microtubule dynamics.
+
+See also
+Optogenetics
+Photodynamic therapy
+Phototrexate
+
+
+== References ==

@@ -1,0 +1,19 @@
+Yang Hui (simplified Chinese: 杨辉; traditional Chinese: 楊輝; pinyin: Yáng Huī, ca. 1238–1298), courtesy name Qianguang (謙光), was a Chinese mathematician and writer during the Song dynasty. Originally, from Qiantang (modern Hangzhou, Zhejiang), Yang worked on magic squares, magic circles and the binomial theorem, and is best known for his contribution of presenting Yang Hui's Triangle. This triangle was the same as Pascal's Triangle, discovered by Yang's predecessor Jia Xian. Yang was also a contemporary to the other famous mathematician Qin Jiushao.
+
+Written work
+The earliest extant Chinese illustration of 'Pascal's triangle' is from Yang's book Xiangjie Jiuzhang Suanfa (詳解九章算法) of 1261 AD, in which Yang acknowledged that his method of finding square roots and cubic roots using "Yang Hui's Triangle" was invented by mathematician Jia Xian  who expounded it around 1100 AD, about 500 years before Pascal. In his book (now lost) known as Rújī Shìsuǒ (如積釋鎖) or Piling-up Powers and Unlocking Coefficients, which is known through his contemporary mathematician Liu Ruxie (劉汝諧). Jia described the method used as 'li cheng shi suo' (the tabulation system for unlocking binomial coefficients). It appeared again in a publication of Zhu Shijie's book Jade Mirror of the Four Unknowns (四元玉鑒) of 1303 AD.Around 1275 AD, Yang finally had two published mathematical books, which were known as the Xugu Zhaiqi Suanfa (續古摘奇算法) and the Suanfa Tongbian Benmo (算法通變本末, summarily called Yang Hui suanfa 楊輝算法). In the former book, Yang wrote of arrangement of natural numbers around concentric and non concentric circles, known as magic circles and vertical-horizontal diagrams of complex combinatorial arrangements known as magic squares, providing rules for their construction. In his writing, he harshly criticized the earlier works of Li Chunfeng and Liu Yi (劉益), the latter of whom were both content with using methods without working out their theoretical origins or principle. Displaying a somewhat modern attitude and approach to mathematics, Yang once said: 
+
+The men of old changed the name of their methods from problem to problem, so that as no specific explanation was given, there is no way of telling their theoretical origin or basis.In his written work, Yang provided theoretical proof for the proposition that the complements of the parallelograms which are about the diameter of any given parallelogram are equal to one another. This was the same idea expressed in the Greek mathematician Euclid's (fl. 300 BC) forty-third proposition of his first book, only Yang used the case of a rectangle and gnomon. There were also a number of other geometrical problems and theoretical mathematical propositions posed by Yang that were strikingly similar to the Euclidean system. However, the first books of Euclid to be translated into Chinese was by the cooperative effort of the Italian Jesuit Matteo Ricci and the Ming official Xu Guangqi in the early 17th century.Yang's writing represents the first in which quadratic equations with negative coefficients of 'x' appear, although he attributes this to the earlier Liu Yi. Yang was also well known for his ability to manipulate decimal fractions. When he wished to multiply the figures in a rectangular field with a breadth of 24 paces 3 4⁄10 ft. and length of 36 paces 2 8⁄10, Yang expressed them in decimal parts of the pace, as 24.68 X 36.56 = 902.3008.
+
+See also
+History of mathematics
+List of mathematicians
+Chinese mathematics
+
+Notes
+References
+Needham, Joseph (1986). Science and Civilization in China: Volume 3, Mathematics and the Sciences of the Heavens and the Earth. Taipei: Caves Books, Ltd.
+Li, Jimin, "Yang Hui". Encyclopedia of China (Mathematics Edition), 1st ed.
+
+External links
+Yang Hui at MacTutor

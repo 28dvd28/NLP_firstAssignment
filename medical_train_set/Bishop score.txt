@@ -1,0 +1,42 @@
+Bishop score, also Bishop's score or cervix score, is a pre-labor scoring system to assist in predicting whether induction of labor will be required. It has also been used to assess the likelihood of spontaneous preterm delivery. The Bishop score was developed by Professor Emeritus of Obstetrics and Gynecology, Dr. Edward Bishop, and was first published in August 1964.
+
+Components
+The total score is calculated by assessing the following five components on manual vaginal examination by a trained professional:
+
+Cervical dilation in centimeters
+Cervical effacement as a percentage
+Cervical consistency by provider assessment/judgement
+Cervical position
+Fetal station, the position of the top of the fetal head in relation to the pelvic bones, specifically the ischial spines.The Bishop score grades patients who would be most likely to achieve a successful induction. The duration of labor is inversely correlated with the Bishop score;  “A Bishop score of 9 conveys a high likelihood for a successful induction. For research purposes, a Bishop score of 4 or less identifies an unfavorable cervix and may be an indication for cervical ripening.”
+Excerpt From
+Williams Obstetrics, 25th Edition
+F. Gary Cunningham, Kenneth J. Leveno, Steven L. Bloom, Jodi S. Dashe, Barbara L. Hoffman, Brian M. Casey and Catherine Y. Spong
+This material may be protected by copyright.
+They can be remembered with the mnemonic: Call PEDS For Parturition = Cervical Position, Effacement, Dilation, Softness; Fetal Station.
+
+Scoring
+The examiner assigns a score to each component of 0 to 2 or 0 to 3. The highest possible score is 13 and the lowest possible score is 0.
+
+Interpretation
+A score of 5 or less suggests that labour is unlikely to start without induction. A score of 9 or more indicates that labour will most likely commence spontaneously. Scores between 5 and 9 require additional consideration and professional judgement for clinical management.A Bishop's score 6 or less often indicates that induction (e.g., with controlled-release prostaglandin E2/prostin gel [Cervidil], intravaginal gel [Prostin], intracervical gel [Prepidil]) is unlikely to be successful. Some sources indicate that only a score of 8 or greater is reliably predictive of a successful induction.
+
+Modified Bishop score
+According to the Modified Bishop's pre-induction cervical scoring system, effacement has been replaced by cervical length in cm, with scores as follows: 0 for >3 cm, 1 for >2 cm, 2 for >1 cm, 3 for >0 cm. Cervical length may be easier and more accurate to measure and have less inter-examiner variability.
+Another modification for the Bishop's score is the modifiers. Points are added or subtracted according to special circumstances as follows:
+
+One point is added to the total score for:
+Existence of pre-eclampsia
+Each previous delivery
+One point is subtracted from the total score for:
+Postdate/post-term pregnancy
+Nulliparity (no previous vaginal deliveries)
+PPROM; preterm premature (prelabor) rupture of membranes
+
+See also
+List of obstetric topics
+Fetal fibronectin (fFN)
+Apgar score
+
+References
+External links
+Online calculator of the Bishop score

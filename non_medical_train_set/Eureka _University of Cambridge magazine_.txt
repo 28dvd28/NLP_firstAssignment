@@ -1,0 +1,10 @@
+Eureka is a journal published annually by The Archimedeans, the mathematical society of Cambridge University. It is one of the oldest recreational mathematics publications still in existence. Eureka includes many mathematical articles on a variety of different topics – written by students and mathematicians from all over the world – as well as a short summary of the activities of the society, problem sets, puzzles, artwork and book reviews.
+Eureka has been published 66 times since 1939, and authors include many famous mathematicians and scientists such as Paul Erdős, Martin Gardner, Douglas Hofstadter, G. H. Hardy, Béla Bollobás, John Conway, Stephen Hawking, Roger Penrose, W. T. Tutte (writing with friends under the pseudonym Blanche Descartes), popular maths writer Ian Stewart, Fields Medallist Timothy Gowers and Nobel laureate Paul Dirac.
+The journal was formerly distributed free of charge to all current members of the Archimedeans. Today, it is published electronically as well as in print. In 2020, the publication archive was made freely available online.Eureka is edited by students from the university.
+
+Of the mathematical articles, there is a paper by Freeman Dyson where he defined the rank of a partition in an effort to prove combinatorially the partition congruences earlier discovered by Srinivasa Ramanujan. In the article, Dyson made a series of conjectures that were all eventually resolved.
+
+References
+External links
+Eureka at the website of The Archimedeans
+Archive of old issues

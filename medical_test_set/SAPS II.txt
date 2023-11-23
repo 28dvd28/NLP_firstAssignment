@@ -1,0 +1,38 @@
+SAPS II is a severity of disease classification system. Its name stands for "Simplified Acute Physiology Score", and is one of several ICU scoring systems.
+
+Application
+SAPS II was designed to measure the severity of disease for patients admitted to Intensive care units aged 18 or more.
+24 hours after admission to the ICU, the measurement has been completed and resulted in an integer point score between 0 and 163 and a predicted mortality between 0% and 100%. No new score can be calculated during the stay. If a patient is discharged from the ICU and readmitted, a new SAPS II score can be calculated.
+This scoring system is mostly used to:
+
+describe the morbidity of a patient when comparing the outcome with other patients.
+describe the morbidity of a group of patients when comparing the outcome with another group of patients
+
+Calculation
+The point score is calculated from 12 physiological variables and 3 disease-related variables during the first 24 hours, information about previous health status and some information obtained at admission.
+The parameters are:
+
+Age
+Heart Rate
+Systolic Blood Pressure
+Temperature
+Glasgow Coma Scale
+Mechanical Ventilation or CPAP
+PaO2
+FiO2
+Urine Output
+Blood Urea Nitrogen
+Sodium
+Potassium
+Bicarbonate
+Bilirubin
+White Blood Cell
+Chronic diseases
+Type of admissionThe calculation method is optimized for paper schemas. In contrast to APACHE II, the resulting value is much better at comparing patients with different diseases.
+The calculation method results in a predicted mortality, that is pure statistics. It does not tell the individual patient's chance of survival. The main purpose of this calculation is to provide a value that can be averaged for a group of patients, since it gives very unprecise values to calculate an average of the scores of a group of patients. A free web-based SAPS II calculator is available at Clincalc.com.
+
+See also
+SAPS III
+
+
+== References ==

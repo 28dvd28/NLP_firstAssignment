@@ -1,0 +1,31 @@
+Odontogenic sinusitis is a type of sinusitis (inflammation of the sinuses), specifically caused by dental infections or procedures.  Comprising approximately 10-12% of all chronic sinusitis cases, this condition primarily affects the maxillary sinus, which is in close proximity to the upper teeth.
+
+Etiology
+Odontogenic sinusitis in considered a secondary type of sinusitis, as the infection does not start in the sinuses. The etiology of odontogenic sinusitis is primarily related to dental infections or procedures. Preliminary studies suggest that odontogenic sinusitis has different biological mechanisms from acute or chronic rhinosinusitis. Dental conditions such as gum disease, periapical abscesses, or tooth decay can lead to odontogenic sinusitis. Similarly, dental procedures such as tooth extractions, implant placement, or root canal treatments, particularly if they involve the posterior maxillary teeth, can also cause this condition. Microbiological studies have also determined that anaerobic bacteria are more frequently involved in odontogenic sinusitis cases than in classic acute or chronic rhinosinusitis cases.
+
+Clinical presentation
+Patients with odontogenic sinusitis may present with symptoms similar to those of other forms of sinusitis, such as nasal congestion, purulent nasal discharge, facial pain or pressure, and a reduced sense of smell. However, the presence of dental pain, foul smell, or a history of recent dental procedure might suggest an odontogenic source. Often, the condition is unilateral, affecting only the side where the dental problem exists, though it is not uncommon for infectious process to progressively spread from the maxillary sinus to the other sinuses and the opposite side.
+
+Diagnosis
+The diagnosis of odontogenic sinusitis is often challenging and requires a multidisciplinary approach involving otolaryngologists and dental specialists. Clinical examination and patient history play a crucial role. Radiological investigation, including dental panoramic radiographs, computed tomography scans, and cone-beam computed tomography can help visualize the relationship between the maxillary sinuses and the dental structures, identify dental pathologies, and assess the extent of sinus involvement.
+
+Treatment
+The treatment of odontogenic sinusitis involves addressing the underlying dental condition and managing the sinus inflammation. This may include dental procedures such as root canal treatment, tooth extraction, or periodontal therapy. Antibiotics, nasal corticosteroids, and nasal irrigation may be used to control symptoms, though their role in definitive treatment is still unclear. In some cases, endoscopic sinus surgery may be required, particularly if medical management fails or if there is a complication to the eye or intracranial structures.
+
+Prognosis
+With appropriate treatment, the prognosis for odontogenic sinusitis is generally good. However, if left untreated or not properly managed, complications can occur. These include extension of the infection to other sinuses, the orbit, or the intracranial structures, or expose the patient to symptoms progression which can significantly affect quality of life.
+
+Epidemiology
+Odontogenic sinusitis is estimated to account for 10-12% of all cases of chronic sinusitis. It can occur at any age but is more common in adults due to the higher prevalence of periodontal disease and dental procedures. There is no known gender predilection for this condition.
+
+Research directions
+Current research on odontogenic sinusitis is focused on improving diagnostic methods, understanding the microbiology of the condition, and optimizing treatment strategies. The role of novel technologies such as the use of artificial intelligence in managing such conditions is also being explored
+
+See also
+Dental abscess
+Odontogenic infection
+Periodontitis
+Root canal treatment
+
+
+== References ==

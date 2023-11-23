@@ -1,0 +1,32 @@
+The Treviso Arithmetic, or Arte dell'Abbaco, is an anonymous textbook in commercial arithmetic written in vernacular Venetian and published in Treviso, Italy, in 1478.
+The author explains the motivation for writing this textbook:
+I have often been asked by certain youths in whom I have much interest, and who look forward to mercantile pursuits, to put into writing the fundamental principles of arithmetic, commonly called abacus.
+The Treviso Arithmetic is the earliest known printed mathematics book in the West, and one of the first printed European textbooks dealing with a science.
+
+The Arithmetic as an early printed book
+There appears to have been only one edition of the work. David Eugene Smith translated parts of the Treviso Arithmetic for educational purposes in 1907. Frank J. Swetz translated the complete work using Smith's notes in 1987 in his Capitalism & Arithmetic: The New Math of the 15th Century. Swetz used a copy of the Treviso housed in the Manuscript Library at Columbia University. The volume found its way to this collection via a curious route. Maffeo Pinelli (1785), an Italian bibliophile, is the first known owner. After his death his library was purchased by a London book-dealer and sold at auction on February 6, 1790. The book was obtained for three shillings by Mr. Wodhull. About 100 years later the Arithmetic appeared in the library of Brayton Ives, a New York lawyer. When Ives sold the collection of books at auction, George Arthur Plimpton, a New York publisher, acquired the Treviso and made it an acquisition to his extensive collection of early scientific texts. Plimpton donated his library to Columbia University in 1936. Original copies of the Treviso Arithmetic are extremely rare.
+There are 123 pages of text with 32 lines of print to a page. The pages are unnumbered, untrimmed and have wide margins. Some of the margins contain written notes. The size of the book is 14.5 cm by 20.6 cm.
+The book included information taken from the 1202 Liber Abaci, such as lattice multiplication. George G. Joseph in  Crest of the Peacock suggests that John Napier read this book to create Napier's bones (or rods).
+
+Reasons for publication
+The Treviso Arithmetic is a practical book intended for self study and for use in Venetian trade. It is written in vernacular Venetian and communicated knowledge to a large population.
+It helped to end the monopoly on mathematical knowledge and gave important information to the middle class. It was not written for a large audience, but was intended to teach mathematics of everyday currency.
+The Treviso became one of the first mathematics books written for the expansion of human knowledge. It provided an opportunity for the common person, rather than only a privileged few, to learn the art of computation. The Treviso Arithmetic provided an early example of the Hindu–Arabic numeral system computational algorithms.
+
+See also
+Ars Magna (Gerolamo Cardano) (1510)
+Trigonometria (1595)
+
+Notes
+References
+Boyer, Carl. 1991. A History of Mathematics. New York City: Wiley.
+Buck-Morss, Susan (1 January 1995). "Envisioning Capital: Political Economy on Display". Critical Inquiry. 21 (2): 434–467. JSTOR 1343930.
+Carter, Baker.  2006. The Role of the History of Mathematics in Middle School. Presentation at East Tennessee University, August 28.
+Gazale, Midhat, J. 2000. Number. Princeton: Princeton University Press.
+Newman, J, R. 1956. The World of Mathematics. New York City: Simon & Schuster.
+Peterson, Ivars. 1996. Old and New Arithmetic. Mathematical Association of America. http://www.maa.org/mathland/mathland_8_5.html (accessed October 11, 2006).
+Swetz, Frank, J. 1987. Capitalism and Arithmetic. La Salle: Open Court.
+
+External links
+Full text of the Treviso Arithmetic
+Treviso Arithmetic at Columbia University

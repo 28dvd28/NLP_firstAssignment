@@ -1,0 +1,40 @@
+Implant failure refers to the failure of any medical implant to meet the claims of its manufacturer or the health care provider involved in its installation. Implant failure can have any number of causes. The rates of failure vary for different implants.
+The monitoring of the safety of implants is conducted within the context of broader pharmacovigilance.
+
+Common types of failure
+Material degradation
+Implant failure can occur due to the degradation of the material an implant is made of. With time, mechanical degradation, in the form of wear or fatigue, or electrochemical degradation, in the form of corrosion, can occur. Biotoxicity, particularly in metal implants, can arise due to ion release.
+
+Bacterial infection
+Implants, made of synthetic materials, are naturally coated by a biofilm by the body, which may function as a favorable medium for bacteria growth.
+Implant failure due to bacterial infection of the implant can occur at any point of implant lifetime. Bacteria may already reside on the implant or be introduced during the implantation.
+Typical failure mechanisms include tissue damage and implant detachment due to bacteria generated biofilm.
+
+Hip replacement failure
+Hip replacement implants can fail.  Outcomes are normally recorded in a joint replacement registry to ensure patterns are picked up upon.
+In 2013 Johnson & Johnson shared documents which indicated that 40% of a class of hip replacement implants which it manufactured had failed.
+
+Pacemaker failure
+Pacemaker failure is the inability of an implanted artificial pacemaker to perform its intended function of regulating the beating of the heart. It is defined by the requirement of repeat surgical pacemaker-related procedure after the initial implantation. Causes of pacemaker failure included: lead related failure (lead migration, lead fracture, ventricular perforation), unit malfunction (battery failure or component malfunction), problems at the insertion site (infections, tissue breakdown, battery pack migration), and failures related to exposure to high voltage electricity or high intensity microwaves.
+
+Cochlear implant failure
+Cochlear implants are used to treat severe to profound hearing loss by electrically stimulating the hearing nerve. Clinical symptoms of cochlear implant failure include  auditory symptoms (tinnitus, buzzing, roaring, popping sounds), non-auditory symptoms (pain, shocking sensation, burning sensation, facial stimulation, itching), and decrease in the patient's hearing performance. When such symptoms occur, the patient's clinical team evaluates the patient and the device using in-situ methods, and determines if revision surgery is necessary. The most commonly reported device failures are due to impacts, loss of hermeticity, and electrode lead malfunctions. Most manufacturers provide on their websites the survival rate of their marketed implants, although they are not required to do so. In order to improve and standardize failure reporting practices to the public, the AAMI is developing an American standard for cochlear implants in collaboration with the FDA, major cochlear implant manufacturers, the CALCE center for reliability, doctors, and clinicians.
+
+Dental implant failure
+Failure of a dental implant is often related to the failure of the implant to osseointegrate correctly with the bone, or vice versa.
+A dental implant is considered to be a failure if it is lost, mobile or shows peri-implant (around the implant) bone loss of greater than 1.0 mm in the first year and greater than 0.2 mm a year after.Dental implant failures have been studied. Persons who smoke habitually prior to having dental implants are significantly more likely to have their implants fail. Individuals who have diabetes and those who disregard general oral hygiene are also at higher risk of having their implants fail.
+
+Responses to implant failure
+In 2012 Royal College of Surgeons of England and the British Orthopaedic Association called for increased regulation of implants to prevent implant failure.A 2011 study by Dr. Diana Zuckerman and Paul Brown of the National Research Center for Women and Families, and Dr. Steven Nissen of the Cleveland Clinic, published in the Archives of Internal Medicine, showed that most medical devices recalled in the last five years for "serious health problems or death" had been previously approved by the FDA using the less stringent, and cheaper, 510(k) process. In a few cases the devices had been deemed so low-risk that they did not need FDA regulation. Of the 113 devices recalled, 35 were for cardiovascular issues.  This may lead to a reevaluation of FDA procedures and better oversight.
+
+References
+Further reading
+Groeger, Lisa (30 April 2012). "Four Medical Implants That Escaped FDA Scrutiny - ProPublica". propublica.org. Retrieved 5 June 2013.
+Wagenberg, B.; Froum, S. J. (2006). "A retrospective study of 1925 consecutively placed immediate implants from 1988 to 2004". The International Journal of Oral & Maxillofacial Implants. 21 (1): 71–80. PMID 16519184.
+De Bruyn, H.; Collaert, B. (1994). "The effect of smoking on early implant failure". Clinical Oral Implants Research. 5 (4): 260–264. doi:10.1034/j.1600-0501.1994.050410.x. PMID 7640341.
+Tang, L.; Eaton, J. W. (1995). "Inflammatory responses to biomaterials". American Journal of Clinical Pathology. 103 (4): 466–471. doi:10.1093/ajcp/103.4.466. PMID 7726145.
+Papageorgiou, S. N.; Zogakis, I. P.; Papadopoulos, M. A. (2012). "Failure rates and associated risk factors of orthodontic miniscrew implants: A meta-analysis". American Journal of Orthodontics and Dentofacial Orthopedics. 142 (5): 577–595.e7. doi:10.1016/j.ajodo.2012.05.016. PMID 23116500.
+
+External links
+2011 United States government report on implant safety
+Failed Implant Device Alliance, a grassroots organization advocating for implant safety

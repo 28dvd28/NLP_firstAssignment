@@ -1,0 +1,28 @@
+Autologous CD34+ enriched cell fraction that contains CD34+ cells transduced with retroviral vector that encodes for the human ADA cDNA sequence, sold under the brand name Strimvelis, is a medication used to treat severe combined immunodeficiency due to adenosine deaminase deficiency (ADA-SCID).ADA-SCID is a rare inherited condition in which there is a change (mutation) in the gene needed to make an enzyme called adenosine deaminase (ADA). As a result, people lack the ADA enzyme. Because ADA is essential for maintaining healthy lymphocytes (white blood cells that fight off infections), the immune system of people with ADA-SCID does not work properly and without effective treatment they rarely survive more than two years.Strimvelis is the first ex vivo autologous gene therapy approved by the European Medicines Agency (EMA).
+
+Medical uses
+Strimvelis is indicated for the treatment of people with severe combined immunodeficiency due to adenosine deaminase deficiency (ADA-SCID), for whom no suitable human leukocyte antigen (HLA)-matched related stem cell donor is available.
+
+Treatment
+The treatment is personalized for each person; hematopoietic stem cell (HSCs) are extracted from the person and purified so that only CD34-expressing cells remain. Those cells are cultured with cytokines and growth factors and then transduced with a gammaretrovirus containing the human adenosine deaminase gene and then reinfused into the person. These cells take root in the person's bone marrow, replicating and creating cells that mature and create normally functioning adenosine deaminase protein, resolving the problem. As of April 2016, the transduced cells had a shelf life of about six hours.Prior to extraction, the person is treated with granulocyte colony-stimulating factor in order to increase the number of stem cells and improve the harvest; after that but prior to reinfusion, the person is treated with busulfan or melphalan to kill as many of the person's existing HSCs to increase the chances of the new cells' survival.
+
+Side effects
+The most common side effect is pyrexia (fever).Serious side effects may include effects linked to autoimmunity (when the immune system attacks the body's own cells) such as hemolytic anemia (low red blood cell counts due to their too rapid breakdown), aplastic anemia (low blood cell counts due to damaged bone marrow), hepatitis (liver inflammation), thrombocytopenia (low blood platelet count) and Guillain-Barré syndrome (damage to nerves that can result in pain, numbness, muscle weakness and difficulty walking).Leukemia is a risk of treatment with Strimvelis.
+
+History
+The treatment was developed at San Raffaele Telethon Institute for Gene Therapy and developed by GlaxoSmithKline (GSK) through a 2010 collaboration with Fondazione Telethon and Ospedale San Raffaele. GSK, working with the biotechnology company MolMed S.p.A., developed a manufacturing process that was previously only suitable for clinical trials into one demonstrated to be robust and suitable for commercial supply.In April 2016, a committee at the European Medicines Agency (EMA) recommended marketing approval for its use in children with adenosine deaminase deficiency, for whom no matched HSC donor is available, on the basis of a clinical trial that produced a 100% survival rate; the median follow-up time was 7 years after the treatment was administered. 75% of people who received the treatment needed no further enzyme replacement therapy. Efforts had begun 14 years before. The total number of children treated was reported as 22 and 18. Around 80% of patients have no matched donor. Strimvelis was approved  by the European Commission on 27 May 2016.
+As of 2016, the only site approved to manufacture the treatment was MolMed.In 2017, GSK announced it was looking to sell off Strimvelis, and in March 2018, GSK sold Strimvelis to Orchard Therapeutics Ltd.; as of that time there had been only five sales of the product.
+
+Society and culture
+The condition affects about 14 people per year in Europe and 12 in the U.S.
+
+Economics
+The price for the treatment was set at €594,000, twice the annual cost of enzyme replacement therapy injections. Enzyme replacement therapy for ADA requires weekly injections and costs about US$4.25 million for one patient over ten years.
+
+Names
+Strimvelis is the brand name. The common name is autologous CD34+ enriched cell fraction that contains CD34+ cells transduced with retroviral vector that encodes for the human ADA cDNA sequence.
+
+References
+
+
+== Further reading ==

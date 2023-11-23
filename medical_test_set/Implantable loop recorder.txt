@@ -1,0 +1,20 @@
+An implantable loop recorder (ILR), also known as an insertable cardiac monitor (ICM), is a small device that is implanted under the skin of the chest for cardiac monitoring, to record the heart's electrical activity for an extended period.
+
+Operation
+The ILR monitors the electrical activity of the heart, continuously storing information in its circular memory (hence the name "loop" recorder) as electrocardiograms (ECGs). Abnormal electrical activity - arrhythmia is recorded by "freezing" a segment of the memory for later review. Limited number of episodes of abnormal activity can be stored, with the most recent episode replacing the oldest.Recording can be activated in two ways. First, recording may be activated automatically according to heart rate ranges previously defined and set in the ILR by the physician. If the heart rate drops below, or rises above, the set rates, the ILR will record without the patient's knowledge.  The second way the ILR records is through a hand-held "patient activator" whereby the patient triggers a recording by pushing a button when they notice symptoms such as skipped beats, lightheadedness or dizziness. The ILR records by "freezing" the electrical information preceding, during and after the symptoms in the format of an electrocardiogram. The technician or physician can download and review the recorded events during an office visit using a special programmer or via online data transmission.
+
+Uses
+The ILR is a useful diagnostic tool to investigate patients who experience symptoms such as syncope (fainting), seizures, recurrent palpitations, lightheadedness, or dizziness not often enough to be captured by a 24-hour or 30-day external monitor. Because of the ILR's long battery life (up to 3 years), the heart can be monitored for an extended period.
+New devices are able to store a total of 60 minutes of recordings on their memory. Thirty minutes is reserved for automatic storage of arrhythmias according preprogrammed criteria. The remaining 30 minutes can be divided into a selectable number of slots for storage of manually triggered retrograde recordings as an answer to symptoms (fainting, palpitations etc.) which may be caused by an arrhythmia.
+
+Insertion
+The ILR is implanted by an electrophysiologist under local anesthesia. A small incision (about 3–4 cm or 1.5 inches) is made just lateral to the sternum below the nipple line, usually on the patient's left side. A pocket is created under the skin, and the ILR is placed in the pocket. Patients can go home the day of the procedure with few restrictions on activities. Bruising and discomfort in the implant area may persist for several weeks.
+Patients are instructed in use of the activator, and advised to schedule an appointment with their physician after using it so that information stored in the ILR can be retrieved for diagnosis.
+
+See also
+Holter monitor
+
+References
+External links
+Should you remove an implantable loop recorder after the diagnosis is made?, National Institutes of Health
+Contemporary Reviews in Cardiovascular Medicine: Ambulatory Arrhythmia Monitoring, Circulation

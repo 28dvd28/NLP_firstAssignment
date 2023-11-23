@@ -1,0 +1,17 @@
+Kepler-62d (also known by its Kepler Object of Interest designation KOI-701.01) is the third innermost and the largest exoplanet discovered orbiting the star Kepler-62, with a size roughly twice the diameter of Earth. It was found using the transit method, in which the dimming that a planet causes as it crosses in front of its star is measured. Its stellar flux is 15 ± 2 times Earth's. Due to its closer orbit to its star, it is a super-Venus or, if it has a volatile composition, a hot Neptune, with an estimated equilibrium temperature of 510 K (237 °C; 458 °F), too hot to sustain life on its surface.
+
+Physical characteristics
+Mass, radius and temperature
+Kepler-62d is a super-Earth, an exoplanet with a radius and mass bigger than Earth, but smaller than that of the ice giants Uranus and Neptune. It has an equilibrium temperature of 510 K (237 °C; 458 °F). It has a radius of 1.95 R🜨. Because of its radius (and temperature), it is likely to be either a "super-Venus", or a hot mini-Neptune, with no solid surface. However, the mass is currently not known, estimates place an upper limit of 14 MEarth, the real mass is expected to be lower than this. The true value is likely around 5.5 MEarth, based on its composition.
+
+Host star
+The planet orbits a (K-type) star named Kepler-62, orbited by a total of five planets. The star has a mass of 0.69 M☉ and a radius of 0.64 R☉. It has a temperature of 4925 K and is 7 billion years old. In comparison, the Sun is 4.6 billion years old and has a temperature of 5778 K. The star is somewhat metal-poor, with a metallicity ([Fe/H]) of −0.37, or 42% of the solar amount. Its luminosity (L☉) is 21% that of the Sun.The star's apparent magnitude, or how bright it appears from Earth's perspective, is 13.65. Therefore, it is too dim to be seen with the naked eye.
+
+Orbit
+Kepler-62d orbits its host star with an orbital period of 18 days at a distance of about 0.12 AU (compared to the distance of Mercury from the Sun, which is about 0.38 AU). It receives about 15 times more sunlight than Earth does from the Sun.
+
+Discovery
+In 2009, NASA's Kepler spacecraft was completing observing stars on its photometer, the instrument it uses to detect transit events, in which a planet crosses in front of and dims its host star for a brief and roughly regular period of time. In this last test, Kepler observed 50000 stars in the Kepler Input Catalog, including Kepler-62; the preliminary light curves were sent to the Kepler science team for analysis, who chose obvious planetary companions from the bunch for follow-up at observatories. Observations for the potential exoplanet candidates took place between 13 May 2009 and 17 March 2012. After observing the respective transits, which for Kepler-62d occurred roughly every 18 days (its orbital period), it was eventually concluded that a planetary body was responsible for the periodic 18-day transits. The discovery, along with the planetary system of the star Kepler-69 were announced on April 18, 2013.
+
+
+== References ==

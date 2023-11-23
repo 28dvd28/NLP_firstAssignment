@@ -1,0 +1,11 @@
+A companion diagnostic (CDx) is a diagnostic test used as a companion to a therapeutic drug to determine its applicability to a specific person.Companion diagnostics are co-developed with drugs to aid in selecting or excluding patient groups for treatment with that particular drug based on their biological characteristics that determine responders and non-responders to the therapy.Companion diagnostics are developed based on companion biomarkers, biomarkers that prospectively help predict likely response or severe toxicity.For example, there is an automatic immunohistochemistry staining machine for microscopy slides to highlight HER2 expression. This machine is classified by the U.S. Food and Drug Administration (FDA) as a companion diagnostic device for the drug trastuzumab which works on tumors that over-express HER2.
+
+EU IVDR
+In Europe the regulation on in vitro diagnostics (IVDR) defines companion diagnostics as devices that are essential for the safe and effective use of corresponding medicinal products to identify, before and/or during treatment, patients who are most likely to benefit from the corresponding medicinal product; or to identify, before and/or during treatment, patients likely to be at increased risk of serious adverse reactions as a result of treatment with the corresponding medicinal products.
+
+See also
+Personalized medicine
+Precision  medicine
+
+
+== References ==

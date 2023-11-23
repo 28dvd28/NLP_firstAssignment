@@ -1,0 +1,35 @@
+Shigefumi Mori (森 重文, Mori Shigefumi, born February 23, 1951) is a Japanese mathematician, known for his work in algebraic geometry, particularly in relation to the classification of three-folds.
+
+Career
+Mori completed his Ph.D. titled "The Endomorphism Rings of Some Abelian Varieties" under Masayoshi Nagata at Kyoto University in 1978. He was a visiting professor at Harvard University during 1977–1980, the Institute for Advanced Study in 1981–82, Columbia University 1985–87 and the University of Utah for periods during 1987–89 and again during 1991–92. He has been a professor at Kyoto University since 1990.
+
+Work
+He generalized the classical approach to the classification of algebraic surfaces to the classification of algebraic three-folds. The classical approach used the concept of minimal models of algebraic surfaces. He found that the concept of minimal models can be applied to three-folds as well if we allow some singularities on them. The extension of Mori's results to dimensions higher than three is called the minimal model program and is an active area of research in algebraic geometry.
+He has been elected president of the International Mathematical Union, becoming the first head of the group from East Asia.
+
+Awards
+He was awarded the Fields Medal in 1990 at the International Congress of Mathematicians.
+In 2021, he received the Order of Culture.
+
+Major publications
+Mori, Shigefumi (1979). "Projective Manifolds with Ample Tangent Bundles". Annals of Mathematics. 110 (3): 593–606. doi:10.2307/1971241. JSTOR 1971241.
+Mori, Shigefumi; Mukai, Shigeru (1981). "Classification of Fano 3-folds with B2≥2". Manuscripta Mathematica. 36 (2): 147–162. doi:10.1007/BF01170131. S2CID 189831516.
+Mori, Shigefumi; Mukai, Shigeru (2003). "Classification of Fano 3-folds with B2≥2. (Erratum)". Manuscripta Mathematica. 110 (3): 407. doi:10.1007/s00229-002-0336-2. S2CID 121266346.
+Mori, Shigefumi (1982). "Threefolds Whose Canonical Bundles Are Not Numerically Effective". Annals of Mathematics. 116 (1): 133–176. doi:10.2307/2007050. JSTOR 2007050.
+Mori, Shigefumi (1988). "Flip theorem and the existence of minimal models for 3-folds". Journal of the American Mathematical Society. 1 (1): 117–253. doi:10.1090/S0894-0347-1988-0924704-X. JSTOR 1990969.
+Kollár, János; Miyaoka, Yoichi; Mori, Shigefumi. Rationally connected varieties. J. Algebraic Geom. 1 (1992), no. 3, 429–448.
+Kollár, János; Miyaoka, Yoichi; Mori, Shigefumi (1992). "Rational connectedness and boundedness of Fano manifolds". Journal of Differential Geometry. 36 (3). doi:10.4310/jdg/1214453188. S2CID 118102421.
+Kollár, János; Mori, Shigefumi (1992). "Classification of three-dimensional flips". Journal of the American Mathematical Society. 5 (3): 533–703. doi:10.1090/S0894-0347-1992-1149195-9. JSTOR 2152704.
+Keel, Sean; Mori, Shigefumi (1997). "Quotients by Groupoids". Annals of Mathematics. 145 (1): 193–213. doi:10.2307/2951828. JSTOR 2951828. S2CID 17830187.
+Kollár, János; Mori, Shigefumi. Birational geometry of algebraic varieties. With the collaboration of C. H. Clemens and A. Corti. Translated from the 1998 Japanese original. Cambridge Tracts in Mathematics, 134. Cambridge University Press, Cambridge, 1998. viii+254 pp. ISBN 0-521-63277-3
+
+See also
+Keel–Mori theorem
+
+References
+
+O'Connor, John J.; Robertson, Edmund F., "Shigefumi Mori", MacTutor History of Mathematics Archive, University of St Andrews
+Heisuke Hironaka, The work of Shigefumi Mori. Fields Medallists Lectures, Michael F. Atiyah (Editor), Daniel Iagolnitzer (Editor); World Scientific Publishing, 2007. ISBN 981-02-3117-2
+
+
+== External links ==

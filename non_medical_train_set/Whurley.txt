@@ -1,0 +1,60 @@
+William Hurley (born March 30, 1971), commonly known as whurley, is an American tech entrepreneur and investor who founded Chaotic Moon Studios, Honest Dollar, Strangeworks, Ecliptic Capital, and philanthropic efforts including CERN's Entrepreneurship Student Programme and Equals: The Global Partnership for Gender Equality in the Digital Age. He is an open source advocate and systems theorist, and is regularly interviewed by the press on technology and related topics.
+
+Early life
+Hurley was born in Manassas, Virginia. In his youth, his family moved around a lot, as his father was a member of the US Army Special Forces. They lived in Germany, Virginia and Arizona before settling in San Antonio, Texas, where Hurley attended elementary school. The Hurley family later moved to Temple, Texas. Following his graduation from Temple High School in 1989, Hurley took electronic music courses at Temple Junior College, which would be the extent of his college education.An abbreviation of Hurley's full name, “whurley” was originally Hurley's Unix username when he was starting out in the open source community. He began going by “whurley” professionally in 2002.
+
+Career
+Large corporations and start-ups (1994-09)
+Whurley moved to Austin in 1994 to work at Apple, eventually working in research and development. He left Apple in 1997 for IBM, where he was appointed Master Inventor. After leaving IBM in 2000, he worked for a series of start-ups, including security management company Symbiot, which he co-founded and served as chief technology officer from 2003 to 2005; and systems management company Qlusters, where he was CTO from 2005 to 2007. Qlusters closed down a year and a half after his departure. In the summer of 2002, Whurley was hired by a resort group to infiltrate a Las Vegas casino's offices in order to perform security audits. This was covered as part of Kevin Mitnick's 2005 nonfiction collection The Art of Intrusion. In 2007, Whurley was hired as chief architect of open source at BMC Software, where he remained until 2009.
+
+Chaotic Moon Studios (2010-14)
+In 2010, along with Ben Lamm and Mike Erwin, Whurley founded mobile software design and development company Chaotic Moon Studios. Chaotic Moon has worked with News Corp to develop the first iPad-only digital newspaper The Daily, as well as building applications for Microsoft, CBS Sports, Sanrio, Pizza Hut and others. In 2012, Chaotic Moon purchased whurley's old company Symbiot.In 2011, Whurley and Phil Wheat formed a division to focus on developing new technologies, Chaotic Moon Labs. Whurley serves as the division's general manager, overseeing the development of such products as a Microsoft Kinect-controlled skateboard (which the company named the “Board of Awesomeness”); a skateboard controlled by the user's mind through a Samsung tablet running Windows 8 (the “Board of Imagination”); a shopping cart that follows a shopper around the store (“The Smarter Cart"); and a bicycle helmet fitted with seven cameras that begin recording on impact, functioning like an airplane's black box in case of a hit-and-run (the “Helmet of Justice”).In July 2015, Chaotic Moon was acquired by Accenture, a consulting and technology services company.
+
+Honest Dollar (2014-17)
+In 2014, Whurley left Chaotic Moon to co-found Honest Dollar with Henry Yoshida. The Austin-based financial technology company helps set up and maintain employee retirement accounts for small businesses. In March 2016, Goldman Sachs announced a deal to acquire Honest Dollar. Honest Dollar is now Marcus Invest, part of the suite of products from Marcus by Goldman Sachs.
+
+Equals (2016-present)
+In September 2016, International Telecommunication Union and United Nations Women announced that they had teamed up with whurley to launch Equals: The Global Partnership for Gender Equality in the Digital Age, an organization focused on empowering women across the globe by helping them learn technology skills and find technology-related jobs. At the time of its formation, there were 250 million fewer women online than men. Equals is based at the International Telecommunication Union in Geneva, Switzerland. Whurley put together a team in Austin to help launch the organization.
+
+Strangeworks (2018-present)
+In March 2018 at SXSW, whurley launched Strangeworks, a startup focused on quantum computing software; whurley is the author of Quantum Computing for Babies. Prior to the launch of Strangeworks, they raised $4 million in a seed round led by Lightspeed Venture Partners. The company designs and sells software developer tools and a systems management platform for clients in the aerospace, energy, finance and pharmaceutical industries.
+
+Ecliptic Capital (2019-present)
+In March 2019, whurley and Mike Erwin formed the venture capital firm Ecliptic Capital, a $125 million fund to invest in the Austin tech scene.
+
+Politics
+On March 11, 2016, whurley and rapper/producer will.i.am co-hosted a Democratic National Committee fundraiser at South By Southwest in Austin, featuring President Barack Obama and musical guest J. Cole.
+
+Publications and patents
+Whurley has co-written two books, both published in 1996: FreeHand: Graphics Studio Skills (a tutorial on Adobe FreeHand) and 60 Minute Guide to Shockwave (a tutorial on creating movies for the Internet).
+Between 2000 and 2004, whurley was issued 11 patents, mostly related to systems management and security.In 2009, Whurley regularly wrote a blog on cloud computing for InfoWorld and contributed technology articles to Bloomberg Businessweek.
+
+Community involvement
+Whurley co-founded BarCamp Austin in 2006, a technology-related conference which took place around South By Southwest; and iPhoneDevCamp (or “developers camp”), which debuted in 2007 as an assembly of 200-300 developers and enthusiasts who were interested in finding new ways to use and hack Apple's iPhone. It has since expanded to include iOSDevCamp and iPadDevCamp. In the summer of 2013, whurley will be leading the inaugural GlassDevCamp, which will take place in San Francisco and will encourage the development of apps for the Google Glass platform.In June 2013, British Airways hosted UnGrounded, a group of business leaders and creative thinkers who met to address significant global problems. Whurley was one of 100 passengers to take part in the initiative, which took place on an 11-hour transatlantic flight from Silicon Valley to London. His group worked on strategies for getting more women involved in STEM fields (science, technology, engineering and mathematics). The passengers later presented their ideas as part of an innovation conference held during the 39th G8 summit, as well as to the United Nations' International Telecommunication Union.In 2019, Whurley was named the first official ambassador for the CERN & Society Foundation. He was named Innovator in Residence at the Legatum Center for Development & Entrepreneurship at the Massachusetts Institute of Technology for the 2020–21 academic year.
+
+Film
+In 2012, Whurley began working in film. He served as an associate producer on Pit Stop, directed by Yen Tan. The feature was an official selection of the 2013 Sundance Film Festival. That same year, he was executive producer on the short film Sahasi Chori (Brave Girl) (2013), directed by Erin Galey. The film, which explores the sex trafficking industry through the story of a 13-year-old girl from a small village in Nepal who is taken by a con artist to Mumbai’s red light district, was selected for the 2013 South By Southwest ShortCase program and the 2013 Sarasota Film Festival, among others.
+
+Honors and awards
+Apple Design Award (April 2004)
+IEEE USA Entrepreneur Achievement Award for Leadership in Entrepreneurial Spirit (2016)
+
+Bibliography
+Books
+FreeHand: Graphics Studio Skills – with Don Parsons and Sebastian Hassinger (1996, Hayden Books)
+60 Minute Guide to Shockwave – with T. Preston Gregg and Sebastian Hassinger (1996, John Wiley & Sons)
+Quantum Computing for Babies -  with Chris Ferrie (2018, Sourcebooks)
+
+Articles
+Cloud Computing blog – InfoWorld (January 18 – July 27, 2009)
+"Palm: Likely to Stumble with Pre" – Bloomberg Businessweek (June 2, 2009)
+"Augmented Reality: Getting Beyond the Hype" – Bloomberg Businessweek (November 3, 2009)
+"Quantum computing, not AI, will define our future" – TechCrunch (November 17, 2018)
+"Stop limiting quantum computing to speed" – TechCrunch (February 21, 2019)
+
+References
+External links
+Official website
+Honest Dollar website
+Strangeworks website
+Ecliptic Capital website

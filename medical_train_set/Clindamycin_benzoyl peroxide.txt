@@ -1,0 +1,40 @@
+Clindamycin/benzoyl peroxide is a topical gel used for the treatment of acne. It is a fixed-dose combination of clindamycin, as the phosphate, an antibiotic, and benzoyl peroxide, an antiseptic.Common side effects include peeling, itching, and dryness of the skin where the gel was applied.Clindamycin/benzoyl peroxide was approved for medical use in the United States in December 2000. It is available as a generic medication.
+
+Medical uses
+The gel is used on the skin to treat light to medium acne vulgaris in people 12 years and older.
+
+Efficacy
+There is an average 52% decrease in inflammatory acne lesions by week 12.The combination is less effective than benzoyl peroxide/salicylic acid after short-term treatment of two to four weeks, but the two treatments showed similar effectiveness after ten to twelve weeks.
+
+Pregnancy and lactation
+Studies on whether or not the use of clindamycin/benzoyl peroxide gels is teratogenic or has adverse effects on nursing infants have not been performed. While oral clindamycin passes into breast milk, no such data are available for clindamycin in gel form. Limited data regarding topical clindamycin and benzoyl peroxide have shown no safety problems.
+
+Contraindications
+The gel is not recommended for those who are allergic to clindamycin, benzoyl peroxide, any components of the formulation, or lincomycin. Individuals previously diagnosed with regional enteritis, ulcerative colitis, or antibiotic-associated colitis are also recommended not to use it.
+
+Side effects
+Common side effects are peeling, itching, redness, dryness, burning, and dermatitis. Benzoyl peroxide bleaches hair, clothes, towels, bedclothing, and the like. Prolonged exposure to natural or artificial sun light (UV rays) is not recommended because the gel may cause photosensitivity. Irritation due to benzoyl peroxide can be reduced by avoiding harsh facial cleansers and wearing sunscreen prior to sun exposure.Clinical studies have shown systemic absorption of clindamycin through topical application, in some cases leading to diarrhea, bloody diarrhea, and colitis. Reports of anaphylaxis were also seen. However, the sources of these reports were personal accounts without controls and of an unknown population, thus it is difficult to attribute their cause to the clindamycin/benzoyl peroxide gel.
+
+Interactions
+No formal interaction studies have been done. Combination with topical products containing alcohol or astringents, as well as skin peelings, may increase the irritant effect of clindamycin/benzoyl peroxide. Topical erythromycin may antagonise the effect of clindamycin, although this has only be demonstrated in in vitro studies. Topical tretinoin and other retinoids may be inactivated by benzoyl peroxide or increase its irritant effect.
+
+Pharmacology
+Mechanism of action
+Clindamycin phosphate is a water-soluble ester of the semi-synthetic antibiotic clindamycin, which is synthesized from lincomycin. Like the macrolide antibiotics, it acts as a bacteriostatic agent by interfering with the 50S subunit of the ribosome of Cutibacterium acnes, inhibiting bacterial protein synthesis and preventing bacteria from replicating. C. acnes plays a role in the development of acne.Benzoyl peroxide also kills C. acnes, but by releasing free radical oxygen species, thus oxidizing bacterial proteins. Also, it dries out the area by reducing sebum production, prevents clogged pores, and is a keratolytic agent. Since benzoyl peroxide is an oxidizer, not an antibiotic, it is not subject to C. acnes resistance unlike clindamycin.Both ingredients have been shown to reduce the number of acne lesions with statistical significance.
+
+Pharmacokinetics
+Clindamycin phosphate is an inactive prodrug. It is quickly activated to clindamycin by hydrolysis. After four weeks of application during a study, 0.043% of the used clindamycin dose were found in the blood. Benzoyl peroxide is only absorbed through the skin after reduction to benzoic acid, which is subsequently metabolized to hippuric acid and eliminated via the kidneys.
+
+Society and culture
+Brand names
+The combination is sold under various brand names including Acanya, Benzaclin, Duac, and Onexton.
+
+Patent
+Dow Pharmaceuticals filed the patent for Onexton, and the United States Patent and Trademark Office issued the patent on 16 October 2012. On 24 November 2014, the US Food and Drug Administration (FDA) approved the new drug application (NDA) No. 050819 for Onexton, with Dow Pharmaceutical as the holder. The patent is set to expire on 5 August 2029.
+
+Lawsuits
+On 12 January 2016, Dow Pharmaceutical Sciences and Valeant Pharmaceuticals North America LLC filed a lawsuit against Taro USA and Taro Industries, an Israel-based corporation. The lawsuit was filed for infringement upon their Onexton patent, by Taro attempting to submit an abbreviated new drug application (ANDA) to the Food and Drug Administration (FDA) for its generic 3.75% benzoyl peroxide and 1.2% clindamycin phosphate topical gel. The court concluded that Taro was guilty of attempting to submit an ANDA patent request before the Onexton patent expired. Perrigo settled its patent litigation with Valeant and Dow.
+
+References
+External links
+"Benzoyl peroxide mixture with clindamycin phosphate". Drug Information Portal. U.S. National Library of Medicine.

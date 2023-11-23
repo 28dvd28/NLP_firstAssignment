@@ -1,0 +1,13 @@
+RU-58841, also known as PSK-3841 or HMR-3841, is a nonsteroidal antiandrogen (NSAA) which was initially developed in the 1980s by Roussel Uclaf, the French pharmaceutical company from which it received its name. It was formerly under investigation by ProStrakan (previously ProSkelia and Strakan) for potential use as a topical treatment for androgen-dependent conditions including acne, pattern hair loss, and excessive hair growth. The compound is similar in structure to the NSAA RU-58642 but contains a different side-chain. These compounds are similar in chemical structure to nilutamide, which is related to flutamide, bicalutamide, and enzalutamide, all of which are NSAAs similarly. RU-58841 can be synthesized either by building the hydantoin moiety or by aryl coupling to 5,5-dimethylhydantoin.RU-58841 produces cyanonilutamide (RU-56279) and RU-59416 as metabolites in animals. Cyanonilutamide has relatively low affinity for the androgen receptor but shows significant antiandrogenic activity in animals. RU-59416 has very low affinity for the androgen receptor.
+
+See also
+Cyanonilutamide
+RU-56187
+RU-57073
+RU-58642
+RU-59063
+
+References
+
+
+== Further reading ==

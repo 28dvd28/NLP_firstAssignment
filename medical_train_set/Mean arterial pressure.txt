@@ -1,0 +1,474 @@
+In medicine, the mean arterial pressure (MAP) is an average calculated blood pressure in an individual during a single cardiac cycle. Although methods of estimating MAP vary, a common calculation is to take one-third of the pulse pressure (the difference between the systolic and diastolic pressures), and add that amount to the diastolic pressure. A normal MAP is about 90 mmHg.Mean arterial pressure = diastolic blood pressure + (systolic blood pressure - diastolic blood pressure)/3
+MAP is altered by cardiac output and systemic vascular resistance. It is used clinically to estimate the risk of cardiovascular diseases, where a MAP of 90 mmHg or less is low risk, and a MAP of greater than 96 mmHg represents "stage one hypertension" with increased risk.
+
+Testing
+Mean arterial pressure can be measured directly or estimate from systolic and diastolic blood pressure by using a formula. The least invasive method is the use of a blood pressure cuff which gives the values to calculate an estimate of the mean pressure. A similar method is to use a oscillometric blood pressure device that works by a cuff only method where a microprocessor determines the systolic and diastolic blood pressure. Invasively, an arterial catheter with a transducer is placed and the mean pressure is determined by the subsequent waveform.
+
+Estimating MAP
+While MAP can only be measured directly by invasive monitoring, it can be estimated by using a formula in which the lower (diastolic) blood pressure is doubled and added to the higher (systolic) blood pressure and that composite sum then is divided by 3 to estimate MAP.Thus, a common way to estimate mean arterial pressure is to take one-third of the pulse pressure added to the diastolic pressure:
+  
+    
+      
+        M
+        A
+        P
+        ≈
+        D
+        P
+        +
+        1
+        
+          /
+        
+        3
+        (
+        S
+        P
+        −
+        D
+        P
+        )
+      
+    
+    {\displaystyle MAP\approx DP+1/3(SP-DP)}
+  
+where: 
+
+DP = diastolic pressure
+SP = systolic pressure
+MAP = mean arterial pressureSystolic pressure minus diastolic pressure equals the pulse pressure which may be substituted in.
+Another way to find the MAP is to use the systemic vascular resistance equated (
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  ), which is represented mathematically by the formula 
+
+  
+    
+      
+        R
+        =
+        Δ
+        P
+        
+          /
+        
+        Q
+      
+    
+    {\displaystyle R=\Delta P/Q}
+  where 
+  
+    
+      
+        Δ
+        P
+      
+    
+    {\displaystyle \Delta P}
+   is the change in pressure across the systemic circulation from its beginning to its end and 
+  
+    
+      
+        Q
+      
+    
+    {\displaystyle Q}
+   is the flow through the vasculature (equal to cardiac output).
+In other words:
+
+  
+    
+      
+        S
+        V
+        R
+        =
+        (
+        M
+        A
+        P
+        −
+        C
+        V
+        P
+        )
+        
+          /
+        
+        C
+        O
+      
+    
+    {\displaystyle SVR=(MAP-CVP)/CO}
+  
+Therefore, MAP can be determined by rearranging the equation to:
+
+  
+    
+      
+        M
+        A
+        P
+        =
+        (
+        C
+        O
+        ⋅
+        S
+        V
+        R
+        )
+        +
+        C
+        V
+        P
+      
+    
+    {\displaystyle MAP=(CO\cdot SVR)+CVP}
+  where:
+
+  
+    
+      
+        C
+        O
+      
+    
+    {\displaystyle CO}
+   is cardiac output
+
+  
+    
+      
+        S
+        V
+        R
+      
+    
+    {\displaystyle SVR}
+   is systemic vascular resistance
+
+  
+    
+      
+        C
+        V
+        P
+      
+    
+    {\displaystyle CVP}
+   is central venous pressure and usually is small enough to be neglected in this formula.This is only valid at normal resting heart rates during which 
+  
+    
+      
+        M
+        A
+        P
+      
+    
+    {\displaystyle MAP}
+   can be approximated using the measured systolic (
+  
+    
+      
+        S
+        P
+      
+    
+    {\displaystyle SP}
+  ) and diastolic (
+  
+    
+      
+        D
+        P
+      
+    
+    {\displaystyle DP}
+  ) blood pressures:
+
+Elevated heart rate
+At high heart rates 
+  
+    
+      
+        M
+        A
+        P
+      
+    
+    {\displaystyle MAP}
+   is more closely approximated by the arithmetic mean of systolic and diastolic pressures because of the change in shape of the arterial pressure pulse.
+For a more accurate formula of 
+  
+    
+      
+        M
+        A
+        P
+      
+    
+    {\displaystyle MAP}
+   for elevated heart rates use:
+
+  
+    
+      
+        M
+        A
+        P
+        ≃
+        D
+        P
+        +
+        0.01
+        ×
+        exp
+        ⁡
+        (
+        4.14
+        −
+        40.74
+        
+          /
+        
+        H
+        R
+        )
+        ×
+        P
+        P
+      
+    
+    {\displaystyle MAP\simeq DP+0.01\times \exp(4.14-40.74/HR)\times PP}
+  Where 
+
+HR = heart rate.
+DP = diastolic pressure
+MAP = mean arterial pressure
+PP = pulse pressure which is systolic minus diastolic pressure
+
+Most accurate
+The version of the MAP equation multiplying 0.412 by pulse pressure and adding diastolic blood is indicated to correlate better than other versions of the equation with left ventricular hypertrophy, carotid wall thickness and aortic stiffness. It is expressed:
+
+  
+    
+      
+        M
+        A
+        P
+        =
+        D
+        B
+        P
+        +
+        (
+        0.412
+        ×
+        P
+        P
+        )
+      
+    
+    {\displaystyle MAP=DBP+(0.412\times PP)}
+  
+where:
+
+DBP = diastolic pressure
+MAP = mean arterial pressure
+PP = pulse pressure
+
+Young patients
+For young patients with congenital heart disease a slight alteration to the factor used found to be more precise. This was written as:
+
+  
+    
+      
+        M
+        A
+        P
+        =
+        D
+        B
+        P
+        +
+        (
+        0.475
+        ×
+        P
+        P
+        )
+      
+    
+    {\displaystyle MAP=DBP+(0.475\times PP)}
+  
+where:
+
+DBP = diastolic pressure
+MAP = mean arterial pressure
+PP = pulse pressureThis added precision means cerebral blood flow can be more accurately maintained in uncontrolled hypertension.
+
+Neonates
+For neonates, because of their altered physiology, a different formula has been proposed for a more precise reading:
+
+  
+    
+      
+        M
+        A
+        P
+        =
+        D
+        B
+        P
+        +
+        (
+        0.466
+        ×
+        P
+        P
+        )
+      
+    
+    {\displaystyle MAP=DBP+(0.466\times PP)}
+  
+where:
+
+DBP = diastolic pressure
+MAP = mean arterial pressure
+PP = pulse pressureIt has also been suggested that when getting readings from a neonates radial arterial line, mean arterial pressure can be approximated by averaging the systolic and diastolic pressure.
+
+Other formula versions
+Other formulas used to estimate mean arterial pressure are:
+
+  
+    
+      
+        M
+        A
+        P
+        =
+        D
+        B
+        P
+        +
+        (
+        0.33
+        P
+        P
+        )
+        +
+        5
+      
+    
+    {\displaystyle MAP=DBP+(0.33PP)+5}
+  or
+
+  
+    
+      
+        M
+        A
+        P
+        =
+        D
+        B
+        P
+        +
+        [
+        0.33
+        +
+        (
+        0.0012
+        ×
+        H
+        R
+        )
+        ]
+        ×
+        P
+        P
+      
+    
+    {\displaystyle MAP=DBP+[0.33+(0.0012\times HR)]\times PP}
+  or
+
+  
+    
+      
+        M
+        A
+        P
+        =
+        D
+        A
+        P
+        +
+        P
+        P
+        
+          /
+        
+        3
+      
+    
+    {\displaystyle MAP=DAP+PP/3}
+  or
+
+  
+    
+      
+        M
+        A
+        P
+        =
+        D
+        A
+        P
+        +
+        (
+        P
+        P
+        
+          /
+        
+        3
+        )
+        +
+        5
+        m
+        m
+        H
+        g
+      
+    
+    {\displaystyle MAP=DAP+(PP/3)+5mmHg}
+  
+MAP = mean arterial pressure
+PP = pulse pressure
+DAP = diastolic aortic pressure
+DPB = diastolic blood pressure
+
+Clinical significance
+Mean arterial pressure is a major determinant of the perfusion pressure seen by organs in the body. MAP levels greater than 90 mmHg increase the risk stepwise of having higher risk of cardiovascular diseases, such as stroke, and mortality.
+
+Hypotension
+When assessing hypotension, the context of the baseline blood pressure needs to be considered. Acute decreases in mean arterial pressure of around 25% put people at increased risk for organ damage and potential mortality. Even one minute at a MAP of 50 mmHg, or accumulative effects over short periods, increases the risk of mortality by 5%, and can result in organ failure or complications.In people hospitalized with shock, a MAP of 65 mmHg lasting for more than two hours was associated with higher mortality. In people with sepsis, the vasopressor dosage may be titrated on the basis of estimated MAP.MAP may be used like systolic blood pressure in monitoring and treating target blood pressure. Both are used as targets for assessing sepsis, major trauma, stroke, and intracranial bleeding.
+
+Hypertension
+In younger people, elevated MAP is used more commonly than pulse pressure in the prediction of stroke. However in older people, MAP is less predictive of stroke and a better predictor of cardiovascular disease.
+
+See also
+Blood pressure
+Hypertension
+Hypotension
+Systemic vascular resistance
+Pulse pressure
+
+
+== References ==

@@ -1,0 +1,650 @@
+Risk score (or risk scoring) is the name given to a general practice in applied statistics, bio-statistics, econometrics and other related disciplines, of creating an easily calculated number (the score) that reflects the level of risk in the presence of some risk factors (e.g. risk of mortality or disease in the presence of symptoms or genetic profile, risk financial loss considering credit and financial history, etc.).
+Risk scores are designed to be: 
+
+Simple to calculate: In many cases all you need to calculate a score is a pen and a piece of paper (although some scores use rely on more sophisticated or less transparent calculations that require a computer program).
+Easily interpreted: The result of the calculation is a single number, and higher score usually means higher risk. Furthermore, many scoring methods enforce some form of monotonicity along the measured risk factors to allow a straight forward interpretation of the score (e.g. risk of mortality only increases with age, risk of payment default only increase with the amount of total debt the customer has, etc.).
+Actionable: Scores are designed around a set of possible actions that should be taken as a result of the calculated score. Effective score-based policies can be designed and executed by setting thresholds on the value of the score and associating them with escalating actions.
+
+Formal definition
+A typical scoring method is composed of 3 components:
+A set of consistent rules (or weights) that assign a numerical value ("points") to each risk factor that reflect our estimation of underlying risk.
+A formula (typically a simple sum of all accumulated points) that calculates the score.
+A set of thresholds that helps to translate the calculated score into a level of risk, or an equivalent formula or set of rules to translate the calculated score back into probabilities (leaving the nominal evaluation of severity to the practitioner).Items 1 & 2 can be achieved by using some form of regression, that will provide both the risk estimation and the formula to calculate the score. Item 3 requires setting an arbitrary set of thresholds and will usually involve expert opinion.
+
+Estimating risk with GLM
+Risk score are designed to represent an underlying probability of an adverse event denoted 
+  
+    
+      
+        {
+        Y
+        =
+        1
+        }
+      
+    
+    {\displaystyle \lbrace Y=1\rbrace }
+   given a vector of 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   explaining variables 
+  
+    
+      
+        
+          X
+        
+      
+    
+    {\displaystyle \mathbf {X} }
+   containing measurements of the relevant risk factors. In order to establish the connection between the risk factors and the probability we estimate a set of weights 
+  
+    
+      
+        β
+      
+    
+    {\displaystyle \beta }
+   is estimated using a generalized linear model:
+
+  
+    
+      
+        
+          
+            
+              
+                E
+                ⁡
+                (
+                
+                  Y
+                
+                
+                  |
+                
+                
+                  X
+                
+                )
+                =
+                
+                  P
+                
+                (
+                
+                  Y
+                
+                =
+                1
+                
+                  |
+                
+                
+                  X
+                
+                )
+                =
+                
+                  g
+                  
+                    −
+                    1
+                  
+                
+                (
+                
+                  X
+                
+                β
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\operatorname {E} (\mathbf {Y} |\mathbf {X} )=\mathbf {P} (\mathbf {Y} =1|\mathbf {X} )=g^{-1}(\mathbf {X} \beta )\end{aligned}}}
+  Where 
+  
+    
+      
+        
+          g
+          
+            −
+            1
+          
+        
+        :
+        
+          R
+        
+        →
+        [
+        0
+        ,
+        1
+        ]
+      
+    
+    {\displaystyle g^{-1}:\mathbb {R} \rightarrow [0,1]}
+   is a real-valued, monotonically increasing function that maps the values of the linear predictor 
+  
+    
+      
+        
+          X
+        
+        β
+      
+    
+    {\displaystyle \mathbf {X} \beta }
+   to the interval 
+  
+    
+      
+        [
+        0
+        ,
+        1
+        ]
+      
+    
+    {\displaystyle [0,1]}
+  . GLM methods typically uses the logit or probit as the link function.
+
+Estimating risk with other methods
+While it's possible to estimate 
+  
+    
+      
+        
+          P
+        
+        (
+        
+          Y
+        
+        =
+        1
+        
+          |
+        
+        
+          X
+        
+        )
+      
+    
+    {\displaystyle \mathbf {P} (\mathbf {Y} =1|\mathbf {X} )}
+   using other statistical or machine learning methods, the requirements of simplicity and easy interpretation (and monotonicity per risk factor) make most of these methods difficult to use for scoring in this context:
+
+With more sophisticated methods it becomes difficult to attribute simple weights for each risk factor and to provide a simple formula for the calculation of the score. A notable exception are tree-based methods like CART, that can provide a simple set of decision rules and calculations, but cannot ensure the monotonicity of the scale across the different risk factors.
+The fact that we are estimating underlying risk across the population, and therefore cannot tag people in advance on an ordinal scale (we can't know in advance if a person belongs to a "high risk" group, we only see observed incidences) classification methods are only relevant if we want to classify people into 2 groups or 2 possible actions.
+
+Constructing the score
+When using GLM, the set of estimated weights 
+  
+    
+      
+        β
+      
+    
+    {\displaystyle \beta }
+   can be used to assign different values (or "points") to different values of the risk factors in 
+  
+    
+      
+        
+          X
+        
+      
+    
+    {\displaystyle \mathbf {X} }
+   (continuous or nominal as indicators). The score can then be expressed as a weighted sum:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  Score
+                
+                =
+                
+                  X
+                
+                β
+                =
+                
+                  ∑
+                  
+                    j
+                    =
+                    1
+                  
+                  
+                    P
+                  
+                
+                
+                  
+                    X
+                  
+                  
+                    j
+                  
+                
+                
+                  β
+                  
+                    j
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}{\text{Score}}=\mathbf {X} \beta =\sum _{j=1}^{P}\mathbf {X} _{j}\beta _{j}\end{aligned}}}
+  Some scoring methods will translate the score into probabilities by using 
+  
+    
+      
+        
+          g
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle g^{-1}}
+   (e.g.  SAPS II score that gives an explicit function to calculate mortality from the score) or a look-up table (e.g. ABCD² score or the ISM7 (NI) Scorecard). This practice makes the process of obtaining the score more complicated computationally but has the advantage of translating an arbitrary number to a more familiar scale of 0 to 1.
+The columns of 
+  
+    
+      
+        
+          X
+        
+      
+    
+    {\displaystyle \mathbf {X} }
+   can represent complex transformations of the risk factors (including multiple interactions) and not just the risk factors themselves.
+The values of 
+  
+    
+      
+        β
+      
+    
+    {\displaystyle \beta }
+   are sometimes scaled or rounded to allow working with integers instead of very small fractions (making the calculation simpler). While scaling has no impact ability of the score to estimate risk, rounding has the potential of disrupting the "optimality" of the GLM estimation.
+
+Making score-based decisions
+Let 
+  
+    
+      
+        
+          A
+        
+        =
+        {
+        
+          
+            a
+          
+          
+            1
+          
+        
+        ,
+        .
+        .
+        .
+        ,
+        
+          
+            a
+          
+          
+            m
+          
+        
+        }
+      
+    
+    {\displaystyle \mathbf {A} =\lbrace \mathbf {a} _{1},...,\mathbf {a} _{m}\rbrace }
+   denote a set of 
+  
+    
+      
+        m
+        ≥
+        2
+      
+    
+    {\displaystyle m\geq 2}
+   "escalating" actions available for the decision maker (e.g. for credit risk decisions:  
+  
+    
+      
+        
+          
+            a
+          
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \mathbf {a} _{1}}
+   = "approve automatically", 
+  
+    
+      
+        
+          
+            a
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \mathbf {a} _{2}}
+   = "require more documentation and check manually", 
+  
+    
+      
+        
+          
+            a
+          
+          
+            3
+          
+        
+      
+    
+    {\displaystyle \mathbf {a} _{3}}
+   = "decline automatically"). In order to define a decision rule, we want to define a map between different values of the score and the possible decisions in 
+  
+    
+      
+        
+          A
+        
+      
+    
+    {\displaystyle \mathbf {A} }
+  . Let 
+  
+    
+      
+        τ
+        =
+        {
+        
+          τ
+          
+            1
+          
+        
+        ,
+        .
+        .
+        .
+        
+          τ
+          
+            m
+            −
+            1
+          
+        
+        }
+      
+    
+    {\displaystyle \tau =\lbrace \tau _{1},...\tau _{m-1}\rbrace }
+   be a partition of 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+   into 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   consecutive, non-overlapping intervals, such that 
+  
+    
+      
+        
+          τ
+          
+            1
+          
+        
+        <
+        
+          τ
+          
+            2
+          
+        
+        <
+        …
+        <
+        
+          τ
+          
+            m
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle \tau _{1}<\tau _{2}<\ldots <\tau _{m-1}}
+  .
+The map is defined as follows:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  If Score
+                
+                ∈
+                [
+                
+                  τ
+                  
+                    j
+                    −
+                    1
+                  
+                
+                ,
+                
+                  τ
+                  
+                    j
+                  
+                
+                )
+                →
+                
+                  Take action 
+                
+                
+                  
+                    a
+                  
+                  
+                    j
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}{\text{If Score}}\in [\tau _{j-1},\tau _{j})\rightarrow {\text{Take action }}\mathbf {a} _{j}\end{aligned}}}
+  The values of 
+  
+    
+      
+        τ
+      
+    
+    {\displaystyle \tau }
+   are set based on expert opinion, the type and prevalence of the measured risk, consequences of miss-classification, etc. For example, a risk of 9 out of 10 will usually be considered as "high risk", but a risk of 7 out of 10 can be considered either "high risk" or "medium risk" depending on context.
+The definition of the intervals is on right open-ended intervals but can be equivalently defined using left open ended intervals 
+  
+    
+      
+        (
+        
+          τ
+          
+            j
+            −
+            1
+          
+        
+        ,
+        
+          τ
+          
+            j
+          
+        
+        ]
+      
+    
+    {\displaystyle (\tau _{j-1},\tau _{j}]}
+  .
+For scoring methods that are already translated the score into probabilities we either define the partition 
+  
+    
+      
+        τ
+      
+    
+    {\displaystyle \tau }
+   directly on the interval 
+  
+    
+      
+        [
+        0
+        ,
+        1
+        ]
+      
+    
+    {\displaystyle [0,1]}
+   or translate the decision criteria into 
+  
+    
+      
+        [
+        
+          g
+          
+            −
+            1
+          
+        
+        (
+        
+          τ
+          
+            j
+            −
+            1
+          
+        
+        )
+        ,
+        
+          g
+          
+            −
+            1
+          
+        
+        (
+        
+          τ
+          
+            j
+          
+        
+        )
+        )
+      
+    
+    {\displaystyle [g^{-1}(\tau _{j-1}),g^{-1}(\tau _{j}))}
+  , and the monotonicity of 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+   ensures a 1-to-1 translation.
+
+Examples
+Biostatistics
+Framingham Risk Score
+QRISK
+TIMI
+Rockall score
+ABCD² score
+CHA2DS2–VASc score
+SAPS II(see more examples on the category page Category:Medical scoring system)
+
+Financial industry
+The primary use of scores in the financial sector is for Credit scorecards, or credit scores: 
+
+In many countries (such as the US) credit score are calculated by commercial entities and therefore the exact method is not public knowledge (for example the Bankruptcy risk score, FICO score and others). Credit scores in Australia and UK are often calculated by using logistic regression to estimate probability of default, and are therefore a type of risk score.
+Other financial industries, such as the insurance industry also use scoring methods, but the exact implementation remains a trade secret, except for some rare cases
+
+Social Sciences
+COMPAS score for recidivism,  as reverse-engineered by ProPublica using logistic regression and Cox's proportional hazard model.
+
+References
+Hastie, T. J.; Tibshirani, R. J. (1990). Generalized Additive Models. Chapman & Hall/CRC. ISBN 978-0-412-34390-2.

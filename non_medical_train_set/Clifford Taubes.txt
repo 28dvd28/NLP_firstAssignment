@@ -1,0 +1,38 @@
+Clifford Henry Taubes (born February 21, 1954) is the William Petschek Professor of Mathematics at Harvard University and works in gauge field theory, differential geometry, and low-dimensional topology. His brother is the journalist Gary Taubes.
+
+Early career
+Taubes received his PhD in physics in 1980 under the direction of Arthur Jaffe, having proven results collected in (Jaffe & Taubes 1980) about the existence of solutions to the Landau–Ginzburg vortex equations and the Bogomol'nyi monopole equations.
+Soon, he began applying his gauge-theoretic expertise to pure mathematics.  His work on the boundary of the moduli space of solutions to the Yang-Mills equations was used by Simon Donaldson in his proof of Donaldson's theorem. He proved in (Taubes 1987) that R4 has an uncountable number of smooth structures (see also exotic R4), and (with Raoul Bott in Bott & Taubes 1989) proved Witten's rigidity theorem on the elliptic genus.
+
+Work based on Seiberg–Witten theory
+In a series of four long papers in the 1990s (collected in Taubes 2000), Taubes proved that, on a closed symplectic four-manifold, the (gauge-theoretic) Seiberg–Witten invariant is equal to an invariant which enumerates certain pseudoholomorphic curves and is now known as Taubes's Gromov invariant.  This fact improved mathematicians' understanding of the topology of symplectic four-manifolds.
+More recently (in Taubes 2007), by using Seiberg–Witten Floer homology as developed by Peter Kronheimer and Tomasz Mrowka  together with some new estimates on the spectral flow of Dirac operators and some methods from Taubes 2000, Taubes proved the longstanding Weinstein conjecture for all three-dimensional contact manifolds, thus establishing that the Reeb vector field on such a manifold always has a closed orbit. Expanding both on this and on the equivalence of the Seiberg–Witten and Gromov invariants, Taubes has also proven (in a long series of preprints, beginning with Taubes 2008) that a contact 3-manifold's embedded contact homology is isomorphic to a version of its Seiberg–Witten Floer cohomology.  More recently, Taubes, C. Kutluhan and Y-J. Lee proved that Seiberg–Witten Floer homology is isomorphic to Heegaard Floer homology.
+
+Honors and awards
+Four-time speaker at International Congress of Mathematicians (1986, 1994 (plenary), 1998, 2010 (plenary; selected, but did not speak))
+Veblen Prize (AMS) (1991)
+Elie Cartan Prize (Académie des Sciences) (1993)
+Elected as a fellow of the American Academy of Arts and Sciences in 1995.
+Elected to the National Academy of Sciences in 1996.
+Clay Research Award (2008)
+NAS Award in Mathematics (2008) from the National Academy of Sciences.
+Shaw Prize in Mathematics (2009) jointly with Simon Donaldson
+
+Books
+1980: (with Arthur Jaffe) Vortices and Monopoles: The Structure of Static Gauge Theories, Progress in Physics, volume 2, Birkhäuser ISBN 3-7643-3025-2 MR06144447
+1993: The L2 Moduli Spaces on Four Manifold With Cylindrical Ends (Monographs in Geometry and Topology)ISBN 1-57146-007-1
+1996: Metrics, Connections and Gluing Theorems (CBMS Regional Conference Series in Mathematics) ISBN 0-8218-0323-9
+2008 [2001]: Modeling Differential Equations in Biology ISBN 0-13-017325-8
+2011: Differential Geometry: Bundles, Connections, Metrics and Curvature, (Oxford Graduate Texts in Mathematics #23) ISBN 978-0-19-960587-3
+
+References
+Taubes, Clifford Henry (1987), "Gauge theory on asymptotically periodic 4-manifolds", Journal of Differential Geometry, 25 (3): 363–430, doi:10.4310/jdg/1214440981, MR 0882829
+Bott, Raoul; Taubes, Clifford Henry (1989), "On the rigidity theorems of Witten", Journal of the American Mathematical Society, 2 (1): 137–186, doi:10.2307/1990915, JSTOR 1990915, MR 0954493
+Taubes, Clifford Henry (2000), Wentworth, Richard (ed.), Seiberg Witten and Gromov invariants for symplectic 4-manifolds, First International Press Lecture Series, vol. 2, Somerville, MA: International Press, pp. vi+401, ISBN 1-57146-061-6, MR 1798809
+Taubes, Clifford Henry (2007), "The Seiberg-Witten equations and the Weinstein conjecture", Geometry & Topology, 11 (4): 2117–2202, arXiv:math/0611007, doi:10.2140/gt.2007.11.2117, MR 2350473, S2CID 119680690
+Taubes, Clifford Henry (2010). "Embedded contact homology and Seiberg-Witten Floer cohomology I". Geometry & Topology. 14 (5): 2497–2581. arXiv:0811.3985. doi:10.2140/gt.2010.14.2497. MR 2746723.
+Kutluhan, Cagatay; Lee, Yi-Jen; Taubes, Clifford Henry (2020). "HF=HM I : Heegaard Floer homology and Seiberg–Witten Floer homology". Geometry & Topology. 24 (6): 2829–2854. arXiv:1007.1979. doi:10.2140/gt.2020.24.2829. S2CID 118772589.
+
+External links
+Clifford Taubes at the Mathematics Genealogy Project
+Profile in the May 2008 Notices of the AMS, marking his receipt of the NAS Award in Mathematics

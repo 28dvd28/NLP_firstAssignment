@@ -1,0 +1,5 @@
+Nerve induction is a theoretical method of creating a sensation by stimulation of the sensory nerves rather than by actual stimulus.
+
+History
+The concept is  mentioned in the 1965 science fiction novel Dune by Frank Herbert as a method to inflict pain with no actual injury.
+No known real-life analogues of such a device currently exist. However, the effect sometime occurs as a side effect of transcranial magnetic stimulation. In addition, a number of non-lethal pain compliance devices have been developed. The most reminiscent of Herbert's fictional device is the microwave-based Active Denial System (ADS), which shows many of the same traits, but uses microwaves rather than nerve induction. Other similar devices include Long Range Acoustic Devices (LRAD) which use painful directed sound waves, and electroshock weapons such as tasers, which deliver an incapacitating shock to the nervous system.

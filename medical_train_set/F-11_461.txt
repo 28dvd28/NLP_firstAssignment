@@ -1,0 +1,8 @@
+F-11,461 is a drug that acts as an agonist of the 5-HT1A receptor (Ki = 1.36 nM) that has been used as a radioligand in PET studies. It possesses modest affinity for the 5-HT7 (Ki = 9.1 nM) and D4 (Ki = 8.5 nM) receptors, although the interaction of F-11,461 with these receptors is not detectable with PET due to their relative scarcity in the brain.
+
+See also
+Befiradol
+8-OH-DPAT
+
+
+== References ==

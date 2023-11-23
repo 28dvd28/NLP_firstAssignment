@@ -1,0 +1,104 @@
+Cardiac catheterization (heart cath) is the insertion of a catheter into a chamber or vessel of the heart. This is done both for diagnostic and interventional purposes.
+A common example of cardiac catheterization is coronary catheterization that involves catheterization of the coronary arteries for coronary artery disease and myocardial infarctions ("heart attacks"). Catheterization is most often performed in special laboratories with fluoroscopy and highly maneuverable tables. These "cath labs" are often equipped with cabinets of catheters, stents, balloons, etc. of various sizes to increase efficiency. Monitors show the fluoroscopy imaging, electrocardiogram (ECG), pressure waves, and more.
+
+Uses
+Coronary angiography is a diagnostic procedure that allows visualization of the coronary vessels. Fluoroscopy is used to visualize the lumens of the arteries as a 2-D projection. Should these arteries show narrowing or blockage, then techniques exist to open these arteries. Percutaneous coronary intervention is a blanket term that involves the use of mechanical stents, balloons, etc. to increase blood flow to previously blocked (or occluded) vessels.Measuring pressures in the heart is also an important aspect of catheterization. The catheters are fluid filled conduits that can transmit pressures to outside the body to pressure transducers. This allows measuring pressure in any part of the heart that a catheter can be maneuvered into.Measuring blood flow is also possible through several methods. Most commonly, flows are estimated using the Fick principle and thermodilution. These methods have drawbacks, but give invasive estimations of the cardiac output, which can be used to make clinical decisions (e.g., cardiogenic shock, heart failure) to improve the person's condition.Cardiac catheterization can be used as part of a therapeutic regimen to improve outcomes for survivors of out-of-hospital cardiac arrest.Cardiac catheterization often requires the use of fluoroscopy to visualize the path of the catheter as it enters the heart or as it enters the coronary arteries. The coronary arteries are known as "epicardial vessels" as they are located in the epicardium, the outermost layer of the heart. The use of fluoroscopy requires radiopaque contrast, which in rare cases can lead to contrast-induced kidney injury (see Contrast-induced nephropathy). People are constantly exposed to low doses of ionizing radiation during procedures. Ideal table positioning between the x-ray source and receiver, and radiation monitoring via thermoluminescent dosimetry, are two main ways of reducing a person's exposure to radiation. People with certain comorbidities (people who have more than one condition at the same time) have a higher risk of adverse events during the cardiac catheterization procedure. These comorbidity conditions include aortic aneurysm, aortic stenosis, extensive three-vessel coronary artery disease, diabetes, uncontrolled hypertension, obesity, chronic kidney disease, and unstable angina.
+
+Left heart catheterization
+Left heart catheterization (LHC) is an ambiguous term and sometime clarification is required:
+LHC can mean measuring the pressures of the left side of the heart.
+LHC can be synonymous with coronary angiography.technique is also used to assess the amount of occlusion (or blockage) in a coronary artery, often described as a percentage of occlusion. A thin, flexible wire is inserted into either the femoral artery or the radial artery and threaded toward the heart until it is in the ascending aorta. Radial access is not associated with an increased risk of stroke over femoral access. At this point, a catheter is guided over the wire into the ascending aorta, where it can be maneuvered into the coronary arteries through the coronary ostia. In this position, the interventional cardiologist can inject contrast and visualize the flow through the vessel. If necessary, the physician can utilize percutaneous coronary intervention techniques, including the use of a stent (either bare-metal or drug-eluting) to open the blocked vessel and restore appropriate blood flow. In general, occlusions greater than 70% of the width of the vessel lumen are thought to require intervention. However, in cases where multiple vessels are blocked (so-called "three-vessel disease"), the interventional cardiologist may opt instead to refer the patient to a cardiothoracic surgeon for coronary artery bypass graft (CABG; see Coronary artery bypass surgery) surgery.
+
+Right heart catheterization
+Right heart catheterization (RHC) allows the physician to determine the pressures within the heart (intracardiac pressures). The heart is most often accessed via the internal jugular or femoral vein; arteries are not used. Values are commonly obtained for the right atrium, right ventricle, pulmonary artery, and pulmonary capillary "wedge" pressures. Right heart catheterizations also allow the physician to estimate the cardiac output, the amount of blood that flows from the heart each minute, and the cardiac index, a hemodynamic parameter that relates the cardiac output to a patient's body size. Determination of cardiac output can be done by releasing a small amount of saline solution (either chilled or at room temperature) in one area of the heart and measuring the change in blood temperature over time in another area of the heart.Right heart catheterization is often done for pulmonary hypertension, heart failure, and cardiogenic shock. The pulmonary artery catheter can be placed, used, and removed, or it can be placed and left in place for continuous monitoring. The latter can be done an intensive care unit (ICU) to permit frequent measurement of the hemodynamic parameters in response to interventions.Parameters obtainable from a right heart catheterization:
+Right atrial pressure
+Right ventricular pressure
+Pulmonary artery pressure
+Pulmonary capillary wedge pressure
+Systemic vascular resistance
+Pulmonary vascular resistance
+Cardiac output
+Blood oxygenationImplantation of a CardioMEMS is done during a right heart catheterization. This device is implanted into the pulmonary artery to permit real-time measurement of the pulmonary artery pressure over time.
+
+Coronary catheterization
+Coronary catheterization is an invasive process and comes with risks that include stroke, heart attack, and death. Like any procedure, the benefits should outweigh the risks and so this procedure is reserved for those with symptoms of serious heart diseases and is never used for screening purposes. Other, non-invasive tests are better used when the diagnosis or certainty of the diagnosis is not as clear.Indications for cardiac catheterization include the following:
+Acute coronary syndromes: ST elevation MI (STEMI), non-ST Elevation MI (NSTEMI), and unstable angina
+Evaluation of coronary artery disease as indicated by
+Abnormal stress test
+As part of the pre-op evaluation for other cardiac procedures (e.g., valve replacement) as coronary artery bypass grafting may be done at the same time
+Risk stratification for high cardiac risk surgeries (e.g., endovascular aneurysm repair)
+Persistent chest pain despite medical therapy thought to be cardiac in origin
+New-onset unexplained heart failure
+Survival of sudden cardiac death or dangerous cardiac arrhythmias
+Workup of suspected Prinzmetal angina (coronary vasospasm)Right heart catheterization, along with pulmonary function testing and other testing should be done to confirm pulmonary hypertension prior to having vasoactive pharmacologic treatments approved and initiated.
+to measure intracardiac and intravascular blood pressures
+to take tissue samples for biopsy
+to inject various agents for measuring blood flow in the heart; also to detect and quantify the presence of an intracardiac shunt
+to inject contrast agents in order to study the shape of the heart vessels and chambers and how they change as the heart beats
+
+Pacemakers and defibrillators
+Placement of internal pacemakers and defibrillators are done through catheterization as well. An exception to this is placement of electrodes on the outer surface of the heart (called epicardial electrodes). Otherwise, electrodes are placed through the venous system into the heart and left there permanently. Typically, these devices are placed in the left upper chest and enter the left subclavian vein and electrodes are placed in the right atrium, right ventricle, and coronary sinus (for the left ventricle stimulation).
+
+Valve assessment
+Echocardiography is a non-invasive method to evaluate the heart valves. However, sometimes the valve pressure gradients need to be measured directly because echo is equivocal for the severity of valve disease. Invasive assessment of the valve can be done with catheterization by placing a catheter across the valve and measuring the pressures simultaneously on each side of the valve to obtain the pressure gradient. In conjunction with a right heart catheterization, the valve area can be estimated. For example, in aortic valve area calculation the Gorlin equation can be used to calculate the area if the cardiac output, pressure gradient, systolic period, and heart rate are known.
+
+Pulmonary angiography
+Evaluation of the blood flow to the lungs can be done invasively through catheterization. Contrast is injected into the pulmonary trunk, left or right pulmonary artery, or segment of the pulmonary artery.
+
+Shunt evaluation
+Cardiac shunts can be evaluated through catheterization. Using oxygen as a marker, the oxygen saturation of blood can be sampled at various locations in and around the heart. For example, a left-to-right atrial septal defect will show a marked increase in oxygen saturation in the right atrium, ventricle, and pulmonary artery as compared to the mixed venous oxygen saturation from the oxygenated blood from the lungs mixing into the venous return to the heart. Utilizing the Fick principle, the ratio of blood flow in the lungs (Qp) and system circulations (Qs) can calculate the Qp:Qs ratio. Elevation of the Qp:Qs ratio above 1.5 to 2.0 suggests that there is a hemodynamically significant left-to-right shunt (such that the blood flow through the lungs is 1.5 to 2.0 times more than the systemic circulation). This ratio can be evaluated non-invasively with echocardiography too, however.A "shunt run" is often done when evaluating for a shunt by taking blood samples from superior vena cava (SVC), inferior vena cava (IVC), right atrium, right ventricle, pulmonary artery, and system arterial. Abrupt increases in oxygen saturation support a left-to-right shunt and lower than normal systemic arterial oxygen saturation supports a right-to-left shunt. Samples from the SVC & IVC are used to calculate mixed venous oxygen saturation.
+
+Ventriculography
+By injecting contrast into the left ventricle, the outline of the ventricle can be measured in both systole and diastole to estimate the ejection fraction (a marker of heart function). Due to the high contrast volumes and injection pressures, this is often not performed unless other, non-invasive methods are not acceptable, not possible, or conflicting.
+
+Percutaneous aortic valve replacement
+Advancements in cardiac catheterization have permitted replacement of heart valves by means of blood vessels. This method allows valve replacement without open heart surgery and can be performed on people who are high-risk for such a surgery.
+
+Balloon septostomy
+Catheterization can also be used to perform balloon septostomy, which is the widening of a foramen ovale, patent foramen ovale (PFO), or atrial septal defect (ASD) using a balloon catheter. This can be done in certain congenital heart diseases in which the mechanical shunting is required to sustain life such as in transposition of the great vessels.
+
+Alcohol septal ablation
+Hypertrophic cardiomyopathy is a disease in which the myocardium is thickened and can cause blood flow obstruction. If hemodynamically significant, this excess muscle can be removed to improve blood flow. Surgically, this can be done with septal myectomy. However, it can be done through catheterization and by injecting ethanol to destroy the tissue in an alcohol septal ablation. This is done by selected an appropriate septal artery supplying the intended area and, essentially, causing a localized, controlled myocardial infarction of the area with ethanol.
+
+Complications
+Complications of cardiac catheterization and tools used during catheterization include, but not limited to:
+Death
+Stroke
+Heart attack
+Ventricular ectopy and ventricular arrhythmias
+Pericardial effusion
+Bleeding: internal and external
+Infection
+Radiation burn
+Contrast induced nephropathy from contrast useThe likelihood of these risks depends on many factors that include the procedure being performed, the overall health state of the patient, situational (elective vs emergent), medications (e.g., anticoagulation), and more.
+
+Procedure
+"Cardiac catheterization" is a general term for a group of procedures. Access to the heart is obtained through a peripheral artery or vein. Commonly, this includes the radial artery, internal jugular vein, and femoral artery/vein. Each blood vessel has its advantages and disadvantages. Once access is obtained, plastic catheters (tiny hollow tubes) and flexible wires are used to navigate to and around the heart. Catheters come in numerous shapes, lengths, diameters, number of lumens, and other special features such as electrodes and balloons. Once in place, they are used to measure or intervene. Imaging is an important aspect to catheterization and commonly includes fluoroscopy but can also include forms of echocardiography (TTE, TEE, ICE) and ultrasound (IVUS).Obtaining access uses the Seldinger technique by puncturing the vessel with a needle, placing a wire through the needle into the lumen of the vessel, and then exchanging the needle for a larger plastic sheath. Finding the vessel with a needle can be challenging and both ultrasound and fluoroscopy can be used to aid in finding and confirming access. Sheaths typically have a side port that can be used to withdraw blood or injection fluids/medications, and they also have an end hole that permits introducing the catheters, wires, etc. coaxially into the blood vessel.Once access is obtained, what is introduced into the vessel depends on the procedure being performed. Some catheters are formed to a particular shape and can really only be manipulated by inserting/withdrawing the catheter in the sheath and rotating the catheter. Others may include internal structures that permit internal manipulation (e.g., intracardiac echocardiography).Finally, when the procedure is completed, the catheters are removed and the sheath is removed. With time, the hole made in the blood vessel will heal. Vascular closure devices can be used to speed along hemostasis.
+
+Equipment
+Much equipment is required for a facility to perform the numerous possible procedures for cardiac catheterization.
+General:
+Catheters
+Film or Digital Camera
+Electrocardiography monitors
+External defibrillator
+Fluoroscopy
+Pressure transducers
+SheathsPercutaneous coronary intervention:
+Coronary stents: bare-metal stent (BMS) and drug-eluting stent (DES)
+Angioplasty balloons
+Atherectomy lasers and rotational devices
+Left atrial appendage occlusion devicesElectrophysiology:
+Ablation catheters: radiofrequency (RF) and cryo
+Pacemakers
+Defibrillators
+
+History
+The history of cardiac catheterization dates back to Stephen Hales (1677-1761) and Claude Bernard (1813-1878), who both used it on animal models. Clinical application of cardiac catheterization begins with Dr. Werner Forssmann in 1929, who inserted a catheter into the vein of his own forearm, guided it fluoroscopically into his right atrium, and took an X-ray picture of it. However, even after this achievement, hospital administrators removed Forssmann from his position owing to his unorthodox methods.
+During World War II, André Frédéric Cournand, a physician at NewYork-Presbyterian/Columbia, then Columbia-Bellevue, opened the first catheterization lab. In 1956, Forssmann and Cournand were co-recipients of the Nobel Prize in Physiology or Medicine for the development of cardiac catheterization.
+Dr. Eugene A. Stead performed research in the 1940s, which paved the way for cardiac catheterization in the USA.
+
+References
+External links
+MedlinePlus Medical Encyclopedia: Cardiac catheterization
+eMedicine: Cardiac Catheterization (Left Heart)

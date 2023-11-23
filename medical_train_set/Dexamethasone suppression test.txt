@@ -1,0 +1,25 @@
+The dexamethasone suppression test (DST) is used to assess adrenal gland function by measuring how cortisol levels change in response to oral doses or an injection of dexamethasone. It is typically used to diagnose Cushing's syndrome.
+The DST was historically used for diagnosing depression, but by 1988 it was considered to be "at best, severely limited in its clinical ability" for this purpose.
+
+Physiology
+Dexamethasone is an exogenous steroid that provides negative feedback to the pituitary gland to suppress the secretion of adrenocorticotropic hormone (ACTH). Specifically, dexamethasone binds to glucocorticoid receptors in the anterior pituitary gland, which lie outside the blood–brain barrier, resulting in regulatory modulation.
+
+Test procedures
+There are several types of DST procedures:
+
+Overnight DST or ONDST - An oral dose of dexamethasone is given between 11pm and midnight, and the cortisol level is measured at 8 - 9am the next morning
+Two-day DST - This involves giving an oral dose of dexamethasone at six-hourly intervals for 2 days, with the cortisol level measured 6 hours after the final dose was given
+Intravenous DST
+Dexamethasone-CRT test
+
+Interpretation
+Low-dose and high-dose variations of the test exist.  The test is given at low (usually 1–2 mg) and high (8 mg) doses of dexamethasone, and the levels of cortisol are measured to obtain the results.A low dose of dexamethasone suppresses cortisol in individuals with no pathology in endogenous cortisol production. A high dose of dexamethasone exerts negative feedback on pituitary neoplastic ACTH-producing cells (Cushing's disease), but not on ectopic ACTH-producing cells or adrenal adenoma (Cushing's syndrome).
+
+Dose
+A normal result is a decrease in cortisol levels upon administration of low-dose dexamethasone. Results indicative of Cushing's disease involve no change in cortisol on low-dose dexamethasone, but inhibition of cortisol on high-dose dexamethasone. If the cortisol levels are unchanged by low- and high-dose dexamethasone, then other causes of Cushing's syndrome must be considered with further work-up necessary.
+After the high-dose dexamethasone, it may be possible to make further interpretations.
+†ACTH as measured prior to dosing of dexamethasoneEquivocal results should be followed by a corticotropin-releasing hormone stimulation test, with inferior petrosal sinus sampling.
+
+References
+
+Theodore C. Friedman, M.D., Ph.D. Professor of Medicine-UCLA Chairman, Department of Internal Medicine Charles R. Drew University (2013). [1]

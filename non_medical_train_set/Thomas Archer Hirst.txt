@@ -1,0 +1,23 @@
+Thomas Archer Hirst FRS (22 April 1830 – 16 February 1892) was a 19th-century English mathematician, specialising in geometry. He was awarded the Royal Society's Royal Medal in 1883.
+
+Life
+Thomas Hirst was born in Heckmondwike, Yorkshire, England, where both his parents came from families in the wool trade. He was the youngest of four sons. The family moved to Wakefield so that the boys could attend a better school. Thomas attended Wakefield Proprietary School for four years from 1841. Of these days, he said "... I could obtain the most rudimentary and necessary instruction. I remember, however, that here mathematics was my favourite study ..." He left the school at fifteen to work as an apprentice engineer in Halifax, surveying for proposed railway lines. It was there that he met John Tyndall, ten years older than Hirst and working as an engineer in the same firm.
+In his late teens, at the instigation of Tyndall, Hirst decided to go to Germany for education, initially in chemistry. He eventually received a doctorate in mathematics from the University of Marburg in 1852 (tutor: Friedrich Ludwig Stegmann). In 1853, he attended  geometry lectures by Jakob Steiner at University of Berlin. Hirst married Anna Martin in 1854, and spent much of the decade of the 1850s on the European continent, where he socialised with many mathematicians, and used his inherited wealth to support himself.
+From 1860 to 1864, Hirst taught at University College School, but resigned because he wanted more time for his mathematical research. He was appointed Professor of Physics at University College London in 1865, and he succeeded Augustus De Morgan to the Chair of Mathematics at UCL in 1867. In 1873 he was appointed as the first Director of Studies at the new Royal Naval College, Greenwich. He retired from that post in 1882, to be succeeded by William Davidson Niven.
+From the 1860s onwards, Hirst also allocated much of his time in England to the administrative committees of British science. He was an active member of the governing councils of the Royal Society, the British Association for the Advancement of Science, and the London Mathematical Society. He was the founding president of an association to reform school mathematics curricula and also worked to promote the education of women. Alongside his old friend Tyndall, Hirst was a member of T. H. Huxley's London X-Club. He died in London in 1892, four weeks after he had made the last entry in his journal, and was buried on the eastern side of Highgate Cemetery.
+
+Vestiges
+In his early days, Hirst wrote extensively in his notebooks (sometimes called the Journal), recording everything he read and much of what he was thinking about. This extraordinary record of about fifty years is preserved in the library of the Royal Institution. As a result, we know much about the development of his mind before he became a professional mathematician. We know, for example, what the effect was of his reading the Vestiges of the Natural History of Creation, that epoch-making book authored anonymously by Robert Chambers which promoted the idea of evolution in 1844.
+
+"Almost no-one reads like this anymore. It is the reading practice of a self-improving autodidact, shaped by Bible-reading amongst denominations of learned liberal Dissent... Hirst copied large chunks into his journal... the journal shows that Hirst moved between Vestiges and other related works such as Paley's Natural Theology and John Arthur Phillips' Geology of Yorkshire..."
+Both Hirst and Tyndall left in their journals and letters evidence that Vestiges (especially its geological evidence) made a good case against the story of Genesis and the case for divine intervention; yet they were not atheists. They simply came to the conclusion that parts of the Old Testament were allegorical.
+
+Mathematics
+Hirst was a projective geometer in the style of Poncelet and Steiner. He was not an adherent of the algebraic geometry approach of Cayley and Sylvester, despite being a friend of theirs. His speciality was Cremona transformations.
+
+Notes
+References
+Ueber conjugirte Diameter im dreiaxigen Ellipsoid. Inaugural-Dissertation, welche mit Genehmigung der philosophischen Facultät zu Marburg zur Erlangung der Doctorwürde einreicht Thomas Archer Hirst aus England. Marburg, Druck und Papier von Joh. Aug. Koch. 1852. [20 pages].
+
+External links
+O'Connor, John J.; Robertson, Edmund F., "Thomas Archer Hirst", MacTutor History of Mathematics Archive, University of St Andrews

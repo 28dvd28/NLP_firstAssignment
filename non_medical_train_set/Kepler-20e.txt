@@ -1,0 +1,12 @@
+Kepler-20e is an exoplanet orbiting Kepler-20. The planet is notable as it is the first planet with a smaller radius than Earth found orbiting a Sun-like star. The planet is second-closest to the star after Kepler-20b, and at 1,040 K (770 °C; 1,410 °F), it is far too hot to have liquid water on its surface. Along with the other four planets in the system, Kepler-20e was announced on 20 December 2011.
+
+Kepler-20e is the first planet smaller than the Earth discovered to orbit a star other than the Sun. A year on Kepler-20e only lasts 6 days, as it is much closer to its host star than the Earth is to the Sun. The temperature at the surface of the planet, around 1400 degrees Fahrenheit, is much too hot to support life, as we know it.
+Kepler-20e is likely to be entirely rocky and without an atmosphere. The planet is tidally locked, always showing the same side to its host star, as the Moon to the Earth, and could have large temperature differences between its permanent night and day sides.
+
+Astronomers think that the planet is likely to be geologically active, due to its own formation process and the strong gravitational interactions with its host star. In this artistic depiction, the planet is represented with active volcanoes on both the night and day sides.
+
+Orbit
+With a semimajor axis of 0.0507 AUs, Kepler-20e's orbit has a period of 6.098 days (with an extremely small margin of error).  The orbit has an inclination of 87.50°, making its transits observable from the Solar System.  Like the other planets of the system, the planet has a high maximum eccentricity of 0.28, but the lowest in that system.
+
+
+== References ==

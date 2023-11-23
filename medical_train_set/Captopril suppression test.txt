@@ -1,0 +1,8 @@
+The captopril suppression test (CST) is a non-invasive medical test that measures plasma levels of aldosterone.
+Aldosterone production is suppressed by captopril through the renin–angiotensin–aldosterone system. CST results are used to assist in the diagnososis of primary aldosteronism (Conn Syndrome).
+
+See also
+Captopril challenge test - used to diagnose renal artery stenosis
+
+
+== References ==

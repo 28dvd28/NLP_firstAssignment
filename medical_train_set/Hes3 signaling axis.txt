@@ -1,0 +1,82 @@
+The STAT3-Ser/Hes3 signaling axis is a specific type of intracellular signaling pathway that regulates several fundamental properties of cells.
+
+Overview
+Cells in tissues need to be able to sense and interpret changes in their environment. For example, cells must be able to detect when they are in physical contact with other cells in order to regulate their growth and avoid the generation of tumors (“carcinogenesis”). In order to do so, cells place receptor molecules on their surface, often with a section of the receptor exposed to the outside of the cell (extracellular environment), and a section inside the cell (intracellular environment). These molecules are exposed to the environment outside of the cell and, therefore, in position to sense it. They are called receptors because when these come into contact with particular molecules (termed ligands), then chemical changes are induced to the receptor. These changes typically involve alterations in the three-dimensional shape of the receptor. These 3D structure changes affect both the extracellular and intracellular parts (domains) of the receptor. As a result, interaction of a receptor with its specific ligand which is located outside of the cell causes changes to the receptor part which is inside the cell. A signal from the extracellular space, therefore, can affect the biochemical state inside the cell.
+Following receptor activation by the ligand, several steps can sequentially ensue. For example, the 3D shape changes to the intracellular domain may render it recognizable to catalytic proteins (enzymes) that are located inside the cell and have physical access to it. These enzymes may then induce chemical changes to the intracellular domain of the activated receptor, including the addition of phosphate chemical groups to specific components of the receptor (phosphorylation), or the physical separation (cleavage) of the intracellular domain. Such modifications may enable the intracellular domain to act as an enzyme itself, meaning that it may now catalyze the modification of other proteins in the cell. Enzymes which catalyze phosphorylation modifications are termed kinases. These modified proteins may then also be activated and enabled to induce further modifications to other proteins, and so on. This sequence of catalytic modifications is termed a “signal transduction pathway” or “second messenger cascade”. It is a critical mechanism employed by cells to sense their environment and induce complex changes to their state. Such changes may include, as noted, chemical modifications to other molecules, as well as decisions concerning which genes are activated and which are not (transcriptional regulation).
+There are many signal transduction pathways in a cell and each of these involves many different proteins. This provides many opportunities for different signal transduction pathways to intercept (cross-talk). As a result, a cell simultaneously processes and interprets many different signals, as would be expected since the extracellular environment contains many different ligands. Cross-talk also allows the cell to integrate these many signals as opposed to process them independently. For example, mutually opposing signals may be activated at the same time by different ligands, and the cell can interpret these signals as a whole.
+Signal transduction pathways are widely studied in biology as they provide mechanistic understanding of how a cell operates and takes critical decisions (e.g. to multiply, move, die, activate genes etc.). These pathways also provide many drug targets and are of great relevance to drug discovery efforts.
+
+Technical overview
+The notch/STAT3-Ser/Hes3 signaling axis is a recently identified signal transduction branch of the notch signaling pathway, originally shown to regulate the number of neural stem cells in culture and in the living adult brain. Pharmacological activation of this pathway opposed the progression of neurodegenerative disease in rodent models. More recent efforts have implicated it in carcinogenesis and diabetes. The pathway can be activated by soluble ligands of the notch receptor which induce the sequential activation of intracellular kinases and the subsequent phosphorylation of STAT3 on the serine residue at amino acid position 727 (STAT3-Ser). This modification is followed by an increase in the levels of Hes3, a transcription factor belonging to the Hes/Hey family of genes (see HES1). Hes3 has been used as a biomarker to identify putative endogenous stem cells in tissues. The pathway is an example of non-canonical signaling as it represents a new branch of a previously established signaling pathway (notch). Several efforts are currently aimed at relating this pathway to other signaling pathways and to manipulate it in a therapeutic context.
+
+Discovery
+In canonical notch signaling, ligand proteins bind to the extracellular domain of the notch receptor and induce the cleavage and release of the intracellular domain into the cytoplasm. This subsequently interacts with other proteins, enters the nucleus, and regulates gene expression.In 2006, a non-canonical branch of the notch signaling pathway was discovered. Using cultures of mouse neural stem cells, notch activation was shown to lead to the phosphorylation of several kinases (PI3K, Akt, mTOR) and subsequent phosphorylation of the serine residue of STAT3 in the absence of any detectable phosphorylation of the tyrosine residue of STAT3, a modification that is widely studied in the context of cancer biology. Following this event, Hes3 mRNA was elevated within 30 minutes. Subsequently, the consequences of this pathway were studied.
+
+Activators
+Various inputs into this pathway have been identified. Activators include ligands of a number of receptors. Because certain signal transduction pathways oppose the STAT3-Ser/Hes3 signaling axis, blockers (inhibitors) of these signal transduction pathways promote the STAT3-Ser/Hes3 signaling axis and, therefore, also act as activators:
+
+A non-canonical branch of the notch signaling pathway (activated by soluble forms of the notch ligands Delta4 and Jagged1). This has been shown in vitro and in vivo.
+Activation of the Tie2 receptor by the ligand Angiopoietin 2. This has been shown in vitro and in vivo.
+Activation of the insulin receptor by insulin. This has been shown in vitro and in vivo.
+Treatment with an inhibitor of the Janus kinase (JAK). This has been shown in vitro.
+Treatment with an inhibitor of the p38 MAP kinase kinase. This has been shown in vitro.
+Treatment with cholera toxin. This has been shown in vitro. This particular treatment may bypass the STAT3-Ser stage and act more specifically at the level of Hes3 because it has a powerful effect on inducing the nuclear translocation of Hes3.
+
+Cells in which it operates
+The effects of a particular signal transduction pathway can be very different among distinct cell types. For example, the same signal transduction pathway may promote the survival of one cell type but the maturation of another. This depends both on the nature of a cell but also on its particular state which may change over the course of its lifetime. Identifying cell types where a signal transduction pathway is operational is a first step to uncovering potentially new properties of this pathway.
+The STAT3-Ser/Hes3 signaling axis has been shown to operate on various cell types. So far, research has mostly focused on stem cells and cancerous tissue and, more recently, in the function of the endocrine pancreas:
+
+Fetal and adult mouse and rat neural stem cells.Adult monkey (rhesus macaque) neural stem cells.
+Human cancer stem cells from glioblastoma multiforme.
+In a human prostate cancer cell line, STAT3-Ser was shown to promote tumorigenesis independently of STAT3-Tyr.
+Chromaffin progenitor cells of the bovine adrenal medulla.
+Mouse insulinoma cells (MIN6 cell line) and mouse pancreatic islet cells.
+Mouse embryonic fibroblasts (MEF) during reprogramming to the induced pluripotent stem cell state.
+Human embryonic stem cells
+Mouse neural stem cells derived from induced pluripotent stem cells.
+
+Biological consequences
+An individual signal transduction pathway can regulate several proteins (e.g. kinases) as well as the activation of many genes. The consequences to the properties of the cell can be, therefore, very prominent. Identifying these properties (through theoretical predictions and experimentation) sheds light on the function of the pathway and provides possible new therapeutic targets.
+Activation of the notch/STAT3-Ser/Hes3 signaling axis has significant consequences to several cell types; effects have been documented both in vitro and in vivo:
+
+Cultured fetal and adult rodent neural stem cells: Pro-survival effects; increased yield; increased expression of sonic hedgehog protein.
+In vivo adult rodent neural stem cells: Increase in cell number; increased expression of Sonic hedgehog (Shh) protein. Delta4 administration in the adult rodent brain has also been shown to augment the effect of basic fibroblast growth factor and epidermal growth factor in promoting the proliferation of neural precursor cells in the subventricular zone and hypothalamus following ischemic stroke.
+Cultured adult monkey neural stem cells: Pro-survival effects; increased yield; increased expression of sonic hedgehog protein.
+Cultured putative glioblastoma multiforme cancer stem cells: Pro-survival effects (Hes3 knockdown by RNA interference reduces cell number).
+Cultured bovine chromaffin progenitor cells: Several activators of the signaling pathway increase cell yield.
+Cultured mouse insulinoma cells (MIN6 cell line): These cells can be cultured efficiently under conditions that promote the operation of the signaling pathway; Hes3 RNA interference opposes growth and the release of insulin following standard protocols that evoke insulin release from these cells.
+Mice that are engineered to lack the Hes3 gene exhibit increased sensitivity to treatments that damage endocrine pancreas cells.
+Recent research implicates Hes3 in direct reprogramming of adult mouse cells to the neural stem cell state; a causative relation remains to be determined.
+Hes3 and components of the Signaling Axis are regulated during critical stages of reprogramming (Mouse Embryonic Fibroblast - to - Embryonic Stem Cell reprogramming).
+Mice genetically engineered to lack the Hes3 gene fail to upregulate the transcription factor Neurogenin3 during pancreatic regeneration (induced by streptozotocin treatment). This is indicative of a compromised regenerative response.
+
+Role in the adult brain
+As stated above, the STAT3-Ser/Hes3 signaling axis regulates the number of neural stem cells (as well as other cell types) in culture. This prompted experiments to determine if the same pathway can also regulate the number of naturally resident (endogenous) neural stem cells in the adult rodent brain. If so, this would generate a new experimental approach to study the effects of increasing the number of endogenous neural stem cells (eNSCs). For example, would this lead to the replacement of lost cells by newly generated cells from eNSCs? Or, could this lead to the rescue of damaged neurons in models of neurodegenerative disease, since eNSCs are known to produce factors that can protect injured neurons?Various treatments that input into the STAT3-Ser/Hes3 signaling axis (Delta4, Angiopoietin 2, insulin, or a combined treatment consisting of all three factors and an inhibitor of JAK) induce the increase in numbers of endogenous neural stem cells as well as behavioral recovery in models of neurodegenerative disease. Several pieces of evidence suggest that in the adult brain, pharmacological activation of the STAT3-Ser/Hes3 signaling axis protects compromised neurons through increased neurotrophic support provided by activated neural stem cells / neural precursor cells, which can be identified by their expression of Hes3:
+
+These treatments increase the number of Hes3+ cells by several-fold.
+Hes3+ cells can be isolated and placed in culture where they exhibit stem cell properties.
+In culture and in vivo, Hes3+ cells express Shh, which supports the survival of certain neurons [Hes3+ cells may also express other pro-survival factors, yet unidentified].
+The distribution of Hes3+ cells in the adult brain is widespread and can be found in close physical proximity to different types of neurons.
+Diverse treatments that converge to the STAT3-Ser/Hes3 signaling axis exert similar effects in the normal brain (increase in the number of Hes3+ cells) and in the compromised brain (increase in the number of Hes3+ cells, oppose neuronal death, and improve behavioral state).
+Macrophage migration inhibitory factor stimulates this signaling pathway and promotes the survival of neural stem cells.
+Mice genetically engineered to lack the Hes3 gene exhibit differences in the amount of myelin basic protein (a protein expressed on myelinating oligodendrocytes), relative to normal mice; Hes3-lacking mice also exhibit a different regulation of this protein after oligodendrocyte damage induced by the chemical cuprizone.
+
+Implications to disease
+The emerging understanding of the role of eNSCs in the adult mammalian brain suggested the relevance of these cells to disease. To address this issue, experiments were performed where the activation of eNSCs was induced in models of disease. This allowed the study of the consequences of activating eNSCs in the diseased brain. Several lines of evidence implicate the STAT3-Ser/Hes3 signaling axis in various diseases:
+
+Activation of the signaling pathway by Delta4 in combination with basic fibroblast growth factor (bFGF) induces motor and sensory skill improvements in adult rat models of ischemic stroke (PMCAO model).
+This signaling pathway may mediate pro-survival functions of macrophage migration inhibitory factor on neural stem cells.
+Activation of the signaling pathway by Delta4, Angiopoietin 2, insulin, or a combination of the three and a JAK inhibitor induces motor skill improvements in adult rat models of Parkinson's disease (6-hydroxydopamine model).
+RNA interference (“knockdown”) of Hes3 in cultures of cells with cancer stem cell properties from patients with glioblastoma multiforme reduces cell number.
+Mice lacking Hes3 exhibit increased sensitivity to particular paradigms of pancreatic islet damage, suggesting roles in diabetes.
+
+Tissue cytoarchitecture
+In tissues, many different cell types interact with one another. In the brain, for example, neurons, astrocytes, and oligodendrocytes (specialized cells of the neural tissue, each with specific functions) interact with one another as well as with cells that comprise blood vessels. All these different cell types may interact with all others by the production of ligands that may activate receptors on the cell surface of other cell types. Understanding the way these different cell types interact with one another will allow to predict ways of activating eNSCs. For example, because eNSCs are found in close proximity with blood vessels, it has been hypothesized that signals (e.g., ligands) from cells comprising the blood vessel act on receptors found on the cell surface of eNSCs.
+Endogenous neural stem cells are often in close physical proximity to blood vessels. Signals from blood vessels regulate their interaction with stem cells and contribute to the cytoarchitecture of the tissue. The STAT3-Ser/Hes3 signaling axis operating in Hes3+ cells is a convergence point for several of these signals (e.g. Delta4, Angiopoietin 2). Hes3, in turn, by regulating the expression of Shh and potentially other factors, can also exert an effect on blood vessels and other cells comprising their microenvironment.
+
+References
+External links
+Innate Repair Laboratory
+National Institutes of Health - Stem Cell Information
+Volkswagen Stiftung Symposium, 2014: DiSCUSS - Cancer Stem Cells Meeting
+Volkswagen Stiftung Symposium, 2011: DiSCUSS Meeting

@@ -1,0 +1,340 @@
+A liver support system or diachysis is a type of therapeutic device to assist in performing the functions of the liver. Such systems focus either on removing the accumulating toxins (liver dialysis), or providing additional replacement of the metabolic functions of the liver through the inclusion of hepatocytes to the device (bioartificial liver device). This system is in trial to help people with acute liver failure (ALF) or acute-on-chronic liver failure.The primary functions of the liver include removing toxic substances from the blood, manufacturing blood proteins, storing energy in the form of glycogen, and secreting bile. The hepatocytes that perform these tasks can be killed or impaired by disease, resulting in acute liver failure (ALF) which can be seen in person with previously diseased liver or a healthy one.
+
+Etymology
+The word diachysis derives from the Greek word, διάχυσησ, which means "Diffusion"
+The word dialysis derives from the Greek word, διάλυσις, which means "Dissolution"
+
+Liver failure
+In hyperacute and acute liver failure, the clinical picture develops rapidly with progressive encephalopathy and multiorgan dysfunction such as hyperdynamic circulation, coagulopathy, acute kidney injury and respiratory insufficiency, severe metabolic alterations, and cerebral edema that can lead to brain death. In these cases the mortality without liver transplantation (LTx) ranges between 40-80%. LTx is the only effective treatment for these patients although it requires a precise indication and timing to achieve good results. Nevertheless, due to the scarcity of organs to carry out liver transplantations, it is estimated that one third of patients with ALF die while waiting to be transplanted.On the other hand, a patient with a chronic hepatic disease can suffer acute decompensation of liver function following a precipitating event such as variceal bleeding, sepsis and excessive alcohol intake among others that can lead to a condition referred to as acute-on-chronic liver failure (ACLF).
+Both types of hepatic insufficiency, ALF and ACLF, can potentially be reversible and liver functionality can return to a level similar to that prior to the insult or precipitating event.
+LTx has shown an improvement in the prognosis and survival with severe cases of ALF. Nevertheless, cost and donor scarcity have prompted researchers to look for new supportive treatments that can act as “bridge” to the transplant procedure. By stabilizing the patient's clinical state, or by creating the right conditions that could allow the recovery of native liver functions, both detoxification and synthesis can improve, after an episode of ALF or ACLF.Three different types of supportive therapies have been developed: bio-artificial, artificial and hybrid liver support systems (Table 2).
+
+Bioartificial liver devices
+Bioartificial liver devices are experimental extracorporeal devices that use living cell lines to provide detoxification and synthesis support to the failing liver. Bio-artificial liver (BAL) Hepatassist 2000 uses porcine hepatocytes whereas ELAD system employs hepatocytes derived from human hepatoblastoma C3A cell lines. Both techniques can produce, in fulminant hepatic failure (FHF), an improvement of hepatic encephalopathy grade and biochemical parameters. Potential side effects that have been documented include immunological issues (porcine endogenous retrovirus transmission), infectious complications, and tumor transmigration.
+Other biological hepatic systems are Bioartificial Liver Support (BLSS) and Radial Flow Bioreactor (RFB). Detoxification capacity of these systems is poor and therefore they must be used combined with other systems to mitigate this deficiency. Today, its use is limited to centers with high experience in their application.A bioartificial liver device (BAL) is an artificial extracorporeal liver support (ELS) system for an individual who is suffering from acute liver failure (ALF) or acute-on-chronic liver failure (ACLF). The fundamental difference between artificial and BAL systems lies in the inclusion of hepatocytes into the reactor, often operating alongside the purification circuits used in artificial ELS systems. The overall design varies between different BAL systems, but they largely follow the same basic structure, with patient blood or plasma flow through an artificial matrix housing hepatocytes. Plasma is often separated from the patient’s blood to improve efficiency of the system, and the device can be connected to artificial liver dialysis devices in order to further increase the effectiveness of the device in filtration of toxins. The inclusion of functioning hepatocytes in the reactor allows the restoration of some of the synthetic functions that the patient’s liver is lacking.
+
+History
+Early history
+The first bioartificial liver device was developed in 1993 by Dr. Achilles A. Demetriou at Cedars-Sinai Medical Center. The bioartificial liver helped an 18-year-old southern California woman survive without her own liver for 14 hours until she received a human liver using a 20-inch-long, 4-inch-wide plastic cylinder filled with cellulose fibers and pig liver cells. Blood was routed outside the patient's body and through the artificial liver before being returned to the body.Dr. Kenneth Matsumara's work on the BAL led it to be named an invention of the year by Time magazine in 2001. Liver cells obtained from an animal were used instead of developing a piece of equipment for each function of the liver. The structure and function of the first device also resembles that of today's BALs. Animal liver cells are suspended in a solution and a patient's blood is processed by a semipermeable membrane that allow toxins and blood proteins to pass but restricts an immunological response.
+
+Development
+Advancements in bioengineering techniques in the decade after Matsumara's work have led to improved membranes and hepatocyte attachment systems. Cell sources now include primary porcine hepatocytes, primary human hepatocytes, human hepatoblastoma (C3A), immortalized human cell lines and stem cells.
+
+Use
+The purpose of BAL-type devices is not to permanently replace liver functions, but to serve as a supportive device, either allowing the liver to regenerate properly upon acute liver failure, or to bridge the individual's liver functions until a transplant is possible.
+
+Function
+BALs are essentially bioreactors, with embedded hepatocytes (liver cells) that perform the functions of a normal liver. They process oxygenated blood plasma, which is separated from the other blood constituents. Several types of BALs are being developed, including hollow fiber systems and flat membrane sheet systems.Various types of hepatocytes are used in these devices. Porcine hepatocytes are often used due to ease of acquisition and cost; however, they are relatively unstable and carry the risk of cross-species disease transmission. Primary human hepatocytes sourced from donor organs present several problems in their cost and difficulty to obtain, especially with the current lack in transplantable tissue. In addition, questions have been raised about tissue collected from patients transmitting malignancy or infection via the BAL device. Several lines of human hepatocytes are also used in BAL devices, including C3A and HepG2 tumour cell lines, but due to their origin from hepatomas, they possess the potential to pass on malignancy to the patient. There is ongoing research into the cultivation of new types of human hepatocytes capable of improved longevity and efficacy in a bioreactor over currently used cell types, that do not pose the risk of transfer of malignancy or infection, such as the HepZ cell line created by Werner et al..
+
+Hollow fibre systems
+Similar to kidney dialysis, hollow fiber systems employ a hollow fiber cartridge. Hepatocytes are suspended in a gel solution such as collagen, which is injected into a series of hollow fibers. In the case of collagen, the suspension is then gelled within the fibers, usually by a temperature change. The hepatocytes then contract the gel by their attachment to the collagen matrix, reducing the volume of the suspension and creating a flow space within the fibers. Nutrient media is circulated through the fibers to sustain the cells. During use, plasma is removed from the patients blood. The patient's plasma is fed into the space surrounding the fibers. The fibers, which are composed of a semi-permeable membrane, facilitate transfer of toxins, nutrients and other chemicals between the blood and the suspended cells. The membrane also keeps immune bodies, such as immunoglobulins, from passing to the cells to prevent an immune system rejection.
+
+Cryogel-Based Systems
+Currently, hollow-fibre bioreactors are the most commonly accepted design for clinical use due to their capillary-network allowing for easy perfusion of plasma across cell populations. However, these structures have their limitations, with convectional transport issues, nutritional gradients, non-uniform seeding, inefficient immobilisation of cells, and reduced hepatocyte growth restricting their effectiveness in BAL designs. Researchers are now investigating the use of cryogels to replace hollow-fibres as the cell carrier components in BAL systems.
+Cryogels are super-macroporous three-dimensional polymers prepared at sub-zero temperatures, by the freezing of a solution of cryogel precursors and solvent. The pores develop during this freezing process – as the cryogel solution cools, the solvent begins to form crystals. This causes the concentration of the cryogel precursors in the solution to increase, initiating the cryogelation process and forming the polymer walls. As the cryogel warms, the solvent crystals thaw, leaving cavities that form the pores. Cryogel pores range in size from 10-100 µm in size, forming an interconnected network that mimics a capillary system with a very large surface area to volume ratio, supporting large numbers of immobilised cells. Convection mediated transport is also supported by cryogels, enabling even distribution of nutrients and metabolite elimination, overcoming some of the shortcomings of hollow-fibre systems. Cryogel scaffolds demonstrate good mechanical strength and biocompatibility without triggering an immune response, improving their potential for long-term inclusion in BAL devices or in-vitro use. Another advantage of cryogels is their flexibility for use in a variety of tasks, including separation and purification of substances, along with acting as extracellular matrix for cell growth and proliferation. Immobilisation of specific ligands onto cryogels enables adsorption of specific substances, supporting their use as treatment options for toxins, for separation of haemoglobin from blood, and as a localised and sustained method for drug delivery.Jain et al. investigated poly(AN-co-NVP) and poly(NiPAAm)-chitosan cryogels as hepatocyte carriers in a BAL system.  They found that cell-seeded bioreactors had reduced the levels of bilirubin and ammonia in the plasma (by 58.9 ± 6.7% and 61.2 ± 7%, respectively) and increased the level of albumin by 31.1 ± 28% compared to the control group. This demonstrated that the HepG2 cells in the bioreactor were able to carry out detoxifying and synthetic functions of normal liver cells. However, after 3 hours of plasma circulation, hepatocyte function deteriorated rapidly. This was likely due to the toxic effect of ACLF plasma on hepatocytes, or nutrient and oxygen depletion.
+Damania et al. took this system a step further, utilising HepG2 seeded poly(NiPAAm)-chitosan cryogels in a bioreactor, along with an activated charcoal cloth used as a filter. As seen with the artificial BAL devices, activated charcoal is useful in the filtration of liver toxins, including ammonia and bilirubin. The researchers then incorporated the bioreactor into a rat model, connecting rats with induced liver failure to the system and passing their blood across a plasma-separation membrane, with the plasma running through the seeded cryogel and charcoal filter. They compared results against rats with induced liver failure who were not connected to a bioreactor. Measuring levels of ammonia, urea, bilirubin, albumin, and AST over a 3-hour time period, they found a reduction in bilirubin, AST, and urea levels and an increase in albumin levels, suggesting the bioreactor is functioning in its removal of toxins and synthesis of new proteins. In addition, they ran the same experiment using an acellular bioreactor, and found that bilirubin and AST decreased over time, but to a lesser degree than the seeded bioreactor, showing that the detoxification results of the seeded reactor were due to a combination of both the HepG2 cells, and the activated charcoal cloth. However, in the cell-seeded reactor there was an increase in the levels of ammonia, which the researchers stated could be attributed to these toxins having a detrimental effect on the cells over time, reducing their function.
+
+Clinical Studies
+There have been numerous clinical studies involving hollow-fibre bioreactors. Overall, they show promise but do not provide statistically significant evidence supporting their effectiveness. This is generally due to inherent design limitations, causing convectional transport issues, nutritional gradients, non-uniform seeding, inefficient immobilisation of cells, and reduced hepatocyte growth. As of writing, no cryogel-based devices have entered clinical trials. However, laboratory results have been promising, and hopefully trials will begin soon.
+
+HepatAssist
+The HepatAssist, developed at the Cedars-Sinai Medical Center, is a BAL device containing porcine hepatocytes within a hollow-fibre bioreactor. These semi-permeable fibres act as capillaries, allowing the perfusion of plasma through the device, and across the hepatocytes surrounding the fibres. The system incorporates a charcoal column to act as a filter, removing additional toxins from the plasma.Demetriou et al. carried out a large, randomised, multicentre, controlled trial on the safety and efficacy of the HepatAssist device. 171 patients with ALF stemming from viral hepatitis, paracetamol overdose or other drug complications, primary non-function (PNF), or of indeterminate aetiology, were involved in the study and were randomly assigned to either the experimental or control groups. The study found that at the primary end-point 30-day post admission mark, there was an increased survival rate in BAL patients over control patients (71% vs 62%), but the difference was not significant. However, when patients with PNF are excluded from the results there is a 44% reduction in mortality for BAL treated patients, a statistically significant advantage. The investigators noted that exclusion of PNF patients is justifiable due to early retransplantation and lack of intercranial hypertension, so HepatAssist would give little benefit to this group. For the secondary end-point of time-to-death, in patients with ALF of known aetiology there was a significant difference between BAL and control groups, with BAL patients surviving for longer. There was no significant difference for patients of unknown aetiology, however.
+The conclusions of the study suggest that such a device has potentially significant importance when used as a treatment measure. While the overall findings were not statistically significant, when the aetiology of the patients was taken into account the BAL group gained a statistically significant reduction in mortality over the control group. This suggests that while the device may not be applicable to patients as an overall treatment for liver dysfunction, it can provide an advantage when the heterogeneity of patients is considered and is used with patients of specific aetiology.
+
+Extracorporeal Liver Assist Device
+The Extracorporeal Liver Assist Device (ELAD) is a human-cell based treatment system. A catheter removes blood from the patient, and an ultrafiltrate generator separates the plasma from the rest of the blood. This plasma is then run through a separate circuit containing cartridges filled with C3A cells, before being returned to the main circuit and re-entering the patient.Thompson et al. performed a large open-label trial, measuring the effectiveness of ELAD on patients with severe alcoholic hepatitis resulting in ACLF. Their study involved patients screened at 40 sites across the US, UK, and Australia, and enrolled a total of 203 patients. Patients were then randomised into either ELAD (n=96) or standard medical care (n=107) groups, with even distribution for patients in terms of sex, MELD score, and bilirubin levels. Of the 96 patients in the ELAD group, 45 completed the full 120 hours of treatment – the rest were unable to complete the full regimen due to a variety of reasons, including withdrawal of consent or severe adverse events, though 37 completed >72 hours of treatment, with results showing minimal difference in mortality between those receiving either >72 hours or the full 120 hours of treatment. The study was unable to complete its goal, finding no statistically significant improvement in mortality rates for patients that received ELAD treatment over those receiving standard care at 28 and 91 days (76.0% versus 80.4% and 59.4% versus 61.7%, respectively). Biomarker measurements showed a significantly reduced level of bilirubin and alkaline phosphatase in ELAD patients, though neither improvement translated into increased survivability rates. Outcomes for patients with MELD score <28 showed trends towards improved survival on ELAD, whereas those with MELD >28 had decreased survivability on ELAD. These patients presented with raised creatinine from kidney failure, suggesting a reason why ELAD decreased survival chance over standard care. Unlike artificial ELS devices and HepatAssist, ELAD does not incorporate any filtration devices, such as charcoal columns and exchange resins. Therefore, it cannot replace the filtration capability of the kidneys and cannot compensate for multi-organ failure from more severe presentations of ACLF, resulting in increased mortality rates.
+While the results of the study cannot provide conclusive evidence to suggest that a BAL device like ELAD improves the outcome of severe ACLF, it does suggest that it can aid the survival of patients with a less severe form of the disease. In those patients with a MELD <28, beneficial effects were seen 2–3 weeks post treatment, suggesting that while C3A incorporating BAL devices are unable to provide short-term aid like artificial albumin filtration devices, they instead provide more long-term aid in recovery of the patient’s liver.A randomized, phase 3 trial of the ELAD device in patients with severe alcoholic hepatitis failed to show benefit on overall survival and development was discontinued.
+
+Liver dialysis
+Artificial liver support systems are aimed to temporarily replace native liver detoxification functions and they use albumin as scavenger molecule to clear the toxins involved in the physiopathology of the failing liver. Most of the toxins that accumulate in the plasma of patients with liver insufficiency are protein bound, and therefore conventional renal dialysis techniques, such as hemofiltration, hemodialysis or hemodiafiltration are not able to adequately eliminate them.
+Liver dialysis has shown promise for patients with hepatorenal syndrome. It is similar to hemodialysis and based on the same principles, but hemodialysis does not remove toxins bound to albumin that accumulate in liver failure. Like a bioartificial liver device, it is a form of artificial extracorporeal liver support.A critical issue of the clinical syndrome in liver failure is the accumulation of toxins not cleared by the failing liver. Based on this hypothesis, the removal of lipophilic, albumin-bound substances such as bilirubin, bile acids, metabolites of aromatic amino acids, medium-chain fatty acids and cytokines should be beneficial to the clinical course of a patient in liver failure. This led to the development of artificial filtration and absorption devices.
+Liver dialysis is performed by physicians and surgeons and specialized nurses with training in gastroenterological medicine and surgery, namely, in hepatology, alongside their colleagues in the intensive or critical care unit and the transplantation department, which is responsible for procuring and implanting a new liver, or a part (lobe) of one, if and when it becomes available in time and the patient is eligible. Because of the need for these experts, as well as the relative newness of the procedure in certain areas, it is usually available only in larger hospitals, such as level I trauma center teaching hospitals connected with medical schools.
+Between the different albumin dialysis modalities, single pass albumin dialysis (SPAD) has shown some positive results at a very high cost; it has been proposed that lowering the concentration of albumin in the dialysate does not seem to affect the detoxification capability of the procedure. Nevertheless, the most widely used systems today are based on hemodialysis and adsorption. These systems use conventional dialysis methods with an albumin containing dialysate that is later regenerated by means of adsorption columns, filled with activated charcoal and ion exchange resins.
+At present, there are two artificial extracorporeal liver support systems: the Molecular Adsorbents Recirculating System (MARS) from Gambro and Fractionated Plasma Separation and Adsorption (FPSA), commercialised as Prometheus (PROM) from Fresenius Medical Care. Of the two therapies, MARS is the most frequently studied, and clinically used system to date.
+
+Prognosis/survival
+While the technique is in its infancy, the prognosis of patients with liver failure remains guarded. Liver dialysis is currently only considered to be a bridge to transplantation or liver regeneration (in the case of acute liver failure) and, unlike kidney dialysis (for kidney failure), cannot support a patient for an extended period of time (months to years).
+
+Devices
+Artificial detoxification devices currently under clinical evaluation include the Single Pass Albumin Dialysis (SPAD), Molecular Adsorbent Recirculating System (MARS)®, Prometheus system, and Dialive.
+
+Single Pass Albumin Dialysis (SPAD)
+Single pass albumin dialysis (SPAD) is a simple method of albumin dialysis using standard renal replacement therapy machines without an additional perfusion pump system: The patient's blood flows through a circuit with a high-flux hollow fiber hemodiafilter, identical to that used in the MARS system. The other side of this membrane is cleansed with an albumin solution in counter-directional flow, which is discarded after passing the filter. Hemodialysis can be performed in the first circuit via the same high-flux hollow fibers.
+
+Molecular adsorbents recirculation system
+The Molecular Adsorbents Recirculation System (MARS) is the best known extracorporal liver dialysis system. It consists of two separate dialysis circuits. The first circuit consists of human serum albumin, is in contact with the patient's blood through a semipermeable membrane and has two filters to clean the albumin after it has absorbed toxins from the patient's blood. The second circuit consists of a hemodialysis machine and is used to clean the albumin in the first circuit, before it is recirculated to the semipermeable membrane in contact with the patient's blood.
+
+Comparing SPAD, MARS and CVVHDF
+SPAD, MARS and continuous veno-venous haemodiafiltration (CVVHDF) were compared in vitro with regard to detoxification capacity. SPAD and CVVHDF showed a significantly greater reduction of ammonia compared with MARS. No significant differences could be observed between SPAD, MARS and CVVHDF concerning other water-soluble substances. However, SPAD enabled a significantly greater bilirubin reduction than MARS. Bilirubin serves as an important marker substance for albumin-bound (non-water-soluble) substances. Concerning the reduction of bile acids no significant differences between SPAD and MARS were seen. It was concluded that the detoxification capacity of SPAD is similar or even higher when compared with the more sophisticated, more complex and hence more expensive MARS.
+Albumin dialysis is a costly procedure: for a seven-hour treatment with MARS, approximately €300 for 600 mL human serum albumin solution (20%), €1740 for a MARS treatment kit, and €125 for disposables used by the dialysis machine have to be spent. The cost of this therapy adds up to approximately €2165. Performing SPAD according to the protocol by Sauer et al., however, requires 1000 mL of human albumin solution (20%) at a cost of €500. A high-flux dialyzer costing approximately €40 and the tubings (€125) must also be purchased. The overall costs of a SPAD treatment is approximately €656—30% of the costs of an equally efficient MARS therapy session. The expenditure for the MARS monitor necessary to operate the MARS disposables is not included in this calculation.
+
+Prometheus
+The Prometheus system (Fresenius Medical Care, Bad Homburg, Germany) is a device based on the combination of albumin adsorption with high-flux hemodialysis after selective filtration of the albumin fraction through a specific polysulfon filter (AlbuFlow). It has been studied in a group of eleven patients with hepatorenal syndrome (acute-on-chronic liver failure and accompanying kidney failure). The treatment for two consecutive days for more than four hours significantly improved serum levels of conjugated bilirubin, bile acids, ammonia, cholinesterase, creatinine, urea and blood pH. Prometheus was proven to be a safe supportive therapy for patients with liver failure.
+
+Dialive
+Dialive (Yaqrit Limited, London, UK) incorporates albumin removal and replacement and, endotoxin removal. It is at "Technology readiness level" (TRL) 5, which means it is validated in the disease environment.
+
+The MARS System
+MARS was developed by a group of researchers at the University of Rostock (Germany), in 1993 and later commercialized for its clinical use in 1999. The system is able to replace the detoxification function of the liver while minimizing the inconvenience and drawbacks of previously used devices.In vivo preliminary investigations indicated the ability of the system to effectively remove bilirubin, biliary salts, free fatty acids and tryptophan while important physiological proteins such as albumin, alpha-1-glicoproteine, alpha 1 antitrypsin, alpha-2-macroglobulin, transferrin, globulin tyrosine, and hormonal systems are unaffected. Also, MARS therapy in conjunction with CRRT/HDF can help clear cytokines acting as inflammatory and immunological mediators in hepatocellular damage, and therefore can create the right environment to favour hepatocellular regeneration and recovery of native liver function.
+
+MARS System Components
+MARS is an extracorporeal hemodialysis system composed of three different circuits: blood, albumin and low-flux dialysis. The blood circuit uses a double lumen catheter and a conventional hemodialysis device to pump the patient's blood into the MARS FLUX, a biocompatible polysulfone high-flux dialyser. With a membrane surface area of 2.1 m2, 100 nm of thickness and a cut-off of 50 KDa, the MARSFLUX is essential to retaining the albumin in the dialysate. Blood is dialysed against a human serum albumin (HSA) dialysate solution that allows blood detoxification of both water-soluble and protein-bound toxins, by means of the presence of albumin in the dialysate (albumin dialysis). The albumin dialysate is then regenerated in a close loop in the MARS circuit by passing through the fibres of the low-flux diaFLUX filter, to clear water-soluble toxins and provide electrolyte/acid-base balance, by a standard dialysis fluid. Next, the albumin dialysate passes through two different adsorption columns; protein-bound substances are removed by the diaMARS AC250, containing activated charcoal and anionic substances are removed by the diaMARS IE250, filled with cholestyramine, an anion-exchange resin. The albumin solution is then ready to initiate another detoxifying cycle of the patient's blood that can be sustained until both adsorption columns are saturated, eliminating the need to continuously infuse albumin into the system during treatment (Fig. 1).
+
+Results published in the literature with the MARS system
+A systematic review of the literature from 1999 to June 2011 was performed in the following databases:
+
+Specialized in systematic reviews: Cochrane Library Plus and NHS Centre database for Reviews and Dissemination (HTA, DARE and NHSEED).
+General databases: Medline, Pubmed and Embase.
+On-going clinical trials and research project databases: Clinical Trials Registry (National Institutes of Health, EE.UU.) and Health Services Research Projects in Progress.
+General web searching engines: Scholar Google.
+
+Effects of MARS treatment on Hepatic Encephalopathy (HE)
+Hepatic encephalopathy (HE) represents one of the more serious extrahepatic complications associated with liver dysfunction. Neuro-psychiatric manifestations of HE affect consciousness and behaviour.
+Evidence suggests that HE develops as some neurotoxins and neuro active substances, produced after hepatocellular breakdown, accumulates in the brain as a consequence of a portosystemic shunt and the limited detoxification capability of the liver. Substances involved are ammonia, manganese, aromatic aminoacids, mercaptans, phenols, medium chain fatty acids, bilirubin, endogenous benzodiazepines, etc.
+The relationship between ammonia neurotoxicity and HE was first described in animal studies by Pavlov et al.
+Subsequently, several studies in either animals or humans have confirmed that, a ratio in ammonia concentration higher than 2 mM between the brain and blood stream, causes HE, and even a comatose state when the value is greater than 5 mM. Some investigators have also reported a decrease in serum ammonia following a MARS treatment (Table 3).
+
+Manganese and copper serum levels are increased in patients with either acute or acute on chronic liver failure. Nevertheless, only in those patients with chronic hepatic dysfunction, a bilateral magnetic resonance alteration on Globos Pallidus is observed, probably because this type of patients selectively shows higher cerebral membrane permeability.
+Imbalance between aromatic and branched chain aminoacids (Fischer index), traditionally involved in HE genesis, can be normalized following a MARS treatment. The effects are noticeable even after 3 hours of treatment and this reduction in the Fisher index is accompanied with an improvement in the HE.Novelli G et al. published their three years experience on MARS analyzing the impact of the treatment in the cerebral level for 63 patients reporting an improvement in Glasgow Coma Score (GCS) for all observed in all patients. In the last 22 patients, cerebral perfusion pressure was monitored by Doppler (mean flow velocity in middle cerebral artery), establishing a clear relationship between a clinical improvement (especially neurological) and an improvement in arterial cerebral perfusion. This study confirms other results showing similar increments in cerebral perfusion in patients treated with MARS.More recently, several studies have shown a significant improvement of HE in patients treated with MARS. In the studies by Heemann et al. and Sen et al. an improvement in HE was considered when encephalopathy grade was reduced by one or more grades vs. basal values; for Hassenein et al., in their randomized controlled trial, improvement was considered when a decrease of two grades was observed. In the latter, 70 patients with acute on chronic liver failure and encephalopathy grade III and IV were included. Likewise, Kramer et al. estimated an HE improvement when an improvement in peak N70 latency in electroencephalograms was observed.
+Sen et al.44 observed a significant reduction in Child-Pugh Score (p<0,01) at 7 days following a MARS treatment, without any significant change in the controls. Nevertheless, when they looked at the Model for End-Stage Liver Disease Score (MELD), a significant reduction in both groups, MARS and controls, was recorded (p<0,01 y p<0,05, respectively).
+Likewise, in several case series, an improvement in HE grade with MARS therapy is also reported.
+
+Effects of MARS Treatment on Unstable Hemodynamics
+Hemodynamic instability is often associated with acute liver insufficiency, as a consequence of endogenous accumulation of vasoactive agents in the blood. This is characterized by a systemic vasodilatation, a decrease of systemic vascular resistance, arterial hypotension, and an increase of cardiac output that gives rise to a hyperdynamic circulation.
+During MARS therapy, systemic vascular resistance index and mean arterial pressure have been shown to increase and show improvement.
+Schmidt et al. reported the treatment of 8 patients, diagnosed with acute hepatic failure, that were treated with MARS for 6 hours, and were compared with a control group of 5 patients to whom ice pads were applied to match the heat loss produced in the treatment group during the extracorporeal therapy. They analyzed hemodynamic parameters in both groups hourly. In the MARS group, a statistically significant increase of 46% on systemic vascular resistance was observed (1215 ± 437 to 1778 ± 710 dinas x s x cm−5 x m−2) compared with a 6% increase in the controls. Mean arterial pressure also increased (69 ± 5 to 83 ± 11 mmHg, p< 0.0001) in the MARS group, whereas no difference was observed in the controls. Cardiac output and heart rate also decreased in the MARS group as a consequence of an improvement in the hyperdynamic circulation. Therefore, it was shown that a statistically significant improvement was obtained with MARS when compared with the SMT.
+Catalina et al. have also evaluated systemic and hepatic hemodynamic changes produced by MARS therapy. In 4 patients with acute decompensation of chronic liver disease, they observed after MARS therapy, an attenuation of hyperdynamic circulation and a reduction in the portal pressure gradient was measured. Results are summarized in table 4.
+
+There are other studies also worth mentioning with similar results: Heemann et al. and Parés et al. among others. Dethloff T et al. concluded that there is a statistically significant improvement favourable to MARS in comparison with Prometheus system (Table 5).
+
+Effects of MARS Treatment on Renal Function
+Hepatorenal syndrome is one of the more serious complications in patients with acute decompensation of cirrhosis and increased portal hypertension. It is characterized by hemodynamic changes in splanchnic, systemic and renal circulation. Splanchnic vasodilatation triggers the production of endogenous vasoactive substances that produce renal vasoconstriction and low glomerular filtration rate, leading to oliguria with a concomitant reduction in creatinine clearance. Renal insufficiency is always progressive with an inferior prognosis, with survival at 1 and 2 months of 20 and 10% respectively.
+Pierre Versin is one of the pioneers in the study of hepatorenal syndrome in patients with liver impairment.
+Great efforts have been made trying to improve the prognosis of this type of patient; however, few have solved the problem. Orthotopic liver transplantation is the only treatment that has shown to improve acute and chronic complications derived from severe liver insufficiency. Today it is possible to combine albumin dialysis with continuous veno-venous hemodialfiltration, which provides a greater expectation for these patients by optimization of their clinical status.
+MARS treatment lowers serum urea and creatinine levels improving their clearance, and even favors resolution of hepatorenal syndrome. Results are confirmed in a randomized controlled trial published by Mitzner et al.. in which 13 patients diagnosed with hepatorenal syndrome type I was treated with MARS therapy. Mean survival was 25,2±34,6 days in the MARS group compared to 4,6±1,8 days observed in the controls in whom hemodiafiltration and standard care (SMT) was applied. This resulted in a statistically significance difference in survival at 7 and 30 days (p<0.05). Authors concluded that MARS therapy, applied to liver failure patients (Child-Pugh C and UNOS 2A scores) who develop hepatorenal syndrome type I, prolonged survival compared to patients treated with SMT.
+Although mechanisms explaining previous findings are not yet fully understood, it has been reported that there was a decrease in plasma renin concentrations in patients diagnosed with acute on chronic liver failure with renal impairment that were treated with MARS.
+Likewise, other studies have suggested some efficacy for MARS in the treatment of hepatorenal syndrome.
+However, other references have been published that do not show efficacy in the treatment of these types of patients with MARS therapy. Khuroo et al.. published a meta-analysis based on 4 small RCT's and 2 non RCT's in patients diagnosed with ACLF, concluding that MARS therapy would not bring any significant increment in survival compared with SMT.
+Another observational study in 6 patients with cirrhosis, refractory ascites and hepatorenal syndrome type I, not responding to vasoconstrictor therapy, showed no impact on hemodynamics following MARS therapy; however authors concluded that MARS therapy could effectively serve as bridge to liver transplantation.
+
+Effects of MARS Treatment on Biochemical Parameters
+Total bilirubin was the only parameter analyzed in all trials that was always reduced in the groups of patients treated with MARS; Banayosy et al.. measured bilirubin levels 14 days after since MARS therapy was terminated and observed a consistent, significant decrease not only for bilirubin but also for creatinine and urea (Table 6).
+
+Impact of MARS therapy on plasma biliary acids levels was evaluated in 3 studies. In the study from Stadbauer et al.., that was specifically addressing the topic, it is reported that MARS and Prometheus systems lower to the same extent biliary acids plasma concentration. Heemann et al.. and Laleman et al.. have also published a significant improvement for these organic ions.
+
+Effects of MARS Treatment on Pruritus
+Pruritus is one of the most common clinical manifestations in cholestasis liver diseases and one of the most distressing symptoms in patients with chronic liver disease caused by viral hepatitis C. Many hypotheses have been formulated to explain physio pathogenesis of such manifestation, including incremental plasma concentration of biliary acids, abnormalities in the bile ducts, increased central neurotransmitters coupling opioid receptors, etc. Despite the number of historical drugs used, individually or combined (exchange resins, hydrophilic biliary acids, antihistamines, antibiotics, anticonvulsants, opioid antagonists), there are reported cases of intractable or refractory pruritus with a dramatic reduction in patients’ quality of life (i.e. sleep disorders, depression, suicide attempts...). Intractable pruritus can be an indication for liver transplantation.
+The MARS indication for intractable pruritus is therapeutically an option that has shown to be beneficial for patients in desperate cases, although at high cost. In several studies, it was confirmed that after MARS treatments, patients remain free from pruritus for a period of time ranging from 6 to 9 months. Nevertheless, some authors have concluded that besides the good results found in the literature, application of MARS therapy in refractory pruritus requires larger evidence.
+
+Effects of MARS Treatment on Drugs and Poisons clearance
+Pharmacokinetics and pharmacodynamics for a majority of drugs can be significantly be modified with liver failure, affecting the therapeutic approach and potential toxicity of the drugs. In these type of patients, Child-Pugh score represents a poor prognostic factor to assess the metabolic capacity of the failing liver.
+
+Metabolic performance of the liver depends on several factors:
+Hepatic flow rate
+Cytochrome P-450 enzimatic activity
+Albumin affinity for the drug
+Extrahepatic clearance for the drugIn patients with hepatic failure, drugs that are only metabolized in the liver, accumulate in the plasma right after they are administered, and therefore it is needed to modify drug dosing in both, concentration and time intervals, to lower the risk of toxicity. It is also necessary to adjust the dosing for those drugs that are exclusively metabolized by the liver, and have low affinity for prioteins and high distribution volume, such as fluoroquinolones (Levofloxacin and Ciprofloxacin).Extracorporeal detoxification with albumin dialysis increases the clearance of drugs that are bound to plasmatic proteins (Table 7).
+
+Effects of MARS on Survival
+In the meta-analysis published by Khuroo et al.. which included 4 randomized trials an improvement in survival for the patients with liver failure treated with MARS, compared with SMT, was not observed.
+However, neither in the extracorporeal liver support systems review by the Cochrane (published in 2004), nor the meta-analysis by Kjaergard et al.. was a significance difference in survival found for patients diagnosed with ALF treated with extracorporeal liver support systems.
+Nevertheless, these reviews included all kind of liver support systems and used a heterogeneous type of publication (abstracts, clinical trials, cohort, etc.).
+There is literature showing favorable results in survival for patients diagnosed with ALF, and treated with MARS., In a randomized controlled trial, Salibà et al.. studied the impact on survival of MARS therapy for patients with ALF, waiting on the liver transplant list. Forty-nine patients received SMT and 53 were treated with MARS. They observed that patients that received 3 or more MARS sessions showed a statistically significance increase in transplant-free survival compared with the others patients of the study. Notably, 75% of the patients underwent liver transplantation in the first 24 hours after inclusion in the waiting list, and besides the short exposure to MARS therapy, some patients showed a better survival trend compared to controls, when they were treated with MARS prior to the transplant.
+In a case-controlled study by Montejo et al.. it was reported that MARS treatment do not decrease mortality directly; however, the treatment contributed to significantly improve survival in patients that were transplanted. In studies by Mitzner et al.. and Heemann et al.. they were able to show a significance statistical difference in 30-day survival for patients in the MARS group. However, El Banayosy et al.. and Hassanein et al.. noticed a non significant improvement in survival, probably because of the short number of patients included in the trials. In the majority of available MARS studies published with patients diagnosed with ALF, either transplanted or not, survival was greater in the MARS group with some variations according to the type of trial, ranging from 20-30%, and 60-80%. Data is summarized in Tables 8, 9 and 10.
+
+For patients diagnosed with acute on chronic liver failure and treated with MARS therapy, clinical trial results showed a not statistically significant reduction in mortality (odds ratio [OR] =0,78; confident interval [CI] =95%: 0,58 – 1,03; p= 0,1059, Figure 3)
+
+A non-statistically significant reduction of mortality was shown in patients with ALF treated with MARS (OR = 0,75 [CI= 95%, 0,42 – 1,35]; p= 0,3427). (Figure 4)
+
+Combined results yielded a non-significant reduction on mortality in patients treated with MARS therapy. However, the low number of patients included in each of the studies may be responsible for not being able to achieve enough statistical power to show differences between both treatment groups. Moreover, heterogeneity for the number of MARS sessions and severity of liver disease of the patients included, make it very difficult for the evaluation of MARS impact on survival.
+Recently, a meta-analysis on survival in patients treated with an extra-hepatic therapy has been published. Searching strategies yielded 74 clinical trials: 17 randomized controlled trials, 5 case control and 52 cohort studies. Eight studies were included in the meta-analysis: three addressing acute liver failure, one with MARS therapy and five addressing acute on chronic, being four MARS related. Authors concluded that extra-hepatic detoxifying systems improve survival for acute liver insufficiency, whereas results for acute decompensation of chronic liver diseases suggested a non significant survival benefit. Also, due to an increased demand for liver transplantation together with an augmented risk of liver failure following large resections, development of detoxifying extrahepatic systems are necessary.
+
+Safety Aspects
+Safety, defined as presence of adverse events, is evaluated in few trials. Adverse events in patients receiving MARS therapy are similar to those in the controls with the exception of thrombocytopenia and hemorrhage that seems to occur more frequently with the MARS system.Heemann et al. reported two adverse events most probably MARS related: fever and sepsis, presumably originated at the catheter.
+In the study by Hassanein et al., two patients in the MARS group abandoned the study owing to hemodynamic instability, three patients required larger than average platelets transfusion and three more patients presented gastrointestinal bleeding.
+Laleman et al.. detected one patient with thrombocytopenia in both the MARS and Prometheus treatment groups, and an additional patient with clotting of the dialysis circuit and hypotension, only in the Prometheus group.
+Kramer et al.. (Biologic-DT) wrote about 3 cases with disseminated intravascular coagulation in the interventional group, two of them with fatal outcomes.
+Mitzner et al.. described, among patients treated with MARS, a thrombocytopenia case and a second patient with chronic hepatitis B, who underwent TIPS placement on day 44 after randomization and died on day 105 of multiorgan failure, as a consequence of complications related to the TIPS procedure.
+Montejo et al.. showed that MARS is an easy technique, without serious adverse events related to the procedure, and also easy to implement in ICU settings that are used to renal extracorporeal therapies.
+The MARS International Registry, with data from more than 500 patients (although sponsored by the manufacturer), shows that the adverse effects observed are similar to the control group. However, in these severely ill patients it is difficult to distinguish between complications of the disease itself and side effects attributable to the technique.
+
+Health Economics
+Only three Studies addressing cost-effectivenenss of MARS therapy have been found.
+Hassanein et al. analysed costs of randomized patients with ACLF receiving MARS therapy or standard medical care. They used the study published in 2001 by Kim et al. describing the impact of complications in hospitalization costs in patients diagnosed with alcoholic liver failure. Cost of 11 patients treated with standard medical care (SMT) were compared to those that received MARS, in addition to SMT (12 patients). In the MARS group, there was less in-hospital mortality and complications related to the disease, with a remarkable reduction in cost which compensated the MARS related expenditure (Table 11).
+
+There were 5 survivors in the control group, with a cost per patient of $35.904, whereas in the MARS group, 11 patients out of 12 survived with a cost per patient of $32.036 which represents a $4000 savings per patient in favors of the MARS group.
+Hessel et al. published a 3-year follow-up of a cohort of 79 patients with ACLF, of whom 33 received MARS treatments and 46 received SMT. Survival was 67% for the MARS group and 63% for the controls, that was reduced to 58 and 35% respectively at one year follow-up, and then 52 and 17% at three years.
+Hospitalization costs for the MARS treated group were greater than that for the controls (€31,539 vs. €7,543) and similarly direct cost at 3-year follow-up (€8,493 vs. €5,194). Nevertheless, after adjusting mortality rate, the annual cost per patient was €12,092 for controls and €5,827 for MARS group; also in the latter, they found an incremental cost-effectiveness ratio of 31.448 € per life-year gained (LYG) and an incremental costs per QALY gained of 47171 €.
+Two years later, same authors published the results of 149 patients diagnosed with ACLF. There were 67 patients (44,9%) treated with MARS and 82 patients (55,1%) were allocated to receive SMT. Mean survival time was 692 days in the MARS group (33% at 3 years) and 453 days in the controls (15% at 3 years); the results were significant (p=0,022). Differences in average cost was €19,853 (95% IC: 13.308-25.429): 35.639 € for MARS patients and 15.804 € for the control group. Incremental cost per LYG was 29.985 € (95% IC: 9.441-321.761) and €43,040 (95% IC: 13.551-461.856) per quality-adjusted life years (QALY).
+Liver support systems, such as MARS, are very important to stabilize patients with acute or acute on chronic liver failure and avoid organ dysfunction, as well as a bridge-to-transplant. Although initial in-hospital costs are high, they are worth for the favorable outcome.
+
+MARS Therapy Indications
+Acute on Chronic Liver Failure
+Etiology:
+
+Chronic viral hepatitis
+Alcoholic liver disease
+Autoimmune disease
+Metabolic disease such as hemochromatosis
+Idiopathic CirrhosisGoals of MARS Therapy
+
+Re-compensation of previous chronic state.
+Prolong survival time and bridge to urgent or elective transplant
+Pre-transplant optimization of the patientMARS Therapy Indication
+
+Bilirubin > 15 mg/dl (255 μmol/L), not responding to standard medical care alter 3 days
+Renal dysfunction or hepatorenal syndrome.
+Hepatic encephalopathy ≥ IITreatment Schedule:
+
+3 to 5 eight-hour treatment sessions on consecutive days
+Continuous treatment with hemodynamic instability (in any case, treatment kit must be replaced every 24 hours)
+
+Acute Liver failure
+Etiology:
+
+Viral infection
+Poisoning (paracetamol overdose, mushrooms)
+Multiorgan dysfunction (severe sepsis)
+Vascular diseases (Budd Chiari syndrome)
+Hypoxic hepatitis
+Liver failure during pregnancy or Reye syndrome
+Unknown etiologyGoals of MARS Therapy
+
+Native liver recovery.
+Bridging to liver transplant
+Pre-transplant optimization of the patient.MARS Therapy Indication
+
+King's College or Clichy criteria for liver transplantation
+Hepatic encephalopathy ≥ II
+Increased intracraneal pressure
+Acute hypoxic hepatitis with bilirubin > 8 mg/dl (100 μmol/L)
+Renal dysfunction or hepatorenal syndrome
+Progressive intrahepatic cholestasis
+Fulminant Wilson disease
+Acute liver dysfunction following paracetamol overdoseTreatment Schedule:
+
+3 to 5 eight-hour treatment sessions in consecutives days
+Hypoxic hepatitis. 3 eight-hour treatment sessions in consecutives days
+Paracetamol overdose: 3 to 5 twenty four-hour treatment sessions
+Mushroom poisoning: 3 to 5 twenty four-hour treatment sessions
+Fulminant Wilson: minimum 5 twenty four-hour treatment sessions owing to copper saturation of the treatment kit
+Drug overdose: 3 to 5 eight-hour treatment sessions in consecutives days
+
+MARS in Graft Dysfucntion After Liver Transplant
+Etiology:
+
+Graft damage during preparation and transportation
+Infection
+Hepatotoxic drugs
+Graft rejection
+Technical complications (vascular, biliary)
+Recurrence of primary diseaseGoals of MARS Therapy
+
+Recovery and prevention of re-transplantation
+• Prolong survival time and stabilize the patient to receive a re-transplant if the above goal is not achievedMARS Therapy Indication
+
+Primary graft dysfunction
+Hepatic encephalopathy ≥ II
+Increased intracranial pressure
+Renal dysfunction or hepatorenal syndrome.
+Progressive intrahepatic cholestasisTreatment Schedule:
+
+3 to 5 eight-hour treatment sessions on consecutive days
+Continuous treatment with hemodynamic instability (in any case, treatment kit must be replaced every 24 hours)
+
+MARS in liver Failure after Liver Surgery
+Etiology:
+
+Liver Resection in hepatocellular carcinoma
+Transarterial Chemoembolization (TACE)
+Partial resection in living donor transplantation
+Other surgical interventionsGoals of MARS Therapy
+
+Recovery until hepatic regenerationMARS Therapy Indication
+
+Hepatic encephalopathy ≥ II
+Renal dysfunction or hepatorenal syndrome.
+Progressive intrahepatic cholestasisTreatment Schedule:
+
+3 to 5 eight-hour treatment sessions on consecutive days
+Continuous treatment with hemodynamic instability (in any case, treatment kit must be replaced every 24 hours)
+
+MARS for intractable pruritus in Cholestasis
+Etiology:
+
+Primary biliary cirrhosis (PBC), primary sclerosing cholangitis (PSC)
+Benign intrahepatic cholestasis (BIC)
+Biliary AtresiaGoals of MARS Therapy
+
+Attenuate pruritus symptoms and improve patients’ quality of lifeMARS Therapy Indication
+
+Pruritus not responding to SMTTreatment Schedule:
+
+3 to 5 eight-hour treatment sessions in consecutives days
+Repeat treatment when symptoms reoccur
+
+MARS Therapy Contraindications
+Same contraindications as with any other extracorporeal treatment may be applied to MARS therapy.
+
+Unstable hemodynamics with mean arterial pressure (MAP)< 55 mmHg despite vasoconstrictors administration
+Uncontrolled hemorrhage
+Severe coagulopathy
+Severe thrombocytopenia
+
+Treatment Parameters
+Blood Flow
+The trend is to use high flow rates, although it is determined by the technical specifications of the combined machine and catheters’ size
+Intermittent treatments:
+
+Without renal dysfunction, it is recommended a blood and albumin flow rates ranging from 150 to 250 mL/minContinuous treatments:
+
+With or without renal impairment it is recommended to use flow rates from 100 to 150 mL/min.Dyalisate Flow Rate
+Intermittent treatments:
+
+Without renal impairment: 1800 a 3000 mL/hour
+With renal impairment: 3000 a 6000 mL/hourContinuous treatments:
+
+Recommended flow rate: 1000 to 2000 mL/hour.Replacement Flow Rate
+
+According to medical criteria and same as in CVVHDHeparin Anticoagulation
+Similarly to CVVHD, it depends on previous patient's coagulation status. In many cases it will not be needed, unless the patient presents a PTT inferior to 160 seconds. In patients with normal values, a bolus of 5000 to 10000 IU of heparin could be administered at the commencement of the treatment, followed by a continuous perfusion, to keep PTT in ratios from 1,5 to 2,5 or 160 to 180 seconds.
+Monitoring
+A biochemical analysis is recommended (liver and kidney profile, ionic, glucose) together with a hemogram at the end of first session and before starting the following one.
+Coagulation analysis must be also performed before starting the session to adjusting heparin dose.
+In case that medication susceptible to be eliminated by MARS is being administered, it is also recommended to monitor their levels in blood
+End of the Session
+
+Once the treatment is finalized, blood should be returned following the unit procedure,and both catheter's lumens heparinized
+
+For the next session a new kit must be used
+For continuous treatments, kit must be changed by a new one every 24 hours
+Treatment must be stopped before schedule owing to the particular circumstances listed below:MAP inferior to 40 mmHg at least for 10 minutes
+Air embolism of the extracorporeal circuit
+Transmembrane pressure (TMP) greater than 600 mmHg.
+Blood leak detection in the albumin circuit
+Disseminated intravascular coagulation (DIC)
+Severe active hemorrhage
+
+FDA Clearance (US only)
+Federal Drug Administration (FDA) cleared, in a document dated on May 27, 2005, MARS therapy for the treatment of drug overdose and poisoning. The only requirement is that the drug or poison must be susceptible to be dialysed and removed by activated charcoal or anionic exchange resins.
+More recently, on December 17, 2012, MARS therapy has been cleared by the FDA for the treatment of hepatic encephalopathy due to a decompensation of a chronic liver disease. Clinical trials conducted with MARS treatment in HE patients having a decompensation of chronic liver disease demonstrated a transient effect from MARS treatments to significantly decrease their hepatic encephalopathy scores by at least 2 grades compared to standard medical therapy (SMT).
+The MARS is not indicated as a bridge to liver transplant. Safety and efficacy has not been demonstrated in controlled, randomized clinical trials.
+The effectiveness of the MARS device in patients that are sedated could not be established in clinical studies and therefore cannot be predicted in sedated patients
+
+LiverNet
+The LiverNet is a database dedicated to the liver diseases treated with the support of extracorporeal therapies. To date, the most currently used system is the Molecular Adsorbent Recirculating System (MARS), which is based on the selective removal of albumin bound molecules and toxins from the blood in patients with acute and acute-on-chronic liver failure. The purpose is to register prospectively all patients treated worldwide with the MARS system in order to:
+
+Improve our understanding of the clinical course, pathophysiology and treatment of these diseases
+Evaluate the clinical impact of MARS therapy on the course of the disease in different specific indication
+Increase the knowledge in this extremely innovative area, a basis for an improvement of liver support devices and the treatment of these patients in the next futureThe liverNet is an eCRF database (www.livernet.net) using a SAS platform that allows major advantages for the centres including the automatic calculations of most liver rand ICU scoring systems, instant queries online, instant export of all patients included in the database of each centre to an Excel file for direct statistical analysis and finally instant online statistical analysis of selective data decided by the scientific committee. Therefore, the LiverNet is an important tool to progress in the knowledge of liver support therapies.
+
+See also
+American Society for Artificial Internal Organs
+Tissue engineering
+
+References
+Further reading
+Tandon R, Froghi S (September 2020). "Artificial liver support systems". J. Gastroenterol. Hepatol. 36 (5): 1164–1179. doi:10.1111/jgh.15255. PMID 32918840.
+Sen S, Williams R, Jalan R (February 2005). "Emerging indications for albumin dialysis". Am. J. Gastroenterol. 100 (2): 468–75. doi:10.1111/j.1572-0241.2005.40864.x. PMID 15667509. S2CID 20937240.
+Evenepoel P, Maes B, Wilmer A, et al. (2003). "Detoxifying capacity and kinetics of the molecular adsorbent recycling system. Contribution of the different inbuilt filters". Blood Purif. 21 (3): 244–52. doi:10.1159/000070697. PMID 12784051. S2CID 12355239.
+Mitzner S, Klammt S, Stange J, Nöldge-Schomburg GF, Schmidt R (April 2005). "[Extracorporeal blood purification in severe liver failure with the albumin dialysis MARS – impact on relevant intensive care parameters]". Anasthesiol Intensivmed Notfallmed Schmerzther (in German). 40 (4): 199–206. doi:10.1055/s-2004-826116. PMID 15832238. S2CID 259980836.

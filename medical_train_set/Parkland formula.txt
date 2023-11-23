@@ -1,0 +1,28 @@
+The Parkland formula, also known as Baxter formula, is a burn formula developed by Charles R. Baxter, used to estimate the amount of replacement fluid required for the first 24 hours in a burn patient so as to ensure the patient is hemodynamically stable. The milliliter amount of fluid required for the first 24 hours – usually Lactated Ringer's – is four times the product of the body weight and the burn percentage (i.e. body surface area affected by burns). The first half of the fluid is given within 8 hours from the burn incident, and the remaining over the next 16 hours. Only area covered by second-degree burns or greater is taken into consideration, as first-degree burns do not cause hemodynamically significant fluid shift to warrant fluid replacement.The Parkland formula is mathematically expressed as:
+
+  
+    
+      
+        V
+        =
+        4
+        ⋅
+        m
+        ⋅
+        (
+        A
+        ⋅
+        100
+        )
+      
+    
+    {\displaystyle V=4\cdot m\cdot (A\cdot 100)}
+  where mass (m) is in kilograms (kg), area (A) as a percentage of total body surface area, and volume (V) is in milliliters (mL). For example, a person weighing 75 kg with burns to 20% of his or her body surface area would require 4 x 75 x 20 = 6,000 mL of fluid replacement within 24 hours. The first half of this amount is delivered within 8 hours from the burn incident, and the remaining fluid is delivered in the next 16 hours.The burn percentage in adults can be estimated by applying the Wallace rule of nines (see total body surface area): 9% for each arm, 18% for each leg, 18% for the front of the torso, 18% for the back of the torso, and 9% for the head and 1% for the perineum.
+
+See also
+Charles R. Baxter
+Parkland Memorial Hospital
+
+References
+Further reading
+Parkland formula calculator from MDCalc

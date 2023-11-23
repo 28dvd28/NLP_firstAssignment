@@ -1,0 +1,24 @@
+Antony John Wassermann (born 1957) is a British mathematician working in operator algebras. He is known for his works on conformal field theory (providing several series of subfactors), the actions of compact groups on von Neumann algebras, and his proof of the Baum–Connes conjecture for connected reductive linear Lie groups.
+
+Biography
+Wassermann was born in 1957. He is the son of the quantum physicist Gerhard Dietrich Wassermann and the brother of the mathematician Alexander Simon Wassermann. He attended Royal Grammar School, Newcastle upon Tyne, from 1968 to 1974, and received his PhD at the University of Pennsylvania in 1981, under the supervision of Jonathan Rosenberg (Automorphic actions of compact groups on operator algebras). Afterwards, he was Directeur de Recherches CNRS at Aix-Marseille University from 1999 to 2013.He is currently affiliated with the Department of Pure Mathematics and Mathematical Statistics (DPMMS) at the University of Cambridge.
+
+Honours
+Bronze medal, International Mathematical Olympiad, 1974.
+Miller Research Fellowship recipient in 1986–88.
+Winner of the Whitehead Prize in 1990.
+Invited speaker, International Congresses of Mathematicians, 1994, Zürich.
+
+Selected bibliography
+Operator algebras and conformal field theory. III. Fusion of positive energy representations of LSU(N) using bounded operators. Invent. Math. 133, no. 3, 467–538, 1998. MR1645078
+Operator algebras and conformal field theory. Proceedings of the International Congress of Mathematicians, Vol. 1, 2 (Zürich, 1994), 966–979, Birkhäuser, Basel, 1995. MR1403996
+Ergodic actions of compact groups on operator algebras. I. General theory. Ann. of Math. (2) 130, no. 2, 273–319, 1989. MR1014926
+Ergodic actions of compact groups on operator algebras. III. Classification for SU(2). Invent. Math. 93, no. 2, 309–354, 1988. MR948104
+Une démonstration de la conjecture de Connes–Kasparov pour les groupes de Lie linéaires connexes réductifs [A proof of the Connes–Kasparov conjecture for connected reductive linear Lie groups], C. R. Acad. Sci. Paris Sér. I Math. 304, no. 18, 559–562, 1987. MR894996
+
+References
+External links
+ResearchGate
+DPMMS
+
+IML

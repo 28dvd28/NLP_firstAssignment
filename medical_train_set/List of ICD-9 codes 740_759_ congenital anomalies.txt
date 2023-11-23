@@ -1,0 +1,227 @@
+This is a shortened version of the fourteenth chapter of the ICD-9: Congenital Anomalies. It covers ICD codes 740 to 759. The full chapter can be found on pages 417 to 437 of Volume 1, which contains all (sub)categories of the ICD-9. Volume 2 is an alphabetical index of Volume 1. Both volumes can be downloaded for free from the website of the World Health Organization.
+
+Nervous system (740–742)
+740 Anencephalus and similar anomalies
+740.0 Anencephalus
+741 Spina bifida
+742 Other congenital anomalies of nervous system
+742.1 Microcephalus
+742.3 Hydrocephalus
+
+Eye, ear, face and neck (743–744)
+743 Congenital anomalies of eye
+743.0 Anophthalmos
+743.00 Clinical anophthalmos unspecified
+743.03 Cystic eyeball congenital
+743.06 Cryptophthalmos
+743.1 Microphthalmos
+743.2 Buphthalmos
+743.3 Congenital cataract and lens anomalies
+743.4 Coloboma and other anomalies of anterior segment
+743.45 Aniridia
+743.5 Congenital anomalies of posterior segment
+743.6 Congenital anomalies of eyelids, lacrimal system, and orbit
+744 Congenital anomalies of ear, face, and neck
+744.0 Anomalies of ear causing impairment of hearing
+744.1 Accessory auricle
+744.2 Other specified congenital anomalies of ear
+744.22 Macrotia
+744.23 Microtia
+744.3 Unspecified congenital anomaly of ear
+744.4 Branchial cleft cyst or fistula; preauricular sinus
+744.5 Webbing of neck
+744.8 Other specified congenital anomalies of face and neck
+744.81 Macrocheilia
+744.82 Microcheilia
+744.83 Macrostomia
+744.84 Microstomia
+
+Circulatory system (745–747)
+745 Bulbus cordis anomalies and anomalies of cardiac septal closure
+745.0 Common truncus
+745.1 Transposition of great vessels
+745.2 Tetralogy of fallot
+745.3 Common ventricle
+745.4 Ventricular septal defect
+745.5 Atrial septal defect
+745.6 Endocardial cushion defects
+745.7 Cor biloculare
+746 Other congenital anomalies of heart
+746.1 Tricuspid atresia and stenosis congenital
+746.2 Ebstein's anomaly
+746.3 Congenital stenosis of aortic valve
+746.4 Congenital insufficiency of aortic valve
+746.5 Congenital mitral stenosis
+746.6 Congenital mitral insufficiency
+746.7 Hypoplastic left heart syndrome
+746.8 Other specified congenital anomalies of heart
+746.81 Subaortic stenosis congenital
+746.82 Cor triatriatum
+746.83 Infundibular pulmonic stenosis congenital
+746.84 Congenital obstructive anomalies of heart not elsewhere classified
+746.85 Coronary artery anomaly congenital
+746.86 Congenital heart block
+746.87 Malposition of heart and cardiac apex
+746.89 Other specified congenital anomalies of heart
+Brugada syndrome
+747 Other congenital anomalies of circulatory system
+747.1 Coarctation of aorta
+747.11 Interruption of aortic arch
+747.2 Other congenital anomalies of aorta
+747.3 Congenital anomalies of pulmonary artery
+747.4 Congenital anomalies of great veins
+747.5 Absence or hypoplasia of umbilical artery
+747.6 Arteriovenous malformation, unspec.
+747.8 Other specified anomalies of circulatory system
+747.81 Congenital anomalies of cerebrovascular system
+747.82 Spinal vessel anomaly
+747.83 Persistent fetal circulation
+747.9 Unspecified congenital anomaly of circulatory system
+
+Respiratory system (748–748)
+748 Congenital anomalies of respiratory system
+748.0 Choanal atresia
+
+Digestive system (749–751)
+749 Cleft palate
+749.0 Cleft palate, unspec.
+749.2 Cleft palate w/ cleft lip
+750 Other congenital anomalies of upper alimentary tract
+750.0 Tongue tie
+750.1 Other congenital anomalies of tongue
+750.2 Other specified congenital anomalies of mouth and pharynx
+750.3 Congenital tracheoesophageal fistula esophageal atresia and stenosis
+750.4 Other specified congenital anomalies of esophagus
+750.5 Congenital hypertrophic pyloric stenosis
+750.6 Congenital hiatus hernia
+750.7 Other specified congenital anomalies of stomach
+750.8 Other specified congenital anomalies of upper alimentary tract
+750.9 Unspecified congenital anomaly of upper alimentary tract
+751 Other congenital anomalies of digestive system
+751.0 Meckel's diverticulum
+751.1 Congenital atresia and stenosis of small intestine
+751.2 Imperforate anus
+751.3 Hirschsprung's disease
+751.4 Congenital anomalies of intestinal fixation
+751.5 Other congenital anomalies of intestine
+751.6 Anomalies of gallbladder bile ducts and liver
+751.7 Congenital anomalies of pancreas
+751.8 Other specified congenital anomalies of digestive system
+751.9 Unspecified congenital anomaly of digestive system
+
+Genital organs (752–752)
+752 Congenital anomalies of genital organs
+752.0 Congenital anomalies of ovaries
+752.1 Congenital anomalies of fallopian tubes and broad ligaments
+752.2 Doubling of uterus
+752.3 Other congenital anomalies of uterus
+752.4 Anomalies of cervix, vagina, and external female genitalia
+752.42 Imperforate hymen
+752.43 Cervical agenesis
+752.5 Undescended testicle
+752.6 Hypospadias and epispadias
+752.61 Hypospadias
+752.62 Epispadias
+752.63 Congenital chordee
+752.64 Micropenis
+752.7 Indeterminate sex and pseudohermaphroditism
+
+Urinary system (753–753)
+753 Congenital anomalies of urinary system
+753.0 Renal agenesis and dysgenesis
+753.1 Cystic kidney disease
+753.2 Obstructive defects of renal pelvis and ureter
+753.3 Other specified anomalies of kidney
+Renal ectopia
+Horseshoe kidney
+753.4 Other specified anomalies of ureter
+Ectopic ureter
+753.5 Exstrophy of urinary bladder
+753.6 Atresia and stenosis of urethra and bladder neck
+753.7 Anomalies of urachus
+Urachal cyst
+753.8 Other specified anomalies of bladder and urethra
+753.9 Unspecified anomaly of urinary system
+
+Musculoskeletal system (754–756)
+754 Certain congenital musculoskeletal deformities
+754.1 Torticollis, sternomastoid
+754.3 Dislocation of hip, unilateral
+754.5 Varus deformities of feet
+754.51 Talipes equinovarus
+754.6 Valgus deformities of feet
+754.8 Other specified nonteratogenic anomalies
+754.81 Pectus excavatum
+755 Other congenital anomalies of limbs
+755.0 Polydactyly
+755.1 Syndactyly
+755.5 Other congenital anomalies of upper limb including shoulder girdle
+755.54 Madelung's deformity
+755.55 Acrocephalosyndactyly
+Apert syndrome
+755.9 Limb anomaly, unspec.
+756 Other congenital musculoskeletal anomalies
+756.1 Anomalies of spine
+756.12 Spondylolisthesis
+756.16 Klippel–Feil syndrome
+756.17 Spina bifida occulta
+756.2 Cervical rib
+756.3 Other congenital anomalies of ribs and sternum
+756.4 Chondrodystrophy
+756.5 Osteodystrophies
+756.51 Osteogenesis imperfecta
+756.6 Congenital anomalies of diaphragm
+756.7 Congenital anomalies of abdominal wall
+756.8 Other specified congenital anomalies of muscle tendon fascia and connective tissue
+756.81 Congenital absence of muscle and tendon
+756.82 Accessory muscle
+756.83 Ehlers–Danlos syndrome
+
+Integument (757–757)
+757 Congenital anomalies of the integument
+757.3 Other specified anomalies of skin
+757.32 Birthmarks
+757.39 Other specified congenital anomalies of skin
+Bloom syndrome
+Epidermolysis bullosa
+Pseudoxanthoma elasticum
+757.6 Supernumerary nipple
+
+Chromosomal anomalies (758–758)
+758 Chromosomal anomalies
+758.0 Down syndrome
+758.1 Patau's syndrome
+758.2 Edward's syndrome
+758.3 Autosomal deletion syndromes
+758.31 Cri du chat syndrome
+758.32 Velo-cardio-facial syndrome
+758.33 Other microdeletions
+Miller–Dieker syndrome
+Smith–Magenis syndrome
+758.4 Balanced autosomal translocation in normal individual
+758.5 Other conditions due to autosomal anomalies
+758.6 Gonadal dysgenesis
+Turner syndrome
+XO syndrome
+758.7 Klinefelter syndrome
+758.8 Other conditions due to sex chromosome anomalies
+Snyder–Robinson syndrome (SRS)
+758.9 Conditions due to anomaly of unspecified chromosome
+
+Other (759–759)
+759 Other and unspecified congenital anomalies
+759.0 Anomalies of spleen, congenital
+759.1 Anomalies of adrenal gland, congenital
+759.2 Anomalies of other endocrine glands, congenital
+759.3 Situs inversus
+759.4 Conjoined twins
+759.5 Tuberous sclerosis
+759.6 Other congenital hamartoses, not elsewhere classified
+Cowden syndrome
+759.7 Multiple congenital anomalies, so described
+759.8 Other specified congenital anomalies
+759.81 Prader-Willi syndrome
+759.82 Marfan syndrome
+759.83 Fragile X syndrome
+759.89 Other specified congenital anomalies
+759.9 Congenital anomaly, unspecified

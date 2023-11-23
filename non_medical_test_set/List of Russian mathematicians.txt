@@ -1,0 +1,145 @@
+This list of Russian mathematicians includes the famous mathematicians from the Russian Empire, the Soviet Union and the Russian Federation.
+
+Alphabetical list
+A
+Georgy Adelson-Velsky, inventor of AVL tree algorithm, developer of Kaissa, the first world computer chess champion
+Sergei Adian, known for his work in group theory, especially on the Burnside problem
+Aleksandr Aleksandrov, developer of CAT(k) space and Alexandrov's uniqueness theorem in geometry
+Pavel Alexandrov, author of the Alexandroff compactification and the Alexandrov topology
+Dmitri Anosov, developed Anosov diffeomorphism
+Vladimir Arnold, an author of the Kolmogorov–Arnold–Moser theorem in dynamical systems, solved Hilbert's 13th problem, raised the ADE classification and Arnold's rouble problems
+
+B
+Alexander Beilinson, influential mathematician in representation theory, algebraic geometry and mathematical physics
+Sergey Bernstein, developed the Bernstein polynomial, Bernstein's theorem and Bernstein inequalities in probability theory
+Nikolay Bogolyubov, mathematician and theoretical physicist, author of the edge-of-the-wedge theorem, Krylov–Bogolyubov theorem, describing function and multiple important contributions to quantum mechanics
+Vladimir Berkovich, developed Berkovich spaces
+Viktor Bunyakovsky, noted for his work in theoretical mechanics and number theory, and is credited with an early discovery of the Cauchy–Schwarz inequality
+Leonid Berlyand, PDE theorist, worked on asymptotic homogenization methods, Humboldt Prize winner
+
+C
+Georg Cantor, inventor of set theory. Cantor was born into the Russian Empire, moving to Saxony with his family at age 11.
+Sergey Chaplygin, author of Chaplygin's equation important in aerodynamics and notion of Chaplygin gas.
+Nikolai Chebotaryov, author of Chebotarev's density theorem
+Pafnuti Chebyshev, prominent tutor and founding father of Russian mathematics, contributed to probability, statistics and number theory, author of the Chebyshev's inequality, Chebyshev distance, Chebyshev function, Chebyshev equation etc.
+Sergei Chernikov, significant contributor to both infinite group theory (developer of Chernikov groups), and linear programming.
+
+D
+Boris Delaunay, inventor of Delaunay triangulation, organised the first Soviet Student Olympiad in mathematics
+Vladimir Drinfeld, mathematician and theoretical physicist, introduced quantum groups and ADHM construction, Fields Medal winner
+Eugene Dynkin, developed Dynkin diagram, Doob–Dynkin lemma and Dynkin system in algebra and probability
+
+E
+Dmitri Egorov, known for significant contributions to the areas of differential geometry and mathematical analysis.
+Leonhard Euler, preeminent 18th century mathematician, arguably the greatest of all time, made important discoveries in mathematical analysis, graph theory and number theory, introduced much of the modern mathematical terminology and notation (mathematical function, Euler's number, Euler circles etc.)  Although Swiss born Euler spent most of his life in St. Petersburg.
+
+F
+Ivan Fesenko, number theorist
+Anatoly Fomenko, topologist and chronologist, put forth a controversial theory of the New Chronology
+Yevgraf Fyodorov, mathematician and crystallographer, identified Periodic graph in geometry, the first to catalogue all 230 space groups of crystals
+
+G
+Boris Galerkin, developed the Galerkin method in numerical analysis
+Israel Gelfand, major contributor to numerous areas of mathematics, including group theory, representation theory and linear algebra, author of the Gelfand representation, Gelfand pair, Gelfand triple, integral geometry etc.
+Alexander Gelfond, author of Gelfond's theorem, provided means to obtain infinite number of transcendentals, including Gelfond–Schneider constant and Gelfond's constant, Wolf Prize in Mathematics winner
+Semyon Aranovich Gershgorin, of Gerschgorin circle theorem fame
+Sergei Godunov, developed Godunov's theorem and Godunov's scheme in differential equations
+Valery Goppa, inventor of Goppa codes, and algebraic geometry codes in the field of algebraic geometry
+Mikhail Gromov, a prominent developer of geometric group theory, inventor of homotopy principle, introduced Gromov's compactness theorem, Gromov norm, Gromov product etc., Wolf Prize winner
+
+K
+Leonid Kantorovich, mathematician and economist, founded linear programming, introduced the Kantorovich inequality and Kantorovich metric, developed the theory of optimal allocation of resources, Nobel Prize in Economics winner
+Anatoly Karatsuba, developed the Karatsuba algorithm (the first fast multiplication algorithm)
+David Kazhdan, Soviet, American and Israeli mathematician, Representation theory, Category theory, Kazhdan-Lusztig conjecture, Kazhdan-Margulis theorem, Kazhdan property (T). Held MacArthur Fellowship, Israel Prize, Shaw prize in  Mathematics, doctoral adviser of Vladimir Voevodsky (Fields medal recipient)
+Leonid Khachiyan, developed the Ellipsoid algorithm for linear programming
+Aleksandr Khinchin, developed the Pollaczek-Khinchine formula, Wiener–Khinchin theorem and Khinchin inequality in probability theory
+Askold Khovanskii, inventor of the theory of Fewnomials, contributions to the theory of toric varieties, Jeffery–Williams Prize winner
+Andrey Kolmogorov, preeminent 20th century mathematician, Wolf Prize winner; multiple contributions to mathematics include: probability axioms, Chapman–Kolmogorov equation and Kolmogorov extension theorem in probability; Kolmogorov complexity etc.
+Maxim Kontsevich, author of the Kontsevich integral and Kontsevich quantization formula, Fields Medal winner
+Aleksandr Korkin,
+Vladimir Kotelnikov, pioneer in information theory, an author of fundamental sampling theorem
+Sofia Kovalevskaya, first woman professor in Northern Europe and Russia, the first female professor of mathematics, discovered the Kovalevskaya top
+Mikhail Kravchuk, developed the Kravchuk polynomials and Kravchuk matrix
+Mark Krein, developed the Tannaka–Krein duality, Krein–Milman theorem and Krein space, Wolf Prize winner
+Alexander Kronrod, developer of Gauss–Kronrod quadrature formula and Kaissa, the first world computer chess champion
+Aleksey Nikolaevich Krylov, first developed the method of Krylov subspace, still widely used numerical method for linear problems
+Nikolay Krylov, author of the edge-of-the-wedge theorem, Krylov–Bogolyubov theorem and describing function
+Aleksandr Kurosh, author of the Kurosh subgroup theorem and Kurosh problem in group theory
+
+L
+Olga Ladyzhenskaya, made major contributions to solution of  Hilbert's 19th problem and important Navier–Stokes equations
+Evgeny Landis, inventor of AVL tree algorithm
+Vladimir Levenshtein, developed the Levenshtein automaton, Levenshtein coding and Levenshtein distance
+Leonid Levin, computer scientist, developed the Cook-Levin theorem
+Yuri Linnik, developed Linnik's theorem in analytic number theory
+Nikolai Lobachevsky, a Copernicus of Geometry who created the first non-Euclidean geometry (Lobachevskian or hyperbolic geometry)
+Lazar Lyusternik, Mathematician, famous for work in topology and differential geometry. Codevelops Lyusternik-Schnirelmann theory with Lev Schnirelmann.
+Nikolai Lusin, developed Luzin's theorem, Luzin spaces and Luzin sets in descriptive set theory
+Aleksandr Lyapunov, founder of stability theory, author of the Lyapunov's central limit theorem, Lyapunov equation, Lyapunov fractal, Lyapunov time etc.
+
+M
+Leonty Magnitsky, a director of the Moscow School of Mathematics and Navigation, author of the principal Russian 18th century textbook in mathematics
+Anatoly Maltsev, researched decidability of various algebraic groups, developed the Malcev algebra
+Yuri Manin, author of the Gauss–Manin connection in algebraic geometry, Manin-Mumford conjecture and Manin obstruction in diophantine geometry
+Grigory Margulis, worked on lattices in Lie groups, Wolf Prize and Fields Medal winner
+Andrey Markov, Sr., invented the Markov chains, proved Markov brothers' inequality, author of the hidden Markov model, Markov number, Markov property, Markov's inequality, Markov processes, Markov random field, Markov algorithm etc.
+Andrey Markov, Jr., author of Markov's principle and Markov's rule in logics
+Yuri Matiyasevich, author of Matiyasevich's theorem in set theory, provided a negative solution for Hilbert's tenth problem
+Mikhail Menshikov, probabilist
+Alexander Mikhailov, coined the term Informatics
+
+N
+Mark Naimark, author of the Gelfand–Naimark theorem and Naimark's problem
+Pyotr Novikov, solved the word problem for groups and Burnside's problem
+Sergei Novikov, worked on algebraic topology and soliton theory, developed Adams–Novikov spectral sequence and Novikov conjecture, Wolf Prize and Fields Medal winner
+
+O
+Andrei Okounkov, infinite symmetric groups and Hilbert scheme researcher, Fields Medal winner
+Mikhail Ostrogradsky, mathematician and physicist, author of divergence theorem and partial fractions in integration
+
+P
+Grigori Perelman, made landmark contributions to Riemannian geometry and topology, proved Geometrization conjecture and Poincaré conjecture, won a Fields medal and the first Clay Millennium Prize Problems Award (declined both)
+Lev Pontryagin, blind mathematician, developed Pontryagin duality and Pontryagin classes in topology, and Pontryagin's minimum principle in optimal control
+Yury Prokhorov, author of the Lévy–Prokhorov metric and Prokhorov's theorem in probability
+
+R
+Alexander Razborov, mathematician and computational theorist who won the Nevanlinna Prize in 1990  and the Gödel Prize for contributions to computer sciences
+
+S
+Numan Yunusovich Satimov, specialist in the theory of differential equations
+Lev Schnirelmann, developed the Lusternik–Schnirelmann category in topology and Schnirelmann density of numbers
+Igor Shafarevich, introduced the Shafarevich–Weil theorem, proved the Golod–Shafarevich theorem and Shafarevich's theorem on solvable Galois groups, important dissident during the Soviet regime, wrote books and articles that criticised socialism
+Moses Schönfinkel, inventor of combinatory logic
+Yakov Sinai, developed the Kolmogorov–Sinai entropy and Sinai billiard, Wolf Prize winner
+Eugen Slutsky, statistician and economist, developed the Slutsky equation and Slutsky's theorem
+Stanislav Smirnov, prominent researcher of triangular lattice, Fields Medalist
+Sergei Sobolev, introduced the Sobolev spaces and mathematical distributions, co-developer of the first ternary computer Setun
+Vladimir Steklov, mathematician and physicist, founder of Steklov Institute of Mathematics, proved theorems on generalized Fourier series
+Bella Subbotovskaya, specialist in Boolean functions, founder of unauthorized Jewish People's University to educate Jews barred from quality universities
+
+T
+Jakow Trachtenberg, developed the Trachtenberg system of mental calculation
+Boris Trakhtenbrot, proved the Gap theorem, developed Trakhtenbrot's theorem
+Valentin Turchin, inventor of Refal programming language, introduced metasystem transition and supercompilation
+Andrey Tikhonov, author of Tikhonov space and Tikhonov's theorem (central in general topology), the Tikhonov regularization  of ill-posed problems, invented magnetotellurics
+
+U
+Pavel Urysohn, developed the topological dimension theory and  metrization theorems, Urysohn's Lemma and Fréchet–Urysohn space in topology
+
+V
+Nicolay Vasilyev, inventor of non-Aristotelian logic, the forerunner of paraconsistent and multi-valued logics
+Ivan Vinogradov, developed Vinogradov's theorem and Pólya–Vinogradov inequality in analytic number theory
+Vladimir Voevodsky, introduced a homotopy theory for schemes and modern motivic cohomology, Fields Medalist
+Georgy Voronoy, invented the Voronoi diagram
+
+Y
+Dmitry Yegorov, author of Egorov's Theorem in mathematical analysis
+
+Z
+Efim Zelmanov, solved the restricted Burnside problem; Fields Medal winner
+
+See also
+List of mathematicians
+List of Russian physicists
+List of Russian scientists
+Science and technology in Russia

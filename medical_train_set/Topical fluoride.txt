@@ -1,0 +1,57 @@
+Topical fluorides are fluoride-containing drugs indicated in prevention and treatment of dental caries, particularly in children's primary dentitions. The dental-protecting property of topical fluoride can be attributed to multiple mechanisms of action, including the promotion of remineralization of decalcified enamel, the inhibition of the cariogenic microbial metabolism in dental plaque and the increase of tooth resistance to acid dissolution. Topical fluoride is available in a variety of dose forms, for example, toothpaste, mouth rinses, varnish and silver diamine solution. These dosage forms possess different absorption mechanisms and consist of different active ingredients. Common active ingredients include sodium fluoride, stannous fluoride, silver diamine fluoride. These ingredients account for different pharmacokinetic profiles, thereby having varied dosing regimes and therapeutic effects. A minority of individuals may experience certain adverse effects, including dermatological irritation, hypersensitivity reactions, neurotoxicity and dental fluorosis. In severe cases, fluoride overdose may lead to acute toxicity. While topical fluoride is effective in preventing dental caries, it should be used with caution in specific situations to avoid undesired side effects.
+
+Medical uses
+Topical fluoride formulations are effective measures for preventing and arresting the progression of dental caries, especially early childhood caries (ECC). Domestic products such as toothpaste and mouthwash can be used on a regular basis at home, while silver diamine solution therapy can be administered by specialists in dental clinics.
+
+Mechanism of action
+Topical fluoride serves to prevent early dental caries primarily in three ways: promoting remineralization of decalcified enamel, inhibiting the cariogenic microbial processes in dental plaque and increasing tooth resistance to acid breakdown.
+
+Promotion of remineralization of decalcified enamel
+Fluoride has a high tendency to react with the calcium hydroxyapatite Ca10(PO4)6(OH)2 in tooth enamel due to its high affinity to metals. It subsequently replaces the hydroxide group in hydroxyapatite to precipitate calcium fluorapatite Ca5(PO4)3)F. These fluorapatite precipitations scavenge excess phosphate and calcium in the saliva to form a supersaturated solution for remineralization.
+
+Inhibition of the cariogenic microbial processes in dental plaque
+Topical fluoride also serves as an antimicrobial agent to reduce demineralization by inhibiting the growth of tooth-erupting microorganisms in dental plaque. Fluoride ions readily combine with hydrogen cations to produce hydrogen fluoride. Hydrogen fluoride subsequently acidifies the bacterial cytoplasm, inactivating the essential enzymes for bacterial metabolism, including enolase and proton releasing adenosine triphosphatase.As topical fluoride lowers the pH, bacteria have to consume more energy to maintain a neutral environment, leaving less energy for reproduction, and further generation of polysaccharides and acids. These polysaccharides are necessary for adherence to enamel, while these acids are essential for the synthesis of bacterial enzymes, for example, immunoglobulin A protease. These processes contribute to reducing the risk of dental caries by inhibiting microbial metabolism in the tooth plaque.
+
+Increase in tooth resistance to acid dissolution
+Topical fluoride can increase the resistance of enamel to acid. Bacteria in enamel, including Streptococcus mutans, generate acids to maintain a low pH environment during fermentation. These acids eventually dissociate the hydroxyapatite in teeth once the acidity falls below the critical pH (pH 5.5). The fluorapatite formed by topical fluorides has lower critical pH (pH 4.5) than normal enamel, it is therefore more acid resistant and not prone to degrade even in an acidic environment. This mechanism helps decelerate the rate of teeth demineralization.
+
+Dosage forms
+Toothpaste
+The daily use of fluoride-containing toothpaste is recognized as the key factor contributing to the global reduction in dental caries over recent decades. Fluoride-containing toothpaste can be classified into two types, namely low-fluoride and high-fluoride toothpaste. Low-fluoride toothpaste, depending on brand, generally contains 0.22% to 0.31% fluoride. These fluorides are often manufactured in the form of sodium fluoride, stannous fluoride, or sodium monofluorophosphate (MFP). High-fluoride toothpaste typically contains 1.1% sodium fluoride, namely four times more concentrated than low-fluoride toothpaste. People using high-fluoride toothpaste should avoid eating or rinsing their mouth for at least 30 minutes after treatment for maximal therapeutic effect. Some fluoride-containing toothpaste incorporates extra chemical ingredients for additional purposes. For instance, calcium carbonate and magnesium carbonate are added as abrasives to remove dental plaque on teeth, while strontium chloride and potassium nitrate are added as anti-sensitive agents for individuals who have teeth sensitivity.
+
+Mouth rinse
+Fluoride mouth rinse is usually used for adjunctive therapy with other topical fluoride products. It is generally prepared in the form of sodium chloride. Sodium chloride is kept in the saliva after spitting out the mouth rinse, thus helping to prevent tooth decay. 0.02% fluoride mouth rinse rinse is commonly administered twice daily, while 0.05% is administered once daily at bedtime after thoroughly brushing teeth. People using high-fluoride toothpaste should avoid eating or rinsing their mouth for at least 30 minutes after administration for maximal therapeutic effect.
+
+Silver diamine solution
+Silver diamine fluoride (SDF) is a transparent solution prepared by dissolving silver ions and fluoride ions in ammonia water. It is approved in a few places, including Hong Kong, China, and the United States, for the prevention of early childhood caries (ECC) and relieving tooth sensitivity.SDF has multiple advantages over traditional fluoride varnish therapy:
+
+SDF is a non-invasive treatment with higher acceptability among children and elderlies.
+The materials required for SDF are inexpensive, reducing the financial burden on patients.
+There is currently no evidence that SDF causes serious adverse reactions, for example, acute toxicity and infection of the dental pulp, rendering it a safer therapy.
+SDF followed by stannous fluoride was proven to be more effective in reducing dental caries in children's primary molars.However, the SDF solution results in permanent black staining on the teeth's decayed proportion. This may be unacceptable by some individuals with aesthetic concerns.SDF, in addition to performing the functions of conventional topical fluorides, is suggested to have collagen-conserving properties and an additional antibacterial action owing to the presence of silver. While multiple clinical trials demonstrate that 38% SDF is more effective than 5% sodium fluoride varnish in preventing ECC, it is currently unavailable in many countries due to insufficient research data.
+
+Adverse effects
+Increased exposure of fluoride may lead to certain adverse side effects, including dental fluorosis and developmental neurotoxicity. Other rare side effects include skin rash and hypersensitivity reactions. In severe cases, fluoride overdose may lead to acute toxicity.
+
+Dental fluorosis
+Dental fluorosis is a dose-dependent adverse drug effect featured by temporary white marks. It can be induced by increased fluoride exposure, typically from stannous fluoride-containing products or fluoridated water. Excess intake of fluoride leads to overabundance of structurally-weak fluorapatite formed inside the enamel, resulting in increased brittleness of teeth. In severe dental fluorosis, brown or yellow staining may appear on teeth. Children under the age of eight are susceptible to dental fluorosis.
+
+Developmental neurotoxicity
+Overdose of fluoride can potentially cause neurotoxicity during early development. While the exact pathophysiology of fluoride-induced developmental toxicity is not completely understood, most research suggested that excessive fluoride intake may result in formation of aluminium fluoride (AlF3 or AlF4). Aluminium fluoride structurally mimics phosphate, thus is capable of crossing the blood-brain barrier via phosphate transporters. These fluorides in the brain may cause neurodegenerative disorders, including Alzheimer's disease, Parkinson's disease and IQ declination. Nevertheless, topical fluoride was less likely to cause developmental neurotoxicity than fluoridated water.
+
+Acute fluoride toxicity
+Fluoride overdose may cause acute toxicity. While the underlying mechanism of fluoride toxicity is unclear, most studies ascribe fluoride toxicity to its capacity to inhibit metalloproteins by imitating metallofluoride substrate. Inhibition of metalloproteins slows down multiple signalling pathways and disrupts cellular organelles, subsequently producing oxidative stress and cell cycle arrest. Fluoride overload is suggested to be linked to pH and electrolyte imbalances, creating an environment unfavourable for cell living. These mechanisms can ultimately result in cellular malfunction and cell death.
+
+Cautions
+Toothpaste, cream, mouthrinse and varnish
+Most topical fluoride preparations with a concentration exceeding 0.6 ppm should be avoided to reduce risk of dental fluorosis if drinking water has already been fluoridated.
+Swallowing of topical fluoride products should be avoided in order to avoid systemic adverse effects, for example, skeletal fluorosis.
+While an appropriate amount of fluoride consumption during pregnancy is beneficial to prevent early childhood caries (ECC), pregnant women should avoid excessive fluoride exposure since it may predispose their children to skeletal fluorosis in later childhood.
+Most topical fluoride preparations containing more than 1.1ppm should be avoided in children younger than 6 years of age, unless otherwise instructed by a healthcare practitioner.
+Topical fluoride preparation containing benzyl alcohol derivative, polysorbate 80 and propylene glycol should be used in caution. These ingredients may precipitate severe adverse effects in neonates.
+
+Silver diamine fluoride
+Silver diamine fluoride is contraindicated in patients having silver allergy, oral ulcerations and severe gum disease. These diseases can cause painful responses when associated with the acid or ammonia in SDF.
+
+
+== References ==

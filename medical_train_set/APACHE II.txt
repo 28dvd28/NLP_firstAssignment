@@ -1,0 +1,51 @@
+APACHE II ("Acute Physiology and Chronic Health Evaluation II") is a severity-of-disease classification system, one of several ICU scoring systems. It is applied within 24 hours of admission of a patient to an intensive care unit (ICU): an integer score from 0 to 71 is computed based on several measurements; higher scores correspond to more severe disease and a higher risk of death. The first APACHE model was presented by Knaus et al. in 1981.
+
+Application
+APACHE II was designed to measure the severity of disease for adult patients admitted to intensive care units. It has not been validated for use in children or young people aged under 16.
+This scoring system is used in many ways which include:
+
+Some procedures or some medicine is only given to patients with a certain APACHE II score
+APACHE II score can be used to describe the morbidity of a patient when comparing the outcome with other patients.
+Predicted mortalities are averaged for groups of patients in order to specify the group's morbidity.Even though newer scoring systems, such as APACHE III, have replaced APACHE II in many places, APACHE II continues to be used extensively because so much documentation is based on it.
+
+Calculation
+The point score is calculated from 12 admission physiologic variables comprising the Acute Physiology Score, the patient's age, and chronic health status:
+
+A. Acute Physiology Score (measured within 24 hours of admission)AaDO2 or PaO2 (for FiO2≥0.5 or <0.5, respectively)
+body temperature (rectal)
+mean arterial pressure
+blood pH
+heart rate
+respiratory rate
+serum sodium
+serum potassium
+creatinine (Double point score for acute renal failure)
+hematocrit
+white blood cell count
+Glasgow Coma Scale (15 minus actual GCS)B. Age pointsC. Chronic health pointsIf the patient has a history of severe organ system insufficiency (i.e. liver cirrhosis, portal hypertension, NYHA class IV heart failure, severe respiratory disease, dialysis dependent) or is immunocompromised (i.e. due to chemotherapy, radiation, high dose steroid therapy, or advanced leukemia, lymphoma or AIDS) assign points as follows:
+
+a. for nonoperative or emergency postoperative patients: 5 points
+b. for elective postoperative patients: 2 pointsThe method is optimized for manual calculation, by using integer values and limiting the number of options so that data fits on a single-sheet paper form.
+The score is not recalculated during the stay. It is by definition an admission score. If a patient is discharged from the ICU and subsequently readmitted, a new APACHE II score is calculated.
+In the original research paper that described the APACHE II score, patient prognosis (specifically, predicted mortality) was computed based on the patient's APACHE II score in combination with the principal diagnosis at admission.
+
+APACHE III
+A method to compute a refined score known as APACHE III was published in 1991.The score was validated on the dataset from 17,440 adult medical/surgical intensive care unit (ICU) admissions at 40 US hospitals.
+The prognostic system of APACHE III has two options:
+
+APACHE III ScoreProvides an initial risk classification of severely ill hospitalized patients in defined groups.APACHE III predictive equationAdds additional variables to the APACHE III Score including the primary reason for ICU admission (from a reference list of 212 conditions classified according to etiology, major organ involved, and distinction between surgical/medical categories); age, sex, race and preexisting comorbidities; and location prior to ICU admission (operating room, recovery or emergency department, transfer or readmission from another hospital or ICU).When possible, the time between the patient's arrival at the hospital and their ICU admission is recorded.
+To evaluate the severity of disease 20 physiologic variables are measured, compared to 12 variables for APACHE II.
+APACHE III scores range from 0 to 299.
+
+APACHE IV
+APACHE IV, published in 2006, is the latest version. The model was developed using data from 104 intensive care units (ICUs) in 45 U.S. hospitals and could be recommended to use in U.S. ICUs.
+
+See also
+ASA physical status classification system
+Glasgow Coma Scale (used by APACHE II)
+
+References
+External links
+APACHE II calculator script in Python 3.4. (licensed under GPL 3.0)
+Microsoft Excel function to calculate APACHE II score
+Commonly used website to calculate APACHE II score with visual representation of predicted mortality

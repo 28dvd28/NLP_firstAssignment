@@ -1,0 +1,38 @@
+RICE is a mnemonic acronym for the four elements of a treatment regimen that was once recommended for soft tissue injuries: rest, ice, compression, and elevation. It was considered a first-aid treatment rather than a cure and aimed to control inflammation. It was thought that the reduction in pain and swelling that occurred as a result of decreased inflammation helped with healing. The protocol was often used to treat sprains, strains, cuts, bruises, and other similar injuries.The mnemonic was introduced by Dr. Gabe Mirkin in 1978. He took back his support of this regimen in 2014 after learning of the role of inflammation in the healing process. The implementation of RICE for soft tissue injuries as described by Dr. Mirkin is no longer recommended, as there is not enough research on the efficacy of RICE in the promotion of healing. In fact, many components of the protocol has since been shown to impair or delay healing by inhibiting inflammation. Early rehabilitation is now the recommendation to promote healing. Ice, compression, and elevation may have roles in decreasing swelling and pain, but have not shown to help with healing an injury.There are different variations of the protocol, which may emphasize additional protective actions. However, these variations similarly lack sufficient evidence to be broadly recommended. Examples include PRICE, POLICE, and PEACE & LOVE.
+
+Primary four terms
+Rest
+Rest refers to limiting the use of an injured area. It was once recommended to rest an injury for up to 2 days or until it was no longer painful to use. It was intended to reduce inflammation and to prevent further injury. Blood supply is an important component of inflammation. By resting an injury, blood flow to the area is reduced, which reduces the swelling and pain associated with inflammation. The early stages of healing involve microscopic scaffolding that is built upon to repair an injury. These scaffolds are relatively weak until reinforced by later stages of healing. Early and aggressive movement could potentially disrupt the scaffolds, delaying healing or worsen an existing injury.Although rest may provide some benefit immediately after an injury, returning to movement early has been shown to be better at reducing pain and encouraging healing.
+
+Ice
+Ice refers to the application of cold objects to an injury, such as ice, an icepack, frozen vegetables, etc. It was meant to reduce swelling and inflammation by vasoconstriction. However, adequate blood flow is essential in allowing cells and signals from our immune system to reach injured areas. By reducing the entry of these cells and signals to the injury, healing can be delayed, or possibly inhibited.The current research supports the role of ice in temporary pain relief, but there is little evidence supporting the use of ice to aid in healing, or even swelling reduction. Further research is needed to further understand how ice should be applied. At this time, due to the lack of evidence, there is no consensus on the ideal temperature ranges, time frames, application methods, or patient populations when using ice on a soft tissue injury. Most studies use icing protocols of intermittent 10-20 minute applications, several times a day for the first few days following an injury.
+
+Compression
+Compression refers to wearing bandages, stockings, braces, or similar devices to apply pressure over a localized area to reduce swelling and stop bleeding. The increased pressure pushes fluids into the blood vessels to drain away from the area. The effects of compression on swelling reduction are temporary and gravity-dependent.Although studies have demonstrated the effects of compression on swelling, there is little evidence to support the use of compression to promote healing. When considering the use of compression, the evidence supports the use of elastic bandages with Intermittent Pneumatic Compression (IPC) to reduce swelling and pain, while improving range of motion.
+
+Elevation
+Elevation refers to keeping an injury above the level of the heart, such as propping up a leg with pillows. The goal was to reduce swelling by using gravity to encourage blood return from the swollen area back to the heart. The reduction in swelling could improve pain by relieving pressure from the area. The effects of elevation on swelling have been shown to be temporary, as swelling returns when the injured area is no longer elevated.However, at this time there is little evidence to support that elevation promotes healing.
+
+Current support
+Dr. Gabe Mirkin has since recanted his support for the regimen. In 2015 he wrote: 
+
+Coaches have used my 'RICE' guideline for decades, but now it appears that both ice and complete rest may delay healing, instead of helping. In a recent study, athletes were told to exercise so intensely that they developed severe muscle damage that caused extensive muscle soreness. Although cooling delayed swelling, it did not hasten recovery from this muscle damage.
+Rest may play a role immediately after an injury, but the evidence supports early mobilization to promote healing. Due to inhibitory effects of ice on mounting a proper inflammatory response, a protocol including extended applications of ice could delay the body's attempt at healing. While it is unclear what the effects of elevation and compression are on the healing process, reduction of swelling is a transient effect and returns when the injury is returned to a lower, gravity-dependent position.Currently, the RICE protocol is no longer recommended and has given way to other protocols for treating soft tissue injuries. Most recently, in 2019 the mnemonic "PEACE & LOVE" was coined by Blaise Dubois. The PEACE component stands for protection, elevation, avoid anti-inflammatories, compression, and education. It guides the treatment of acute soft tissue injuries. The LOVE component stands for load, optimism, vascularization, and exercise. It guides the treatment for the sub-chronic and chronic management of soft tissue injuries.
+
+Variations
+Variations of the acronym are sometimes used to emphasize additional steps that should be taken. These include:
+
+"PRICE" – Protection, Rest, Ice, Compression, and Elevation
+"POLICE" – Protection, Optimal Loading, Ice, Compression, and Elevation
+"PEACE & LOVE" – Protection, Elevation, Avoid Anti-inflammatories, Compression, Education & Load, Optimism, Vascularization, Exercise
+
+See also
+Cold compression therapy
+Gabe Mirkin
+Inflammation
+Wound healing
+Soft tissue injury
+Nonsteroidal anti-inflammatory drug
+
+
+== References ==

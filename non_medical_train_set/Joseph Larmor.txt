@@ -1,0 +1,300 @@
+Sir Joseph Larmor  (11 July 1857 – 19 May 1942) was an Irish and British physicist and mathematician who made breakthroughs in the understanding of electricity, dynamics, thermodynamics, and the electron theory of matter. His most influential work was Aether and Matter, a theoretical physics book published in 1900.
+
+Biography
+He was born in Magheragall in County Antrim the son of Hugh Larmor, a Belfast shopkeeper and his wife, Anna Wright. The family moved to Belfast circa 1860, and he was educated at the Royal Belfast Academical Institution, and then studied mathematics and experimental science at Queen's College, Belfast (BA 1874, MA 1875), where one of his teachers was John Purser. He subsequently studied at St John's College, Cambridge, where in 1880 he was Senior Wrangler (J. J. Thomson was second wrangler that year) and Smith's Prizeman, getting his MA in 1883. After teaching physics for a few years at Queen's College, Galway, he accepted a lectureship in mathematics at Cambridge in 1885. In 1892 he was elected a Fellow of the Royal Society of London, and he served as one of the Secretaries of the society. He was made an Honorary Fellow of the Royal Society of Edinburgh in 1910.In 1903 he was appointed Lucasian Professor of Mathematics at Cambridge, a post he retained until his retirement in 1932. He never married. He was knighted by King Edward VII in 1909.
+Motivated by his strong opposition to Home Rule for Ireland, in February 1911 Larmor ran for and was elected as Member of Parliament for Cambridge University (UK Parliament constituency) with the Conservative party. He remained in parliament until the 1922 general election, at which point the Irish question had been settled. Upon his retirement from Cambridge in 1932 Larmor moved back to County Down in Northern Ireland.
+He received the honorary Doctor of Laws (LLD) from the University of Glasgow in June 1901. He was elected an International Honorary Member of the American Academy of Arts and Sciences in 1903, an International Member of the United States National Academy of Sciences in 1908, and an International Member of the American Philosophical Society in 1913. He was awarded the Poncelet Prize for 1918 by the French Academy of Sciences. Larmor was a Plenary Speaker in 1920 at the ICM at Strasbourg and an Invited Speaker at the ICM in 1924 in Toronto and at the ICM in 1928 in Bologna.
+He died in Holywood, County Down on 19 May 1942.
+
+Work
+Larmor proposed that the aether could be represented as a homogeneous fluid medium which was perfectly incompressible and elastic. Larmor believed the aether was separate from matter. He united Lord Kelvin's model of spinning gyrostats (see Vortex theory of the atom) with this theory. Larmor held that matter consisted of particles moving in the aether. Larmor believed the source of electric charge was a "particle" (which as early as 1894 he was referring to as the electron). Larmor held that the flow of charged particles constitutes the current of conduction (but was not part of the atom). Larmor calculated the rate of energy radiation from an accelerating electron. Larmor explained the splitting of the spectral lines in a magnetic field by the oscillation of electrons.Larmor also created the first solar system model of the atom in 1897. He also postulated the proton, calling it a “positive electron.” He said the destruction of this type of atom making up matter “is an occurrence of infinitely small probability.”
+In 1919, Larmor proposed sunspots are self-regenerative dynamo action on the Sun's surface.
+Quotes from one of Larmor's voluminous work include:
+
+“while atoms of matter are in whole or in part aggregations of electrons in stable orbital motion. In particular, this scheme provides a consistent foundation for the electrodynamic laws, and agrees with the actual relations between radiation and moving matter.”
+“A formula for optical dispersion was obtained in § 11 of the second part of this memoir, on the simple hypothesis that the electric polarization of the molecules vibrated as a whole in unison with the electric field of the radiation.”
+“…that of the transmission of radiation across a medium permeated by molecules, each consisting of a system of electrons in steady orbital motion, and each capable of free oscillations about the steady state of motion with definite free periods analogous to those of the planetary inequalities of the Solar System;”
+“‘A’ will be a positive electron in the medium, and ‘B’ will be the complementary negative one...We shall thus have created two permanent conjugate electrons A and B ; each of them can be moved about through the medium, but they will both persist until they are destroyed by an extraneous process the reverse of that by which they are formed.”
+
+Discovery of Lorentz transformation
+Parallel to the development of Lorentz ether theory, Larmor published an approximation to the Lorentz transformations in the Philosophical Transactions of the Royal Society in 1897,
+namely 
+  
+    
+      
+        
+          x
+          
+            1
+          
+        
+        =
+        x
+        
+          ϵ
+          
+            
+              1
+              2
+            
+          
+        
+      
+    
+    {\displaystyle x_{1}=x\epsilon ^{\frac {1}{2}}}
+   for the spatial part and 
+  
+    
+      
+        d
+        
+          t
+          
+            1
+          
+        
+        =
+        d
+        
+          t
+          
+            ′
+          
+        
+        
+          ϵ
+          
+            −
+            
+              
+                1
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle dt_{1}=dt^{\prime }\epsilon ^{-{\frac {1}{2}}}}
+   for the temporal part, where 
+  
+    
+      
+        ϵ
+        =
+        
+          
+            (
+            
+              1
+              −
+              
+                v
+                
+                  2
+                
+              
+              
+                /
+              
+              
+                c
+                
+                  2
+                
+              
+            
+            )
+          
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle \epsilon =\left(1-v^{2}/c^{2}\right)^{-1}}
+   and the local time 
+  
+    
+      
+        
+          t
+          
+            ′
+          
+        
+        =
+        t
+        −
+        v
+        x
+        
+          /
+        
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle t^{\prime }=t-vx/c^{2}}
+  . He obtained the full Lorentz transformation in 1900 by inserting 
+  
+    
+      
+        ϵ
+      
+    
+    {\displaystyle \epsilon }
+   into his expression of local time such that 
+  
+    
+      
+        
+          t
+          
+            ′
+            ′
+          
+        
+        =
+        
+          t
+          
+            ′
+          
+        
+        −
+        ϵ
+        v
+        
+          x
+          
+            ′
+          
+        
+        
+          /
+        
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle t^{\prime \prime }=t^{\prime }-\epsilon vx^{\prime }/c^{2}}
+  , and as before 
+  
+    
+      
+        
+          x
+          
+            1
+          
+        
+        =
+        
+          ϵ
+          
+            
+              1
+              2
+            
+          
+        
+        
+          x
+          
+            ′
+          
+        
+      
+    
+    {\displaystyle x_{1}=\epsilon ^{\frac {1}{2}}x^{\prime }}
+   and 
+  
+    
+      
+        d
+        
+          t
+          
+            1
+          
+        
+        =
+        
+          ϵ
+          
+            −
+            
+              
+                1
+                2
+              
+            
+          
+        
+        d
+        
+          t
+          
+            ′
+            ′
+          
+        
+      
+    
+    {\displaystyle dt_{1}=\epsilon ^{-{\frac {1}{2}}}dt^{\prime \prime }}
+  . This was done around the same time as Hendrik Lorentz (1899, 1904) and five years before Albert Einstein (1905).
+Larmor however did not possess the correct velocity transformations, which include the addition of velocities law, which were later discovered by Henri Poincaré. Larmor predicted the phenomenon of time dilation, at least for orbiting electrons, by writing  (Larmor 1897): "... individual electrons describe corresponding parts of their orbits in times shorter for the [rest] system in the ratio (1 – v2/c2)1/2". He also verified that the FitzGerald–Lorentz contraction (length contraction) should occur for bodies whose atoms were held together by electromagnetic forces. In his book Aether and Matter (1900), he again presented the Lorentz transformations, time dilation and length contraction (treating these as dynamic rather than kinematic effects). Larmor was opposed to the spacetime interpretation of the Lorentz transformation in special relativity because he continued to believe in an absolute aether. He was also critical of the curvature of space of general relativity, to the extent that he claimed that an absolute time was essential to astronomy (Larmor 1924, 1927).
+
+Publications
+1884, "Least action as the fundamental formulation in dynamics and physics", Proceedings of the London Mathematical Society.
+1887, "On the direct applications of first principles in the theory of partial differential equations", Proceedings of the Royal Society.
+1891, "On the theory of electrodynamics", Proceedings of the Royal Society.
+1892, "On the theory of electrodynamics, as affected by the nature of the mechanical stresses in excited dielectrics", Proceedings of the Royal Society.
+1893–97, "Dynamical Theory of the Electric and Luminiferous Medium", Proceedings of the Royal Society; Philosophical Transactions of the Royal Society. Series of 3 papers containing Larmor's physical theory of the universe.
+1896, "The influence of a magnetic field on radiation frequency", Proceedings of the Royal Society.
+1896, "On the absolute minimum of optical deviation by a prism", Proceedings of the Cambridge Philosophical Society.
+Larmor, J. (1897). "A Dynamical Theory of the Electric and Luminiferous Medium. Part III. Relations with Material Media". Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences. 190: 205–493. Bibcode:1897RSPTA.190..205L. doi:10.1098/rsta.1897.0020.
+1898, "Note on the complete scheme of electrodynamic equations of a moving material medium, and electrostriction", Proceedings of the Royal Society.
+1898, "On the origin of magneto-optic rotation", Proceedings of the Cambridge Philosophical Society.
+Larmor, J. (1900), Aether and Matter , Cambridge University Press; Containing the Lorentz transformations on p. 174.
+1903, "On the electrodynamic and thermal relations of energy of magnetisation", Proceedings of the Royal Society.
+1904, "On the mathematical expression of the principle of Huygens" (read 8 Jan. 1903), Proceedings of the London Mathematical Society, Ser. 2, vol. 1 (1904), pp. 1–13.
+1907, "Aether" in Encyclopædia Britannica, 11th ed.  London.
+1908, "William Thomson, Baron Kelvin of Largs. 1824–1907" (Obituary). Proceedings of the Royal Society.
+1921, "On the mathematical expression of the principle of Huygens — II" (read 13 Nov. 1919), Proceedings of the London Mathematical Society, Ser. 2, vol. 19 (1921), pp. 169–80.
+1924, "On Editing Newton", Nature.
+1927, "Newtonian time essential to astronomy", Nature.
+1929, Mathematical and Physical Papers. Cambridge Univ. Press.
+1937, (as editor), Origins of Clerk Maxwell's Electric Ideas as Described in Familiar Letters to William Thomson. Cambridge University Press.
+Larmor edited the collected works of George Stokes, James Thomson and William Thomson.
+
+See also
+Quotations related to Joseph Larmor at Wikiquote
+History of Lorentz transformations
+Dynamo theory
+Larmor precession
+Larmor (crater)
+
+References
+Further reading
+Bruce J. Hunt (1991), The Maxwellians, Cornell University Press.
+Macrossan, M. N. "A note on relativity before Einstein", British Journal for the Philosophy of Science, 37 (1986): 232–234.
+Warwick, Andrew, "On the Role of the FitzGerald–Lorentz Contraction Hypothesis in the Development of Joseph Larmor's Electronic Theory of Matter". Archive for History of Exact Sciences 43 (1991): 29–91.
+Darrigol, O. (1994), "The Electron Theories of Larmor and Lorentz: A Comparative Study", Historical Studies in the Physical and Biological Sciences, 24 (2): 265–336, doi:10.2307/27757725, JSTOR 27757725
+"A very short biography of Joseph Larmor"
+"Ether and field theories in the late 19th century" At VictorianWeb: History of science in the Victorian era
+"Papers of Sir Joseph Larmor". Janus, University of Cambridge.
+"Larmor, Sir Joseph" . Thom's Irish Who's Who . Dublin: Alexander Thom and Son Ltd. 1923. p. 132  – via Wikisource.
+
+External links
+ Media related to Joseph Larmor at Wikimedia Commons

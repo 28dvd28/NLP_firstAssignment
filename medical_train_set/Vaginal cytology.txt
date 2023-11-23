@@ -1,0 +1,37 @@
+Vaginal cytology is a microscopic examination of cells from the vaginal epithelium. In veterinary medicine, it helps differentiate the stages of the mammalian estrous cycle because the vaginal epithelium changes in response to sex hormone levels; practically, it is used to distinguish when a female canine is at a particular point in the estrous cycle. In a normal vaginal smear, lactational cells, navicular cells, endocervical cells, endometrial cells, trophoblastic cells, and leucocytes may be present.
+Vaginal cytology allows a clinician to:
+
+Determine whether a canine is actually in heat.
+Aid in determining the correct time to begin performing more expensive serum progesterone and luteinizing hormone (LH) assays for precise ovulation timing.
+Determine if it is too late in the estrous cycle to perform artificial insemination in dogs unable or unwilling to breed naturally.
+Determine if a bitch is under the influence of estrogen.
+Predict the correct day to perform an elective cesarean section.The equipment needed for vaginal cytology includes a vaginal speculum, cotton-tipped applicators, frosted microscope slides, commercial Romanowsky stain, and light microscope.
+
+Types of cells
+Basal cells - give rise to all epithelium in a vaginal smear. They are small cells with round nuclei, and a high nucleus-to-cytoplasm (N:C) ratio. They are rarely observed.
+Parabasal cells - the smallest epithelial cells seen on a typical vaginal smear, and are derived from the basal layer of squamous epithelial cells. They are round or nearly round and have a high nucleus-to-cytoplasm (N:C) ratio. Cytoplasm is dense and basophilic.  The nucleus has finely granular chromatin and is vesiculated.
+Intermediate cells - two to three times larger than parabasal cells, but their nuclei are similar in size to parabasal cell nuclei. Small intermediate cells are round or almost round with a large prominent nucleus. Large intermediate cells, also called superficial intermediate cells or transitional intermediate cells, have a polygonal shape, and a small N:C ratio.
+Superficial cells (dead cells) - the largest cells seen on a vaginal cytology and are derived from the outermost layer of non-keratinized epithelial cells. They are polygonal in shape, flat, and often have the appearance of being rolled up. The nuclei are absent or pyknotic, meaning small and dark. The cytoplasm may develop small vacuoles as the cells age. Cornification is the degeneration process into these large, flat, anucleated cells. Superficial cells without nuclei are considered fully cornified.
+Metestrum cells - vaginal epithelial cells containing neutrophils in their cytoplasm. Although their name implies they are seen during metestrus, these cells are not specific for any stage of estrous.
+Foam cells - sometimes seen during anestrus, and are simply nondescript cells with large vacuoles.
+
+Observable cells in each stage of estrous cycle
+Proestrus
+Early- to mid-proestrus - During this stage, vaginal cytology will show a gradual shift from parabasal cells, to intermediate cells, to superficial cells. Also present are neutrophils and red blood cells in large numbers. The red blood cells are due to the proliferation of vaginal epithelium caused by increased levels of estrogen. The cells may float in basophilic mucous.Late-proestrus - there is a decrease in neutrophils because they are unable to cross the thickening vaginal wall. Cytology consists mostly of large intermediate and superficial cells. Red blood cells and bacteria may be present.
+
+Estrus
+Estrus is characterized by the presence of all superficial cells, many of which are anuclear (without a nucleus) or have small, pyknotic nuclei, and red blood cells may be present, along with bacteria. No neutrophils are seen unless there is inflammation. There is usually no mucous in the background.
+
+Diestrus
+In diestrus, superficial cells are replaced by parabasal and intermediate cells within one to two days of onset.  Neutrophils are increased. Red blood cells may be absent or present. Bacteria is commonly observed. A smear made during late estrus to early diestrus may appear similar to one made in early- or mid-proestrus.
+
+Anestrus
+The final stage of estrous is anestrus, which is characterized by predominantly non-cornified squamous epithelial cells, such as intermediate or parabasal cells. The cells are smaller, have basophilic cytoplasm, and large round nuclei. There may be some neutrophils, but no red blood cells. The overall cellularity is low.
+
+See also
+Canine reproduction
+Reproductive cycle
+Cytopathology
+
+
+== References ==

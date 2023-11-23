@@ -1,0 +1,25 @@
+DirectHit is a pharmacodiagnostic test used to determine the tumor sensitivity or resistance to drug regimens recommended for the treatment of breast cancer by the National Comprehensive Cancer Network. It is a noninvasive test performed on small amounts of tissue removed during the original surgery lumpectomy, mastectomy, or core biopsy. DirectHit was developed by CCC Diagnostics Inc., a biotechnology company established by former researchers from Johns Hopkins University. DirectHit was launched on 14 January 2010. Currently, it is the only available test for predicting treatment outcomes for anticancer chemotherapy drugs for breast cancer.
+
+Technology
+DirectHit is based on quantitative immunofluorescence technology. According to recent studies, quantitative immunofluorescence (QIF) can be applied to the standardization of protein analysis, resulting in increased sensitivity and reproducibility. It is important to be able to quantitate the expression of predictive factors in breast cancer, because response to therapy is often dependent upon the concentration of particular proteins within the tissue.DirectHit utilizes monoclonal antibodies (mAb) corresponding to each biomarker to stain the tumor tissue samples. Slides are evaluated with a computerized, fluorescence microscopy system . Digital images are acquired through a CCCD camera. An algorithm was developed to process and analyze the digital images allowing direct relation between the amount of a specific protein within the cancer cells of the tumor and response to the corresponding drug. Quantitative measurement of up to five signals in a single cell can be obtained.
+
+Clinical Trials
+The DirectHit Panel for Breast Cancer was validated in retrospective clinical trials conducted at The University of Maryland Greenebaum Cancer Center and Harborview Cancer Center in Baltimore, MD. One key biomarker was selected as a correspondent to each drug, These biomarkers were identified as playing a significant role in cancer processes and as bearing a mechanistic relation to the action of the specified drug. The drug groups used as treatment and their related biomarkers are as follows: Trastuzumab/HER-2/neu, Antiestrogens/Estrogen Receptor, Taxanes/beta-tubulin III, 5FU/Thymidylate Synthase.In these trials DirectHit analysis of estrogen receptor and HER-2/neu displayed a higher predictive accuracy for treatment outcomes with anti estrogen drugs and Trastuzumab than standard methods. In addition DirectHit displayed exceptional predictive accuracy for chemotherapy response (88%). DirectHit also displayed an extreme specificity for predictions of drug resistance (100%).
+
+Cost
+The cost of the DirectHit Panel for Breast Cancer is $3500. The use of DirectHit could result in significant cost savings because physicians will be able to customize treatment regimens for patients, eliminating ineffective drugs that would have otherwise been prescribed
+If a 50% treatment failure rate is assumed for standard chemotherapy, then the use of the DirectHit Test Panel for Breast Cancer could result in potential savings of approximately $466M in drug costs alone for 40,000 late stage cancer patients in the United States. If ancillary costs are also considered, DirectHit testing could result in a total savings of $566M - $666M.
+
+See also
+Johns Hopkins University − the university that developed this method of breast cancer testing
+National Comprehensive Cancer Network − a US government initiative for cancer research
+
+References
+Further reading
+Giltrane GM, Molinaro, A, Cheng, H, Robinson A, Turbin D, Gelmon K, Huntsman D, and Rimm DL. Comparison of Quantitative Immunofluorescence with Conventional Methods for Her-2/neu testing With Respect to Trastuzumab Therapy in Metastatic Breast Cancer. Archives of Pathology and Laboratory Medicine, 2008; 132, 1635–1647.
+Bertucci F, Birnbaum D, and Goncalves A. Proteomics of Breast Cancer, Principles and Potential Clinical Applications. Molecular & Cellular Proteomics, 2006; 5, 1772–1786.
+
+External links
+Cancer.org
+CCC Diagnostics Homepage
+Directhittest.com

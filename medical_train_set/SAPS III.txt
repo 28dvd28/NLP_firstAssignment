@@ -1,0 +1,35 @@
+The Simplified Acute Physiology Score III (SAPS III) is a system for predicting mortality, one of several ICU scoring systems. It is a supplement to the SAPS II scoring system. It has been designed to provide a real-life predicted mortality for a patient by following a well defined procedure, based on a mathematical model that needs calibration. Predicted mortalities are good when comparing groups of patients, and having near-real-life mortalities means, that this scoring system can answer questions like "if the patients from hospital A had been in hospital B, what would their mortality have been?".
+However, in order to achieve this functionality, you must calibrate the system, which is additional effort, and it is difficult to compare two groups of patients if they were not scored using the same calibration. SAPS III is therefore not suitable by itself for publishing data about the morbidity of a single group of patients.
+The SAPS III project is conducted by the SAPS III Outcomes Research Group (SORG).
+Some shared calibrations make it possible to calculate a calibration-specific SAPS III score using paper forms.
+
+DID SAPS III
+The Danish Intensive care Database (DID) has a standard-form to calculate SAPS III scores for their specific purpose, and require participating ICUs to provide:
+
+Age
+Length of hospital stay before admission to the ICU
+What kind of department did the patient arrive from
+A checklist of specific diagnoses that the patient has had
+Earlier treatments using vasoactive drugs
+Was the patient admitted acutely or planned?
+A checklist of why the patient was admitted to the ICU
+Surgery: Acute surgery, planned surgery or no surgery
+Type of surgery
+Acute infections at admission
+Estimated Glasgow Coma Score
+Serum Bilirubin
+Body temperature
+Serum Creatinine
+Heart Rate
+Leukocyte count
+pH
+Thrombocyte (platelet) count
+Systolic blood pressure
+Oxygenation (PaO2/FiO2 and PaO2, ventilation)Each of these values are given points based on value intervals, similar to SAPS II, and a score is calculated. The actual result is not a general SAPS III score, but can be considered an updated version of SAPS II.
+
+References
+External links
+The SAPS III Outcome Research Group
+SAPS 3—From evaluation of the patient to evaluation of the intensive care unit.
+Guide to registering SAPS III (Danish)
+Online calculator of the SAPS III

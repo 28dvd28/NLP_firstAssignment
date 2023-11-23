@@ -1,0 +1,24 @@
+A catheterization laboratory, commonly referred to as a cath lab, is an examination room in a hospital or clinic with diagnostic imaging equipment used to visualize the arteries of the heart and the chambers of the heart and treat any stenosis or abnormality found.
+
+Equipment
+Most catheterization laboratories are "single plane" facilities, those that have a single X-ray generator source and an X-ray image intensifier for fluoroscopic imaging. Older cath labs used cine film to record the information obtained, but since 2000, most new facilities are digital. The latest digital cath labs are biplane (have two X-ray sources) and use flat panel detectors.
+
+Staff
+Cardiac catheterization laboratories are usually staffed by a multidisciplinary team. This may include a medical practitioner (normally either a consultant cardiologist or radiologist), cardiac physiologist, radiographer and nurse.
+
+Medical practitioner (interventional cardiologist/electrophysiologist)
+The consultant cardiologist is responsible for gaining arterial access, inserting a sheath into either the radial or femoral artery, passing a wire and catheter into the coronary artery and selectively injecting contrast media into the coronary arteries. They then interpret the images taken to ascertain where the narrowed or blocked artery has the problem. They use a variety of techniques and imaging tools to measure the size of things such as balloons and stents.
+
+Cardiac physiologist
+Cardiac physiologists usually set up what is known as a transducer to monitor pressure in the arteries. They also have a live view of the patients ECG so they can tell whether or not there is a problem caused by the insertion of the catheter into the heart to the electrical pathways. The physiologist will also set up a temporary pacemaker if the procedure is an angioplasty or a percutaneous coronary intervention (PCI). Finally, they also set up defibrillators on to the patient for emergency use if needed. In some locations, some of these responsibilities may be carried out by other personnel, such as trained nurses or technologists.
+
+Procedures
+Cardiac catheterization is a general term for a group of procedures that are performed in the cath lab, such as coronary angiography. Once a catheter is in place, it can be used to perform a number of procedures including angioplasty, PCI (percutaneous coronary intervention) angiography, transcatheter aortic valve replacement, balloon septostomy, and an electrophysiology study or catheter ablation. Devices such as pacemakers may be fitted or rotablation to remove plaque can be performed.
+
+See also
+Cardiology
+
+References
+External links
+MedlinePlus Medical Encyclopedia: Cardiac catheterization
+Observational study on cases of brain and neck tumors among cath lab operators

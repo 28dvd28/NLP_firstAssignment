@@ -1,0 +1,35 @@
+The Mathematical Olympiad Program (abbreviated MOP; formerly called the Mathematical Olympiad Summer Program, abbreviated MOSP) is an intensive summer program held at Carnegie Mellon University. The main purpose of MOP, held since 1974, is to select and train the six members of the U.S. team for the International Mathematical Olympiad (IMO).
+
+Selection Process
+Students qualify for the program by taking the United States of America Mathematical Olympiad (USAMO). The top twelve American scorers from all grades form the "black" group. The approximately eighteen next highest American scorers among students from 11th grade and under form the "blue" group.
+In 2004, the program was expanded to include approximately thirty of the highest-scoring American freshmen and sophomores each year, the "red" group; this was later split into two, forming the "green" group, which consists of approximately fifteen of the highest-scoring freshmen and sophomores who have qualified through the USAMO, and the "red" group, which consists of those who have qualified through the USAJMO. The colorful designations of these groups were adapted from Karate.  Also, with the new system the black group includes more or less only the IMO team, which is not necessarily all USAMO winners.
+Until 2011, only black group MOPpers were eligible for the selection to the USA IMO team, determined by combining USAMO results with results of a similar competition called the Team Selection Test (TST). From 2011, a new competition called the Team Selection Test Selection Test (TSTST) was established; this competition is open for any of the participants of MOP, and along with results from the USAMO, determines the students who take the TSTs. This ultimately, along with the USAMO and MOP competitions, determines the IMO team.
+Canadians are allowed to take the USAMO, but are not allowed to participate in MOP unless they are U.S. residents. Occasionally, when Canadians are amongst the USAMO winners, top scoring honorable mentions are added to the black group. These additional students are also eligible for the IMO team. In 2005, such a student did qualify for the team and went on to win a gold medal at the IMO. Under the TSTST system, effective 2011, honorable mentions can qualify for the IMO team and will be placed in the black group if they do so.
+MOP usually invites female students to the camp to prepare them for the process of selecting EGMO attendees.
+The camp was led by director Po-Shen Loh and assistant academic director Evan Chen. In 2023, Po-Shen Loh resigned from his position. Approximately 15 to 20 international students have been invited each year since 2016 (excluding 2020 though 2022 because of the COVID-19 pandemic) in an effort to provide a unique and diverse experience at MOP and build connections across borders.
+
+Cutoff scores
+Red cutoffs from 2010 onward refer to USAJMO, while those for 2009 and earlier refer to USAMO.
+
+The cutoff scores for each group are not entirely rigid; some students are moved between groups at the beginning of the program. However, the cutoffs do dictate who is invited to the program.
+Note that the Black color group cutoff is ill-defined, because a student could score above an IMO team member on the USAMO without being placed into the Black color group.
+
+Locations
+The first few MOPs were held at Rutgers University. After that, and until 1995, the program was alternately hosted by the United States Naval Academy in Annapolis, Maryland in even-numbered years and by the United States Military Academy at West Point in odd-numbered years. The 1995 MOP was held at IMSA in Aurora, Illinois, where then-MOP director Titu Andreescu was a member of the math faculty. Most of the MOPs from 1996 through 2014 were held in Lincoln, Nebraska where the AMC headquarters is located. An exception was made in the summer of 2001, as the United States would be hosting the IMO that year in Washington, D.C., and nearby Georgetown was selected as the location for MOP. Since 2015, MOP has been held at Carnegie Mellon University in Pittsburgh, Pennsylvania (except in 2020 and 2021, when it was held online due to COVID-19 pandemic concerns).
+
+Competitions at MOP
+Team Selection Test Selection Test (TSTST)
+From 2011 to 2019, the TSTST took place in the latter days of MOP. In 2020, TSTST was administered remotely after MOP during the school year. The three days of TSTST 2020 were administered on:
+November 12, 2020
+December 10, 2020
+January 21, 2021The team selection process for IMO 2022 closely resembles the selection process for IMO 2021. Instead of being administered at the end of MOP, the TSTSTs will be administered on selected Thursdays in each of the months November, December, and January.
+
+Year-round MOP
+For years, the idea of extending the training program for the U.S. IMO team was discussed.  During the 2004–2005 school year, U.S. IMO team coach Zuming Feng directed the Winter Olympiad Training Program, utilizing the Art of Problem Solving (AoPS) site for discussion purposes.  The program was short-lived, lasting only that year.  MOP participants are now able to participate for free in Art of Problem Solving's WOOT program for year-round olympiad training.
+
+References
+External links
+Art of Problem Solving's WOOT Program
+Anders Kaseorg's MOPper World
+Michael Freiman's MOP Literature Page (archived)
+Archive of Problems and Solutions to the U.S. IMO Team Selection Tests

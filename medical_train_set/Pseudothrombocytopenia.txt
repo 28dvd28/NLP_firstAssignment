@@ -1,0 +1,16 @@
+Pseudothrombocytopenia (PTCP) or spurious thrombocytopenia is an in-vitro sampling problem which may mislead the diagnosis towards the more critical condition of thrombocytopenia. The phenomenon occurs when the anticoagulant used while testing the blood sample causes clumping of platelets which mimics a low platelet count.
+The phenomenon has first been reported in 1969.
+
+Causes
+It is a relatively uncommon phenomenon caused by in vitro agglutination of platelets. As a result of platelet clumping, platelet counts reported by automated counters may be much lower than the actual count in the blood because these devices cannot differentiate platelet clumps from individual cells.
+Pseudothrombocytopenia has been reported in association with the use of EDTA as an anticoagulant, with platelet cold agglutinins, and with multiple myeloma.
+Other risk factors associated with pseudothrombocytopenia are autoimmune diseases, infections, pregnancy and the treatment with some medications such as low-molecular-weight heparin, valproic acid, insulin, antibiotics and chemotherapy medications like sunitinib.The prevalence of pseudothrombocytopenia in K2-EDTA reported in different studies ranges from 0.03 to 0.27 percent in outpatients, which accounts for 15 to 30 percent of all cases of isolated thrombocytopenia.
+Tests can mistake small clumps of platelets for leukocytes, thus showing a pseudo­leukocytosis in blood counts.
+
+Failsafes and avoiding false-positives
+A pseudothrombocytopenia false-positive result may occur when automated platelet counting devices are used. As a means of double checking the results, the patient's blood sample is often examined under a microscope.  If the clumping is visible and the number of platelets appears normal, pseudothrombocytopenia may be concluded. A second sample run with a different anticoagulant such as sodium citrate (blue top tube) to confirm the finding of pseudothrombocytopenia may be requested if there are doubts or concerns. Other alternative anticoagulants are sodium fluoride, CPT (trisodium citrate, pyridoxal 5′-phosphate and tris), CTAD (citrate, theophylline, adenosine, and dipyridamole), magnesium sulfate and acid-citrate-dextrose.
+
+References
+Further reading
+W-H Choe; Y-U Cho; J-D Chae; S-H Kim (7 September 2012). "Pseudothrombocytopenia or platelet clumping as a possible cause of low platelet count in patients with viral infection: a case series from single institution focusing on hepatitis A virus infection". International Journal of Laboratory Hematology. 35 (1): 70–76. doi:10.1111/J.1751-553X.2012.01466.X. ISSN 1751-5521. PMID 22958573. Wikidata Q33403198.
+Froom, Paul; Barak, Mira (20 October 2010). "Prevalence and course of pseudothrombocytopenia in outpatients". Clinical Chemistry and Laboratory Medicine. 49 (1): 111–114. doi:10.1515/CCLM.2011.013. ISSN 1434-6621. PMID 20961195. Wikidata Q33392370.

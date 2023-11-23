@@ -1,0 +1,62 @@
+This is a list of positron emission tomography (PET) radiotracers. These are chemical compounds in which one or more atoms have been replaced by a short-lived, positron emitting radioisotope.
+
+Cardiology
+[15O] water
+[13N] ammonia
+[82Rb] Rubidium-82 chloride
+[11C] Acetate (Also used in oncology)
+
+Neurology
+[11C] 25B-NBOMe (Cimbi-36)
+[18F] Altanserin
+[11C] Carfentanil
+[11C] DASB
+[11C] DTBZ or [18F]Fluoropropyl-DTBZ
+[11C] [11C] ME@HAPTHI
+[18F] Fallypride
+[18F] Florbetaben
+[18F] Flubatine
+[18F] Fluspidine
+[18F] Florbetapir
+[18F] or [11C] Flumazenil
+[18F] Flutemetamol
+[18F] Fluorodopa
+[18F] Desmethoxyfallypride
+[18F] Mefway
+[18F] MPPF
+[18F] Nifene
+[11C] Pittsburgh compound B
+[11C] Raclopride
+[18F] Setoperone
+[18F] or [11C] N-Methylspiperone
+[11C] VerapamilNIMH maintains a list of CNS radiotracers that may be useful for additional information.
+
+Neuroepigenetics
+[11C] Martinostat
+
+Oncology
+[18F] Fludeoxyglucose (18F) (FDG)-glucose analogue
+[11C] Acetate
+[11C] Methionine
+[11C] choline
+[18F] EF5
+[18F] Fluciclovine
+[18F] Fluorocholine
+[18F] FET
+[18F] FMISO
+[18F] Fluorothymidine F-18
+[64Cu] Cu-ETS2
+[64Cu] Copper-64 DOTA-TATE
+[68Ga] DOTA-pseudopeptides
+[68Ga] DOTA-TATE
+[68Ga] PSMA
+[68Ga] CXCR4; solid and hematologic cancers
+
+Infectious diseases
+[18F] Fluorodeoxysorbitol (FDS)
+
+Further reading
+CNS Radiotracers that have been advanced for use in Human Studies
+
+
+== References ==

@@ -1,0 +1,12 @@
+Kepler-90g (also known by its Kepler Object of Interest designation KOI-351.02) is a super-puff exoplanet orbiting the early G-type main sequence star Kepler-90, one of eight planets around this star discovered using NASA's Kepler space telescope. It is located about 2,840 light-years (870 pc) from Earth, in the constellation Draco. The exoplanet was found by using the transit method, in which the dimming effect that a planet causes as it crosses in front of its star is measured. It orbits its parent star about every 210.5 days at a distance of 0.71 astronomical units.Kepler-90g's orbital period changes by 25.7 hours between two consecutive transits, caused by gravitational perturbations from other planets in the system. Additionally, changes in the depth and duration of transit events led to an exomoon being hypothesized to orbit this planet. However, this candidate moon was later found to be a false positive.A 2020 analysis of transit-timing variations of Kepler-90g and h found a best-fit mass of 15+0.9−0.8 M🜨 for planet g. This is between the masses of Uranus and Neptune. Given a transit-derived radius of 8.1 R🜨, Kepler-90g was found to have an extremely low density of 0.15±0.05 g/cm3, unusually inflated for its mass and insolation. Several possible explanations for its apparently low density include a puffy planet with a dusty atmosphere or a smaller planet surrounded by a tilted wide ring system (albeit the latter option is less likely due to the lack of evidence for rings in transit data).
+
+Host star
+The planet orbits a G-type star named Kepler-90, its host star. The star is 1.2 times as massive as the Sun and is 1.2 times as large as the Sun. It is estimated to be 2 billion years old, with a surface temperature of 6080 K. In comparison, the Sun is about 4.6 billion years old and has a surface temperature of 5778 K.
+
+See also
+Kepler-1625b
+Kepler-51
+HIP 41378 f
+
+
+== References ==

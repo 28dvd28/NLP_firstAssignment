@@ -1,0 +1,57 @@
+Cornelia Druțu is a Romanian mathematician notable for her contributions in the area of geometric group theory. She is Professor of mathematics at the University of Oxford and Fellow of Exeter College, Oxford.
+
+Education and career
+Druțu was born in Iaşi, Romania. She attended the Emil Racoviță High School (now the National College Emil Racoviță) in Iași. She earned a B.S. in Mathematics from the University of Iași, where besides attending the core courses she received extra curricular teaching in geometry and topology from Professor Liliana Răileanu.Druțu earned a Ph.D. in Mathematics from University of Paris-Sud, with a thesis entitled Réseaux non uniformes des groupes de Lie semi-simple de rang supérieur et invariants de quasiisométrie, written under the supervision of Pierre Pansu. She then joined the University of Lille 1 as Maître de conférences (MCF). In 2004 she earned her Habilitation degree from the University of Lille 1.In 2009 she became Professor of mathematics at the Mathematical Institute, University of Oxford.She held visiting positions at the Max Planck Institute for Mathematics in Bonn, the Institut des Hautes Études Scientifiques in Bures-sur-Yvette, the Mathematical Sciences Research Institute in Berkeley, California. She visited the Isaac Newton Institute in Cambridge as holder of a Simons Fellowship. From 2013 to 2020 she chaired the European Mathematical Society/European Women in Mathematics scientific panel of women mathematicians.
+
+Awards
+In 2009, Druțu was awarded the Whitehead Prize by the London Mathematical Society for her work in geometric group theory.In 2017, Druțu was awarded a Simons Visiting Fellowship.
+
+Publications
+Selected contributions
+The quasi-isometry invariance of relative hyperbolicity; a characterization of relatively hyperbolic groups using geodesic triangles, similar to the one of hyperbolic groups.
+A classification of relatively hyperbolic groups up to quasi-isometry; the fact that a group with a quasi-isometric embedding in a relatively hyperbolic metric space, with image at infinite distance from any peripheral set, must be relatively hyperbolic.
+The non-distortion of horospheres in symmetric spaces of non-compact type and in Euclidean buildings, with constants depending only on the Weyl group.
+The quadratic filling for certain linear solvable groups (with uniform constants for large classes of such groups).
+A construction of a 2-generated recursively presented group with continuum many non-homeomorphic asymptotic cones. Under the continuum hypothesis, a finitely generated group may have at most continuum many non-homeomorphic asymptotic cones, hence the result is sharp.
+A characterization of Kazhdan's property (T) and of the Haagerup property using affine isometric actions on median spaces.
+A study of generalizations of Kazhdan's property (T) for uniformly convex Banach spaces.
+A proof that random groups satisfy strengthened versions of Kazhdan's property (T) for high enough density; a proof that for random groups the conformal dimension of the boundary is connected to the maximal value of p for which the groups have fixed point properties for isometric affine actions on 
+  
+    
+      
+        
+          L
+          
+            p
+          
+        
+      
+    
+    {\displaystyle L^{p}}
+   spaces.
+
+Selected publications (in the order corresponding to the results above)
+Druţu, Cornelia (2009). "Relatively hyperbolic groups: geometry and quasi-isometric invariance". Commentarii Mathematici Helvetici. 84: 503–546. arXiv:math/0605211. doi:10.4171/CMH/171. MR 2507252. S2CID 7643177..
+Behrstock, Jason; Druţu, Cornelia; Mosher, Lee (2009). "Thick metric spaces, relative hyperbolicity, and quasi-isometric rigidity". Mathematische Annalen. 344 (3): 543–595. arXiv:math/0512592. doi:10.1007/s00208-008-0317-1. MR 2501302. S2CID 640737.
+Druţu, Cornelia (1997). "Nondistorsion des horosphères dans des immeubles euclidiens et dans des espaces symétriques". Geometric and Functional Analysis. 7 (4): 712–754. doi:10.1007/s000390050024. MR 1465600. S2CID 122966047.
+Druţu, Cornelia (2004). "Filling in solvable groups and in lattices in semisimple groups". Topology. 43 (5): 983–1033. arXiv:math/0110107. doi:10.1016/j.top.2003.11.004. MR 2079992. S2CID 15240355.
+Druţu, Cornelia; Sapir, Mark (2005). With an appendix by Denis Osin and Mark Sapir. "Tree-graded spaces and asymptotic cones of groups". Topology. 44 (5): 959–1058. arXiv:math/0405030. doi:10.1016/j.top.2005.03.003. MR 2153979. S2CID 119658274.
+Chatterji, Indira; Druţu, Cornelia; Haglund, Frédéric (2010). "Kazhdan and Haagerup properties from the median viewpoint". Advances in Mathematics. 225 (2): 882–921. CiteSeerX 10.1.1.313.1428. doi:10.1016/j.aim.2010.03.012. MR 2671183.
+Druțu, Cornelia; Nowak, Piotr W. (2017). "Kazhdan projections, random walks and ergodic theorems". Journal für die reine und angewandte Mathematik. 2019 (754): 49–86. arXiv:1501.03473. doi:10.1515/crelle-2017-0002. S2CID 118775530.
+Druțu, Cornelia; Mackay, John (2019). "Random groups, random graphs and eigenvalues of p-Laplacians". Advances in Mathematics. 341: 188–254. doi:10.1016/j.aim.2018.10.035. MR 3872847.
+
+Published book
+Druțu, Cornelia; Kapovich, Michael (2018). Geometric Group Theory (PDF). American Mathematical Society Colloquium Publications. Vol. 63. Providence, RI: American Mathematical Society. ISBN 978-1-4704-1104-6. MR 3753580.
+
+See also
+Geometric group theory
+Ultralimit
+Tree-graded space
+Kazhdan's property (T)
+
+References
+External links
+personal webpage, University of Oxford
+"MathSciNet". Retrieved October 31, 2010.
+"ArXiv.org". Retrieved October 31, 2010.
+Cornelia Druţu. "Papers". Retrieved October 31, 2010.

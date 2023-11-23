@@ -1,0 +1,5 @@
+The British Pediatric Association Classification of Diseases is a system of diagnostic codes used for pediatrics.
+An extension to ICD-9 was published in 1979.An extension to ICD-10 has also been published.It is the basis for the U.S. Centers for Disease Control and Prevention's six digit codes for reportable congenital conditions. These are also known as the "CDC/BPA codes". This system is in turn is the basis for the Texas Disease Index.
+
+
+== References ==

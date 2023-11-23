@@ -1,0 +1,10 @@
+The Krenning score is used to grade the uptake intensity of neuroendocrine tumors on somatostatin receptor imaging such as octreotide scan. Typically, peptide receptor radionuclide therapy (PRRT) is considered when the Krenning score is greater than 2.
+
+Krenning Score
+Grade 1: uptake < normal liver
+Grade 2: uptake = normal liver
+Grade 3: uptake > normal liver
+Grade 4: uptake > spleen or kidneys
+
+
+== References ==

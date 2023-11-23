@@ -1,0 +1,21 @@
+Lynn Harold Loomis (25 April 1915 – 9 June 1994) was an American mathematician working on analysis. Together with Hassler Whitney, he discovered the Loomis–Whitney inequality.
+Loomis received his PhD in 1942 from Harvard University under Salomon Bochner with thesis Some Studies on Simply-Connected Riemann Surfaces: I. The Problem of Imbedding II. Mapping on the Boundary for Two Classes of Surfaces. After completing his PhD, Loomis was a professor at Radcliffe College and from 1949 at Harvard. From 1956, he was a member of the American Academy of Arts and Sciences.
+
+Selected works
+Articles
+Loomis, Lynn H. (1942). "On an inequality of Seidel and Walsh". Bull. Amer. Math. Soc. 48 (12): 908–911. doi:10.1090/s0002-9904-1942-07820-7. MR 0008629.
+Loomis, Lynn H. (1943). "The converse of the Fatou theorem for positive harmonic functions". Trans. Amer. Math. Soc. 53 (2): 239–250. doi:10.1090/s0002-9947-1943-0007832-1. MR 0007832.
+Loomis, Lynn H. (1944). "A short proof of the completeness of the Laguerre functions". Bull. Amer. Math. Soc. 50 (6): 386–387. doi:10.1090/s0002-9904-1944-08151-2. MR 0010222.
+Loomis LH (1946). "On a theorem of von Neumann". Proc Natl Acad Sci U S A. 32 (8): 213–215. doi:10.1073/pnas.32.8.213. PMC 1078923. PMID 16578206.
+Loomis, Lynn H. (1946). "A note on the Hilbert transform". Bull. Amer. Math. Soc. 52 (12): 1082–1086. doi:10.1090/s0002-9904-1946-08713-3. MR 0019155.
+with Hassler Whitney: Loomis, L. H.; Whitney, H. (1949). "An inequality related to the isoperimetric inequality". Bull. Amer. Math. Soc. 55 (10): 961–962. doi:10.1090/S0002-9904-1949-09320-5. MR 0031538.
+
+Books
+Introduction to Abstract Harmonic Analysis, Van Nostrand 1953
+with Shlomo Sternberg Advanced Calculus, Addison-Wesley 1968 (revised 1990, Jones and Bartlett; reprinted 2014, World Scientific) [a challenging text for (first-year) undergraduate students treating calculus on Banach spaces and differentiable manifolds; see Math 55]
+Introduction to Calculus, Addison-Wesley 1975
+Calculus, Addison-Wesley 1974, 1982
+
+Notes
+External links
+Lynn Harold Loomis at the Mathematics Genealogy Project

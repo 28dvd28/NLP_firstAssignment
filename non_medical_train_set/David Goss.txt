@@ -1,0 +1,16 @@
+David Mark Goss (April 20, 1952 – April 4, 2017) was a mathematician, a professor in the department of mathematics at Ohio State University, and the editor-in-chief of the Journal of Number Theory. He received his B.S. in mathematics in 1973 from University of Michigan and his Ph.D. in 1977 from Harvard University under the supervision of Barry Mazur; prior to Ohio State he held positions at Princeton University, Harvard, the University of California, Berkeley, and Brandeis University. He worked on function fields and introduced the Goss zeta function.
+In 2012, he became a fellow of the American Mathematical Society.
+
+Books
+Goss, David (1996), Basic structures of function field arithmetic, Ergebnisse der Mathematik und ihrer Grenzgebiete (3) [Results in Mathematics and Related Areas (3)], vol. 35, Berlin, New York: Springer-Verlag, ISBN 978-3-540-61087-8, MR 1423131
+
+Selected papers
+Goss, David (1980). "The algebraist's upper half-plane". Bull. Amer. Math. Soc. (N.S.). 2 (3): 391–415. doi:10.1090/s0273-0979-1980-14751-5. MR 0561525.
+Goss, David (1981). "A simple approach to the analytic continuation and values at negative integers for Riemann's zeta function". Proc. Amer. Math. Soc. 81 (4): 513–517. doi:10.1090/s0002-9939-1981-0601719-8. MR 0601719.
+Goss, David (1985). "Units and class-groups in the arithmetic theory of function fields". Bull. Amer. Math. Soc. (N.S.). 13 (2): 131–132. doi:10.1090/s0273-0979-1985-15395-9. MR 0799794.
+Goss, David (1991). "A formal Mellin transform in the arithmetic of function fields". Trans. Amer. Math. Soc. 327 (2): 567–582. doi:10.1090/s0002-9947-1991-1041048-5. MR 1041048.
+
+References
+External links
+Home page of David Goss
+David Goss on MathSciNet

@@ -1,0 +1,10 @@
+Gravindex is an agglutination inhibition test performed on a urine sample to detect pregnancy. It is based on double antigen antibody reaction. The test detects the prevention of agglutination of HCG-coated latex particles by HCG present in the urine of pregnant women.
+
+Procedure and results
+Kits commercially available contain two reagents; one is a suspension of HCG-coated latex particles, and the other is a solution of HCG antibodies. One drop of the urine is mixed with one drop of antibody solution for one minute on a black glass slide. One drop of the HCG-coated latex particles are added to the slide and left for one minute.
+
+If the level of HCG is too low, the antibodies will remain to agglutinate the HCG-coated latex particles. If agglutination occurs, the subject is not pregnant.
+If the level of HCG is high, the HCG will bind to the antibodies, and thus no agglutination with the HCG-coated latex particles occurs. If no agglutination occurs, the subject is pregnant.
+
+
+== References ==

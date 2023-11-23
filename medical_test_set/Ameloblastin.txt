@@ -1,0 +1,14 @@
+Ameloblastin (abbreviated AMBN and also known as Sheathlin or Amelin) is an enamel matrix protein that in humans is encoded by the AMBN gene.
+
+Function
+Ameloblastin is a specific protein found in tooth enamel. Although less than 5% of enamel consists of protein, ameloblastins constitute 5–10% of all enamel protein, making it the second most abundant enamel matrix protein. This protein is formed by ameloblasts during the early secretory to late maturation stages of amelogenesis. Although not completely understood, the function of ameloblastins is believed to be in controlling the elongation of enamel crystals and generally directing enamel mineralization during tooth development. Ameloblastin helps in the growth of a crystalline enameloid layer consisting of randomly oriented short enamel crystals. Ameloblastin cleavage products are found in the sheath space between rod and interrod enamel, while intact ameloblastin accumulates on the enamel rods. This difference in localization is thought to maintain the boundary between rod and interrod enamel.Ameloblastin is generally implicated in enamel development, but may also have a role in root development. Other possible actions include bone remodeling and repair, although this function has yet to be definitively proven.Other significant proteins in enamel are amelogenins, enamelins, and tuftelins.
+
+Clinical significance
+Mutations in AMBN cause amelogenesis imperfecta, a disease characterized by abnormal enamel formation resulting in discolored, pitted, or spotted enamel. These mutations are rare, and follow an autosomal recessive pattern of inheritance.
+
+References
+This article incorporates text from the United States National Library of Medicine, which is in the public domain.
+
+Further reading
+External links
+Human AMBN genome location and AMBN gene details page  in the UCSC Genome Browser.

@@ -1,0 +1,36 @@
+Medical malpractice is a legal cause of action that occurs when a medical or health care professional, through a negligent act or omission, deviates from standards in their profession, thereby causing injury or death to a patient. The negligence might arise from errors in diagnosis, treatment, aftercare or health management.
+An act of medical malpractice usually has three characteristics. Firstly, it must be proven that the treatment has not been consistent with the standard of care, which is the standard medical treatment accepted and recognized by the profession. Secondly, it must be proven that the patient has suffered some kind of injury due to the negligence. In other words, an injury without negligence or an act of negligence without causing any injury cannot be considered malpractice. Thirdly, it must be proven that the injury resulted in significant damages such as disability, unusual pain, suffering, hardship, loss of income or a significant burden of medical bills.
+
+Medical malpractice law
+In common law jurisdictions, medical malpractice liability is normally based on the tort of negligence.Although the law of medical malpractice differs significantly between nations, as a broad general rule liability follows when a health care practitioner does not show a fair, reasonable and competent degree of skill when providing medical care to a patient. If a practitioner holds himself out as a specialist a higher degree of skill is required. Jurisdictions have also been increasingly receptive to claims based on informed consent, raised by patients who allege that they were not adequately informed of the risks of medical procedures before agreeing to treatment.As law varies by jurisdiction, the specific professionals who may be targeted by a medical malpractice action will vary depending upon where the action is filed. Among professionals that may be potentially liable under medical malpractice laws are:
+
+Physicians, surgeons, psychiatrists and dentists.
+Nurses, midwives, nurse practitioners, and physician assistants.
+Allied health professionals - including physiotherapists, osteopaths, chiropractors, podiatrists, occupational therapists, social workers, psychologists, pharmacists, optometrists and medical radiation practitioners.Among the acts or omissions that may potentially support a medical malpractice claim are the failure to properly diagnose a disease or medical condition, the failure to provide appropriate treatment for a medical condition, and unreasonable delay in treating a diagnosed medical condition. In some jurisdictions a medical malpractice action may be allowed even without a mistake from the doctor, based upon principles of informed consent, where a patient was not informed of possible consequences of a course of treatment and would have declined the medical treatment had proper information been provided in advance.
+
+United Kingdom
+The Supreme Court of the United Kingdom decided in 2018 that the duty of care extended to information given to patients by clerical staff of a healthcare provider, such that a medical negligence case might be predicated upon an administrative mistake. A patient at Croydon Health Services NHS Trust's emergency department had severe brain damage having been given misleading information by staff at reception.  He was told that he would be seen by a doctor in four or five hours and left the hospital, when actually he would be seen inside 30 minutes by a triage nurse.£1.7 billion on was spent on clinical negligence claims by the NHS in 2016/17. 36% of that was legal costs. In January 2018, NHS England announced that NHS hospitals in England would no longer provide office or advertising space for lawyers who encourage people to take the NHS to court.In 2019/20 11,682 medical negligence claims and reported incidents were received by the NHS – an increase of 9.3% on 2018/19. In the same time, the total value of clinical negligence claims under the CNST scheme reduced from £8.8 billion, to £8.3 billion.
+
+Litigation
+In many jurisdictions, a medical malpractice lawsuit is initiated officially by the filing and service of a summons and complaint. The parties subsequently engage in discovery," a process through which documents such as medical records are exchanged, and depositions are taken by parties involved in the lawsuit. A deposition involves the taking of statements made under oath about the case. Certain conversations are not discoverable due to issues of privilege, a legal protection against discovery, but most conversations between the parties and witnesses are discoverable.
+
+Consequences
+Consequences for patients and doctors vary by country.
+
+In Canada, all provinces except Quebec base medical malpractice liability on negligence, while Quebec follows a civil law system.
+Germany permits patients injured by medical negligence to bring a private action against the provider in contract, tort, or both.
+Sweden has implemented a no fault system for the compensation of people injured by medical treatment. Patients who want to bring malpractice claims may choose between bringing a traditional tort claim or a no fault claim.
+In New Zealand, the Accident Compensation Corporation provides no-fault compensation for victims.
+In the United States, tort lawsuits may be used to seek compensation for malpractice. Awards of compensation in the United States tend to be much larger than awards for similar injuries in other nations.A no-fault system may provide compensation to people who have medical outcomes that are significantly worse than would be anticipated under the circumstances, or where there is proof of injury resulting from medical error, without regard to whether or not malpractice occurred. Some no fault systems are restricted to specific types of injury, such as a birth injury or vaccine injury.
+
+Demography
+Medico-legal action across multiple countries is more common against male than female doctors (odds ratio of 2.45). A 2016 survey of US physicians found that 8.2 percent of physicians under the age of forty reported having been sued for malpractice during their careers, with 49.2 percent of physicians over the age of 54 reporting having been sued.
+
+See also
+
+Medical error
+Medical malpractice in the United States
+Quackery
+
+
+== References ==

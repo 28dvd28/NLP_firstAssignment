@@ -1,0 +1,26 @@
+An operating microscope or surgical microscope is an optical microscope specifically designed to be used in a surgical setting, typically to perform microsurgery.Design features of an operating microscope are: magnification typically in the range from 4x-40x, components that are easy to sterilize or disinfect in order to ensure cross-infection control.
+There is often a prism that allows splitting of the light beam in order that assistants may also visualize the procedure or to allow photography or video to be taken of the operating field.
+Typically an operating microscope might cost several thousand dollars for a basic model, more advanced models may be much more expensive. Additionally specialized microsurgical instruments may be required to make full use of the improved vision the microscope affords. It can take time to master use of an operating microscope.
+Fields of medicine that make significant use of the operating microscope include plastic surgery, dentistry (especially endodontics), ENT surgery, ophthalmic surgery, and neurosurgery.
+
+In eye surgery
+In Eye (ophthalmic) surgery, there are procedures which routinely utilize a surgical microscope, such as cataract surgery and corneal transplantation. An Optical coherence tomograph (OCT) can be added to aid the surgeon, especially during retinal surgery.
+
+In dentistry
+In dentistry, an example of a procedure which commonly uses an operating microscope would be endodontic retreatment, where the magnification provided by the operating microscope improves visualisation of the anatomy present leading to better outcomes for the patient. It has been suggested that the well-focused illumination and magnification should be part of a standard of care in endodontic therapy. However, a Cochrane review did not find any studies that met the inclusion criteria to confirm or dispute the hypothesis; therefore suggesting further research.
+
+Other procedures
+Surgical microscopes are used in anastomosis procedures carried out to join blood vessels in vascular surgery.
+Surgical microscopes are often used for the insertion of the Tympanostomy tube particularly in pediatric cases.
+
+See also
+Stereo microscope
+Optical coherence tomography
+Confocal microscope
+
+References
+Further reading
+Saunders WP, Saunders EM (July 1997). "Conventional endodontics and the operating microscope". Dental Clinics of North America. 41 (3): 415–28. doi:10.1016/S0011-8532(22)00060-X. PMID 9248683. S2CID 247910918.
+
+External links
+http://www.operatingmicroscopes.com/

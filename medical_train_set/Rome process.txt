@@ -1,0 +1,122 @@
+The Rome process and Rome criteria are an international effort to create scientific data to help in the diagnosis and treatment of functional gastrointestinal disorders, such as irritable bowel syndrome, functional dyspepsia and rumination syndrome. The Rome diagnostic criteria are set forth by Rome Foundation, a not for profit 501(c)(3) organization based in Raleigh, North Carolina, United States.
+
+History
+Several systematic approaches attempted to classify functional gastrointestinal disorders (FGIDs). As a result, there were several key events which ultimately led to the current Rome Classification. In 1962, Chaudhary and Truelove published their study of IBS patients in Oxford, England. This was the first attempt to classify the new field of functional gastrointestinal disorders. Much of what they reported has persisted to the present day.Subsequently, in 1978 came the "Manning Criteria" developed by Kenneth Heaton and colleagues in Bristol. This characterized IBS-D (IBS with predominant diarrhea), but importantly, a cluster of symptoms which were characteristic for this disorder. This ultimately became the basis for Rome's symptom-based criteria for IBS.From 1980 to 1994, there were several epidemiological and clinical studies evaluating symptom prevalence and frequency in healthy subjects and IBS patients. Thompson, Drossman, Talley, Whitehead, and Kruis.
+In 1989, the first consensus-based diagnostic criteria for IBS were established. The following year, a classification system for FGIDs was established.From 1991 to 1993, several working teams (esophagus, gastroduodenal, bowel, biliary, anorectal) published symptom-based criteria and clinical features of the functional GI disorders within these anatomic domains in Gastroenterology International.In 1993, a validated questionnaire of all the diagnostic criteria was created and was then applied in a national survey, the US Householder Survey: the first national epidemiological database on the prevalence, demographic factors, and health care seeking features of people with FGIDs.In 1994, FGIDs were categorized into anatomical domains and resulted in a book now recognized as Rome I – The Functional Gastrointestinal Disorders: Diagnosis, Pathophysiology and Treatment – A Multinational Consensus.The Rome criteria have been evolving from the first set of criteria issued in 1989 (The Rome Guidelines for IBS) through the Rome Classification System for functional gastrointestinal disorders (1990), or Rome-1, the Rome I Criteria for IBS (1992) and the functional gastrointestinal disorders (1994), the Rome II Criteria for IBS (1999) and the functional gastrointestinal disorders (1999) to the Rome III Criteria (2006). "Rome II" and "Rome III" incorporated pediatric criteria to the consensus.
+The Rome IV update was published 10 years later in May 2016.  This covers epidemiology, pathophysiology, psychosocial and clinical features, and diagnostic evaluation and treatment recommendations for 33 adult and 17 pediatric functional gastrointestinal disorders.
+
+Process
+The Rome criteria are achieved and finally issued through a consensual process, using the Delphi method (or Delphi technique). The Rome Foundation process is an international effort to create scientific data to help in the diagnosis and treatment of functional gastrointestinal disorders, also known as disorders of gut-brain interaction.  The Rome Diagnostic criteria are set forth by the Rome Foundation, an independent, not for profit 501(c)(3) organization.
+
+The Rome Foundation
+The Rome Foundation, incorporated in 1996 and based in Raleigh, North Carolina, is an independent not for profit 501(c) 3 organization. The foundation provides support for activities which foster clinical research, data and educational information which aid in the diagnosis and treatment of functional gastrointestinal disorders.Over the last 25 years, the Rome organization has sought to legitimize and update the knowledge of functional GI disorders. This has been accomplished by bringing together scientists and clinicians from around the world to classify and critically appraise the science of gastrointestinal function and dysfunction. This knowledge permits clinical scientists to make recommendations for diagnosis and treatment that can be applied in research and clinical practice. The mission is to improve the lives of people with these disorders.The goals of the Rome Foundation are to promote global recognition and legitimization of FGIDs, advance the scientific understanding of their pathophysiology, optimize clinical management for these patients and develop and provide educational resources to accomplish these goals.
+
+Definition of functional gastrointestinal disorders/disorders of gut-brain interaction
+Using the Delphi method, the Rome Foundation and its board of directors, chairs and co-chairs of the ROME IV committees developed the current definition for disorders of gut-brain interaction.A group of disorders classified by GI symptoms related to any combination of:
+Motility disturbance
+Visceral hypersensitivity
+Altered mucosal and immune function
+Altered gut microbiota
+Altered central nervous system (CNS) processing
+
+Evolution of Rome criteria
+Rome I
+In 1994, Rome I was published as The Functional Gastrointestinal Disorders:Diagnosis, Pathophysiology, and Treatment—A Multinational Consensus.
+
+Rome II
+By the mid-1990s, the concept of FGID classification and the use of diagnostic criteria was promoted due to the US Food and Drug Administration (FDA) recommended the use of the IBS criteria for selection into pharmaceutical studies, and the pharmaceutical companies took interest in supporting the efforts of the Rome Foundation to improve the understanding, diagnosis, and treatment of FGIDs and to also apply the use of these criteria in their pharmaceutical studies. In Rome II, the pediatric population of FGIDs was added.
+
+Rome III
+After publication of Rome II, the number of studies published using the Rome criteria in clinical trials grew tremendously over the next 15 years. Rome III differed from Rome I and II by the use of more evidence-based rather than consensus-based data.
+
+Rome IV
+After publication of Rome III in 2006, the Rome Foundation was well recognized as the authoritative body developing diagnostic criteria for research and also for providing education about the FGIDs. Rome IV tried to address the limitations of a symptom-based criteria in several ways:
+
+Some criteria have been simplified and cases not meeting criteria for research can still be identified and treated.
+Global education on FGIDs help to understand and characterize the cross-cultural differences in symptom reporting.
+Provide translations into other languages
+Creation of diagnostic algorithms for a functional GI disorder diagnosis or other diagnosisTo address the severity and variability of clinical presentation, a Multidimensional Clinical Profile (MDCP) system has been created that incorporates the diagnostic criteria with additional clinical, quality of life, psychosocial, and physiological (including biomarker) parameters to more precisely create an individualized treatment plan for the patient.To help clinicians be better trained in the diagnostic algorithms and the MDCP, the Rome Foundation is developing an interactive, intelligent software platform that will help clinicians make real-time treatment decisions using the diagnostic algorithms and MDCP knowledge base.In Rome IV, the classification moved from a physiologically based classification to a symptom-based classification. The classifications were based upon organ regions (i.e. esophageal, gastroduodenal, bowel, biliary, anorectal).
+
+Rome IV criteria/classification
+The original Rome classification was first published in 1990 and has since been modified with each iteration to develop the subsequent classifications with Rome II, III and IV. Beginning with the original publication in 1990 and leading to Rome I, the classification moved from a physiologically based classification to a symptom-based classification with additional classifications based upon organ regions (i.e. esophageal, gastroduodenal, bowel, biliary, anorectal). The current Rome IV classification is the culmination of the evolution of a series of iterations (Rome I, Rome II, and Rome III) with its inception as Rome I.The Rome criteria are a set of criteria used by clinicians to classify a diagnosis of a patient with an FGID (disorder of gut-brain interaction). These Rome criteria are updated every 6–10 years.The current Rome IV classification, published in 2016, is as follows:A. Esophageal Disorders
+
+A1. Functional chest pain
+A2. Functional heartburn
+A3. Reflux hypersensitivity
+A4. Globus
+A5. Functional dysphagiaB. Gastroduodenal Disorders
+
+B1. Functional dyspepsia
+B1a. Postprandial distress syndrome (PDS)
+B1b. Epigastric pain syndrome (EPS)
+B2. Belching disorders
+B2a. Excessive supragastric belching
+B2b. Excessive gastric belching
+B3. Nausea and vomiting disorders
+B3a. Chronic nausea vomiting syndrome (CNVS)
+B3b. Cyclic vomiting syndrome (CVS)
+B3c. Cannabinoid hyperemesis syndrome (CHS)
+B4. Rumination syndromeC. Bowel Disorders
+
+C1. Irritable bowel syndrome (IBS)
+IBS with predominant constipation (IBS-C)
+IBS with predominant diarrhea (IBS-D)
+IBS with mixed bowel habits (IBS-M)
+IBS unclassified (IBS-U)
+C2. Functional constipation
+C3. Functional diarrhea
+C4. Functional abdominal bloating/distension
+C5. Unspecified functional bowel disorder
+C6. Opioid-induced constipationD. Centrally Mediated Disorders of Gastrointestinal Pain
+
+D1. Centrally mediated abdominal pain syndrome (CAPS)
+D2. Narcotic bowel syndrome (NBS)/ Opioid-induced GI hyperalgesiaE. Gallbladder and Sphincter of Oddi disorders
+
+E1. Biliary pain
+E1a. Functional gallbladder disorder
+E1b. Functional biliary sphincter of Oddi disorder
+E2. Functional pancreatic sphincter of Oddi disorderF. Anorectal Disorders
+
+F1. Fecal incontinence
+F2. Functional anorectal pain
+F2a. Levator ani syndrome
+F2b. Unspecified functional anorectal pain
+F2c. Proctalgia fugax
+F3. Functional defecation disorders
+F3a. Inadequate defecatory propulsion
+F3b. Dyssynergic defecationG. Childhood Functional GI Disorders: Neonate/Toddler
+
+G1. Infant regurgitation
+G2. Rumination syndrome
+G3. Cyclic vomiting syndrome (CVS)
+G4. Infant colic
+G5. Functional diarrhea
+G6. Infant dyschezia
+G7. Functional constipationH. Childhood Functional GI Disorders: Child/Adolescent
+
+H1. Functional nausea and vomiting disorders
+H1a. Cyclic vomiting syndrome (CVS)
+H1b. Functional nausea and functional vomiting
+H1b1. Functional nausea
+H1b2. Functional vomiting
+H1c. Rumination syndrome
+H1d. Aerophagia
+H2. Functional abdominal pain disorders
+H2a. Functional dyspepsia
+H2a1. Postprandial distress syndrome
+H2a2. Epigastric pain syndrome
+H2b. Irritable bowel syndrome (IBS)
+H2c. Abdominal migraine
+H2d. Functional abdominal pain ‒ NOS
+H3. Functional defecation disorders
+H3a. Functional constipation
+H3b. Nonretentive fecal incontinence
+
+See also
+Functional gastrointestinal disorders
+
+References and sources
+Thompson WG (2006). "The Road to Rome". Gastroenterology. 130 (5): 1552–1556. doi:10.1053/j.gastro.2006.03.011. PMID 16678568.
+
+External links
+The Rome Foundation

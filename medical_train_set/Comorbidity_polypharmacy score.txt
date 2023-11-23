@@ -1,0 +1,12 @@
+In medicine, the Comorbidity–polypharmacy score (CPS) is a measure of overall severity of comorbidities. It is defined as the simple sum of the number of known comorbidities (concurrent conditions) and pre-admission medications taken by the patient (polypharmacy), as a surrogate for the “intensity” of the comorbidities.This score has been tested and validated extensively in the trauma population, demonstrating good correlation with mortality, morbidity, triage, and hospital readmissions. Increasing levels of CPS were associated with significantly lower 90-day survival in the original study of the score in trauma population.
+
+Comparison with other comorbidity measures
+The test is similar to the Charlson Comorbidity Index (CCI), but CPS also considers the number of medications taken, which is not a parameter in CCI. Additionally, CPS considers a wider range of comorbidities than CCI, and assigns the same weight to each. A study comparing the two metrics found that CCI was a better predictor of mortality than CPS in older trauma patients.
+
+See also
+Comorbidity
+Charlson Comorbidity Index (CCI)
+Elixhauser Comorbidity Index
+
+
+== References ==

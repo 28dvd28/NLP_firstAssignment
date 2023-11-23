@@ -1,0 +1,6 @@
+Dx - Diagnosis,
+Sx - Symptoms,
+Fx - Fracture,
+Tx - Treatment,
+Hx - History
+S/b-seen by

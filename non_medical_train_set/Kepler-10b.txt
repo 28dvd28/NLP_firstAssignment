@@ -1,0 +1,24 @@
+Kepler-10b is the first confirmed terrestrial planet to have been discovered outside the Solar System by the Kepler Space Telescope. Discovered after several months of data collection during the course of the NASA-directed Kepler Mission, which aims to discover Earth-like planets crossing in front of their host stars, the planet's discovery was announced on January 10, 2011. Kepler-10b has a mass of 3.72±0.42 Earth masses and a radius of 1.47 Earth radii. However, it lies extremely close to its star, Kepler-10, and as a result is too hot to support life as we know it. Its existence was confirmed using measurements from the W.M. Keck Observatory in Hawaii.
+
+Nomenclature and history
+Kepler-10, the star that hosts Kepler-10b, is located 560 light-years from the Solar System in the Draco constellation. It is approximately the same size as the Sun, with an estimated age of 12 billion years. Planet Kepler-10b was the first planet to be discovered in the orbit of its star. For this, it was designated the star's b planet. The star, in turn, was named for the Kepler Mission, a NASA-led operation aimed at discovering terrestrial planets that transit, or cross in front of, their host stars with respect to Earth. The planet's discovery was announced to the public on January 10, 2011.
+The transit method of discovering exoplanets relies upon carefully monitoring the brightness of a star. If a planet is present and crosses the line of sight between Earth and the star, the star will dim at a regular interval by an amount that depends upon the radius of the transiting planet. In order to measure the mass of a planet, and rule out other phenomena that can mimic the presence of a planet transiting a star, candidate transiting planets are followed up with the radial velocity method of detecting extrasolar planets.Kepler-10b's discovery was based on eight months of data collected with the Kepler telescope from May 2009 to January 2010. The planet's first transits were observed in July 2009. According to the collected data, Kepler-10 dimmed by one part in ten thousand every 0.83 days. Kepler-10 was the first star in the field of view of the Kepler telescope identified as capable of harboring a small transiting planet, and was considered a high priority target for ground-based radial velocity observations intended to confirm the mass of Kepler-10b. Radial velocity measurements with the Keck I telescope taken intermittently between August 2009 and August 2010 revealed a periodic Doppler shift in the spectrum of Kepler-10 consistent with a planet of the nature observed by Kepler, confirming the planet's existence and allowing its mass to be determined. The planet's discovery was announced to the public on January 10, 2011.In September 2011, the detection of secondary transit and phases were announced. This allowed to determine the temperature and albedo of the planet. This is the first terrestrial exoplanet with observed phases. Detection of phases was possible due to extreme day/night side temperature variations and the amount of starlight the planet receives due to its proximity to the host star.
+
+Reaction
+Kepler-10b's discovery excited astronomers, who hoped to use data about it to inquire into the formation and structure that terrestrial, Earth-size planets tend to have in common. Diana Valencia at the University of Côte d'Azur in Nice, France considered the planet more of a "super-Mercury" than a super-Earth, granted its physical characteristics.
+
+Characteristics
+Kepler-10b is most noted for its rocky surface. It has a diameter 1.47 times that of the Earth. The mass of Kepler-10b is 3.72±0.42 times that of Earth and the average density is 6.46±0.73 g cm−3. It orbits its star, Kepler-10, in less than a day, at less than a twentieth of the distance from Mercury to the Sun. Its surface temperature on the star lit side is approximately 1833 K, which is as hot as a blast furnace and hot enough to melt iron.Though CoRoT-7b was discovered before Kepler-10b and has been claimed to be rocky, there is more room for other interpretations in the case of CoRoT-7b's composition than there is for Kepler-10b, due to its highly uncertain mass — for example, it could be predominantly water rather than rock and iron.Kepler-10b is tidally locked to its parent star and has extreme variations in temperature between day and night sides. It also reflects about half of the starlight it receives. One possible explanation for the high Bond albedo could be that Kepler-10b is a coreless rocky planet with surface magma oceans rich in iron oxides.
+
+See also
+Kepler-10c
+Kepler Mission
+Kepler-4b, 5b, 6b, 7b, 8b, 9b, 78b
+List of exoplanet extremes
+
+References
+External links
+ Media related to Kepler-10 b at Wikimedia Commons
+
+NASA Kepler Mission (Kepler Discoveries): Kepler-10b
+YouTube: Narrated Animation on Kepler-10b

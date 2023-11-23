@@ -1,0 +1,23 @@
+Kepler-1652b (also known by its Kepler Objects of Interest designation KOI-2626.01) is a super-Earth exoplanet, orbiting within the habitable zone of the red dwarf Kepler-1652 about 822 light-years away in the Cygnus constellation. Discovered by NASA's Kepler spacecraft, Kepler-1652b was first announced as a candidate in 2013, but wasn't validated until four years later in 2017. It is a potential super-Earth with 160% Earth's radius. The planet orbits well within the habitable zone of its system, the region where liquid water can exist on a planet's surface. The planet is an eyeball planet candidate.
+
+Characteristics
+Mass, radius, and temperature
+Kepler-1652b, like almost all of Kepler's known exoplanets, was found with the transit method, where a planet blocks a tiny fraction of its host star's light when it passed between the star and Earth's line of sight. As a result, the only well-established parameter is its radius. Based on the size of the star and the amount of light blocked, Kepler-1652b has a radius of 1.60 R🜨, within the super-Earth range between the sizes of Earth and the ice giants Uranus and Neptune. Usually, the transition between rocky Super-Earths and gaseous Mini-Neptunes is expected to be at 1.6 R🜨, which would suggest that Kepler-1652b may be a small ice giant or ocean planet. Kepler-1652b has an equilibrium temperature of 268 K (−5 °C; 23 °F), similar to Earth's at 255 K (−18 °C; −1 °F).
+
+Orbit
+Kepler-1652b has an orbital period of 38.1 days, over 9 times shorter than Earth's year of 365 days. It has a semi-major axis, or average orbital radius, of 0.1654 AU, also much lower than Earth's. Despite its close proximity to the star, Kepler-1652b is still temperate, due to how small Kepler-1652 is compared to the Sun. The planet's eccentricity is believed to be near or at 0.
+
+Host star
+Kepler-1652b orbits the red dwarf star Kepler-1652, also designated KOI-2626. It is 0.404 times the mass and 0.382 times the radius of the Sun, with a temperature of 3638 K and an age of 3.2 billion years. For comparison, the Sun has a temperature of 5778 K and is 4.5 billion years old. Kepler-1652 is about 1.6 to 2.6% as luminous as the Sun. The apparent magnitude of the star is 10.22.
+
+Habitability
+Kepler-1652b's placement within the habitable zone does not ensure its habitability. Multiple other factors are included, such as composition, atmosphere, and the amount of radiation the planet receives. Kepler-1652b has a temperature very similar to that of Earth, and gets about 81% the sunlight Earth does. This places it well within the conservative habitable zone and means it is unlikely to suffer a runaway greenhouse effect. While the planet is most likely tidally locked to its host star, which would create one hot side and one cold side, a thick atmosphere - if one exists - can distribute heat evenly around the planet, allowing for more areas to retain liquid water.
+The high radius of Kepler-1652b decreases its chances of habitability. Most planets with radii of ≥1.6R🜨 are expected to either be entirely covered in thick oceans or be more akin to the ice giants like Uranus or Neptune. Without a rocky surface, life may never be able to develop on a planet. Red dwarfs like Kepler-1652 can produce very strong flares, much more powerful than what the Sun produces, which could erode away the atmosphere of orbiting planets, compromising their habitability. While not all red dwarfs are this active, a strong magnetic field can still help keep the worst of the host star's radiation from reaching the planetary surface, protecting any possible life.
+
+See also
+K2-3d and LHS 1140 b, two other high-density potentially habitable planets.
+Mega-Earth
+Habitability of red dwarf systems
+
+
+== References ==

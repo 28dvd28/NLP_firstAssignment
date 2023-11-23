@@ -1,0 +1,155 @@
+Oxygen-15 labelled water (also known as 15O-water, [O-15]-H2O, or H215O) is a radioactive variation of regular water, in which the oxygen atom has been replaced by oxygen-15 (15O), a positron-emitting isotope. 15O-water is used as a radioactive tracer for measuring and quantifying blood flow using positron emission tomography (PET) in the heart, brain and tumors.
+Due to its free diffusibility, 15O-water is considered the non-invasive gold standard for quantitative myocardial blood flow (MBF) studies and has been used as reference standard for validations of other MBF quantification techniques, such as single-photon emission computed tomography (SPECT), cardiac magnetic resonance imaging (CMR) and dynamic computed tomography (CT).
+
+Production of oxygen-15-water
+Production of oxygen-15 gas
+Oxygen-15 can be produced by different nuclear reactions, including 14N(d,n)15O, 16O(p,pn)15O and 15N(p,n)15O.
+The 14N(d,n)15O production route is the most frequently applied method, because it is currently the most economic method. The production requires a cyclotron that can accelerate deuterons up to a kinetic energy of approximately 7 MeV.Alternatives methods are:
+15N(p,n)15O, in which low-energy protons (≈ 5 MeV) are used to transmute nitrogen into oxygen-15, or 16O(p,pn)15O in which high-energy protons (> 16.6 MeV) are used. They all produce the radioactive isotope oxygen-15 by knocking neutrons out of the target molecule where the oxygen-15 ion combines with an oxygen atom to form the stable oxygen gas [15O]O2:
+
+  
+    
+      
+        
+          
+            N
+            
+            
+            
+            7
+            14
+          
+          +
+          
+            D
+            
+            
+            
+            1
+            2
+          
+          ⟶
+          
+            O
+            
+            
+              2
+              −
+            
+            
+            8
+            15
+          
+          +
+          n
+        
+      
+    
+    {\displaystyle {\ce {^{14}_{7}N + ^{2}_{1}D -> ^{15}_{8}O^2- +n}}}
+  
+
+  
+    
+      
+        
+          2
+          
+            
+            
+              8
+            
+            
+              15
+            
+          
+          
+            O
+            
+              2
+              −
+            
+          
+          +
+          
+            N
+            
+              2
+            
+            
+              
+            
+          
+          ⟶
+          2
+          
+          NO
+        
+      
+    
+    {\displaystyle {\ce {2^{15}_{8}O^2- + N_2 -> 2 NO}}}
+  
+
+  
+    
+      
+        
+          2
+          
+          NO
+          ⟶
+          
+            
+              [
+              
+                15
+              
+            
+            O
+            ]
+          
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+          +
+          
+            N
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {2 NO -> [^15O]O_2 + N_2}}}
+
+Conversion of 15O gas to 15O-water
+The conversion of the oxygen gas [15O]O2 to 15O-water can happen in two ways: the in-target production and the out-of-target external conversion.
+The in-target production method uses a small amount of hydrogen (about 5%) that is added to the gas, whereby 15O-water is formed and trapped in a cooled stainless steel loop. By heating the loop the 15O-water will get released and will be trapped again in a saline solution. It could also be done by directly irradiating H216O. However, this method requires high-energy protons and is therefore used less.The external out-of-target method converts oxygen-15 and H2 using heat and is used for all three nuclear reactions. Palladium is typically used as a catalyst to lower the activation energy. The mixture of the target gas, the catalyst and H2 is then heated up, which results in a release of 15O-water vapor, which then bubbles into a saline solution and is drawn into a syringe where it can be applied to the subject.
+
+Use in PET
+Oxygen-15 decays with a half-life of about 2.04 minutes to nitrogen-15, emitting a positron. The positron quickly annihilates with an electron, producing two gamma rays of about 511 keV which are detectable using a PET scanner.Of several available PET tracers for quantification of myocardial blood flow (MBF), 82Rb, 13NH3, and H215O are most commonly used. (see the table below).
+15O-water features different properties compared to 82Rb and 13NH3.
+15O-water is metabolically inert and diffuses freely across the myocyte membrane in contrast to 82Rb and 13NH3, which enter the cell via active diffusion (13NH3 diffuses both actively and passively). 13NH3 is converted to glutamine, glutamic acid and carbamoyl phosphate in the tissue and becomes metabolically bound.
+15O-water has a 100% extraction rate, which makes 15O-water superior to 82Rb and 13NH3 as no flow-dependent extraction corrections are required. Its 2-minute half-life makes it possible to acquire multiple image scans in rapid sequence. However, due to the complete extraction and free diffusibility, 15O-water is not retained in the tissue of interest and post-processing is required to convert 15O-water images to quantitative blood flow images.
+
+Limitations
+A technical limitation of 15O-water is the challenge in separating the blood activity from the myocardial tissue activity. This challenge arises from the tracer's  free diffusion and from the fact that the tracer is metabolically inert. However, these issues have been overcome by recent advances in both hardware and software. 15O-water has now been used in several clinical trials (pivotal studies).Another limitation for the tracer's widespread uptake has been its historical cost. A cyclotron is necessary for the production of 15O-water, requiring large capital investment in hardware and skilled staff to operate the production. However, ongoing development aims to reduce the capital expenditure and limit the amount of skilled personnel involved in the production, making 15O-water available for clinical practice.
+
+Clinical interpretation of 15O-water PET
+With 15O-water PET, the optimal cutoffs for detecting hemodynamically significant CAD measured by FFR have been determined to be < 2.3 mL/min/g for vasodilator stress MBF and < 2.5 for coronary flow reserve (CFR). 15O-water PET has an accuracy of 85% for diagnosing hemodynamically significant epicardial stenoses in patients with no history of CAD, which is higher than with both SPECT and CCTA. However, the accuracy is reduced to 75% in patients with previous myocardial infarctions and/or previous PCI.Patients are generally considered to have a perfusion defect if stress MBF is < 2.3 mL/min/g in at least 2 adjacent segments. Patients with perfusion defects of at least 10% of the left ventricle should be referred for coronary angiography and if FFR is ≤ 0.8 they can be treated with PCI.  
+Besides hemodynamically significant epicardial stenoses, patients can also have coronary microvascular dysfunction (CMD). If stress MBF is reduced in the entire left ventricle, then both CMD and balanced three-vessel disease are possible diagnoses. CMD is treated pharmacologically and balanced three-vessel disease is treated surgically with CABG. It can be difficult to differentiate between CMD and balanced three-vessel disease. However, CMD is much more common than balanced three-vessel disease. Also, the calcium score from the CT scan can help in the differentiation. If the calcium score is high, then balanced three-vessel disease is more likely; and vice versa if the calcium score is low then CMD is more likely.
+
+Pharmacopeia
+The clinical use of 15O-water in routine is not widespread. Within the European Union, 15O-water is recognized as a radiopharmaceutical and regulated as a drug. A pharmacopeia monograph exists, allowing hospital facilities to produce and use 15O-water within the confines of their national legislation. In the US, 15O-water is recognized as a radiopharmaceutical and regulated as a drug, but no pharmacopeia monograph exists currently.
+
+
+== References ==

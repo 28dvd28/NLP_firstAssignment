@@ -1,0 +1,31 @@
+Valentinus Otho (also Valentin Otto; born around 1545–46 possibly in Magdeburg – 8 April 1603 in Heidelberg) was a German mathematician and astronomer.
+
+Life
+In 1573 he came to Wittenberg, proposing to Johannes Praetorius an approximation of pi as 
+  
+    
+      
+        π
+        ≈
+        
+          
+            
+              355
+              113
+            
+          
+        
+      
+    
+    {\displaystyle \pi \approx {\tfrac {355}{113}}}
+   (now known as milü, as named by its first discover, the Chinese mathematician Zu Chongzhi).
+In 1575 he supported Georg Joachim Rheticus in his trigonometric tables. The next year they went to Kaschau in Hungary where Rheticus died. Thus, Otho inherited the De revolutionibus manuscript of Nicolaus Copernicus that Rheticus had published in 1543 in Nuremberg.
+Otho became Professor for mathematics in Wittenberg, but when the rulers of Saxony did not support the tables, he moved to Heidelberg where Elector Friedrich IV sponsored the '’Opus Palatinum de Triangulis’’ in 1596.
+
+Work
+Opus Palatinum de Triangulis, 1596 (original manuscript available online)
+De triangulis globi sine angulo recto libri quinque
+
+External links
+Cantor, Moritz: Vorlesungen über die Geschichte der Mathematik 1550-1600 Kapitel 68
+Hilfstein, Erna (1986). "Was Valentinus Otho a Professor at the Univ. of Heidelberg?" (PDF). Organon. 22–23: 221–225..

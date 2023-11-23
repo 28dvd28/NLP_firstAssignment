@@ -1,0 +1,15 @@
+Salvage therapy, also known as rescue therapy, is a form of therapy given after an ailment does not respond to standard therapy. The most common diseases that require salvage therapy are HIV and various cancers. The term is not clearly defined; it is used both to mean a second attempt and a final attempt. Salvage therapy drugs or drug combinations have, in general, much more severe side effects than the standard line of therapy. This is often true of a drug of last resort.
+
+Uses
+HIV
+Antiretroviral drugs (ARVs) are given to slow down the HIV reproduction, which in turn increases quality of life and survival. If the patient's viral load (the amount of HIV in the blood) rebounds after being suppressed by ARVs, the virus has likely developed resistance to the ARVs. As more and more mutations conferring drug resistance develop in the HIV's genome, it becomes difficult to select an ARV that will meaningfully suppress HIV replication and keep the patient's viral load low. Salvage therapy, in this context, is the attempt to contain the replicating HIV once the usual line of treatments have been exhausted. When at least one regimen containing protease inhibitors has failed in a patient, the subsequent attempts to treat the HIV infection may be referred to as salvage therapy.
+
+Cancers
+Salvage chemotherapy is a treatment that is given after the cancer has not responded to other chemotherapy regimens.
+
+See also
+Heroic measure
+Linda Grinberg
+
+
+== References ==

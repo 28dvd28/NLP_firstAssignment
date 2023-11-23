@@ -1,0 +1,49 @@
+Kepler-62f (also known by its Kepler Object of Interest designation KOI-701.04) is a super-Earth exoplanet orbiting within the habitable zone of the star Kepler-62, the outermost of five such planets discovered around the star by NASA's Kepler spacecraft.  It is located about 980 light-years (300 parsecs) from Earth in the constellation of Lyra.Kepler-62f orbits its star at a distance of 0.718 AU (107,400,000 km; 66,700,000 mi) from its host star with an orbital period of roughly 267 days, and has a radius of around 1.41 times that of Earth. It is one of the more promising candidates for potential habitability, as its parent star is a relatively quiet star, and has less mass than the Sun – thus it can live up to a span of about 30 billion years or so. Based on its size, Kepler-62f is likely a terrestrial or ocean-covered planet. However, key components of the exoplanet still need to be assessed to determine habitability; such as its atmosphere if one exists, since it lies within the outer part of its host star's habitable zone.The discovery of the exoplanet (along with Kepler-62e) was announced in April 2013 by NASA as part of the Kepler spacecraft data release. The exoplanet was found by using the transit method, in which the dimming effect that a planet causes as it crosses in front of its star is measured. According to scientists, it is a potential candidate to search for extraterrestrial life, and was chosen as one of the targets to study by the Search for Extraterrestrial Intelligence (SETI) program.
+
+Physical characteristics
+Mass, radius and temperature
+Kepler-62f is a super-Earth, placing it in the class of exoplanets with a radius and mass bigger than Earth, but smaller than that of the ice giants Neptune and Uranus. It has an equilibrium temperature of 208 K (−65 °C; −85 °F), close to that of Mars. It has a radius of 1.46 R🜨, placing it below the radius of ≥1.6 R🜨 where it would otherwise be a mini-Neptune with a volatile composition, with no solid surface. Due to its radius, it is likely a rocky planet. However, the mass isn't constrained yet, estimates place an upper limit of <35 MEarth, the real mass is expected to be significantly lower than this. The Planetary Habitability Laboratory estimated a mass of around 2.6 MEarth, assuming a rocky Earth-like composition.
+
+Host star
+The planet orbits a (K-type) star named Kepler-62, orbited by a total of five known planets. The star has a mass of 0.69 M☉ and a radius of 0.64 R☉. It has a temperature of 4925 K and is 7 billion years old. In comparison, the Sun is 4.6 billion years old and has a temperature of 5778 K. The star is somewhat metal-poor, with a metallicity ([Fe/H]) of −0.37, or 42% of the solar amount. Its luminosity (L☉) is 21% that of the Sun.The star's apparent magnitude, or how bright it appears from Earth's perspective, is 13.65. Therefore, it is too dim to be seen with the naked eye.
+
+Orbit
+Kepler-62f orbits its host star every 267.29 days at a semi-major axis distance of about 0.718 astronomical units (107,400,000 km, 66,700,000 mi), which is roughly the same as Venus's semi-major axis from the Sun. Compared to Earth, this is about seven-tenths of the distance from it to the Sun. Kepler-62f is estimated to receive about 41% of the amount of sunlight that Earth does from the Sun, which is comparable to Mars, which receives 43%.
+
+Habitability
+Given the planet's age (7 ± 4 billion years), irradiance (0.41 ± 0.05 times Earth's) and radius (1.46 ± 0.07 times Earth's), a rocky (silicate-iron) composition with the addition of a possibly substantial amount of water is considered plausible. A modeling study indicates it is likely that a great majority of planets in its size range are completely covered by ocean. If its density is the same as Earth's, its mass would be 1.413 or 2.80 times Earth's. The planet has the potential for hosting a moon according to a study of tidal effects on potentially habitable planets.  The planet may be the only habitable-zone candidate which would avoid desiccation by irradiation from the host star at its current location.
+
+Climate
+Although Kepler-62f may be an ocean-covered planet possessing rock and water at the surface, it is the farthest out from its star, so without a supplementary amount of carbon dioxide (CO2), it may be a planet covered entirely in ice. In order for Kepler-62f to sustain an Earth-like climate (with an average temperature of around 284–290 K (11–17 °C; 52–62 °F), at least 5 bars (4.9 atm) of carbon dioxide would have to be present in the planet's atmosphere.On 13 May 2016, researchers at University of California, Los Angeles (UCLA) announced that they had found various scenarios that allow the exoplanet to be habitable. They tested several simulations based on Kepler-62f having an atmosphere that ranges in thickness from the same as Earth's all the way up to 12 times thicker than our planet's, various concentrations of carbon dioxide in its atmosphere, ranging from the same amount as is in the Earth's atmosphere up to 2,500 times that level and several different possible configurations for its orbital path. In June 2018, studies suggest that Kepler-62f may have seasons and a climate similar to those on Earth.
+
+Other factors
+Because it is the outermost planet of its star system, the effects of tidal evolution from the inner planets and the host star on Kepler-62f are not likely to have had significant outcomes over its lifetime. The axial tilt is likely to have been unchanged, and thus, the planet may have an axial tilt (anywhere from 14°–30°) and rotational period somewhat similar to Earth. This can further make the planet more sustainable for habitability, as it would be able to transfer heat to the night side, instead of it being a planet with its surface being half water and half ice.
+K-type stars like Kepler-62 can live for approximately 20–40 billion years, 2 to 4 times longer than the estimated lifetime of the Sun. The low stellar activity of orange dwarfs like Kepler-62, creates a relatively benign radiation environment for planets orbiting in their habitable zones, increasing their potential habitability. One review essay in 2015 concluded that Kepler-62f, along with the exoplanets Kepler-186f and Kepler-442b, were likely the best candidates for being potentially habitable planets.
+
+Discovery
+NASA's Kepler spacecraft observed 150000 stars in the Kepler Input Catalog, including Kepler-62, between 13 May 2009 and 17 March 2012. The software pipeline that searched for periodic dip in the stellar brightness, the sign of a planetary transit of the star, initially found three planets around Kepler-62, including Kepler-62e.  Due to a bug in the software pipeline, the planet 62f was missed.  Eric Agol, a Professor of Astronomy at the University of Washington, discovered three additional transits that had been missed by the pipeline, which occurred every 267 days, and with a more detailed analysis the Kepler team concluded that a fourth planetary body, 62f, was responsible for the periodic 267-day transits. The discovery, along with the planetary system of the star Kepler-69 were announced on April 18, 2013.
+
+Follow-up studies
+On 9 May 2013, a congressional hearing (Archived 2014-12-06 at the Wayback Machine) by two U.S. House of Representatives subcommittees discussed "Exoplanet Discoveries: Have We Found Other Earths?," prompted by the discovery of exoplanet Kepler-62f, along with Kepler-62e and Kepler-69c. A related special issue of the journal Science, published earlier, described the discovery of the exoplanets.At about 980 light-years (300 parsecs) distant, Kepler-62f is too remote and its star too far for current telescopes or the next generation of planned telescopes to determine its mass or whether it has an atmosphere. The Kepler spacecraft focused on a single small region of the sky but next-generation planet-hunting space telescopes, such as TESS and CHEOPS, will examine nearby stars throughout the sky.
+Nearby stars with planets can then be studied by the upcoming James Webb Space Telescope and future large ground-based telescopes to analyze atmospheres, determine masses and infer compositions. Additionally the Square Kilometer Array would significantly improve radio observations over the Arecibo Observatory and Green Bank Telescope.
+
+Extraterrestrial intelligence target
+Kepler-62f and the other Kepler-62 exoplanets are being specially targeted as part of the Search for Extraterrestrial Intelligence (SETI) search programs. They will scan the areas for any signals that may represent technological life in the system. Given the interstellar distance of 980 light-years (300 parsecs), the signals would have left the planet that many years ago. As of 2016, no such signals have been found.
+
+See also
+Habitability of K-type main-sequence star systems
+Kepler-62e, another exoplanet in the Kepler-62 system
+List of potentially habitable exoplanets
+
+References
+External links
+ 
+NASA – Kepler Mission overview.
+NASA – Kepler Discoveries – Summary Table.
+NASA – Kepler-62f at The NASA Exoplanet Archive.
+NASA – Kepler-62f at The Exoplanet Data Explorer.
+NASA – Kepler-62f at The Extrasolar Planets Encyclopaedia.
+Habitable Exolanets Catalog at UPR-Arecibo.
+Kepler – Discovery of New Planetary Systems (2013).
+Kepler – Tally of Planets/interactive (2013) – NYT.
+Video (02:27) - NASA Finds Three New Planets in "Habitable Zone" (18 April 2013).

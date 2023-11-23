@@ -1,0 +1,25 @@
+Noam David Elkies (born August 25, 1966) is a professor of mathematics at Harvard University. At the age of 26, he became the youngest professor to receive tenure at Harvard. He is also a pianist, chess national master and a chess composer.
+
+Early life
+Elkies was born to an engineer father and a piano teacher mother. He attended Stuyvesant High School in New York City for three years before graduating in 1982 at age 15. A child prodigy, in 1981, at age 14, Elkies was awarded a gold medal at the 22nd International Mathematical Olympiad, receiving a perfect score of 42, one of the youngest to ever do so. He went on to Columbia University, where he won the Putnam competition at the age of sixteen years and four months, making him one of the youngest Putnam Fellows in history. Elkies was a Putnam Fellow twice more during his undergraduate years. He graduated valedictorian of his class in 1985. He then earned his PhD in 1987 under the supervision of Benedict Gross and Barry Mazur at Harvard University.From 1987 to 1990, Elkies was a junior fellow of the Harvard Society of Fellows.
+
+Work in mathematics
+In 1987, Elkies proved that an elliptic curve over the rational numbers is supersingular at infinitely many primes.  In 1988, he found a counterexample to Euler's sum of powers conjecture for fourth powers. His work on these and other problems won him recognition and a position as an associate professor at Harvard in 1990. In 1993, Elkies was made a full, tenured professor at the age of 26. This made him the youngest full professor in the history of Harvard. Along with A. O. L. Atkin he extended Schoof's algorithm to create the Schoof–Elkies–Atkin algorithm.
+Elkies also studies the connections between music and mathematics; he is on the advisory board of the Journal of Mathematics and Music. He has discovered many new patterns in Conway's Game of Life and has studied the mathematics of still life patterns in that cellular automaton rule. Elkies is an associate of Harvard's Lowell House.Elkies is one of the principal investigators of the Simons Collaboration on Arithmetic Geometry, Number Theory, and Computation, a large multi-university collaboration involving Boston University, Brown, Dartmouth, Harvard, and MIT.Elkies is the discoverer (or joint-discoverer) of many current and past record-holding elliptic curves, including the curve with the highest-known lower bound (≥28) on its rank, and the curve with the highest-known exact rank (=20).
+
+Music
+Elkies is a bass-baritone and plays the piano for the Harvard Glee Club. Jameson N. Marvin, former director of the Glee Club, compared him to "a Bach or a Mozart," citing "[h]is gifted musicality, superior musicianship and sight-reading ability."
+
+Chess
+Elkies is a composer and solver of chess problems (winning the 1996 World Chess Solving Championship). One of his problems is used by the chess trainer Mark Dvoretsky in his book "Dvoretsky's Endgame Manual". Elkies holds the title of National Master from the United States Chess Federation, but  no longer plays competitively.
+
+Awards and honors
+In 1994, Elkies was an invited speaker at the International Congress of Mathematicians in Zurich. In 2004, he received a Lester R. Ford Award
+and the Levi L. Conant Prize.
+In 2017, Elkies was elected to the National Academy of Sciences.
+
+References
+External links
+
+Personal site of Noam Elkies at Harvard University
+Endgame Explorations – an 11-part series of articles by Noam Elkies in Chess Horizons

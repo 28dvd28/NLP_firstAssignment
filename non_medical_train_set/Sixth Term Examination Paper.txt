@@ -1,0 +1,54 @@
+Sixth Term Examination Papers in Mathematics, often referred to as STEP, are university admissions tests for undergraduate Mathematics courses developed by the University of Cambridge.
+STEP is typically taken post-interview, as part of a conditional offer of an undergraduate place. There are also a number of candidates who sit STEP as a challenge. The papers are designed to test ability to answer questions similar in style to undergraduate Mathematics.Some official users of STEP Mathematics include: the University of Cambridge, Imperial College London and the University of Warwick.
+Candidates applying to study Mathematics or Computer Science with Mathematics at the University of Cambridge are almost always required to take STEP as part of the terms of their conditional offer. In addition, other courses at Cambridge University with a large mathematics component, such as engineering, occasionally require STEP. Candidates applying to study Mathematics or closely related subjects at the University of Warwick can take STEP as part of their offer. Imperial often requires STEP for their Computing courses, and may require it for Mathematics applicants (who otherwise take Oxford's Mathematical Admissions Test (MAT)).
+A typical STEP offer for a candidate applying to read Mathematics at the University of Cambridge would be at least a grade 1 in both STEP 2 and STEP 3. From 2019 some colleges may (depending on the individual applicant's circumstances) require a grade 1 in either STEP 1 or 2, (or in both). Candidates applying to the University of Warwick to read Mathematics, or joint subjects such as MORSE, can use a grade 2 (previously a grade 1) from any STEP as part of their offer. Imperial typically requires a grade 2 in STEP 2/3.
+
+History
+Before 2003, STEP was available for a wide range of subjects. In 1989 the full list of subjects offered was Biology, Chemistry, Economics, English Literature, French, General Studies, Geography, Geology, German, Greek, History, Italian, Latin, Mathematics, Further Mathematics, Music, Physics, Religious Studies, Russian and Spanish. STEP in Mathematics are the only ones now in use. Two (three prior to the discontinuation of STEP 1 in 2019) STEP Mathematics are set each year and all are sat during the school summer examination cycle.
+
+Format
+Until 2019, there were three STEPs: STEP 1, STEP 2 and STEP 3. Starting from the academic year 2019/20, STEP 1 has been phased out. There was no STEP 1 set in 2020 due to the COVID-19 pandemic, and it was later announced that from 2021, STEP 1 would no longer be set, with only STEP 2 and STEP 3 being available. The last STEP 1 was held in 2019.
+Candidates may enter for as many as they wish, although this is often dictated by the STEP offers they hold. Each paper offers a selection of questions and there is no restriction on which can be answered. For each paper, candidates have three hours to complete their solutions. Whilst students are permitted to answer as many questions as they choose, they are advised to attempt no more than six, and their final grade is based on their six best question solutions. Each question is worth 20 marks, and so the maximum a candidate can score is 120.
+For recent examinations, up to and including the 2018 papers, the specification for STEP 1 and STEP 2 was based on Mathematics A Level content while the syllabus for STEP 3 was based on Further Mathematics A Level. The questions on STEP 2 and 3 were about the same difficulty. Both STEP 2 and STEP 3 are harder than STEP 1.For the 2019 examinations onwards, the specifications have been updated to reflect the reforms in A Level Mathematics and Further Mathematics; in addition, the number of questions in each paper has been reduced. Specifically:
+
+From 2019, the STEP 1 specification was to be based on A Level Mathematics, with some additions and modifications. The paper was to comprise 11 questions: 8 pure, and 3 further questions on mechanics and probability/statistics, with at least one question of the 3 on mechanics and at least one on probability/statistics. The June 2019 paper was the only STEP 1 paper to be sat under the new syllabus before the retiring of STEP 1.
+From 2019, the STEP 2 specification will be based on A Level Mathematics and AS Level Further Mathematics, with some additions and modifications. The paper will comprise 12 questions: 8 pure, 2 mechanics and 2 probability/statistics.
+From 2019, the STEP 3 specification will be based on A Level Mathematics and A Level Further Mathematics, with some additions and modifications. The paper will comprise 12 questions: 8 pure, 2 mechanics and 2 probability/statistics
+
+Practicalities
+Since June 2009, graph paper has not been allowed in STEP as the test requires only sketches, not detailed graphs. Instead, all graphs should be sketched inside the answer booklets provided as part of a candidate's solution.
+Since June 2018, the format of the answer booklet for the STEP Mathematics examinations has been updated to ensure that the paper is fully anonymised before it is marked. Candidates are issued with a 44-page booklet, of which 40 pages are available for writing out solutions and for rough work. Only one booklet per candidate is allowed unless a further booklet is required and has been formally requested as a result of specific access arrangements.
+Candidates are advised to write their answers in black ink and draw pictures in pencil, although some flexibility is permitted with this. Candidates should not use green or red pen at any stage.
+Calculators may not be used during STEP. Rulers, protractors and compasses can be taken into the examination. Candidates who don't have English as a first language were allowed to use bilingual dictionaries until 2023; these are now no longer permitted.
+A formulae booklet was available to all candidates for all examinations up to and including those in 2018. From 2019 onwards, candidates will no longer be issued with a formulae booklet; instead they will be expected to recall, or know how to derive quickly, standard formulae. All the required standard formulae are given in an appendix to the new specification.
+
+Marking
+STEP is marked by teams of mathematicians specially trained for the purpose. All the markers have Mathematics degrees and most are reading for PhDs at Cambridge. Each question is marked by a small team who coordinate to ensure their question is marked fairly and that all correct solutions are given appropriate marks. Markers are closely supervised by a team of marking supervisors, usually senior teachers, who are responsible for the mark scheme and by a senior Mathematics assessment expert.
+All non-crossed-out work is assessed and a candidate's final score is based on their six highest scoring solutions. 
+All papers are checked at least twice to ensure that all of a candidate's non-crossed-out solutions have been assessed. A candidate's marks are then independently entered twice into a database to ensure that there are no clerical errors in mark recording. The mark data is then checked a further time by a small team who hand check a random selection of scripts.
+
+Scoring
+There are five possible grades awarded.  From best to worst, these are 'S' (Outstanding), '1', '2', '3', and 'U' (Unclassified). The rule of thumb is that four good answers (to a reasonable level of completion) will gain a grade 1; more may gain an S, and fewer will gain a correspondingly lower grade. The grade boundaries shift from year to year, and the boundaries for STEP 3 are generally lower than those for STEP 2.All STEP questions are marked out of 20. The mark scheme for each question is designed to reward candidates who make good progress towards a solution. A candidate reaching the correct answer will receive full marks, regardless of the method used to answer the question.
+All the questions that are attempted by a student and not crossed out will be assessed. However, only the six best answers will be used in the calculation of the final grade for the paper, giving a total maximum mark of 120.
+
+Timing and results
+Candidates who have received offers for Mathematics courses at the University of Cambridge sit STEP as a post-interview test. STEP is normally sat at a candidate's school or college. Alternatively, the test can be taken at one of Cambridge Assessment Admissions Testing's authorised test centres worldwide.
+Entries for STEP are typically accepted from the start of March until the end of April and late entries (with late entry fees) accepted until mid-May. STEP is taken in mid- to late-June, with online results available in mid-August, issued on the same date as A Level results, typically at midnight.
+
+Usage
+There is some variation in how institutions make use of the results – candidates can contact the relevant institution(s) for more information. However, STEP is typically taken post-interview and the results used to supplement candidates' exam results. For applicants to the University of Cambridge, candidates' scripts are made available to admissions officers. This enables officers to make judgements on the basis of candidates' actual work, rather than on just their marks or grade.
+
+Preparation
+STEP does not require a lot of extra knowledge as they are designed to test skills and knowledge of topics within the A Level syllabus; however, preparation is advised because the style is different from what students are used to.
+Practice materials, including past papers, example solutions and a STEP formula booklet, are available for free from the Cambridge Assessment Admissions Testing website. Also, a book "Advanced Problems in Mathematics: Preparing for University" has been specifically written for students preparing for STEP. The author is Stephen Siklos, a former paper-setter for STEP.
+
+See also
+Cambridge Assessment Admissions Testing
+Advanced Extension Award
+Cambridge Mathematical Tripos
+
+References
+External links
+Official website
+University of Cambridge STEP Support Programme
+STEP Database

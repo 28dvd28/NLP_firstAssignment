@@ -1,0 +1,11 @@
+18F-FMISO or fluoromisonidazole is a radiopharmaceutical used for PET imaging of hypoxia. It consists of a 2-nitroimidazole molecule labelled with the positron-emitter fluorine-18.Hypoxia is considered a negative prognostic marker for many solid tumours, and therefore an agent to detect and quantify it is highly desirable. FMISO was one of the first such agents, after initial synthesis in the late 1980s. It remains among the most popular agents for investigation of hypoxia imaging.
+
+Mechanism
+On entering a viable cell, the nitro group of the FMISO nitroimidazole is reduced. In non-hypoxic cells, the reduced FMISO molecule can be oxidised, and therefore diffuses out of the cell to circulate freely and ultimately be excreted. In hypoxic tumour cells however this oxidation cannot take place and the FMISO molecules accumulate. Their location can then be quantitatively imaged using positron emission tomography.
+
+Clinical use
+Large scale clinical trials with FMISO have not been carried out, however there is some evidence from small-scale early-stage imaging trials that PET-measured hypoxia (using FMISO, and the alternative radiotracer FAZA) is linked to overall survival and loco-regional control in head and neck cancer patients. Similar correlations have been found in other cancers, including breast cancer and brain tumours. Direct impacts on patient care has not yet been conclusively demonstrated however.The use of hypoxia imaging to guide radiotherapy treatments is an area of active research. Despite some positive early results further research is required to characterise the specificity and sensitivity of FMISO, and exactly how hypoxia levels should influence treatment planning decisions. Similarly, hypoxia imaging could be used to screen patients before the prescription of hypoxic guided drugs. It may also be useful as a post-treatment measure of effectiveness for both radiotherapy and chemotherapy.Outside of oncology, there is interest in cardiac hypoxia imaging. FMISO has had limited interest for this purpose, in part due to low target-to-background contrast and long injection to imaging delays (due to slow blood clearance) requiring high injected activities.
+
+References
+External links
+18F-Fluoromisonidazole, Molecular Imaging and Contrast Agent Database (MICAD)

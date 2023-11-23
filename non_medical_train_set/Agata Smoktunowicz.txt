@@ -1,0 +1,21 @@
+Agata Smoktunowicz FRSE (born 12 October 1973) is a Polish mathematician who works as a professor at the University of Edinburgh. Her research is in abstract algebra.
+
+Contributions
+Smoktunowicz's contributions to mathematics include constructing noncommutative nil rings, solving a "famous problem" formulated in 1970 by Irving Kaplansky.
+She proved the Artin–Stafford gap conjecture according to which the Gelfand–Kirillov dimension of a graded domain cannot fall within the open interval (2,3). She also found an example of a nil ideal of a ring R that does not lift to a nil ideal of the polynomial ring R[X], disproving a conjecture of Amitsur and hinting that the Köthe conjecture might be false.
+
+Awards and honours
+Smoktunowicz was an invited speaker at the International Congress of Mathematicians in 2006. She won the Whitehead Prize of the London Mathematical Society in 2006, the European Mathematical Society Prize in 2008, and the Sir Edmund Whittaker Memorial Prize of the Edinburgh Mathematical Society in 2009. In 2009, she was elected as a fellow of the Royal Society of Edinburgh, and in 2012, she became one of the inaugural fellows of the American Mathematical Society. She also won the Polish Academy of Sciences annual research prize in 2018.
+
+Education and career
+Smoktunowicz earned a master's degree from the University of Warsaw in 1997, a PhD in 1999 from the Institute of Mathematics of the Polish Academy of Sciences, and a habilitation in 2007, again from the Polish Academy of Sciences. After temporary positions at Yale University and the University of California, San Diego, she joined the University of Edinburgh in 2005, and was promoted to professor there in 2007.
+
+Selected publications
+
+Smoktunowicz, Agata (2000), "Polynomial rings over nil rings need not be nil", Journal of Algebra, 233 (2): 427–436, doi:10.1006/jabr.2000.8451, MR 1793911.
+Huh, Chan; Lee, Yang; Smoktunowicz, Agata (2002), "Armendariz rings and semicommutative rings", Communications in Algebra, 30 (2): 751–761, doi:10.1081/AGB-120013179, MR 1883022, S2CID 121438679.
+Smoktunowicz, Agata (2002), "A simple nil ring exists", Communications in Algebra, 30 (1): 27–59, doi:10.1081/AGB-120006478, MR 1880660, S2CID 121093658.
+Smoktunowicz, Agata (2006), "There are no graded domains with GK dimension strictly between 2 and 3", Inventiones Mathematicae, 164 (3): 635–640, Bibcode:2006InMat.164..635S, doi:10.1007/s00222-005-0489-1, MR 2221134, S2CID 119680902.
+
+
+== References ==

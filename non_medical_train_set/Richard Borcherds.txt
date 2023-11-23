@@ -1,0 +1,24 @@
+Richard Ewen Borcherds (; born 29 November 1959) is a British mathematician currently working in quantum field theory. He is known for his work in lattices, group theory, and infinite-dimensional algebras, for which he was awarded the Fields Medal in 1998.
+
+Early life
+Borcherds was born in Cape Town, South Africa, but the family moved to Birmingham in the United Kingdom when he was six months old.
+
+Education
+Borcherds was educated at King Edward's School, Birmingham, and Trinity College, Cambridge, where he studied under John Horton Conway.
+
+Career
+After receiving his doctorate in 1985, Borcherds has held various alternating positions at Cambridge and the University of California, Berkeley, serving as Morrey Assistant Professor of Mathematics at Berkeley from 1987 to 1988. He was a Royal Society University Research Fellow. From 1996 he held a Royal Society Research Professorship at Cambridge before returning to Berkeley in 1999 as Professor of Mathematics.An interview with Simon Singh for The Guardian, in which Borcherds suggested he might have some traits associated with Asperger syndrome, subsequently led to a chapter about him in a book on autism by Simon Baron-Cohen. Baron-Cohen concluded that while Borcherds had many autistic traits, he did not merit a formal diagnosis of Asperger syndrome.
+
+Awards and honours
+In 1992 Borcherds was one of the first recipients of the EMS prizes awarded at the first European Congress of Mathematics in Paris, and in 1994 he was an invited speaker at the International Congress of Mathematicians in Zurich. In 1994, he was elected to be a Fellow of the Royal Society. In 1998 at the 23rd International Congress of Mathematicians in Berlin, Germany he received the Fields Medal together with Maxim Kontsevich, William Timothy Gowers and Curtis T. McMullen. The award cited him "for his contributions to algebra, the theory of automorphic forms, and mathematical physics, including the introduction of vertex algebras and Borcherds' Lie algebras, the proof of the Conway-Norton moonshine conjecture and the discovery of a new class of automorphic infinite products." In 2012 he became a fellow of the American Mathematical Society, and in 2014 he was elected to the National Academy of Sciences.
+
+References
+Further reading
+Conway and Sloane, Sphere Packings, Lattices, and Groups, Third Edition, Springer, 1998 ISBN 0-387-98585-9.
+Frenkel, Lepowsky and Meurman, Vertex Operator Algebras and the Monster, Academic Press, 1988 ISBN 0-12-267065-5.
+Kac, Victor, Vertex Algebras for Beginners, Second Edition, AMS 1997 ISBN 0-8218-0643-2.
+O'Connor, John J.; Robertson, Edmund F., "Richard Borcherds", MacTutor History of Mathematics Archive, University of St Andrews
+
+External links
+Richard Borcherds's publications indexed by the Scopus bibliographic database. (subscription required)
+Richard Borcherds's results at International Mathematical Olympiad

@@ -1,0 +1,4 @@
+The Kepler-Follow-up Program, known also as the Kepler Follow-up Observation Program and KFOP, is a program instituted to conduct follow-up observations on Kepler Objects of Interest (KOI), or signals noticed by the Kepler spacecraft that may indicate the presence of a planet transiting its host star.  Because using the transit method to find planets tends to also bring about a large number of false positives, KFOP is intended to rule out false positives amongst the KOIs and held confirm more of Kepler's targets.
+
+References
+Gautier, T.; Batalha, N. (2010). "The Kepler Follow-up Observation Program". arXiv:1001.0352 [astro-ph.EP].

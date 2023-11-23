@@ -1,0 +1,25 @@
+The Waterlow score (or  Waterlow scale) gives an estimated risk for the development of a pressure sore in a given patient. The tool was developed in 1985 by clinical nurse teacher Judy Waterlow.  It is available both on a two-sided score card and on an app.
+
+Scoring criteria
+The following areas are assessed for each patient and assigned a point value.
+
+Build/weight for height
+Skin type/visual risk areas
+Sex and age
+Malnutrition Screening Tool
+Continence
+Mobility
+Additional points in special risk categories are assigned to selected patients.
+
+Tissue malnutrition
+Neurological deficit
+Major surgery or traumaPotential scores range from 1 to 64. A total Waterlow score ≥10 indicates risk for pressure ulcer. A high risk score is ≥15. A very high risk exists at scores ≥20. The reverse side of the Waterlow card lists examples of preventive aids and interventions.
+
+Criticism
+While packaged conveniently as a laminated card, the score has received criticism owing to its large number of scored items. This, combined with a lack of operational definitions, may reduce its reliability.
+
+See also
+Braden Scale for Predicting Pressure Ulcer Risk
+
+
+== References ==

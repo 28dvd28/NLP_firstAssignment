@@ -1,0 +1,26 @@
+The Alvarado score is a clinical scoring system used in the diagnosis of appendicitis.  Alvarado scoring has largely been superseded as a clinical prediction tool by the Appendicitis Inflammatory Response score.Also known by the mnemonic MANTRELS, the scale has 6 clinical items (3 signs and 3 symptoms) and 2 laboratory measurements, each given an additive point score, with a maximum of 10 points possible.  It was introduced in 1986 by Dr. Alfredo Alvarado and although meant for pregnant females, it has been extensively validated in the non-pregnant population.  A known limitation of the score is that only 20% of elderly patients present with classic findings on which the score focuses. A modified Alvarado score is at present in use.
+
+The score
+Elements from the person's history, the physical examination and from laboratory tests:
+Abdominal pain that migrates to the right iliac fossa
+Anorexia (loss of appetite) or ketones in the urine
+Nausea or vomiting
+Tenderness in the right iliac fossa
+Rebound tenderness
+Fever of 37.3 °C or more
+Leukocytosis, or more than 10,000 white blood cells per microliter in the serum
+Neutrophilia, or an increase in the percentage of neutrophils in the serum white blood cell count.The two most important factors, tenderness in the right lower quadrant and leukocytosis, are assigned two points, and the six other factors are assigned one point each, for a possible total score of ten points.
+A score of 5 or 6 is compatible with the diagnosis of acute appendicitis. A score of 7 or 8 indicates a probable appendicitis, and a score of 9 or 10 indicates a very probable acute appendicitis.
+
+Complementary value
+The original Alvarado score describes a possible total of 10 points, but those medical facilities that are unable to perform a differential white blood cell count, are using a Modified Alvarado Score with a total of 9 points which could be not as accurate as the original score. The high diagnostic value of the score has been confirmed in a number of studies across the world. The consensus is that the Alvarado score is a noninvasive, safe, diagnostic method, which is simple, reliable and repeatable, and able to guide the clinician in the management of the case. However, a recent study demonstrated a sensitivity of only 72% of the Modified Alvarado Score for detection of appendicitis which has led to criticism of the usefulness of the score. Scores of less than five in children were useful for eliminating appendicitis from the differential diagnosis.
+
+Significance
+It carries high significance in the diagnosis of acute appendicitis.
+
+References
+BibliographyMcKay R, Shepherd J (2007). "The use of the clinical scoring system by Alvarado in the decision to perform computed tomography for acute appendicitis in the ED". Am J Emerg Med. 25 (5): 489–93. doi:10.1016/j.ajem.2006.08.020. PMID 17543650.
+Khan I, Rehman A (2005). "Application of Alvarado scoring system in diagnosis of acute appendicitis". J Ayub Med Coll Abbottabad. 17 (3): 41–44. PMID 16320795.
+
+External links
+Online calculator of the Alvarado Score

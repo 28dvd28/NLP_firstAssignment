@@ -1,0 +1,24 @@
+Diagnostic delay is the time interval between the onset of symptoms and confirmed diagnosis of a disease. For a variety of reasons, including the mitigation of disease severity and financial expense, it is desirable for this delay to be minimized.
+The importance of reducing diagnostic delay varies between diseases. An example of a high-stakes diagnostic delay is in ischemic stroke, in which the timeframe for delivery of potentially life-saving thrombolytic drugs is limited to the first few hours of the stroke.
+
+Effect on disease treatment
+Pulmonary diseases
+Pulmonary tuberculosis
+Pulmonary tuberculosis is a bacterial infection of the lungs by Mycobacterium tuberculosis (MTB) bacteria.
+Diagnostic delay of tuberculosis (TB) can lead to an increased infectivity period, delayed treatment, and increased severity of the disease. A 2017 study of TB in India . A 2018 study in Zanzibar on a different form of TB, extrapulmonary tuberculosis, found many patients in the main hospital in Zanzibar experience a long delay in treatment, and that more timely treatment has the potential to reduce morbidity and the economic loss of the patient.
+
+Idiopathic pulmonary fibrosis
+Idiopathic pulmonary fibrosis (IPF) is a chronic scarring of the lung  characterized by a progressive and irreversible decline in lung function.Surveys and retrospective studies of patients with IPF have indicated that there is a significant diagnostic delay, with a median of 2.1 years. The main factors related to the delay were male sex, a risk factor for patient delay, and old age, a risk factor for healthcare delay.
+
+Pulmonary embolism
+A pulmonary embolism is a blockage of a pulmonary artery in the lungs, usually due to a blood clot traveling from the legs or, rarely, other parts of the body. This is called deep vein thrombosis.A study of 514 patients found 47% of them had a diagnostic delay of at least 3 days. This delay was attributed to the absence of major pulmonary embolism risk factors, or clinical presentations like chest pain, syncope, or the presence of dyspnea or hemoptysis. The delay was associated with a worst 30-day prognosis.
+
+Arthritis
+Axial spondyloarthritis
+Diagnostic delay is a major challenge in axial spondyloarthritis (AS), a chronic form of arthritis that causes significant lower-back or buttock inflammation that persists for over three months.
+
+Improvements
+In 2003, there was typically a diagnostic delay of 5–10 years. Reports from the Danish nationwide DANBIO registry hint that in Denmark, the average diagnostic delay for AS diminished from 5.5 years in 2000 to 3–4 months in 2011. In France, the 2017 median diagnostic delay elucidated from a cross-sectional study was 2 years.
+
+
+== References ==

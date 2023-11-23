@@ -1,0 +1,23 @@
+Neal Creighton is an American entrepreneur based in Boston, Massachusetts, United States. He was one of the co-founders and CEO of certificate authority GeoTrust in 2001, and is co-inventor of the domain-validated certificate patent issued in 2006 which method accounts for 70 percent of all SSL certificates on the Internet. In 2006, GeoTrust was the 2nd largest certificate authority in the world with 26.7 percent market share according to independent survey company Netcraft. He was also cofounder of RatePoint, Inc., which was named the MITX 2010 Social Media Company of the Year for New England.Creighton currently serves as President and CEO of CounterTack, Inc., a security software firm that focuses on preventing cyber-attacks.
+
+Early life and education
+Creighton's father, Neal Creighton, Sr. was a career military officer and Major General in the United States Army known for his service during the Tet Offensive of 1968.The younger Creighton attended US Army Ranger School and West Point, and served for five years as an officer in the United States Army.  He was an armor platoon leader and saw action during the Gulf War.  Creighton was referenced by Seymour Hersh in his controversial New Yorker article, “Overwhelming Force” for his part in battle for Jalibah Airfield that took place on February 27, 1991.  After his service in the Army, Creighton attended Northwestern University, where he received a Juris Doctor and an MBA.
+
+Career
+Equifax and GeoTrust
+In the late 1990s, Creighton focused his work in fields of information security. He began his career by cofounding GeoTrust in 2001. He led the efforts to raise $24 million in venture financing, and he and his partners acquired the security branch of Equifax.GeoTrust automated the identification verification of organizations, and computers over the Internet inventing the domain-validated certificate method. In 2006, it was the 2nd largest certificate authority in the world with 26.7 percent market share according to independent survey company Netcraft. GeoTrust was sold to VeriSign in September 2006 for $125 million, and the brand was acquired by Symantec as part of its $1.28 billion acquisition of VeriSign's security business in 2010.
+
+ChosenSecurity and AffirmTrust
+After GeoTrust, Creighton served as CEO of ChosenSecurity, which was acquired by PGP Corporation (which was later acquired by Symantec). He was also cofounder and executive chairman of AffirmTrust LLC, which was acquired by Trend Micro in 2011.
+
+CounterTack, Inc.
+Creighton currently serves as President and CEO of CounterTack, Inc., a real-time security software company that focuses on preventing cyber-attacks and managing Internet threats. The Massachusetts-based company was formed in 2011 and has since raised $90 million in venture capital financing. He also serves on the advisory board of the US Army Cyber Institute.
+
+Ratepoint controversy
+Creighton was the CEO and founder of Ratepoint, an email marketing firm, that raised $25 million in venture financing. He left Ratepoint in 2011 to pursue "other opportunities". The company sold its email marketing business within a year to Constant Contact and its rating business was discontinued. By 2013, Creighton was chairman at Robly, a competitor to Ratepoint, which is an email marketing firm based out of New York City.
+
+Patent
+Creighton is the co-inventor of the domain-validated certificate patent granted in 2006, and was issued a patent in 2010 for a system that provides secure identity and uniform resource identifier verification.
+
+
+== References ==

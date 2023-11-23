@@ -1,0 +1,607 @@
+Harmonic phase (HARP) algorithm is a medical image analysis technique capable of extracting and processing motion information from tagged magnetic resonance image (MRI) sequences. It was initially developed by N. F. Osman and  J. L. Prince at the Image Analysis and Communications Laboratory at Johns Hopkins University. The method uses spectral peaks in the Fourier domain of tagged MRI, calculating the phase images of their inverse Fourier transforms, which are called harmonic phase (HARP) images. The motion of material points through time is then tracked, under the assumption that the HARP value of a fixed material point is time-invariant. The method is fast and accurate, and has been accepted as one of the most popular tagged MRI analysis methods in medical image processing.
+
+Background
+In cardiac magnetic resonance imaging, tagging techniques make it possible to capture and store the motion information of myocardium in vivo. MR tagging uses a special pulse sequence to create temporary features – tags in the myocardium. Tags deform together with the myocardium as the heart beats and are captured by MR imaging. Analysis of the motion of the tag features in many images taken from different orientations and at different times can be used to track material points in the myocardium. Tagged MRI is widely used to develop and refine models of normal and abnormal myocardial motion to better understand the correlation of coronary artery disease with myocardial motion abnormalities and the effects of treatment after myocardial infarction. However, suffered from long imaging and post-processing times, tagged MRI was slow in entering into routine clinical use until the HARP algorithm was developed and published in 1999.
+
+Description
+HARP processing
+A tagged MRI showing motion of a human heart is shown in the image (a). The effect of tagging can be described as a multiplication of the underlying image by a sinusoid tag pattern having a certain fundamental frequency, causing an amplitude modulation of the underlying image and replicating its Fourier transform into the pattern shown in (b).
+HARP processing uses a bandpass filter to isolate one of the spectral peaks. For example, the circle drawn in (b) is the -3 dB isocontour of the bandpass filter used to process this data. Selection of the filters for optimal performance is discussed in this paper. The inverse Fourier transform of the filtered image yields a complex harmonic image 
+  
+    
+      
+        
+          I
+          
+            k
+          
+        
+        (
+        
+          y
+        
+        ,
+        t
+        )
+      
+    
+    {\displaystyle I_{k}(\mathbf {y} ,t)}
+   at image coordinates 
+  
+    
+      
+        
+          y
+        
+        =
+        [
+        
+          y
+          
+            1
+          
+        
+        ,
+        
+          y
+          
+            2
+          
+        
+        
+          ]
+          
+            T
+          
+        
+      
+    
+    {\displaystyle \mathbf {y} =[y_{1},y_{2}]^{T}}
+   and time 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  :
+
+  
+    
+      
+        
+          I
+          
+            k
+          
+        
+        (
+        
+          y
+        
+        ,
+        t
+        )
+        =
+        
+          D
+          
+            k
+          
+        
+        (
+        
+          y
+        
+        ,
+        t
+        )
+        
+          e
+          
+            j
+            
+              ϕ
+              
+                k
+              
+            
+            (
+            
+              y
+            
+            ,
+            t
+            )
+          
+        
+      
+    
+    {\displaystyle I_{k}(\mathbf {y} ,t)=D_{k}(\mathbf {y} ,t)e^{j\phi _{k}(\mathbf {y} ,t)}}
+  where 
+  
+    
+      
+        
+          D
+          
+            k
+          
+        
+      
+    
+    {\displaystyle D_{k}}
+   is called the harmonic magnitude image and 
+  
+    
+      
+        
+          ϕ
+          
+            k
+          
+        
+      
+    
+    {\displaystyle \phi _{k}}
+   is called the harmonic phase image.
+The harmonic magnitude image in (c) extracted from a using the filter in (b) shows the geometry of the heart. And the harmonic phase image in (d) contains the motion of the myocardium in horizontal direction. In practice, tagged images from two directions (both horizontal and vertical, i.e., 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   is 1 and 2) are processed to provide a 2D motion map in the image plane. Notice that the harmonic phase images are computed by taking the inverse tangent of the imaginary part divided by the real part of 
+  
+    
+      
+        
+          I
+          
+            k
+          
+        
+        (
+        
+          y
+        
+        ,
+        t
+        )
+      
+    
+    {\displaystyle I_{k}(\mathbf {y} ,t)}
+  , such that the range of this computation is only in 
+  
+    
+      
+        [
+        −
+        π
+        ,
+        +
+        π
+        )
+      
+    
+    {\displaystyle [-\pi ,+\pi )}
+  . In other words, d is only the wrapped value of the actual phase. We denote this principle value by 
+  
+    
+      
+        
+          a
+          
+            k
+          
+        
+        (
+        
+          y
+        
+        ,
+        t
+        )
+      
+    
+    {\displaystyle a_{k}(\mathbf {y} ,t)}
+  ; it is mathematically related to the true phase by:
+
+  
+    
+      
+        
+          a
+          
+            k
+          
+        
+        (
+        
+          y
+        
+        ,
+        t
+        )
+        =
+        m
+        o
+        d
+        (
+        
+          ϕ
+          
+            k
+          
+        
+        (
+        
+          y
+        
+        ,
+        t
+        )
+        +
+        π
+        ,
+        2
+        π
+        )
+        −
+        π
+      
+    
+    {\displaystyle a_{k}(\mathbf {y} ,t)=mod(\phi _{k}(\mathbf {y} ,t)+\pi ,2\pi )-\pi }
+  Either 
+  
+    
+      
+        
+          ϕ
+          
+            k
+          
+        
+      
+    
+    {\displaystyle \phi _{k}}
+   or 
+  
+    
+      
+        
+          a
+          
+            k
+          
+        
+      
+    
+    {\displaystyle a_{k}}
+   might be called a harmonic phase (HARP) image, but only 
+  
+    
+      
+        
+          a
+          
+            k
+          
+        
+      
+    
+    {\displaystyle a_{k}}
+   can be directly calculated and visualized. It is the basis for HARP tracking.
+
+HARP tracking
+For a fixed material point with a HARP value, only one of the points sharing the same HARP value in a later time frame is the correct match. If the apparent motion is small from one image to the next, it is likely that the nearest of these points is the correct point. The tracking result is very accurate in this case.Consider a material point located at 
+  
+    
+      
+        
+          
+            y
+          
+          
+            m
+          
+        
+      
+    
+    {\displaystyle \mathbf {y} _{m}}
+   at time 
+  
+    
+      
+        
+          t
+          
+            m
+          
+        
+      
+    
+    {\displaystyle t_{m}}
+  . If 
+  
+    
+      
+        
+          
+            y
+          
+          
+            m
+            +
+            1
+          
+        
+      
+    
+    {\displaystyle \mathbf {y} _{m+1}}
+   is the apparent position of this point at time 
+  
+    
+      
+        
+          t
+          
+            m
+            +
+            1
+          
+        
+      
+    
+    {\displaystyle t_{m+1}}
+  , we have:
+
+  
+    
+      
+        
+          ϕ
+          
+            k
+          
+        
+        (
+        
+          
+            y
+          
+          
+            m
+            +
+            1
+          
+        
+        ,
+        
+          t
+          
+            m
+            +
+            1
+          
+        
+        )
+        =
+        
+          ϕ
+          
+            k
+          
+        
+        (
+        
+          
+            y
+          
+          
+            m
+          
+        
+        ,
+        
+          t
+          
+            m
+          
+        
+        )
+      
+    
+    {\displaystyle \phi _{k}(\mathbf {y} _{m+1},t_{m+1})=\phi _{k}(\mathbf {y} _{m},t_{m})}
+  The Newton–Raphson interactive method is used to find a solution, which is:
+
+  
+    
+      
+        
+          y
+          
+            (
+            n
+            +
+            1
+            )
+          
+        
+        =
+        
+          y
+          
+            (
+            n
+            )
+          
+        
+        −
+        [
+        ∇
+        
+          ϕ
+          
+            k
+          
+        
+        (
+        
+          
+            y
+          
+          
+            (
+            n
+            )
+          
+        
+        ,
+        
+          t
+          
+            m
+            +
+            1
+          
+        
+        )
+        
+          ]
+          
+            −
+            1
+          
+        
+        [
+        
+          ϕ
+          
+            k
+          
+        
+        (
+        
+          
+            y
+          
+          
+            (
+            n
+            )
+          
+        
+        ,
+        
+          t
+          
+            m
+            +
+            1
+          
+        
+        )
+        −
+        
+          ϕ
+          
+            k
+          
+        
+        (
+        
+          
+            y
+          
+          
+            m
+          
+        
+        ,
+        
+          t
+          
+            m
+          
+        
+        )
+        ]
+      
+    
+    {\displaystyle y^{(n+1)}=y^{(n)}-[\nabla \phi _{k}(\mathbf {y} ^{(n)},t_{m+1})]^{-1}[\phi _{k}(\mathbf {y} ^{(n)},t_{m+1})-\phi _{k}(\mathbf {y} _{m},t_{m})]}
+  In practice, since 
+  
+    
+      
+        
+          ϕ
+          
+            k
+          
+        
+      
+    
+    {\displaystyle \phi _{k}}
+   is not available, 
+  
+    
+      
+        
+          a
+          
+            k
+          
+        
+      
+    
+    {\displaystyle a_{k}}
+   is used in its place. This equation can be rewritten after a few derivations considering the "wrapping" relation between 
+  
+    
+      
+        
+          ϕ
+          
+            k
+          
+        
+      
+    
+    {\displaystyle \phi _{k}}
+   and 
+  
+    
+      
+        
+          a
+          
+            k
+          
+        
+      
+    
+    {\displaystyle a_{k}}
+  .
+The result of HARP tracking of one frame of cardiac MRI is shown in the figure. It is obtained by calculating both motions from horizontal direction and vertical direction, resulting in a 2D vector field showing the motion of every material point on the myocardium at this time frame.
+The entire HARP algorithm takes only a few minutes to perform on a normal computer and the motion tracking result is accurate (with a typical error  range of 
+  
+    
+      
+        ±
+        1
+      
+    
+    {\displaystyle \pm 1}
+   pixel). As a result, it is now widely adopted by the medical image analysis community as a standard processing technique for tagged MRI.
+
+See also
+Strain Encoding (SENC) MRI
+
+References
+External links
+HARP Overview at Image Analysis and Communications Laboratory
+Image Analysis and Communications Laboratory Homepage

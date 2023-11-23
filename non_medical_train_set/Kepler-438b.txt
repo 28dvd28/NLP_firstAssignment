@@ -1,0 +1,31 @@
+Kepler-438b (also known by its Kepler Object of Interest designation KOI-3284.01) is a confirmed near-Earth-sized exoplanet. It is likely rocky. It orbits on the inner edge of the habitable zone of a red dwarf, Kepler-438, about 472.9 light-years (141,8 parsecs) from Earth in the constellation Lyra. It receives 1.4 times our solar flux. The planet was discovered by NASA's Kepler spacecraft using the transit method, in which the dimming effect that a planet causes as it crosses in front of its star is measured. NASA announced the confirmation of the exoplanet on 6 January 2015.
+
+Characteristics
+Mass, radius and temperature
+Kepler-438b is an Earth-sized planet, an exoplanet that has a mass and radius close to that of Earth. It has a radius of 1.12 R🜨, and an unknown mass. It has an equilibrium temperature of 276 K (3 °C; 37 °F), close to that of Earth.
+
+Host star
+The planet orbits a (M-type) red dwarf star named Kepler-438. The star has a mass of 0.54 M☉ and a radius of 0.52 R☉, both lower than those of the Sun by almost half. It has a surface temperature of 3748 K and is estimated to be about 4.4 billion years old, only 200 million years younger than the Sun and the Sun has a surface temperature of 5778 K.The star's apparent magnitude, or how bright it appears from Earth's perspective, is 14.467. Therefore, it is too dim to be seen with the naked eye.
+
+Orbit and possible moons
+Kepler-438b orbits its parent star once every 35 days and 5 hrs It is likely tidally locked due to its close distance to its star. A search for exomoons by the Hunt for Exomoons with Kepler project around Kepler-438b placed a maximum mass of a hypothetical moon at 29% that of the planet.
+
+Habitability
+The planet was announced as orbiting within the habitable zone of Kepler-438, a region where liquid water could exist on the surface of the planet. However it has been found that this planet is subjected to powerful radiation activity from its parent star every 100 days, much more violent storms than the stellar flares emitted by the Sun and which would be capable of sterilizing life on Earth.Researchers at the University of Warwick say that Kepler-438b is not habitable due to the large amount of radiation it receives. The question of what makes a planet habitable is much more complex than having a planet located at the right distance from its host star so that water can be liquid on its surface: various geophysical and geodynamical aspects, the radiation, and the host star's plasma environment can influence the evolution of planets and life, if it originated. The planet is more likely to resemble a larger and cooler version of Venus.
+
+Discovery and follow-up studies
+In 2009, NASA's Kepler spacecraft was completing observing stars on its photometer, the instrument it uses to detect transit events, in which a planet crosses in front of and dims its host star for a brief and roughly regular period of time. In this last test, Kepler observed 50000 stars in the Kepler Input Catalog, including Kepler-62; the preliminary light curves were sent to the Kepler science team for analysis, who chose obvious planetary companions from the bunch for follow-up at observatories. Observations for the potential exoplanet candidates took place between 13 May 2009 and 17 March 2012. After observing the respective transits, which for Kepler-438b occurred roughly every 35 days (its orbital period), it was eventually concluded that a planetary body was responsible for the periodic 35-day transits. The discovery, along with the planetary systems of the stars Kepler-442, Kepler-440 and Kepler-443 were announced on January 6, 2015.At nearly 460 light-years (140 pc) distant, Kepler-438b is too far from Earth for either current telescopes, or even the next generation of planned telescopes, to accurately determine its mass or whether it has an atmosphere. The Kepler spacecraft can only focus on a small, fixed region of the sky, but the next generation of planet-hunting space telescopes, such as TESS and CHEOPS, will have more flexibility. Exoplanetary systems, with stars less distant than Kepler 438, can then be studied in tandem with the upcoming James Webb Space Telescope and ground-based observatories like the future Square Kilometer Array.
+
+See also
+Kepler-442b
+Kepler-452b
+List of potentially habitable exoplanets
+TrES-2b
+
+References
+External links
+NASA – Mission overview.
+NASA – Kepler Discoveries – Summary Table.
+NASA – Kepler-438b at The NASA Exoplanet Archive.
+NASA – Kepler-438b at The Extrasolar Planets Encyclopaedia.
+Habitable Exolanets Catalog at UPR-Arecibo.

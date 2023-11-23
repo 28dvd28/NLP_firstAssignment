@@ -1,0 +1,27 @@
+Joseph Leonard Walsh (September 21, 1895 – December 6, 1973) was an American mathematician who worked mainly in the field of analysis.  The Walsh function and the Walsh–Hadamard code are named after him. The Grace–Walsh–Szegő coincidence theorem is important in the study of the location of the zeros of multivariate polynomials.He became a member of the National Academy of Sciences in 1936 and served 1949–51 as president of the American Mathematical Society. Altogether he published 279 articles (research and others) and seven books, and advised 31 PhD students.
+For most of his professional career he studied and worked at Harvard University. He received a B.S. in 1916 and a PhD in 1920. The Advisor of his PhD was Maxime Bôcher. Walsh started to work as lecturer in Harvard afterwards and became a full professor in 1935. He was an Invited Speaker of the ICM in 1920 at Strasbourg. With two different scholarships he was able to study in Paris under Paul Montel (1920–21) and in Munich under Constantin Carathéodory (1925–26). From 1937 to 1942 he served as chairman of his department at Harvard. During World War II he served as an officer in the US navy and was promoted to captain right after end of the war. After his retirement from Harvard in 1966 he accepted a position at the University of Maryland where he continued to work up to a few months before his death.
+
+Works
+Articles
+Walsh, J. L. (1922). "On the location of the roots of certain types of polynomials". Trans. Amer. Math. Soc. 24 (3): 163–180. doi:10.1090/s0002-9947-1922-1501220-0. JSTOR 1989023.
+Walsh, J. L. (1933). "Notes on the location of the critical points of Green's function". Bull. Amer. Math. Soc. 39 (10): 775–782. doi:10.1090/S0002-9904-1933-05736-1. MR 1562728.
+with Wladimir Seidel: Seidel, W.; Walsh, J. L. (1941). "On approximation by euclidean and non-euclidean translations of an analytic function". Bull. Amer. Math. Soc. 47 (12): 916–920. doi:10.1090/S0002-9904-1941-07588-9.
+with T. S. Motzkin: Motzkin, T. S.; Walsh, J. L. (1953). "On the derivative of a polynomial and Chebyshev approximation". Proc. Amer. Math. Soc. 4 (1): 76–87. doi:10.1090/s0002-9939-1953-0060640-x. MR 0060640.
+with J. P. Evans: Walsh, J. L.; Evans, J. P. (1956). "On the location of the zeros of certain orthogonal functions". Proc. Amer. Math. Soc. 7 (6): 1085–1090. doi:10.1090/s0002-9939-1956-0083550-3. MR 0083550.
+with Lawrence Rosenfeld: Walsh, J. L.; Rosenfeld, L. (1956). "On the boundary behavior of a conformal map". Trans. Amer. Math. Soc. 81 (1): 49–73. doi:10.1090/s0002-9947-1956-0076037-x. MR 0076037.
+Walsh, J. L. (1963). "A generalization of Fejér's principle concerning the zeros of extremal polynomials". Proc. Amer. Math. Soc. 14 (1): 44–57. doi:10.1090/s0002-9939-1963-0150270-x. MR 0150270.
+with J. H. Ahlberg & E. N. Nilson: Ahlberg, J. H.; Nilson, E. N.; Walsh, J. L. (1964). "Fundamental properties of generalized splines". Proc Natl Acad Sci U S A. 52 (6): 1412–1419. Bibcode:1964PNAS...52.1412A. doi:10.1073/pnas.52.6.1412. PMC 300461. PMID 16591239.
+with J. H. Ahlberg & E. N. Nilson: Ahlberg, J. H.; Nilson, E. N.; Walsh, J. L. (1965). "Convergence properties of generalized splines". Proc Natl Acad Sci U S A. 54 (2): 344–350. Bibcode:1965PNAS...54..344A. doi:10.1073/pnas.54.2.344. PMC 219666. PMID 16591293.
+with J. H. Ahlberg & E. N. Nilson: Ahlberg, J. H.; Nilson, E. N.; Walsh, J. L. (1967). "Complex cubic splines". Trans. Amer. Math. Soc. 129 (3): 391–413. doi:10.1090/s0002-9947-1967-0217484-x. MR 0217484.
+
+Books
+Interpolation and approximation by rational functions in the complex domain, AMS Colloquium Publications 1935, 5th edn. 1969
+The location of critical points of analytic and harmonic functions, AMS Colloquium Publications, vol. 34, 1950
+with John Harold Ahlberg, Edwin Norman Nilson: The theory of splines and their applications, Academic Press 1967, ISBN 0-12-044750-9 Ahlberg, J. H.; Nilson, E. N.; Walsh, J. L. (3 June 2016). 2016 pbk reprint. ISBN 9781483222950.
+
+References
+Additional sources
+O'Connor, John J.; Robertson, Edmund F., "Joseph L. Walsh", MacTutor History of Mathematics Archive, University of St Andrews
+Joseph L. Walsh at the Mathematics Genealogy Project
+Morris Marden :  Joseph L. Walsh in Memoriam. Bulletin of the American Mathematical Society, Volume 81, issue 1, January 1975
+"Bibliography of Joseph Leonard Walsh" (PDF). J. Approx. Theory. 5: xvii–xxviii. 1972. doi:10.1016/0021-9045(72)90025-1.

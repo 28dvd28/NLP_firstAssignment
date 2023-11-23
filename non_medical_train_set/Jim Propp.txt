@@ -1,0 +1,22 @@
+James Gary Propp is a professor of mathematics at the University of Massachusetts Lowell.
+
+Education and career
+In high school, Propp was one of the national winners of the United States of America Mathematical Olympiad (USAMO), and an alumnus of the Hampshire College Summer Studies in Mathematics. Propp obtained his AB in mathematics in 1982 at Harvard. After advanced study at Cambridge, he obtained his PhD from the University of California at Berkeley. He has held professorships at seven universities, including Harvard, MIT, the University of Wisconsin, and the University of Massachusetts Lowell.
+
+Mathematical research
+Propp is the co-editor of the book Microsurveys in Discrete Probability (1998) and has written more than fifty journal articles on game theory, combinatorics and probability, and recreational mathematics. He lectures extensively and has served on the Mathematical Olympiad Committee of the Mathematical Association of America, which sponsors the USAMO. In the early 90s Propp lived in Boston and later in Arlington, Massachusetts.In 1996, Propp and David Wilson invented coupling from the past, a method for sampling from the stationary distribution of a Markov chain among Markov chain Monte Carlo (MCMC) algorithms. Contrary to many MCMC algorithms, coupling from the past gives in principle a perfect sample from the stationary distribution. His papers have discussed the use of surcomplex numbers in game theory; the solution to the counting of alternating sign matrices; and occurrences of Grandi's series as an Euler characteristic of infinite-dimensional real projective space.
+
+Other contributions
+Propp was a member of the National Puzzlers' League under the nom Aesop. He was recruited for the organisation by colleague Henri Picciotto, cruciverbalist and co-author of the league's first cryptic crossword collection. Propp is the creator of the "Self-Referential Aptitude Test", a humorous multiple-choice test in which all questions except the last make self-references to their own answers. It was created in the early 1990s for a puzzlers' party.Propp is the author of Tuscanini, a 1992 children's book about a musical elephant, illustrated by Ellen Weiss.
+
+Awards and honours
+In 2015 he was elected as a fellow of the American Mathematical Society "for contributions to combinatorics and probability, and for mentoring and exposition."
+
+Personal
+He is married to research psychologist Alexandra (Sandi) Gubin.  They have a son Adam and a daughter Eliana.
+
+Notes
+External links
+
+Propp's website
+Jim Propp at the Mathematics Genealogy Project

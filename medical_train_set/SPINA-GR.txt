@@ -1,0 +1,150 @@
+SPINA-GR is a calculated biomarker for insulin sensitivity. It represents insulin receptor gain.
+
+How to determine GR
+The index is derived from a mathematical model of insulin-glucose homeostasis. For diagnostic purposes, it is calculated from fasting insulin and glucose concentrations with:
+
+  
+    
+      
+        
+          
+            
+              
+                G
+                ^
+              
+            
+          
+          
+            R
+          
+        
+        =
+        
+          
+            
+              
+                
+                  G
+                
+                
+                  1
+                
+              
+              P
+              (
+              ∞
+              )
+              (
+              
+                
+                  D
+                
+                
+                  R
+                
+              
+              +
+              
+                [
+                I
+                ]
+              
+              (
+              ∞
+              )
+              )
+            
+            
+              
+                
+                  G
+                
+                
+                  E
+                
+              
+              
+                [
+                I
+                ]
+              
+              (
+              ∞
+              )
+              [
+              G
+              ]
+              (
+              ∞
+              )
+            
+          
+        
+        −
+        
+          
+            
+              
+                D
+              
+              
+                R
+              
+            
+            
+              
+                
+                  G
+                
+                
+                  E
+                
+              
+              [
+              I
+              ]
+              (
+              ∞
+              )
+            
+          
+        
+        −
+        
+          
+            1
+            
+              
+                G
+              
+              
+                E
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\widehat {G}}_{R}={\frac {{G}_{1}P(\infty )({D}_{R}+\left[I\right](\infty ))}{{G}_{E}\left[I\right](\infty )[G](\infty )}}-{\frac {{D}_{R}}{{G}_{E}[I](\infty )}}-{\frac {1}{{G}_{E}}}}
+  .[I](∞): Fasting Insulin plasma concentration (μU/mL)
+[G](∞): Fasting blood glucose concentration (mg/dL)G1: Parameter for pharmacokinetics (154.93 s/L)DR: EC50 of insulin at its receptor (1,6 nmol/L)GE: Effector gain (50 s/moL)P(∞): Constitutive endogenous glucose production (150 µmol/s)
+
+Clinical significance
+Validity
+Compared to healthy volunteers, SPINA-GR is significantly reduced in persons with prediabetes and diabetes mellitus, and it correlates with the M value in glucose clamp studies, triceps skinfold, subscapular skinfold and (better than HOMA-IR and QUICKI) with the two-hour value in oral glucose tolerance testing (OGTT), glucose rise in OGTT, waist-to-hip ratio, body fat content (measured via DXA) and the HbA1c fraction.
+
+Pathophysiological implications
+In lean subjects it is significantly higher than in a population with obese persons.
+
+See also
+SPINA-GBeta
+SPINA-GD
+SPINA-GT
+Homeostatic model assessment
+QUICKI
+
+Notes
+References
+External links
+Functions for R and S for calculating SPINA-GBeta and SPINA-GR. (Permanent DOI)

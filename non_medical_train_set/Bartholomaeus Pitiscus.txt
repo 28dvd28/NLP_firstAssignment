@@ -1,0 +1,28 @@
+Bartholomaeus Pitiscus (also Barthélemy or Bartholomeo; August 24, 1561 – August 24, 1613) was a 16th-century German trigonometrist, astronomer and theologian who first coined the word trigonometry.
+
+Biography
+Pitiscus was born to poor parents in Grünberg (now Zielona Góra, Poland), then part of the Duchy of Glogau/Głogów, one of the Habsburg-ruled Duchies of Silesia.
+He studied theology in Zerbst and Heidelberg. A Calvinist, he was appointed to teach the ten-year-old Frederick IV, Elector Palatine of the Rhine, by Frederick's Calvinist uncle Johann Casimir of Simmern, as Frederick's father had died in 1583. Pitiscus was subsequently appointed court chaplain at Breslau (Wrocław) and court preacher to Frederick. Pitiscus supported Frederick's subsequent measures against the Roman Catholic Church.
+Pitiscus died in Heidelberg. The lunar crater Pitiscus is named after him.
+The classical scholar Samuel Pitiscus (1637–1727) was his nephew.
+
+Mathematics
+Pitiscus achieved fame with his influential work, Trigonometria: sive de solutione triangulorum tractatus brevis et perspicuus (Trigonometry: A short and clear treatise on the solution of triangles) which was printed as an appendix to work of Abraham Scultetus Sphæricorum libri tres methodice conscripti & utilibus scholiis expositi. This introduced the word trigonometry to the English and French languages, translations into which had appeared in 1614 and 1619, respectively. It consists of five books on plane and spherical trigonometry.
+A standalone edition called Trigonometriæ sive de dimensione triangulorum libri quinque (Five books on trigonometry or the dimensions of triangles) was published in 1608 which included trigonometric tables with another, improved, edition being published in 1612.Pitiscus also published Thesaurus mathematicus (1613) in which he improved the trigonometric tables of Georg Joachim Rheticus for whom he had previously helped publish an improved version of Opus palatinum de triangulis in 1607.
+
+The Decimal Point
+Pitiscus is often credited with inventing the decimal point, the symbol separating integers from decimal fractions.
+These are claimed to first appear in his 1608 edition of Trigonometria in the added trigonometric tables and can also be found in the 1612 edition. However, others argue that the use of the '.' symbol only constitute a way of grouping numbers and that the mixed use of decimal points and fractions as well as multiple decimal points do not correspond to current use. Similar usage of the symbol is found in Thesaurus mathematicus.
+The decimal place was later used in its modern context by John Napier in Mirifici Logarithmorum Canonis Descriptio.
+
+Works
+Trigonometriae sive De dimensione triangulorum (in Latin). Frankfurt am Main. Nikolaus Hoffmann (1.). 1612.
+Thesaurus mathematicus. 1613
+
+Notes
+References
+S. Gottwald, H.-J. Ilgauds, K.-H. Schlote (Hrsg.): Lexikon bedeutender Mathematiker. Verlag Harri Thun, Frankfurt a. M. 1990 ISBN 3-8171-1164-9
+
+External links
+O'Connor, John J.; Robertson, Edmund F., "Bartholomaeus Pitiscus", MacTutor History of Mathematics Archive, University of St Andrews
+Allgemeine Deutsche Biographie de:s:ADB:Pitiscus, Bartholomaeus

@@ -1,0 +1,239 @@
+The sum activity of peripheral deiodinases (GD, also referred to as deiodination capacity, total deiodinase activity or, if calculated from levels of thyroid hormones, as SPINA-GD) is the maximum amount of triiodothyronine produced per time-unit under conditions of substrate saturation. It is assumed to reflect the activity of deiodinases outside the central nervous system and other isolated compartments. GD is therefore expected to reflect predominantly the activity of type I deiodinase.
+
+How to determine GD
+GD can be determined experimentally by exposing a cell culture system to saturating concentrations of T4 and measuring the T3 production. Whole body deiodination activity can be assessed by measuring production of radioactive iodine after loading the organism with marked thyroxine.However, both approaches are faced with draw-backs. Measuring deiodination in cell culture delivers little, if any, information on total deiodination activity. Using marked thyroxine exposes the body to thyrotoxicosis and radioactivity. Additionally, it is not possible to differentiate step-up reactions resulting in T3 production from the step-down reaction catalyzed by type 3 deiodination, which mediates production of reverse T3. Distinguishing the contribution of distinct deiodinases is possible, however, by sequential approaches using deiodinase-specific blocking agents, but this approach is cumbersome and time-consuming.In vivo, it may therefore be beneficial to estimate GD from equilibrium levels of T4 and T3. It is obtained with
+
+  
+    
+      
+        
+          
+            
+              
+                G
+                ^
+              
+            
+          
+          
+            D
+          
+        
+        =
+        
+          
+            
+              
+                β
+                
+                  31
+                
+              
+              (
+              
+                K
+                
+                  M
+                  1
+                
+              
+              +
+              [
+              F
+              
+                T
+                
+                  4
+                
+              
+              ]
+              )
+              (
+              1
+              +
+              
+                K
+                
+                  30
+                
+              
+              [
+              T
+              B
+              G
+              ]
+              )
+              [
+              F
+              
+                T
+                
+                  3
+                
+              
+              ]
+            
+            
+              
+                α
+                
+                  31
+                
+              
+              [
+              F
+              
+                T
+                
+                  4
+                
+              
+              ]
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {G}}_{D}={{\beta _{31}(K_{M1}+[FT_{4}])(1+K_{30}[TBG])[FT_{3}]} \over {\alpha _{31}[FT_{4}]}}}
+  
+or
+
+  
+    
+      
+        
+          
+            
+              
+                G
+                ^
+              
+            
+          
+          
+            D
+          
+        
+        =
+        
+          
+            
+              
+                β
+                
+                  31
+                
+              
+              (
+              
+                K
+                
+                  M
+                  1
+                
+              
+              +
+              [
+              F
+              
+                T
+                
+                  4
+                
+              
+              ]
+              )
+              [
+              T
+              
+                T
+                
+                  3
+                
+              
+              ]
+            
+            
+              
+                α
+                
+                  31
+                
+              
+              [
+              F
+              
+                T
+                
+                  4
+                
+              
+              ]
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {G}}_{D}={{\beta _{31}(K_{M1}+[FT_{4}])[TT_{3}]} \over {\alpha _{31}[FT_{4}]}}}
+  
+[FT4]: Serum free T4 concentration (in pmol/L)
+[FT3]: Serum free T3 concentration (in pmol/L)
+[TT3]: Serum total T3 concentration (in nmol/L)
+  
+    
+      
+        
+          α
+          
+            31
+          
+        
+      
+    
+    {\displaystyle \alpha _{31}}
+  : Dilution factor for T3 (reciprocal of apparent volume of distribution, 0.026 L−1)
+  
+    
+      
+        
+          β
+          
+            31
+          
+        
+      
+    
+    {\displaystyle \beta _{31}}
+  : Clearance exponent for T3 (8e-6 sec−1) (i. e., reaction rate constant for degradation)KM1: Binding constant of type-1-deiodinase (5e-7 mol/L)K30: Binding constant T3-TBG (2e9 L/mol)The method is based on mathematical models of thyroid homeostasis. Calculating deiodinase activity with one of these equations is an inverse problem. Therefore, certain conditions (e.g. stationarity) have to be fulfilled to deliver a reliable result.
+The product of SPINA-GD times the urinary iodine excretion can be used to assess iodine-independent factors affecting deiodinase activity, e.g. selenium deficiency.
+
+Reference range
+The equations and their parameters are calibrated for adult humans with a body mass of 70 kg and a plasma volume of ca. 2.5 L.
+
+Clinical significance
+Validity
+SPINA-GD correlates to the T4-T3 conversion rate in slow tissue pools, as determined with isotope-based measurements in healthy volunteers. It was also shown that GD correlates with resting energy expenditure, body mass index and thyrotropin levels in humans, and that it is reduced in nonthyroidal illness with hypodeiodination. Multiple studies demonstrated SPINA-GD to rise after initiation of substitution therapy with selenium, a trace element that is essential for the synthesis of deiodinases. Conversely, it was observed that SPINA-GD is reduced in persons positive for autoantibodies to selenoprotein P, which is assumed to be involved in transport and storage of selenium.
+
+Clinical utility
+Compared to both healthy volunteers and subjects with hypothyroidism and hyperthyroidism, SPINA-GD is reduced in subacute thyroiditis. In this condition, it has a higher specificity,  positive and negative likelihood ratio than serum concentrations of thyrotropin, free T4 or free T3. These measures of diagnostic utility are also high in nodular goitre, where SPINA-GD is elevated. Among subjects with subclinical thyrotoxicosis, calculated deiodinase activity is significantly lower in exogenous thyrotoxicosis (resulting from therapy with levothyroxine) than in true hyperthyroidism (ensuing from toxic adenoma, toxic multinodular goitre or Graves' disease). SPINA-GD may therefore be an effective biomarker for the differential diagnosis of thyrotoxicosis.Compared to healthy subjects, SPINA-GD is significantly reduced in euthyroid sick syndrome.
+
+Pathophysiological and therapeutic implications
+Recent research revealed total deiodinase activity to be higher in untreated hypothyroid patients as long as thyroid tissue is still present. This effect may ensue from the existence of an effective TSH-deiodinase axis or TSH-T3 shunt. After total thyroidectomy or high-dose radioiodine therapy (e.g. in treated thyroid cancer) as well as after initiation of substitution therapy with levothyroxine the activity of step-up deiodinases decreases and the correlation of SPINA-GD to thyrotropin concentration is lost.In two large population-based cohorts within the Study of Health in Pomerania SPINA-GD was positively correlated to some markers of body composition including body mass index (BMI), waist circumference, fat-free mass and body cell mass, confirming observations in the NHANES dataset and in a Chinese study. This positive association was age-dependent and with respect to BMI significant in young subjects only, but with respect to body cell mass stronger in elderly persons. Generally, SPINA-GD seems to be upregulated in metabolic syndrome, as demonstrated by a significant correlation to the triglyceride-glucose index, a marker of insulin resistance.
+SPINA-GD is reduced in low-T3 syndrome and certain chronic diseases, e.g. chronic fatigue syndrome, chronic kidney disease, short bowel syndrome or geriatric asthma. In Graves' disease, SPINA-GD is initially elevated but decreases with antithyroid treatment in parallel to declining TSH receptor autoantibody titres. Although takotsubo syndrome (TTS) results in most cases from psychosocial stressors, thereby reflecting type 2 allostatic load, SPINA-GD has been described to be reduced in TTS. This may result from concomitant non-thyroidal illness syndrome, so that the clinical phenotype represents overlapping type 1 and type 2 allostatic response.
+In hyperthyroid men both SPINA-GT and SPINA-GD negatively correlate to erectile function, intercourse satisfaction, orgasmic function and sexual desire. Substitution with selenomethionine results in increased SPINA-GD in subjects with autoimmune thyroiditis.In subjects with diabetes mellitus SPINA-GD is positively correlated to several bone resorption markers including the N-mid fragment of osteocalcin and procollagen type I N-terminal propeptide (P1NP), as well as, however in men only, the β-C-terminal cross-linked telopeptides of type I collagen (β-CTX). In the general population it is, however, positively associated with the bone mineral density of the femoral neck and with reduced risk of osteoporosis. In both diabetic and non-diabetic subsjects it correlates (negatively) with age and concentrations of c-reactive protein, troponin T and B-type natriuretic peptide, and (positively) with the concentrations of total cholesterol, low-density lipoprotein and triglycerides.Deiodination capacity proved to be an independent predictor of substitution dose in several trials that included persons on replacement therapy with levothyroxine.Probably as a consequence of non-thyroidal illness syndrome, SPINA-GD predicts mortality in trauma and postoperative atrial fibrillation in patients undergoing cardiac surgery.  The association to mortality is retained even after adjustment for other established risk factors, including age, APACHE II score and plasma protein binding of thyroid hormones. Correlations were also shown to age, total atrial conduction time, and concentrations of 3,5-diiodothyronine and B-type natriuretic peptide. In a population suffering from pyogenic liver abscess SPINA-GD correlated to markers of malnutrition, inflammation and liver failure. A study on subjects with Parkinson's disease found SPINA-GD to be significantly decreased in tremor-dominant and mixed subtypes compared to the akinetic-rigid type. Euthyroid sick syndrome may be the reason for variations of SPINA-GD in subjects treated with immune checkpoint inhibitors for cancer as well.Endocrine disruptors may have pronounced effects on step-up deiodinases, as suggested by positive correlation of SPINA-GD to combined exposure to polycyclic aromatic hydrocarbons (PAHs) and urine concentrations of cadmium and phthalate metabolites and negative correlation to mercury and bisphenol A concentration. In a cohort of manganese-exposed workers, SPINA-GD responded to a tenfold increase in concentrations of titanium, nickel, selenium and strontium.
+
+See also
+Thyroid function tests
+Thyroid's secretory capacity
+Jostel's TSH index
+Thyrotroph Thyroid Hormone Sensitivity Index
+Thyroid Feedback Quantile-based Index
+SimThyr
+SPINA-GBeta
+SPINA-GR
+
+Notes
+References
+External links
+SPINA Thyr: Open source software for calculating GT and GD
+Package "SPINA" for the statistical environment R

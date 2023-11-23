@@ -1,0 +1,44 @@
+Percy Alexander MacMahon (26 September 1854 – 25 December 1929) was an English mathematician, especially noted in connection with the partitions of numbers and enumerative combinatorics.
+
+Early life
+Percy MacMahon was born in Malta to a British military family. His father was a colonel at the time, retired in the rank of the brigadier.
+MacMahon attended the Proprietary School in Cheltenham. At the age of 14 he won a Junior Scholarship to Cheltenham College, which he attended as a day boy from 10 February 1868 until December 1870. At the age of 16 MacMahon was admitted to the Royal Military Academy, Woolwich and passed out after two years.
+
+Military career
+On 12 March 1873, MacMahon was posted to Madras, India, with the 1st Battery 5th
+Brigade, with the temporary rank of lieutenant. The Army List showed that in October 1873 he was posted to the 8th Brigade in Lucknow. MacMahon's final posting was to the No. 1 Mountain Battery with the Punjab Frontier Force at Kohat on the North West Frontier.  He was appointed Second Subaltern on 26 January and joined the Battery on 25 February 1877.  In the Historical Record of the No. 1 (Kohat) Mountain Battery, Punjab Frontier Force it is recorded that he was sent on sick leave to Muree (or Maree), a town north of Kohat on the banks of the Indus river, on 9 August 1877. On 22 December 1877 he started 18 months leave on a medical certificate granted under GGO number 1144. The nature of his illness is unknown.
+This period of sick leave was one of the most significant occurrences in MacMahon's life. Had he remained in India he would undoubtedly have been caught up in Roberts's War against the Afghans. In early 1878 MacMahon returned to England and the sequence of events began which led to him becoming a mathematician rather than a soldier. The Army List records a transfer to the 3rd Brigade in Newbridge at the beginning of 1878, and then shows MacMahon as 'supernumerary' from May 1878 until March 1879.
+In January 1879 MacMahon was posted to the 9th Brigade in Dover, moving to Sheerness in 1880. In the same year he enrolled in the Advanced Class for Artillery Officers at Woolwich. This was a two-year course covering technical subjects and a foreign language.  Successful completion of the course resulted in the award of the letters "p.a.c" (passed advanced class) after MacMahon's name in the Army List.
+After he passed the Advanced Course and had been promoted to the rank of captain on 29 October 1881, MacMahon took up a post as instructor at the Royal Military Academy on 23 March 1882. Here he met Alfred George Greenhill, professor of mathematics at the
+Royal Artillery College. Joseph Larmor, in a letter to The Times published after MacMahon's death, wrote, 'The young Captain threw himself with indomitable zeal and insight into the great problems of the rising edifice of algebraic forms, as was being developed by Cayley, Sylvester and Salmon.’
+In 1891 MacMahon took up a new post as military instructor in electricity at the Royal Artillery College, Woolwich. Some sources (e.g. his three obituarists) have said that this post was 'professor of physics', but this is not correct, as Greenhill held that post until his own retirement.
+MacMahon retired from the military in 1898.
+
+Mathematical career
+MacMahon was elected a fellow of the Royal Society in 1890. He received the Royal Society Royal Medal in 1900, the Sylvester Medal in 1919, and the Morgan Medal by the London Mathematical Society in 1923.  MacMahon was the President of the London Mathematical Society from 1894 to 1896.
+MacMahon is best known for his study of symmetric functions and enumeration of plane partitions; see MacMahon Master theorem.  His two volume Combinatory analysis, published in 1915/16, is the first major book in enumerative combinatorics. MacMahon also did pioneering work in recreational mathematics and patented several successful puzzles. One of the best known puzzles is an edge-matching puzzle known as MacMahon Squares which he published his 1921 treatise New Mathematical Pastimes, consisting of the unique set of 24 squares that can be made by colouring the edges with one of three colours.
+
+Tribute
+A reviewer in "Science Progress in the Twentieth Century", writes: 
+
+It is, I believe, a loss to England and to mathematics that Major MacMahon has not directed a great school of research; the gain to the youthful mathematicians of such a leader is obvious; they would have received an impetus which the printed page will only give to a few. Is it not possible also that the quality of work done in such circumstances may not, like mercy, be doubly blest? [..] it is impossible to resist the feeling that there are countries in which mathematical teaching is better organised than it is in England.Richard P. Stanley considers MacMahon as the most influential mathematician in enumerative combinatorics pre-1960.
+
+Portrayal in film
+In the movie The Man Who Knew Infinity Kevin McNally plays as MacMahon. The film accurately depicts the first meeting of MacMahon and Srinivasa Ramanujan, where Ramanujan successfully completes some mathematical calculations. Gian-Carlo Rota notes in his introduction to Volume I of MacMahon's Collected Papers: It would have been fascinating to be present at one of the battles of arithmetical wits at Trinity College, when MacMahon would regularly trounce Ramanujan by the display of superior ability for fast mental calculation (as reported by D. C. Spencer, who heard it from G. H. Hardy). The written accounts of the lives of these characters, however, omit any mention of this episode, since it clashes against our prejudices.
+
+See also
+Cairo pentagonal tiling, a tiling of the plane by pentagons also called "MacMahon's net"
+
+Notes
+References
+As of 21 June 2010, this article is derived in whole or in part from freespace.virgin.net/p.garcia/. The copyright holder has licensed the content in a manner that permits reuse under CC BY-SA 3.0 and GFDL. All relevant terms must be followed. The original text was at "Life and Work of Major Percy Alexander MacMahon"
+
+Garcia, Paul (2006). Life and Work of Major Percy Alexander MacMahon (PhD thesis). The Open University. arXiv:1607.01321. Bibcode:2016arXiv160701321G.
+
+External links
+
+PhD thesis by Dr Paul Garcia,"[1]"
+O'Connor, John J.; Robertson, Edmund F., "Percy Alexander MacMahon", MacTutor History of Mathematics Archive, University of St Andrews
+P.A. MacMahon, Combinatory analysis, 2 vols, Cambridge University Press, 1915–16.
+Obituary Notices – Monthly Notices of the Royal Astronomical Society 90, 373–378.
+MacMahon's Coloured Cubes – a puzzle with coloured cubes

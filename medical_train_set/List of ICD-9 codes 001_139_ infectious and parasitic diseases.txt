@@ -1,0 +1,430 @@
+This is a shortened version of the first chapter of the ICD-9: Infectious and Parasitic Diseases. It covers ICD codes 001 to 139. The full chapter can be found on pages 49 to 99 of Volume 1, which contains all (sub)categories of the ICD-9. Volume 2 is an alphabetical index of Volume 1. Both volumes can be downloaded for free from the website of the World Health Organization.
+
+Intestinal infectious diseases (001–009)
+001 Cholera disease
+002 Typhoid and paratyphoid fevers
+002.0 Typhoid fever
+002.1 Paratyphoid fever A
+002.2 Paratyphoid fever B
+002.3 Paratyphoid fever C
+002.9 Paratyphoid fever unspecified
+003 Other Salmonella infections
+003.0 Salmonella gastroenteritis
+004 Shigellosis
+004.9 Shigellosis, unspec.
+005 Other poisoning (bacterial)
+005.0 Staphylococcal food poisoning
+006 Amoebiasis
+006.0 Acute amoebic dysentery without mention of abscess
+006.1 Chronic intestinal amoebiasis without mention of abscess
+006.2 Amoebic nondysenteric colitis
+006.3 Amoebic liver abscess
+006.4 Amoebic lung abscess
+006.5 Amoebic brain abscess
+006.6 Amoebic skin ulceration
+006.8 Amoebic infection of other sites
+006.9 Amoebiasis, unspecified
+007 Other protozoal intestinal diseases
+007.0 Balantidiasis
+007.1 Giardiasis
+007.2 Coccidiosis
+007.3 Intestinal trichomoniasis
+007.4 Cryptosporidiosis
+007.5 Cyclosporiasis
+007.9 Unspecified protozoal intestinal disease
+008 Intestinal infections due to other organisms
+008.61 Enteritis due to Rotavirus
+008.69 Enteritis due to other viral enteritis
+008.8 Intestinal infection due to other organism not elsewhere classified
+009 Ill-defined intestinal infections
+009.1 Colitis enteritis and Gastroenteritis of presumed infectious origin
+
+Tuberculosis (010–018)
+010 Primary tuberculous infection
+010.0 Primary tuberculous infection
+010.1 Tuberculous pleurisy in primary progressive tuberculosis
+010.8 Other primary progressive tuberculosis
+010.9 Primary Tuberculous infection, Unspecifed
+011 Pulmonary tuberculosis
+011.0 Tuberculosis of lung, Infiltrative
+011.1 Tuberculosis of lung, Nodular
+011.2 Tuberculosis of lung, with Cavitation
+011.3 Tuberculosis of bronchus
+011.4 Tuberculous fibrosis of lung
+011.5 Tuberculous bronchiectasis
+011.6 Tuberculous pneumonia
+any form
+011.7 Tuberculous pneumothorax
+011.8 Other specified pulmonary tuberculosis
+011.9 Pulmonary tuberculosis, Unspecified
+Respiratory tuberculosis
+Tuberculosis of lung
+012 Other respiratory tuberculosis
+013 Tuberculosis of meninges and central nervous system
+014 Tuberculosis of intestines, peritoneum, and mesenteric glands
+015 Tuberculosis of bones and joints
+015.0 Tuberculosis of Vertebral column
+Pott's disease
+016 Tuberculosis of genitourinary system
+017 Tuberculosis of other organs
+017.1 Erythema nodosum with hypersensitivity reaction in tuberculosis
+Bazin disease
+017.2 Tuberculosis of peripheral lymph nodes
+Scrofula
+018 Miliary tuberculosis
+
+Zoonotic bacterial diseases (020–027)
+020 Plague
+020.0 Bubonic plague
+021 Tularemia
+022 Anthrax
+023 Brucellosis
+024 Glanders
+025 Melioidosis
+026 Rat-bite fever
+027 Other zoonotic bacterial diseases
+027.0 Listeriosis
+027.1 Erysipelothrix infection
+027.2 Pasteurellosis
+
+Other bacterial diseases (030–041)
+030 Leprosy
+031 Diseases due to other mycobacteria
+032 Diphtheria
+033 Whooping cough
+034 Streptococcal sore throat and scarlatina
+034.0 Strep throat
+034.1 Scarlet fever
+035 Erysipelas
+036 Meningococcal meningitis
+037 Tetanus
+038 Septicaemia
+038.2 Pneumococcal septicemia
+038.4 Septicemia, gram-negative, unspec.
+038.9 Septicemia, NOS
+039 Actinomycotic infections
+040 Other bacterial diseases
+041 Bacterial infection in conditions classified elsewhere
+
+Human immunodeficiency virus (HIV) infection (042–044)
+042 Human immunodeficiency virus infection with specified conditions
+043 Human immunodeficiency virus infection causing other specified
+044 Other human immunodeficiency virus infection
+
+Poliomyelitis and other non-arthropod-borne viral diseases of central nervous system (045–049)
+045 Acute poliomyelitis
+046 Slow virus infection of central nervous system
+046.0 kuru
+046.1 Creutzfeldt–Jakob disease
+047 Meningitis due to enterovirus
+048 Other enterovirus diseases of central nervous system
+049 Other non-arthropod-borne viral diseases of central nervous system
+
+Viral diseases accompanied by exanthem (050–059)
+050 Smallpox
+050.0 Variola major
+050.1 Alastrim
+050.2 Modified smallpox
+050.9 Smallpox, unspecified
+051 Cowpox and paravaccinia
+051.0 Cowpox and vaccinia not from vaccination
+051.01 Cowpox
+051.02 Vaccinia not from vaccination
+051.1 Pseudocowpox
+051.2 Contagious pustular dermatitis
+051.9 Paravaccinia, unspecified
+052 Chickenpox
+052.0 Postvaricella encephalitis
+052.1 Varicella (hemorrhagic) pneumonitis
+052.2 Postvaricella myelitis
+052.7 Chickenpox with other specified complications
+052.8 Chickenpox with unspecified complication
+052.9 Varicella without complication
+053 Herpes zoster
+053.0 Herpes zoster with meningitis
+053.1 Herpes zoster with other nervous system complications
+053.10 Herpes zoster with unspecified nervous system complication
+053.11 Geniculate herpes zoster
+053.12 Postherpetic trigeminal neuralgia
+053.13 Postherpetic polyneuropathy
+053.14 Herpes zoster myelitis
+053.19 Herpes zoster with other nervous system complications
+053.2 Herpes zoster with ophthalmic complications
+053.20 Herpes zoster dermatitis of eyelid
+053.21 Herpes zoster keratoconjunctivitis
+053.22 Herpes zoster iridocyclitis
+053.29 Herpes zoster with other ophthalmic complications
+053.7 Herpes zoster with other specified complications
+053.71 Otitis externa due to herpes zoster
+053.79 Herpes zoster with other specified complications
+053.8 Herpes zoster with unspecified complication
+053.9 Herpes zoster without mention of complication
+054 Herpes simplex
+054.0 Eczema herpeticum
+054.1 Genital herpes
+054.10 Genital herpes, unspecified
+054.11 Herpetic vulvovaginitis
+054.12 Herpetic ulceration of vulva
+054.13 Herpetic infection of penis
+054.19 Other genital herpes
+054.2 Herpetic gingivostomatitis
+054.3 Herpetic meningoencephalitis
+054.4 Herpes simplex with ophthalmic complications
+054.40 Herpes simplex with unspecified ophthalmic complication
+054.41 Herpes simplex dermatitis of eyelid
+054.42 Dendritic keratitis
+054.43 Herpes simplex disciform keratitis
+054.44 Herpes simplex iridocyclitis
+054.49 Herpes simplex with other ophthalmic complications
+054.5 Herpetic septicemia
+054.6 Herpetic whitlow
+054.7 Herpes simplex with other specified complications
+054.71 Visceral herpes simplex
+054.72 Herpes simplex meningitis
+054.73 Herpes simplex otitis externa
+054.74 Herpes simplex myelitis
+054.79 Herpes simplex with other specified complications
+054.8 Herpes simplex with unspecified complication
+054.9 Herpes simplex without mention of complication
+055 Measles
+055.0 Postmeasles encephalitis
+055.1 Postmeasles pneumonia
+055.2 Postmeasles otitis media
+055.7 Measles with other specified complications
+055.71 Measles keratoconjunctivitis
+055.79 Measles with other specified complications
+055.8 Measles with unspecified complication
+055.9 Measles without mention of complication
+056 Rubella
+056.0 Rubella with neurological complications
+056.00 Rubella with unspecified neurological complication
+056.01 Encephalomyelitis due to rubella
+056.09 Rubella with other neurological complications
+056.7 Rubella with other specified complications
+056.71 Arthritis due to rubella
+056.79 Rubella with other specified complications
+056.8 Rubella with unspecified complications
+056.9 Rubella without mention of complication
+057 Other viral exanthemata
+057.0 Erythema infectiosum (fifth disease)
+057.8 Other specified viral exanthemata
+057.9 Viral exanthem, unspecified
+058 Other human herpesvirus
+058.1 Roseola infantum
+058.10 Roseola infantum, unspecified
+058.11 Roseola infantum due to human herpesvirus 6
+058.12 Roseola infantum due to human herpesvirus 7
+058.2 Other human herpesvirus encephalitis
+058.21 Human herpesvirus 6 encephalitis
+058.29 Other human herpesvirus encephalitis
+058.8 Other human herpesvirus infections
+058.81 Human herpesvirus 6 infection
+058.82 Human herpesvirus 7 infection
+058.89 Other human herpesvirus infection
+059 Other poxvirus infections
+059.0 Other orthopoxvirus infections
+059.00 Orthopoxvirus infection, unspecified
+059.01 Monkeypox
+059.09 Other orthopoxvirus infections
+059.1 Other parapoxvirus infections
+059.10 Parapoxvirus infection, unspecified
+059.11 Bovine stomatitis
+059.12 Sealpox
+059.19 Other parapoxvirus infections
+059.2 Yatapoxvirus infections
+059.20 Yatapoxvirus infection, unspecified
+059.21 Tanapox
+059.22 Yaba monkey tumor virus
+059.8 Other poxvirus infections
+059.9 Poxvirus infections, unspecified
+
+Arthropod-borne viral diseases (060–066)
+060 Yellow fever
+061 Dengue fever
+062 Mosquito-borne viral encephalitis
+062.9 Encephalitis, mosquito, unspec.
+063 Tick-borne viral encephalitis
+064 Viral encephalitis transmitted by other and unspecified arthropods
+065 Arthropod-borne hemorrhagic fever
+065.8 Ebola, unspec.
+066 Other arthropod-borne viral diseases
+066.4 West Nile virus, unspec.
+
+Other diseases due to viruses and Chlamydiota (070–079)
+070 Viral hepatitis
+070.0 Hepatitis A with hepatic coma
+070.1 Hepatitis A w/o coma
+070.2 Hepatitis B with hepatic coma
+070.3 Hepatitis B w/o coma, acute
+070.4 Other specified viral hepatitis with mention of hepatic coma
+070.5 Other specified viral hepatitis without mention of hepatic coma
+070.7 Unspecified viral Hepatitis C
+070.70 Unspecified viral Hepatitis C w/o hepatic coma
+070.71 Unspecified viral Hepatitis C with hepatic coma
+070.9 Hepatitis, viral, NOS
+071 Rabies
+072 Mumps
+072.9 Mumps, uncomplicated
+073 Ornithosis
+074 Specific diseases due to Coxsackie virus
+074.0 Herpangina
+074.3 Hand, foot, mouth disease
+075 Mononucleosis
+076 Trachoma
+077 Other diseases of conjunctiva due to viruses and Chlamydiota (formerly Chlamydiae)
+078 Other diseases due to viruses and Chlamydiota (formerly Chlamydiae)
+078.0 Molluscum contagiosum
+078.1 Warts, all sites
+078.11 Condyloma acuminata
+078.2 Sweating fever
+078.3 Cat-scratch disease
+078.4 Foot-and-mouth disease
+078.5 CMV disease
+079 Viral infection in conditions classified elsewhere and of unspecified site
+079.3 Rhinovirus
+079.4 HPV
+079.6 Respiratory syncytial virus
+
+Rickettsioses and other arthropod-borne diseases (080–088)
+080 Louse-borne (epidemic) typhus
+081 Other typhus
+081.0 Murine typhus (endemic typhus)
+081.1 Brill's disease
+081.2 Scrub typhus
+081.9 Typhus unspecified
+082 Tick-borne rickettsioses
+082.0 Spotted fevers
+082.1 Boutonneuse fever
+082.2 North asian tick fever
+082.3 Queensland tick typhus
+082.4 Ehrlichiosis
+082.40 Unspecified ehrlichiosis
+082.41 Ehrlichiosis chafeensis
+082.49 Other ehrlichiosis
+082.8 Other specified tick-borne rickettsioses
+082.9 Tick-borne rickettsiosis unspecified
+083 Other rickettsioses
+083.0 Q fever
+083.1 Trench fever
+083.2 Rickettsialpox
+083.8 Other specified rickettsioses
+083.9 Rickettsiosis unspecified
+084 Malaria
+085 Leishmaniasis
+086 Trypanosomiasis
+087 Relapsing fever
+088 Other arthropod-borne diseases
+088.8 Other specified arthropod-borne diseases
+088.81 Lyme disease
+088.82 Babesiosis
+
+Syphilis and other venereal diseases (090–099)
+090 Congenital syphilis
+091 Early syphilis, symptomatic
+091.0 Syphilis, primary, genital
+092 Early syphilis, latent
+093 Cardiovascular syphilis
+094 Neurosyphilis
+095 Other forms of late syphilis, with symptoms
+096 Late syphilis, latent
+097 Other and unspecified syphilis
+098 Gonococcal infections
+098.0 Gonorrhoea, acute, lower GU tract
+098.4 Conjunctivitis, gonococcal
+098.8 Gonococcal infection of other specified sites
+098.86 Gonococcal peritonitis
+099 Other venereal diseases
+099.0 Chancroid
+099.1 Lymphogranuloma venereum
+099.2 Granuloma inguinale
+099.3 Reiter's disease
+099.4 Other nongonococcal urethritis
+099.5 Other venereal diseases due to chlamydia trachomatis
+099.8 Other specified venereal diseases
+099.9 Venereal disease unspecified
+
+Other spirochetal diseases (100–104)
+100 Leptospirosis
+101 Vincent's angina
+102 Yaws
+103 Pinta
+104 Other spirochaetal infection
+
+Mycoses (110–118)
+110 Dermatophytosis
+110.0 Dermatophytosis of scalp/beard
+110.1 Onychomycosis
+110.2 Dermatophytosis of hand
+110.3 Tinea cruris
+110.4 Tinea pedis
+110.9 Tinea corporis, NOS
+111 Dermatomycosis, other and unspecified
+111.0 Tinea versicolor
+111.9 Dermatomycosis, unspec.
+112 Candidiasis
+112.0 Moniliasis, oral
+112.1 Moniliasis, vulva/vagina
+112.2 Monilial balanitis
+112.3 Moniliasis, skin/nails
+114 Coccidioidomycosis
+115 Histoplasmosis
+115.0 Histoplasma infection, unspec.
+116 Blastomycotic infection
+117 Other mycoses
+118 Opportunistic mycoses
+
+Helminthiases (120–129)
+120 Schistosomiasis (bilharziasis)
+121 Other trematode infections
+122 Echinococcosis
+123 Other cestode infection
+124 Trichinosis
+125 Filarial infection and dracontiasis
+126 Ancylostomiasis and necatoriasis
+127 Other intestinal helminthiases
+127.0 Ascariasis
+127.1 Anisakiasis
+127.2 Strongyloidiasis
+127.3 Trichuriasis
+127.4 Enterobiasis
+127.5 Capillariasis
+127.6 Trichostrongyliasis
+128 Other and unspecified helminthiases
+129 Intestinal parasitism, unspecified
+
+Other infectious and parasitic diseases (130–136)
+130 Toxoplasmosis
+130.9 Toxoplasmosis, unspec.
+131 Trichomoniasis
+131.0 Urogenital trichomoniasis
+131.01 Trichomonal vaginitis
+131.02 Trichomoniasis, urethritis
+132 Pediculosis and phthirus infestation
+132.0 Pediculosis, head lice
+132.1 Pediculosis, body lice
+132.2 Pediculosis, pubic lice
+132.9 Pediculosis, unspec.
+133 Acariasis
+133.0 Scabies
+133.8 Other acariasis
+Chiggers
+133.9 Acariasis unspecified
+134 Other infestation
+134.0 Myiasis
+134.1 Other arthropod infestation
+134.2 Hirudiniasis
+134.8 Other specified infestations
+134.9 Infestation unspecified
+135 Sarcoidosis
+136 Other and unspecified infectious and parasitic diseases
+136.0 Ainhum
+136.1 Behcet's syndrome
+136.3 Pneumocystosis
+136.4 Psorospermiasis
+136.5 Sarcosporidiosis
+136.9 Infectious/parasitic diseases, unspec.
+
+Late effects of infectious and parasitic diseases (137–139)
+137 Tuberculosis, respiratory, late effects
+138 Polio, late effects
+139 Late effects of other infectious and parasitic diseases

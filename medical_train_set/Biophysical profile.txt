@@ -1,0 +1,22 @@
+A biophysical profile (BPP) is a prenatal ultrasound evaluation of fetal well-being involving a scoring system, with the score being termed Manning's score. It is often done when a non-stress test (NST) is non reactive, or for other obstetrical indications.
+The "modified biophysical profile" consists of the NST and amniotic fluid index only.
+
+Procedure
+The BPP has five components: four ultrasound (US) assessments and an NST. The NST evaluates fetal heart rate and response to fetal movement. The five discrete biophysical variables are:
+
+Fetal heart rate
+Fetal breathing
+Fetal movement
+Fetal tone
+Amniotic fluid volumeUse of vibroacoustic stimulation to accelerate evaluation has been described.
+
+Interpretation
+Each assessment is graded either 0 or 2 points and then added up to yield a number between 0 and 10.  A BPP of 8 or 10 is generally considered reassuring.  A BPP normally is not performed before the second half of a pregnancy since fetal movements do not occur in the first half.
+The presence of these biophysical variables implies absence of significant central nervous system hypoxemia/acidemia at the time of testing. By comparison, a compromised fetus typically exhibits loss of accelerations of the fetal heart rate (FHR), decreased body movement and breathing, hypotonia, and, less acutely, decreased amniotic fluid volume.
+
+See also
+Nonstress test
+Cardiotocography
+
+
+== References ==

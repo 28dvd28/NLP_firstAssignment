@@ -1,0 +1,8 @@
+The Abderhalden reaction was a blood test for pregnancy developed by Emil Abderhalden.
+In 1909 Abderhalden found that on identification of a foreign protein in the blood, the body reacts with a "defensive fermentation" (in modern terms, a protease reaction) that causes disintegration of the protein. He developed the test in 1912.  This test became a subject of contention soon after its development, and a significant body of work was published both in support of and refuting the test's reliability.  One such publication concluded "...the individual variations of both pregnant and non-pregnant sera make the results from both overlap so completely as to render the reaction, even with quantitative technique, absolutely indecisive for either positive or negative diagnosis of pregnancy." (Van Slyke et al. 1915). The test's overall unreliability led to its being superseded in 1928 by the Aschheim-Zondek test. Due to Abderhalden's high reputation, it was not internationally acknowledged until long after his death that the underlying theory of "defensive enzymes" (Abwehrfermente) was entirely fraudulent (Deichmann & Müller-Hill 1998).
+
+References
+Deichmann, U. & Müller-Hill, B. (1998): The fraud of Abderhalden's enzymes. Nature 393:109-111. HTML abstract
+Firkin, B. G. & Whitworth, J. A. (1987): Dictionary of Medical Eponyms. Parthenon Publishing. ISBN 1-85070-333-7
+Van Slyke, Donald D.; Vinograd-Villchur, Mariam; and Losee, J.R. (1915): The Abderhalden Reaction. Journal of Biological Chemistry 23(1):377-406. PDF fulltext Archived 2007-09-29 at the Wayback Machine experimental evidence of the unreliability of the Abderhalden pregnancy test
+Who Named It?

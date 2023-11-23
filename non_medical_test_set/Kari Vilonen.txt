@@ -1,0 +1,29 @@
+Kari Kaleva Vilonen (born 1955) is a Finnish mathematician, specializing in geometric representation theory. He is currently a professor at the University of Melbourne.
+
+Education
+He received in 1983 his Ph.D from Brown University under Robert MacPherson with thesis The Intersection Homology D-module on Hypersurfaces with Isolated Singularities.
+
+Career
+From 1983 to 1986 was a C. L. E. Moore instructor at the Massachusetts Institute of Technology, on leave in 1984–1985 at the Mathematical Sciences Research Institute in Berkeley, California. Afterward, Vilonen was a  Benjamin Pierce Assistant Professor at Harvard University from 1986 to 1989. From 1989 to 2000 he was a faculty member at Brandeis University, rising to the rank of Professor in 1996. After that, he was a professor at Northwestern University, and then a professor at the University of Helsinki from 2010 to 2015. Starting in 2015, Vilonen has been a professor at the University of Melbourne in Australia.
+In 2002, with Dennis Gaitsgory and Edward Frenkel, he proved the geometrical Langlands conjecture for curves over finite fields.In 2004, Vilonen, Mark Goresky, Dennis Gaitsgory and Edward Frenkel were awarded a multimillion dollar grant from the Defense Advanced Research Projects Agency (DARPA) to work on a project aimed at establishing links between the Langlands program and dualities in quantum field theory. Later, Frenkel wrote, "We felt like we were in uncharted territory: no mathematicians we knew had ever received grants of this magnitude before." The funds were used to coordinate the work of dozens of mathematicians with the goal of making a concerted effort in a significant area of research.In 2007, with Ivan Mirković, he published "Geometric Langlands duality and representations of algebraic groups over commutative rings", which proved the geometric Satake equivalence, a geometric version of the Satake isomorphism.In 2013, Vilonen received a Humboldt Prize. In 2014, he was awarded a Simons Fellowship from the Simons Foundation.In 2020, the Australian Research Council awarded Vilonen an Australian Laureate Fellowship, their highest award to an individual. This five year grant will allow him to address deep longstanding questions about real groups, algebraic objects which describe the basic symmetries occurring in nature.
+
+Awards and keynote addresses
+Vilonen was a Guggenheim Fellow for the academic year 1997/98. In 1998 he was an Invited Speaker with talk Topological methods in representation theory at the International Congress of Mathematicians in Berlin. In 2004 he was elected a member of the Finnish Academy of Science and Letters.
+
+Selected publications
+MacPherson, Robert; Vilonen, Kari (1986). "Elementary construction of perverse sheaves". Inventiones Mathematicae. Springer Science and Business Media LLC. 84 (2): 403–435. Bibcode:1986InMat..84..403M. doi:10.1007/bf01388812. ISSN 0020-9910. S2CID 120183452.
+Mirković, I; Uzawa, T; Vilonen, K (1992). "Matsuki correspondence for sheaves". Inventiones Mathematicae. 109 (1): 231–245. Bibcode:1992InMat.109..231M. doi:10.1007/BF01232026. S2CID 120058836.
+Vilonen, K (1994). "Perverse sheaves and finite-dimensional algebras". Trans. Amer. Math. Soc. 341 (2): 665–676. doi:10.1090/S0002-9947-1994-1135104-3.
+Frenkel, E; Gaitsgory, D; Kazhdan, D; Vilonen, K (1998). "Geometric realization of Whittaker functions and the Langlands conjecture". J. Amer. Math. Soc. 11 (2): 451–484. doi:10.1090/S0894-0347-98-00260-4.
+Schmid, Wilfried; Vilonen, Kari (1998). "Two geometric character formulas for reductive Lie groups". J. Amer. Math. Soc. 11 (4): 799–867. arXiv:math/9801081. Bibcode:1998math......1081S. doi:10.1090/S0894-0347-98-00275-6.
+Mirković, I; Vilonen, K (1999). "Perverse sheaves on affine Grassmannians and Langlands duality". arXiv:math/9911050.
+Vilonen, Kari (2000). "Geometric methods in representation theory by K. Vilonen". In J. Adams; D. Vogan (eds.). Representation theory of Lie groups. IAS/Park City Mathematics Series 8. American Mathematical Society. pp. 241–290. arXiv:math/0410032. Bibcode:2004math.....10032V.
+Schmid, Wilfried; Vilonen, Kari (2000). "Characteristic Cycles and Wave Front Cycles of Representations of Reductive Lie Groups". The Annals of Mathematics. JSTOR. 151 (3): 1071. arXiv:math/0005305. Bibcode:2000math......5305S. doi:10.2307/121129. ISSN 0003-486X. JSTOR 121129. S2CID 3002170.
+Frenkel, E.; Gaitsgory, D.; Vilonen, K. (31 December 2001). "On the geometric Langlands conjecture". Journal of the American Mathematical Society. American Mathematical Society (AMS). 15 (2): 367–417. doi:10.1090/s0894-0347-01-00388-5. ISSN 0894-0347.
+Frenkel, E; Gaitsgory, D; Vilonen, K (2002). "On the geometric Langlands conjecture". J. Amer. Math. Soc. 15 (2): 367–417. doi:10.1090/S0894-0347-01-00388-5.
+Mirković, Ivan; Vilonen, Kari (1 July 2007). "Geometric Langlands duality and representations of algebraic groups over commutative rings". Annals of Mathematics. Annals of Mathematics, Princeton U. 166 (1): 95–143. doi:10.4007/annals.2007.166.95. ISSN 0003-486X.
+Schmid, Wilfried; Vilonen, Kari (2011). "Hodge theory and the unitary representations of reductive Lie groups". Frontiers in Mathematical Sciences. International Press. pp. 397–420. arXiv:1206.5547. Bibcode:2012arXiv1206.5547S.
+Kashiwara, Masaki; Vilonen, Kari (1 September 2014). "Microdifferential systems and the codimension-three conjecture". Annals of Mathematics. 180 (2): 573–620. arXiv:1209.5124. doi:10.4007/annals.2014.180.2.4. ISSN 0003-486X. S2CID 56382698.
+
+
+== References ==

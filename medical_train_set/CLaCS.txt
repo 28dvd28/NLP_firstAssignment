@@ -1,0 +1,4 @@
+CLaCS (Cryo-Laser and Cryo-Sclerotherapy) is a treatment for leg vein lesions by combining transdermal laser effect and injection sclerotherapy, all under skin cooling (Cryo - cold air blown onto the skin at -20C). The laser causes a selective photothermolysis damaging the vein wall. The vein's lumen gets smaller. On a second procedure, sclerosing agent is injected where the vein is still open. This combination can be used treat veins that could be treated by phleboectomy or foam sclerotherapy - more invasive options. To improve results, CLaCS can be guided by Augmented Reality (near-infrared vein finder).CLaCS was created by Dr. Roberto Kasuo Miyake (also knowns as Kasuo Miyake), in 1999, to adhere to patients' requests for treatment that did not require hospitalizations.
+
+
+== References ==

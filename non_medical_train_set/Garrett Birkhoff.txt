@@ -1,0 +1,43 @@
+Garrett Birkhoff (January 19, 1911 – November 22, 1996) was an American mathematician. He is best known for his work in lattice theory.
+The mathematician George Birkhoff (1884–1944) was his father.
+
+Life
+The son of the mathematician George David Birkhoff, Garrett was born in Princeton, New Jersey. He began the Harvard University BA course in 1928 after less than seven years of prior formal education. Upon completing his Harvard BA in 1932, he went to Cambridge University to study mathematical physics but switched to studying abstract algebra under Philip Hall. While visiting the University of Munich, he met Carathéodory who pointed him towards two important texts, Van der Waerden on abstract algebra and Speiser on group theory.
+Birkhoff held no Ph.D., a qualification British higher education did not emphasize at that time, and did not even bother obtaining an M.A. Nevertheless, after being a member of Harvard's Society of Fellows, 1933–36, he spent the rest of his career teaching at Harvard.
+During the 1930s, Birkhoff, along with his Harvard colleagues Marshall Stone and Saunders Mac Lane, substantially advanced American teaching and research in abstract algebra. In 1941 he and Mac Lane published A Survey of Modern Algebra, the second undergraduate textbook in English on the subject (Cyrus Colton MacDuffee's An Introduction to Abstract Algebra was published in 1940). Mac Lane and Birkhoff's Algebra (1967) is a more advanced text on abstract algebra. A number of papers he wrote in the 1930s, culminating in his monograph, Lattice Theory (1940; the third edition remains in print), turned lattice theory into a major branch of abstract algebra. His 1935 paper, "On the Structure of Abstract Algebras" founded a new branch of mathematics, universal algebra. Birkhoff's approach to this development of universal algebra and lattice theory acknowledged prior ideas of Charles Sanders Peirce, Ernst Schröder, and Alfred North Whitehead; in fact, Whitehead had written an 1898 monograph entitled Universal Algebra.
+During and after World War II, Birkhoff's interests gravitated towards what he called "engineering" mathematics. During the war, he worked on radar aiming and ballistics, including the bazooka. In the development of weapons, mathematical questions arose, some of which had not yet been addressed by the literature on fluid dynamics. Birkhoff's research was presented in his texts on fluid dynamics, Hydrodynamics (1950) and Jets, Wakes and Cavities (1957).
+Birkhoff, a friend of John von Neumann, took a close interest in the rise of the electronic computer. Birkhoff supervised the Ph.D. thesis of David M. Young on the numerical solution of the partial differential equation of Poisson, in which Young proposed the successive over-relaxation (SOR) method. Birkhoff then worked with Richard S. Varga, a former student, who was employed at Bettis Atomic Power Laboratory of the Westinghouse Electronic Corporation in Pittsburgh and was helping to design nuclear reactors. Extending the results of Young, the Birkhoff–Varga collaboration led to many publications on positive operators and iterative methods for p-cyclic matrices.
+Birkhoff's research and consulting work (notably for General Motors) developed computational methods besides numerical linear algebra, notably the representation of smooth curves via cubic splines.
+Birkhoff published more than 200 papers and supervised more than 50 Ph.D.s. He was a member of the National Academy of Sciences, the American Philosophical Society, and the American Academy of Arts and Sciences. He was a Guggenheim Fellow for the academic year 1948–1949 and the president of the Society for Industrial and Applied Mathematics for 1966–1968. He won a Lester R. Ford Award in 1974.
+
+Selected books
+Birkhoff, Garrett (1979) [1940], Lattice theory, American Mathematical Society Colloquium Publications, vol. 25 (4th ed.), Providence, R.I.: American Mathematical Society, ISBN 978-0-8218-1025-5, MR 0598630
+——; Mac Lane, Saunders (1997) [1941], A Survey of Modern Algebra, A.K. Peters, ISBN 1-56881-068-7
+—— (1978) [1950], Hydrodynamics: A study in logic, fact, and similitude, Greenwood Press 2015 pbk reprint of 1960 2nd edition
+——; Zarantonello, E.H. (1957), Jets, Wakes, and Cavities, Academic Press
+——; Rota, Gian-Carlo (1989) [1962], Ordinary Differential Equations, John Wiley
+——; Mac Lane, Saunders (1999) [1967], Algebra, Chelsea, ISBN 0-8218-1646-2
+——; Bartee, Thomas (1970), Modern Applied Algebra, McGraw-Hill
+——; Lynch, Robert Edward (1984). Numerical solution of elliptic problems. SIAM Studies in Applied Mathematics, vol. 6. Philadelphia: Society of Industrial and Applied Mathematics (SIAM). doi:10.1137/1.9781611970869.fm.
+—— (1973), Source Book in Classical Analysis, Harvard University Press
+Oliveira, J. S.; Rota, G.-C., eds. (1 January 1987). Selected Papers on Algebra and Topology by Garrett Birkhoff. Springer Science & Business Media. ISBN 978-0-8176-3114-7.
+
+See also
+Birkhoff algorithm
+Birkhoff's condition
+Birkhoff polytope
+Birkhoff's representation theorem
+Birkhoff's HSP theorem
+Birkhoff's theorem
+Birkhoff–Kakutani theorem
+Pierce–Birkhoff conjecture
+Pierce–Birkhoff ring
+Poincaré–Birkhoff–Witt theorem
+Algebraic statistics
+Median algebra
+Universal algebra
+
+References
+External links
+Garrett Birkhoff at the Mathematics Genealogy Project
+O'Connor, John J.; Robertson, Edmund F., "Garrett Birkhoff", MacTutor History of Mathematics Archive, University of St Andrews

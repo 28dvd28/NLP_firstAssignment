@@ -1,0 +1,78 @@
+Pulmonary rehabilitation, also known as respiratory rehabilitation, is an important part of the management and health maintenance of people with chronic respiratory disease who remain symptomatic or continue to have decreased function despite standard medical treatment. It is a broad therapeutic concept. It is defined by the American Thoracic Society and the European Respiratory Society as an evidence-based, multidisciplinary, and comprehensive intervention for patients with chronic respiratory diseases who are symptomatic and often have decreased daily life activities.  In general, pulmonary rehabilitation refers to a series of services that are administered to patients of respiratory disease and their families, typically to attempt to improve the quality of life for the patient. Pulmonary rehabilitation may be carried out in a variety of settings, depending on the patient's needs, and may or may not include pharmacologic intervention.
+
+Medical uses
+The NICE clinical guideline on chronic obstructive pulmonary disease states that “pulmonary rehabilitation should be offered to all patients who consider themselves functionally disabled by COPD (usually MRC [Medical Research Council] grade 3 and above)”. It is indicated not only in patients with COPD, but also for the following conditions:
+
+Cystic fibrosis
+Bronchitis
+Sarcoidosis
+Idiopathic pulmonary fibrosis
+Before and after lung surgery
+Interstitial lung disease: Pulmonary rehabilitation may be safe and may help improve functional exercise capacity, a person's short-term quality of life, and improve shortness of breath (dyspnoea).
+Asthma: moderate quality evidence suggests asthmatics may have improvement in quality of life and exercise capacity.
+Before and after lung transplant
+Pulmonary hypertension: exercise-based pulmonary rehabilitation has been shown to reduce mean pulmonary artery pressure and increase exercise capacity.
+
+Aim
+To reduce symptoms
+To improve knowledge of lung condition and promote self-management
+To increase muscle strength and endurance (peripheral and respiratory)
+To increase exercise tolerance
+To reduce length of hospital stay
+To help to function better in day-to-day life
+To help in managing anxiety and depression
+
+Benefits
+Reduction in number of days spent in hospital one year following pulmonary rehabilitation.
+Reduction in the number of exacerbations in patients who performed daily exercise when compared to those who did not exercise.
+Reduced exacerbations post pulmonary rehabilitation.
+
+Weaknesses addressed
+Ventilatory limitationIncreased dead space ventilation
+Impaired gas exchange
+Increased ventilatory demands due to peripheral muscle dysfunction
+Gas exchange limitationCompromised functional inspiratory muscle strength
+Compromised inspiratory muscle endurance
+Cardiac dysfunctionIncrease in right ventricular afterload due to increased peripheral vascular resistance.
+Skeletal muscle dysfunctionAverage reduction in quadriceps strength  decreased by 20-30% in moderate to severe COPD
+Reduction in the proportion of type I muscle fibres and an increase in the proportion of type II fibres compared to age matched normal subjects
+Reduction in capillary to fibre ratio and peak oxygen consumption
+Reduction in oxidative enzyme capacity and increased blood lactate levels at lower work rates compared to normal subjects
+Prolonged periods of under nutrition which results in a reduction in strength and endurance
+Respiratory muscle dysfunction
+
+Background
+Pulmonary rehabilitation is generally specific to the individual patient, with the objective of meeting the needs of the patient. It is a broad program and may benefit patients with lung diseases such as chronic obstructive pulmonary disease (COPD), sarcoidosis, idiopathic pulmonary fibrosis (IPF) and cystic fibrosis, among others. Although the process is focused primarily on the rehabilitation of the patient, the family is also involved. The process typically does not begin until a medical examination of the patient has been performed by a licensed physician.The setting of pulmonary rehabilitation varies by patient; settings may include inpatient care, outpatient care, the office of a physician, or the patient's home.Although there are no universally accepted procedure codes for pulmonary rehabilitation, providers usually use codes for general therapeutic processes.The goal of pulmonary rehabilitation is to help improve the well-being and quality of life of the patient and their families. Accordingly, programs typically focus on several aspects of the patient's recovery and can include medication management, exercise training, breathing retraining, education about the patient's lung disease and how to manage it, nutrition counseling, and emotional support.
+
+Pharmacologic intervention
+Medications may be used in the process of pulmonary rehabilitation including: anti-inflammatory agents (inhaled steroids), bronchodilators, long-acting bronchodilators, beta-2 agonists, anticholinergic agents, oral steroids, antibiotics, mucolytic agents, oxygen therapy, or preventive healthcare (i.e., vaccination).
+
+Exercise
+Exercise is the cornerstone of pulmonary rehabilitation programs. Although exercise training does not directly improve lung function, it causes several physiological adaptations to exercise that can improve physical condition. There are three basic types of exercises to be considered. Aerobic exercise tends to improve the body's ability to use oxygen by decreasing heart rate and blood pressure. Strengthening or resistance exercises can help build strength in the respiratory muscles. Stretching and flexibility exercises like yoga and Pilates can enhance breathing coordination. As exercise can trigger shortness of breath, it is important to build up the level of exercise gradually under the supervision of health care professionals (e.g., respiratory therapist, physiotherapist, exercise physiologist). Additionally, pursed lip breathing can be used to increase oxygen level in the patient's body. Breathing games can be used to motivate patients to learn the pursed lip breathing technique.
+
+Guidelines
+Clinical practice guidelines have been issued by various regulatory authorities.
+
+American College of Chest Physicians (ACCP) and the American Association of Cardiovascular and Pulmonary Rehabilitation has provided evidence-based guidelines in 1997 and has updated it.
+British Thoracic Society Standards of Care (BTS) Subcommittee on Pulmonary Rehabilitation has published its guidelines in 2001.
+Canadian Thoracic Society (CTS) 2010 Guideline: Optimizing pulmonary rehabilitation in chronic obstructive pulmonary disease.
+National Institute for Health and Care Excellence (NICE) Guidelines
+
+Contraindications
+The exclusion criteria for pulmonary rehabilitation consists of the following:
+
+Unstable cardiovascular disease
+Orthopaedic contraindications
+Neurological contraindication
+Unstable pulmonary disease
+
+Outcome
+The clinical improvement in outcomes due to pulmonary rehabilitation is measurable through:
+
+Exercise testing using exercise time
+Walk test using the 6-minute walk test
+Exertion and overall dyspnoea using the Borg scale
+Respiratory specific functional status has been shown to improve using the CAT Score
+
+
+== References ==

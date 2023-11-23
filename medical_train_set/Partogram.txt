@@ -1,0 +1,52 @@
+A partogram or partograph is a composite graphical record of key data (maternal and fetal) during labour entered against time on a single sheet of paper. Relevant measurements might include statistics such as cervical dilation, fetal heart rate, duration of labour and vital signs.In, 1954 Friedman prepared the cervicography. In 1972 Philpott and Castle developed the first partograph, by utilizing friedmar’s cervicograph, and adding the relationship of the presenting part to the maternal pelvis.It is intended to provide an accurate record of the progress in labour, so that any delay or deviation from normal may be detected quickly and treated accordingly. However, a Cochrane review came to the conclusion that there is insufficient evidence to recommend partographs in standard labour management and care.
+
+Components
+Patient identification
+Time: It is recorded at an interval of one hour. Zero time for spontaneous labour is time of admission in the labour ward and for induced labour is time of induction.
+Fetal heart rate: It is recorded at an interval of thirty minutes.
+State of membranes and colour of liquor: "I" designates intact membranes, "C" designates clear and "M" designates meconium stained liquor.
+Cervical dilatation and descent of head
+Uterine contractions: Squares in vertical columns are shaded according to duration and intensity.
+Drugs and fluids
+Blood pressure: It is recorded in vertical lines at an interval of 2 hours.
+Pulse rate: It is also recorded in vertical lines at an interval of 30 minutes.
+Oxytocin: Concentration is noted down in upper box; while dose is noted in lower box.
+Urine analysis
+Temperature record
+
+Advantages
+Provides information on single sheet of paper at a glance
+Early prediction of deviation from normal progress of labour
+Improvement in maternal morbidity, perinatal morbidity and mortality
+
+Limitations
+It requires a skilled healthcare worker who can fill and interpret the partograph.
+Recent studies have shown there is no evidence that partograph use is detrimental to outcomes.
+Often paper-partograph and the equipment required to complete it are unavailable in low resource settings.
+Despite decades of training and investment, implementation rates and capacity to correctly use the partograph are very low.
+According to some recent literature, cervical dilatation over time is a poor predictor of severe adverse birth outcomes. This raises questions around the validity of a partograph alert line.
+
+Usage
+A partograph is contained in the Perinatal Institute's "Birth notes".Use of a partograph in established labour is recommended by the National Institute for Clinical Excellence (NICE) in the "Intrapartum Care" guideline.
+
+Digital partograph
+A digital partograph is an electronic implementation of the standard paper-based partograph/partogram that can work on a mobile or tablet PC. Partograph is a paper-based tool developed by the W.H.O. to monitor labour during pregnancy. The use of the partograph is recommended as an important indicator for monitoring intrapartum care. Partograph includes several labour vitals including cervix dilatation of the mother. Plotting the cervix dilatation against time can help in predicting deviation from the normal progress of labour. In order to overcome the limitations of paper-based partograph, various researchers have suggested the use of digital partograph. Much literature is available regarding the feasibility of a digital partograph.
+
+Advantages
+Mitigating human errors
+According to standard W.H.O. protocol different labour vitals needs to monitor at a different interval based on the stage of pregnancy. Electronic partograph can remind the staff nurse to enter labour vital in case they forget the standard protocol. In some cases, such small aid can be life-saving by decreasing the delay in decision making.
+
+Increased accountability & preventing false data entry
+Very often the partograph is filled after the delivery only for the record keeping purpose. With electronic records, it is impossible to temper the data. Actual time of data entry can be logged easily. This allows obtaining a correct metric of protocol adherence for the labour monitoring process.
+
+Allows easy data analysis
+Data is essential in healthcare. One side effect of electronic partograph is that it makes a digital copy of the data available. Partograph itself is a very basic form of AI. But with more data, we can improve the underlying algorithm to predict the complications. It is possible to use nonlinear, multidimensional mathematical models for predicting adverse outcome during pregnancy with such data.
+
+Availability
+Another common reason for low partograph usage is its availability. This problem can be solved by using a digital medium provided an adequate power supply is available for the new device.
+
+Ease of use?
+Plotting paper partograph requires training. Digital photographs can be made highly simple to use by taking advantage of recent advances in human-computer interaction. However, the perceived ease of use is highly subjective. Non-tech savvy users might find such shift overwhelming. It is important to pick the correct solution in order to make sure that it is seen as easy to use by its end users.
+
+
+== References ==

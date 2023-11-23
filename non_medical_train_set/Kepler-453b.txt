@@ -1,0 +1,4 @@
+Kepler-453b is a transiting circumbinary exoplanet in the binary-star system Kepler-453. It orbits the binary system in the habitable zone every 240.5 days. The orbit of the planet is inclined relative to the binary orbit therefore precession of the orbit leads to it spending most of its time in a non-transiting configuration. By the time the TESS and PLATO spacecraft are available for follow up observations it will no longer be transiting.
+
+
+== References ==

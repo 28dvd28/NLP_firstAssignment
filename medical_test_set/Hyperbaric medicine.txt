@@ -1,0 +1,155 @@
+Hyperbaric medicine is medical treatment in which an ambient pressure greater than sea level atmospheric pressure is a necessary component. The treatment comprises hyperbaric oxygen therapy (HBOT), the medical use of oxygen at an ambient pressure higher than atmospheric pressure, and therapeutic recompression for decompression illness, intended to reduce the injurious effects of systemic gas bubbles by physically reducing their size and providing improved conditions for elimination of bubbles and excess dissolved gas.
+The equipment required for hyperbaric oxygen treatment consists of a pressure chamber, which may be of rigid or flexible construction, and a means of delivering 100% oxygen. Operation is performed to a predetermined schedule by trained personnel who monitor the patient and may adjust the schedule as required. HBOT found early use in the treatment of decompression sickness, and has also shown great effectiveness in treating conditions such as gas gangrene and carbon monoxide poisoning. More recent research has examined the possibility that it may also have value for other conditions such as cerebral palsy and multiple sclerosis, but no significant evidence has been found.
+Therapeutic recompression is usually also provided in a hyperbaric chamber. It is the definitive treatment for decompression sickness and may also be used to treat arterial gas embolism caused by pulmonary barotrauma of ascent. In emergencies divers may sometimes be treated by in-water recompression (when a chamber is not available) if suitable diving equipment (to reasonably secure the airway) is available.
+A number of hyperbaric treatment schedules have been published over the years for both therapeutic recompression and hyperbaric oxygen therapy for other conditions.
+
+Scope
+Hyperbaric medicine includes hyperbaric oxygen treatment, which is the medical use of oxygen at greater than atmospheric pressure to increase the availability of oxygen in the body; and therapeutic recompression, which involves increasing the ambient pressure on a person, usually a diver, to treat decompression sickness or an air embolism by eliminating bubbles that have formed within the body.
+
+Medical uses
+In the United States the Undersea and Hyperbaric Medical Society, known as UHMS, lists approvals for reimbursement for certain diagnoses in hospitals and clinics. The following indications are approved (for reimbursement) uses of hyperbaric oxygen therapy as defined by the UHMS Hyperbaric Oxygen Therapy Committee:
+Air or gas embolism;
+Carbon monoxide poisoning;Carbon monoxide poisoning complicated by cyanide poisoning;
+Central retinal artery occlusion;
+Clostridal myositis and myonecrosis (gas gangrene);
+Crush injury, compartment syndrome, and other acute traumatic ischemias;
+Decompression sickness;
+Enhancement of healing in selected problem wounds;.Diabetically derived illness, such as short-term relief of diabetic foot, diabetic retinopathy, diabetic nephropathy;
+Exceptional blood loss (anemia);
+Idiopathic sudden sensorineural hearing loss;
+Intracranial abscess;
+Mucormycosis, especially rhinocerebral disease in the setting of diabetes mellitus;
+Necrotizing soft tissue infections (necrotizing fasciitis);
+Osteomyelitis (refractory);
+Delayed radiation injury (soft tissue and bony necrosis);
+Skin grafts and flaps (compromised);
+Thermal burns.There is no reliable evidence to support its use in autism, cancer, diabetes, HIV/AIDS, Alzheimer's disease, asthma, Bell's palsy, cerebral palsy, depression, heart disease, migraines, multiple sclerosis, Parkinson's disease, spinal cord injury, sports injuries, or stroke. Furthermore, there is evidence that potential side effects of hyperbaric medicine pose an unjustified risk in such cases. A Cochrane review published in 2016 has raised questions about the ethical basis for future clinical trials of hyperbaric oxygen therapy, in view of the increased risk of damage to the eardrum in children with autism spectrum disorders. Despite the lack of evidence, in 2015, the number of people utilizing this therapy has continued to rise.There is also insufficient evidence to support its use in acute traumatic or surgical wounds.
+
+Hearing issues
+There is limited evidence that hyperbaric oxygen therapy improves hearing in patients with sudden sensorineural hearing loss who present within two weeks of hearing loss. There is some indication that HBOT might improve tinnitus presenting in the same time frame.
+
+Chronic ulcers
+HBOT in diabetic foot ulcers increased the rate of early ulcer healing but does not appear to provide any benefit in wound healing at long-term follow-up. In particular, there was no difference in major amputation rate. For venous, arterial and pressure ulcers, no evidence was apparent that HBOT provides a long-term improvement over standard treatment.
+
+Radiation injury
+There is some evidence that HBOT is effective for late radiation tissue injury of bone and soft tissues of the head and neck. Some people with radiation injuries of the head, neck or bowel show an improvement in quality of life. Importantly, no such effect has been found in neurological tissues. The use of HBOT may be justified to selected patients and tissues, but further research is required to establish the best people to treat and timing of any HBO therapy.
+
+Neuro-rehabilitation
+As of 2012, there was no sufficient evidence to support using hyperbaric oxygen therapy to treat people who have traumatic brain injuries. In acute stroke, HBOT does not show benefit. Small clinical trials, however, have shown benefits from HBOT for stroke survivors between 6 months to 3 years after the acute phase.HBOT in multiple sclerosis has not shown benefit and routine use is not recommended.A 2007 review of HBOT in cerebral palsy found no difference compared to the control group. Neuropsychological tests also showed no difference between HBOT and room air and based on caregiver report, those who received room air had significantly better mobility and social functioning. Children receiving HBOT were reported to experience seizures and the need for tympanostomy tubes to equalize ear pressure, though the incidence was not clear.
+
+Cancer
+In alternative medicine, hyperbaric medicine has been promoted as a treatment for cancer. However, a 2011 study by the American Cancer Society reported no evidence it is effective for this purpose. A 2012 review article in the journal, Targeted Oncology, reports that "there is no evidence indicating that HBO neither acts as a stimulator of tumor growth nor as an enhancer of recurrence. On the other hand, there is evidence that implies that HBO might have tumor-inhibitory effects in certain cancer subtypes, and we thus strongly believe that we need to expand our knowledge on the effect and the mechanisms behind tumor oxygenation."
+
+Migraines
+Low-quality evidence suggests that hyperbaric oxygen therapy may reduce the pain associated with an acute migraine headache in some cases. It is not known which people would benefit from this treatment, and there is no evidence that hyperbaric medicine can prevent future migraines. More research is necessary to confirm the effectiveness of hyperbaric oxygen therapy for treating migraines.
+
+Respiratory distress
+Patients who are having extreme difficulty breathing – acute respiratory distress syndrome – are commonly given oxygen and there have been limited trials of hyperbaric equipment in such cases. Examples include treatment of the Spanish flu and COVID-19.
+
+Contraindications
+The toxicology of the treatment has been reviewed by Ustundag et al. and its risk management is discussed by Christian R. Mortensen, in light of the fact that most hyperbaric facilities are managed by departments of anaesthesiology and some of their patients are critically ill.An absolute contraindication to hyperbaric oxygen therapy is untreated pneumothorax. The reason is concern that it can progress to tension pneumothorax, especially during the decompression phase of therapy, although treatment on oxygen-based tables may avoid that progression. The COPD patient with a large bleb represents a relative contraindication for similar reasons. Also, the treatment may raise the issue of Occupational health and safety (OHS), which has been encountered by the therapist.The following are relative contraindications – meaning that special consideration must be made by specialist physicians before HBO treatments begin:
+
+Cardiac disease
+COPD with air trapping – can lead to pneumothorax during treatment.
+Upper respiratory infections – These conditions can make it difficult for the patient to equalise their ears or sinuses, which can result in what is termed ear or sinus squeeze.
+High fevers – In most cases the fever should be lowered before HBO treatment begins. Fevers may predispose to convulsions.
+Emphysema with CO2 retention – This condition can lead to pneumothorax during HBO treatment due to rupture of an emphysematous bulla. This risk can be evaluated by x-ray.
+History of thoracic (chest) surgery – This is rarely a problem and usually not considered a contraindication. However, there is concern that air may be trapped in lesions that were created by surgical scarring. These conditions need to be evaluated prior to considering HBO therapy.
+Malignant disease: Cancers thrive in blood-rich environments but may be suppressed by high oxygen levels. HBO treatment of individuals who have cancer presents a problem, since HBO both increases blood flow via angiogenesis and also raises oxygen levels. Taking an anti-angiogenic supplement may provide a solution. A study by Feldemier, et al. and NIH funded study on Stem Cells by Thom, et al., indicate that HBO is actually beneficial in producing stem/progenitor cells and the malignant process is not accelerated.
+Middle ear barotrauma is always a consideration in treating both children and adults in a hyperbaric environment because of the necessity to equalise pressure in the ears.Pregnancy is not a relative contraindication to hyperbaric oxygen treatments, although it may be for underwater diving. In cases where a pregnant woman has carbon monoxide poisoning there is evidence that lower pressure (2.0 ATA) HBOT treatments are not harmful to the fetus, and that the risk involved is outweighed by the greater risk of the untreated effects of CO on the fetus (neurologic abnormalities or death.) In pregnant patients, HBO therapy has been shown to be safe for the fetus when given at appropriate levels and “doses” (durations). In fact, pregnancy lowers the threshold for HBO treatment of carbon monoxide-exposed patients. This is due to the high affinity of fetal hemoglobin for CO.
+
+Therapeutic principles
+The therapeutic consequences of HBOT and recompression result from multiple effects.
+
+Clinical pressure (2.0-3.0 Bar)
+The increased overall pressure is of therapeutic value in the treatment of decompression sickness and air embolism as it provides a physical means of reducing the volume of inert gas bubbles within the body; Exposure to this increased pressure is maintained for a period long enough to ensure that most of the bubble gas is dissolved back into the tissues, removed by perfusion and eliminated in the lungs.The improved concentration gradient for inert gas elimination (oxygen window) by using a high partial pressure of oxygen increases the rate of inert gas elimination in the treatment of decompression sickness.For many other conditions, the therapeutic principle of HBOT lies in its ability to drastically increase partial pressure of oxygen in the tissues of the body. The oxygen partial pressures achievable using HBOT are much higher than those achievable while breathing pure oxygen under normobaric conditions (i.e. at normal atmospheric pressure). This effect is achieved by an increase in the oxygen transport capacity of the blood. At normal atmospheric pressure, oxygen transport is limited by the oxygen binding capacity of hemoglobin in red blood cells and very little oxygen is transported by blood plasma. Because the hemoglobin of the red blood cells is almost saturated with oxygen at atmospheric pressure, this route of transport cannot be exploited any further. Oxygen transport by plasma, however, is significantly increased using HBOT because of the higher solubility of oxygen as pressure increases.
+
+Proangiogenic stem progenitor cell mobilization
+A study suggests that exposure to hyperbaric oxygen (HBOT) might also mobilize stem/progenitor cells from the bone marrow by a nitric oxide-dependent mechanism.
+
+Low pressure hyperoxia, stem progenitor cell mobilization and inflammatory cytokine expression
+A more recent study suggests that stem cell mobilization, similar to that seen in the Thom study, is also invoked at relative normo-baric pressure with a significantly smaller increase in oxygen concentration. This study also found a significant decrease in the expression of the systemic inflammatory cytokine TNF-α in venous blood. These results suggest that hyperbaria may not be required to invoke the transcriptional responses seen at higher partial pressures of oxygen and that the effect is due solely to oxygen.
+
+Hyperbaric chambers
+Construction
+The traditional type of hyperbaric chamber used for therapeutic recompression and HBOT is a rigid shelled pressure vessel. Such chambers can be run at absolute pressures typically about 6 bars (87 psi), 600,000 Pa or more in special cases. Navies, professional diving organizations, hospitals, and dedicated recompression facilities typically operate these. They range in size from semi-portable, one-patient units to room-sized units that can treat eight or more patients. The larger units may be rated for lower pressures if they are not primarily intended for treatment of diving injuries.A rigid chamber may consist of:
+
+a pressure vessel with the view ports (windows) made of acrylic;
+one or more human entry hatches – small and circular or wheel-in type hatches for patients on gurneys;
+the entry lock that allows human entry – a separate chamber with two hatches, one to the outside and one to the main chamber, which can be independently pressurized to allow patients to enter or exit the main chamber while it is still pressurized;
+a low volume medical or service airlock for medicines, instruments, and food;
+transparent ports or closed-circuit television that allows technicians and medical staff outside the chamber to monitor the patient inside the chamber;
+an intercom system allowing two-way communication;
+an optional carbon dioxide scrubber – consisting of a fan that passes the gas inside the chamber through a soda lime canister;
+a control panel outside the chamber to open and close valves that control air flow to and from the chamber, and regulate oxygen to hoods or masks;
+an over-pressure relief valve;
+a built-in breathing system (BIBS) to supply and exhaust treatment gas;
+a fire suppression system.Flexible monoplace chambers are available ranging from collapsible flexible aramid fiber-reinforced chambers which can be disassembled for transport via truck or SUV, with a maximum working pressure of 2 bar above ambient complete with BIBS allowing full oxygen treatment schedules. to portable, air inflated "soft" chambers that can operate at between 0.3 and 0.5 bars (4.4 and 7.3 psi) above atmospheric pressure with no supplemental oxygen, and longitudinal zipper closure.
+
+Oxygen supply
+In the larger multiplace chambers, patients inside the chamber breathe from either "oxygen hoods" – flexible, transparent soft plastic hoods with a seal around the neck similar to a space suit helmet – or tightly fitting oxygen masks, which supply pure oxygen and may be designed to directly exhaust the exhaled gas from the chamber. During treatment patients breathe 100% oxygen most of the time to maximise the effectiveness of their treatment, but have periodic "air breaks" during which they breathe chamber air (21% oxygen) to reduce the risk of oxygen toxicity. The exhaled treatment gas must be removed from the chamber to prevent the buildup of oxygen, which could present a fire risk. Attendants may also breathe oxygen some of the time to reduce their risk of decompression sickness when they leave the chamber. The pressure inside the chamber is increased by opening valves allowing high-pressure air to enter from storage cylinders, which are filled by an air compressor. Chamber air oxygen content is kept between 19% and 23% to control fire risk (US Navy maximum 25%). If the chamber does not have a scrubber system to remove carbon dioxide from the chamber gas, the chamber must be isobarically ventilated to keep the CO2 within acceptable limits.A soft chamber may be pressurised directly from a compressor. or from storage cylinders.Smaller "monoplace" chambers can only accommodate the patient, and no medical staff can enter. The chamber may be pressurised with pure oxygen or compressed air. If pure oxygen is used, no oxygen breathing mask or helmet is needed, but the cost of using pure oxygen is much higher than that of using compressed air. If compressed air is used, then an oxygen mask or hood is needed as in a multiplace chamber. Most monoplace chambers can be fitted with a demand breathing system for air breaks. In low pressure soft chambers, treatment schedules may not require air breaks, because the risk of oxygen toxicity is low due to the lower oxygen partial pressures used (usually 1.3 ATA), and short duration of treatment.For alert, cooperative patients, air breaks provided by mask are more effective than changing the chamber gas because they provide a quicker gas change and a more reliable gas composition both during the break and treatment periods.
+
+Treatments
+Initially, HBOT was developed as a treatment for diving disorders involving bubbles of gas in the tissues, such as decompression sickness and gas embolism, It is still considered the definitive treatment for these conditions. The chamber treats decompression sickness and gas embolism by increasing pressure, reducing the size of the gas bubbles and improving the transport of blood to downstream tissues. After elimination of bubbles, the pressure is gradually reduced back to atmospheric levels. Hyperbaric chambers are also used for animals, especially race horses where a recovery is worth a great deal to their owners. It is also used to treat dogs and cats in pre- and post-surgery treatment to strengthen their systems prior to surgery and then accelerate healing post surgery.
+As of September 2023, a number of hyperbaric chambers in the US are turning divers with decompression sickness away, and only treating more profitable scheduled cases. The number of hyperbaric medical facilities in the US is estimated at about 1500, of which 67 are treating diving accidents, according to Divers Alert Network. Many facilities onlyprovide hyperbaric treatment for wound care for economic reasons. Emergency hyperbaric services are more expensive to train and staff, and liability is increased.
+
+Protocol
+Emergency HBOT for decompression illness follows treatment schedules laid out in treatment tables. Most cases employ a recompression to 2.8 bars (41 psi) absolute, the equivalent of 18 metres (60 ft) of water, for 4.5 to 5.5 hours with the casualty breathing pure oxygen, but taking air breaks every 20 minutes to reduce oxygen toxicity. For extremely serious cases resulting from very deep dives, the treatment may require a chamber capable of a maximum pressure of 8 bars (120 psi), the equivalent of 70 metres (230 ft) of water, and the ability to supply heliox as a breathing gas.U.S. Navy treatment charts are used in Canada and the United States to determine the duration, pressure, and breathing gas of the therapy. The most frequently used tables are Table 5 and Table 6. In the UK the Royal Navy 62 and 67 tables are used.
+The Undersea and Hyperbaric Medical Society (UHMS) publishes a report that compiles the latest research findings and contains information regarding the recommended duration and pressure of the longer-term conditions.
+
+Home and out-patient clinic treatment
+There are several sizes of portable chambers, which are used for home treatment. These are usually referred to as "mild personal hyperbaric chambers", which is a reference to the lower pressure (compared to hard chambers) of soft-sided chambers.
+In the US, these "mild personal hyperbaric chambers" are categorized by the FDA as CLASS II medical devices and requires a prescription in order to purchase one or take treatments. The most common option (but not approved by FDA) some patients choose is to acquire an oxygen concentrator which typically delivers 85–96% oxygen as the breathing gas.
+Oxygen is never fed directly into soft chambers but is rather introduced via a line and mask directly to the patient. FDA approved oxygen concentrators for human consumption in confined areas used for HBOT are regularly monitored for purity (±1%) and flow (10 to 15 liters per minute outflow pressure). An audible alarm will sound if the purity ever drops below 80%. Personal hyperbaric chambers use 120 volt or 220 volt outlets.
+
+Possible complications and concerns
+There are risks associated with HBOT, similar to some diving disorders. Pressure changes can cause a "squeeze" or barotrauma in the tissues surrounding trapped air inside the body, such as the lungs, behind the eardrum, inside paranasal sinuses, or trapped underneath dental fillings. Breathing high-pressure oxygen may cause oxygen toxicity. Temporarily blurred vision can be caused by swelling of the lens, which usually resolves in two to four weeks.There are reports that cataracts may progress following HBOT' and rarely, may develop de novo, but this may be unrecognised and under reported. The cause is not fully explained, but evidence suggests that lifetime exposure of the lens to high partial pressure oxygen may be a major factor. Oxidative damage to lens proteins is thought to be responsible. This may be an end-stage of the relatively well documented myopic shift detected in most hyperbaric patients after a course of multiple treatments.
+
+Effects of pressure
+Patients inside the chamber may notice discomfort inside their ears as a pressure difference develops between their middle ear and the chamber atmosphere. This can be relieved by ear clearing using the Valsalva maneuver or other techniques. Continued increase of pressure without equalising may cause ear drums to rupture, resulting in severe pain. As the pressure in the chamber increases further, the air may become warm.
+To reduce the pressure, a valve is opened to allow air out of the chamber. As the pressure falls, the patient's ears may "squeak" as the pressure inside the ear equalizes with the chamber. The temperature in the chamber will fall. The speed of pressurization and de-pressurization can be adjusted to each patient's needs.
+
+Side effects
+Oxygen toxicity is a limitation on both maximum partial pressure of oxygen, and on length of each treatment.
+HBOT can accelerate the development of cataracts over multiple repetitive treatments, and can cause temporary relative myopia over the shorter term.
+
+Costs
+HBOT is recognized by Medicare in the United States as a reimbursable treatment for 14 UHMS "approved" conditions. A 1-hour HBOT session may cost between $300 and higher in private clinics, and over $2,000 in hospitals. U.S. physicians (M.D. or D.O.) may lawfully prescribe HBOT for "off-label" conditions such as stroke, and migraine. Such patients are treated in outpatient clinics. In the United Kingdom most chambers are financed by the National Health Service, although some, such as those run by Multiple Sclerosis Therapy Centres, are non-profit. In Australia, HBOT is not covered by Medicare as a treatment for multiple sclerosis. China and Russia treat more than 80 maladies, conditions and trauma with HBOT.
+
+Personnel
+Hyperbaric medical practitioner - a specialist in hyperbaric medicine
+Diving medical practitioner – a specialist in diving medicine
+Chamber operator – a person competent to operate  a hyperbaric chamber
+Hyperbaric nurse – a nurse responsible for administering hyperbaric oxygen therapy to patients and supervising them throughout the treatment.
+Diving medical technician – member of a dive team who is trained in advanced first aid.
+Chamber attendant – a person trained in basic first aid who is medically fit to dive in a chamber, usually a member of a diving team allocated to looking after the diver being treated.
+
+Research
+Aspects under research include radiation-induced hemorrhagic cystitis; and inflammatory bowel disease, rejuvenation.Some research found evidence that HBOT improves local tumour control, mortality, and local tumour recurrence for cancers of the head and neck.Some research also found evidence of an increase in stem progenitor cells and a decrease in inflammation.
+
+Neurological
+Tentative evidence shows a possible benefit in cerebrovascular diseases. Rats subjected to HBOT after some time following the acute phase of experimentally-induced stroke showed reduced inflammation, increased brain-derived neurotrophic factor, and evidence of neurogenesis. Another rat study showed improved neurofunctional recovery as well as neurogenesis following the late-chronic phase of experimentally-induced stroke.The clinical experience and results so far published has promoted the use of HBOT therapy in patients with cerebrovascular injury and focal cerebrovascular injuries. However, the power of clinical research is limited because of the shortage of randomized controlled trials.
+
+Radiation wounds
+A 2010 review of studies of HBOT applied to wounds from radiation therapy reported that, while most studies suggest a beneficial effect, more experimental and clinical research is needed to validate its clinical use.
+
+History
+Hyperbaric air
+Junod built a chamber in France in 1834 to treat pulmonary conditions at pressures between 2 and 4 atmospheres absolute.During the following century “pneumatic centres” were established in Europe and the USA which used hyperbaric air to treat a variety of conditions.Orval J Cunningham, a professor of anaesthesia at the University of Kansas in the early 1900s observed that people with circulatory disorders did better at sea level than at altitude and this formed the basis for his use of hyperbaric air. In 1918, he successfully treated patients with the Spanish flu with hyperbaric air. In 1930 the American Medical Association forced him to stop hyperbaric treatment, since he did not provide acceptable evidence that the treatments were effective.
+
+Hyperbaric oxygen
+The English scientist Joseph Priestley discovered oxygen in 1775. Shortly after its discovery, there were reports of toxic effects of hyperbaric oxygen on the central nervous system and lungs, which delayed therapeutic applications until 1937, when Behnke and Shaw first used it in the treatment of decompression sickness.In 1955 and 1956 Churchill-Davidson, in the UK, used hyperbaric oxygen to enhance the radiosensitivity of tumours, while Ite Boerema, at the University of Amsterdam, successfully used it in cardiac surgery.In 1961 Willem Hendrik Brummelkamp et al. published on the use of hyperbaric oxygen in the treatment of clostridial gas gangrene.In 1962 Smith and Sharp reported successful treatment of carbon monoxide poisoning with hyperbaric oxygen.The Undersea Medical Society (now Undersea and Hyperbaric Medical Society) formed a Committee on Hyperbaric Oxygenation which has become recognized as the authority on indications for hyperbaric oxygen treatment.
+
+See also
+Undersea and Hyperbaric Medical Society – US based organisation for research and education in hyperbaric physiology and medicine.
+South Pacific Underwater Medicine Society – Publisher for diving and hyperbaric medicine and physiology
+Decompression chamber – Hyperbaric pressure vessel for human occupation used in diving operations to decompress divers
+Hyperbaric treatment schedules – Planned hyperbaric exposure using a specified breathing gas as medical treatment
+Transdermal continuous oxygen therapy – Wound closure technique using external oxygen exposure
+
+References
+Further reading
+External links
+Hyperbaric Oxygen Therapy from eMedicine
+Duke University Medical Center Archives contains collections of multiple individuals who worked with hyperbaric medicine
+Dunning, Brian (November 19, 2019). "Skeptoid #702: Hyperbaric Oxygen Therapy". Skeptoid.

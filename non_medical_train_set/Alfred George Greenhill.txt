@@ -1,0 +1,67 @@
+Sir Alfred George Greenhill  (29 November 1847 in London – 10 February 1927 in London), was a British mathematician.
+George Greenhill was educated at Christ's Hospital School and from there he went to St John's College, Cambridge in 1866. In 1876, Greenhill was appointed professor of mathematics at the Royal Military Academy (RMA) at Woolwich, London, UK. He held this chair until his retirement in 1908, when he was knighted. 
+His 1892 textbook on applications of elliptic functions is of acknowledged excellence. He was one of the world's leading experts on applications of elliptic integrals in electromagnetic theory.He was a Plenary Speaker of the ICM in 1904 at Heidelberg (where he also gave a section talk) and an Invited Speaker of the ICM in 1908 at Rome, in 1920 at Strasbourg, and in 1924 at Toronto.
+
+Greenhill formula
+In 1879, Greenhill developed a rule of thumb for calculating the optimal twist rate for lead-core bullets. This shortcut uses the bullet's length, needing no allowances for weight or nose shape. Greenhill applied this theory to account for the steadiness of flight conferred upon an elongated projectile by rifling. The eponymous Greenhill formula, still used today, is:
+
+  
+    
+      
+        
+          T
+          w
+          i
+          s
+          t
+        
+        =
+        
+          
+            
+              C
+              
+                D
+                
+                  2
+                
+              
+            
+            L
+          
+        
+        ×
+        
+          
+            
+              
+                S
+                G
+              
+              10.9
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {Twist} ={\frac {CD^{2}}{L}}\times {\sqrt {\frac {SG}{10.9}}}}
+  where:
+
+C = 150 (use 180 for muzzle velocities higher than 2,800 ft/s)
+D = bullet's diameter in inches
+L = bullet's length in inches
+SG = bullet's specific gravity (10.9 for lead-core bullets, which cancels out the second half of the equation)The original value of C was 150, which yields a twist rate in inches per turn, when given the diameter D and the length L of the bullet in inches.  This works to velocities of about 840 m/s (2800 ft/s); above those velocities, a C of 180 should be used.  For instance, with a velocity of 600 m/s (2000 ft/s), a diameter of 0.5 inches (13 mm) and a length of 1.5 inches (38 mm), the Greenhill formula would give a value of 25, which means 1 turn in 25 inches (640 mm).
+Recently, Greenhill formula has been supplemented with Miller twist rule.
+
+Textbooks
+A. G. Greenhill Differential and integral calculus, with applications ( London, MacMillan, 1886) archive.org
+A. G. Greenhill, The applications of elliptic functions (MacMillan & Co, New York, 1892) University of Michigan Historical Mathematical Collection
+A. G. Greenhill, A treatise on hydrostatics (MacMillan, London, 1894) archive.org
+A. G. Greenhill, The dynamics of mechanical flight (Constable, London, 1912) archive.org
+A. G. Greenhill, Report on gyroscopic theory (Darling & Son, 1914)
+
+References
+External links
+
+ Quotations related to Alfred George Greenhill at Wikiquote
+Alfred George Greenhill. The First Century of the ICMI (1909 - 2008)

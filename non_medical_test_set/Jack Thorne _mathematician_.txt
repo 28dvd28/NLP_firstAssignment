@@ -1,0 +1,15 @@
+Jack A. Thorne  (born 13 June 1987) is a British mathematician working in number theory and arithmetic aspects of the Langlands Program.  He specialises in algebraic number theory.
+
+Education
+Thorne read mathematics at Trinity Hall, Cambridge. He completed his PhD with Benedict Gross and Richard Taylor at Harvard University in 2012.
+
+Career and research
+Thorne was a Clay Research Fellow. Currently, he is a Professor of Mathematics at the University of Cambridge, where he has been since 2015, and is also a fellow at Trinity Hall, Cambridge.
+Thorne's paper on adequate representations significantly extended the applicability of the Taylor-Wiles method. His paper on deformations of reducible representations generalized previous results of Chris Skinner and Andrew Wiles from two-dimensional representations to n-dimensional representations. With  Gebhard Böckle, Michael Harris, and Chandrashekhar Khare, he has applied techniques from modularity lifting to the Langlands conjectures over function fields. With Kai-Wen Lan, Harris, and Richard Taylor, Thorne constructed Galois representations associated to non-self dual regular algebraic cuspidal automorphic forms for GL(n) over CM fields. Thorne's 2015 joint work with Khare on potential automorphy and Leopoldt's conjecture has led to a proof of a potential version of the modularity conjecture for elliptic curves over imaginary quadratic fields.In joint work with James Newton, Thorne has established symmetric power functoriality for all holomorphic modular forms.
+
+Awards and honors
+Thorne was awarded the Whitehead Prize in 2017. In 2018, Thorne was an invited speaker at the International Congress of Mathematicians in Rio de Janeiro. He was awarded the 2018 SASTRA Ramanujan Prize for his contributions to the field of mathematics. He shared the prize with Yifeng Liu. In April 2020 he was elected a Fellow of the Royal Society. In 2020 he received the EMS Prize of the European Mathematical Society, in 2021 he was awarded a New Horizons in Mathematics Prize and in 2022 he was awarded the Adams Prize.  For 2023 he received the Cole Prize in Number Theory of the AMS.
+
+References
+External links
+Jack Thorne's Professional Webpage

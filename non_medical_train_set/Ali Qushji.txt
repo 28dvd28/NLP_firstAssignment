@@ -1,0 +1,65 @@
+Ala al-Dīn Ali ibn Muhammed (1403 – 16 December 1474), known as Ali Qushji (Ottoman Turkish : علی قوشچی, kuşçu – falconer in Turkish; Latin: Ali Kushgii) was a Turkic-müslims theologian, jurist, astronomer, mathematician and physicist, who settled in the Ottoman Empire some time before 1472. As a disciple of Ulugh Beg, he is best known for the development of astronomical physics independent from natural philosophy, and for providing empirical evidence for the Earth's rotation in his treatise, Concerning the Supposed Dependence of Astronomy upon Philosophy. In addition to his contributions to Ulugh Beg's famous work Zij-i-Sultani and to the founding of Sahn-ı Seman Medrese, one of the first centers for the study of various traditional Islamic sciences in the Ottoman Empire, Ali Kuşçu was also the author of several scientific works and textbooks on astronomy.
+
+Biography
+Early life and works
+Ali Kuşçu was born in 1403 in the city of Samarkand, in present-day Uzbekistan. His full name at birth was Ala al-Dīn Ali ibn Muhammed al-Qushji. The last name Qushji derived from the Turkish term kuşçu—"falconer"—due to the fact that Ali's father Muhammad was the royal falconer of Ulugh Beg. Sources consider him Turkic or Persian.
+He attended the courses of Qazi zadeh Rumi, Ghiyāth al-Dīn Jamshīd Kāshānī and Muin al-Dīn Kashi. He moved to Kerman, Iran (Persia), where he conducted some research on storms in the Oman sea. He completed Hall-e Eshkal-i Ghammar (Explanations of the Periods of the Moon) and Sharh-e Tajrid in Kirman. He moved to Herat and taught Molla Cami about astronomy (1423). After professing in Herat for a while, he returned to Samarkand. There he presented his work on the Moon to Ulugh Beg, who found it so fascinating that he read the entire work while standing up. Ulugh Beg assigned him to Ulugh Beg Observatory, which was called Samarkand Observatory at that time. Qushji worked there until Ulugh Beg was assassinated.After Ulugh Beg's death, Ali Kuşçu went to Herat, Tashkent, and finally Tabriz where, around 1470, the Ak Koyunlu ruler Uzun Hasan sent him as a delegate to the Ottoman Sultan Mehmed II. At that time Husayn Bayqarah had come to reign in Herat but Qushji preferred Constantinople over Herat because of Sultan Mehmed's attitude toward scientists and intellectuals.
+
+Constantinople era
+When he came to Constantinople (present-day Istanbul), his grandson Ghutb al-Dīn Muhammed had a son Mirim Çelebi who would be a great mathematician and astronomer in the future. Ali Kuşçu composed "risalah dar hay’at" in Persian for Mehmed II at Constantinople in 1470. Also he wrote "Sharh e resalye Fathiyeh", "resalye Mohammadiye" in Constantinople, which are in Arabic on the topic of mathematics. He then finished "Sharh e tejrid" on Nasir al-Din al-Tusi's "Tejrid al-kalam". That work is called "Sharh e Jadid" in scientific community.
+
+Contributions to astronomy
+Qushji improved on Nasir al-Din al-Tusi's planetary model and presented an alternative planetary model for Mercury. He was also one of the astronomers that were part of Ulugh Beg's team of researchers working at the Samarqand observatory and contributed towards the Zij-i-Sultani compiled there. In addition to his contributions to Zij, Ali Kuşçu wrote nine works in astronomy, two of them in Persian and seven in Arabic. A Latin translation of two of Qushji's works, the Tract on Arithmetic and Tract on Astronomy, was published by John Greaves in 1650.
+
+Concerning the Supposed Dependence of Astronomy upon Philosophy
+Qushji's most important astronomical work is Concerning the Supposed Dependence of Astronomy upon Philosophy. Under the influence of Islamic theologians who opposed the interference of Aristotelianism in astronomy, Qushji rejected Aristotelian physics and completely separated natural philosophy from Islamic astronomy, allowing astronomy to become a purely empirical and mathematical science. This allowed him to explore alternatives to the Aristotelian notion of a stationary Earth, as he explored the idea of a moving Earth instead (though Emilie Savage-Smith asserts that no Islamic astronomers proposed a heliocentric universe). He found empirical evidence for the Earth's rotation through his observation on comets and concluded, on the basis of empirical evidence rather than speculative philosophy, that the moving Earth theory is just as likely to be true as the stationary Earth theory.His predecessor al-Tusi had previously realized that "the monoformity of falling bodies, and the uniformity of celestial motions," both moved "in a single way", though he still relied on Aristotelian physics to provide "certain principles that only the natural philosophers could provide the astronomer." Qushji took this concept further and proposed that "the astronomer had no need for Aristotelian physics and in fact should establish his own physical principles independently of the natural philosophers." Alongside his rejection of Aristotle's concept of a stationary Earth, Qushji suggested that there was no need for astronomers to follow the Aristotelian notion of the heavenly bodies moving in uniform circular motion.Qushji's work was an important step away from Aristotelian physics and towards an independent astronomical physics. This is considered to be a "conceptual revolution" that had no precedent in European astronomy prior to the Copernican Revolution in the 16th century. Qushji's view on the Earth's motion was similar to the later views of Nicolaus Copernicus on this issue, though it is uncertain whether the former had any influence on the latter. However, it is likely that they both may have arrived at similar conclusions due to using the earlier work of Nasir al-Din al-Tusi as a basis. This is more of a possibility considering "the remarkable coincidence between a passage in De revolutionibus (I.8) and one in Ṭūsī’s Tadhkira (II.1[6]) in which Copernicus follows Ṭūsī’s objection to Ptolemy’s "proofs" of the Earth's immobility."
+
+His works
+Astronomy
+Sharḥ e Zîj e Ulugh Beg (In Persian)
+Risāla fī Halle Eshkale Moadeleye Ghamar lil-Masir (Arabic)
+Risāla fī aṣl al-Hâric yumkin fī al-sufliyyeyn (Arabic)
+Sharḥ ʿalā al-tuḥfat al-shāhiyya fī al-hayāt (Arabic)
+Risāla dar elm-i ḥeyāt (In Persian)
+Al-Fatḥīya fī ʿilm al-hayʾa (in Arabic)
+Risāla fi Hall-e Eshkal-i Ghammar (in Persian)
+Concerning the Supposed Dependence of Astronomy upon Philosophy (Arabic)
+
+Mathematics
+Risāla al-muḥhammadiyya fi-ḥisāb (In Arabic)
+Risāla dār ʿilm al-ḥisāb: Suleymaniye (Arabic)
+
+Kalam and Fiqh
+Sharh Tajrid al-I'tiqad
+Hashiye ale't-Telvîh
+Unkud-üz-Zevahir fi Nazm-al-Javaher
+
+Mechanics
+Tazkare fi Âlâti'r-Ruhâniyye
+
+Linguistics
+Sharh Risâleti'l-Vadiyye
+El-Ifsâh
+El-Unkûdu'z-Zevâhir fî Nazmi'l-Javâher
+Sharh e'Sh-Shâfiye
+Resale fî Beyâni Vadi'l-Mufredât
+Fâ'ide li-Tahkîki Lâmi't-Ta'rîf
+Resale mâ Ene Kultu
+Resale fî'l-Hamd
+Resale fî Ilmi'l-Me'ânî
+Resale fî Bahsi'l-Mufred
+Resale fî'l-Fenni's-Sânî min Ilmihal-Beyân
+Tafsir e-Bakara ve Âli Imrân
+Risâle fî'l-İstişâre
+Mahbub-al-Hamail fi kashf-al-mesail
+Tajrid-al-Kalam
+
+Notes
+Yavuz Unat, Ali Kuşçu, Kaynak Yayınları, 2010.
+
+References
+Ragep, F. Jamil (2001a), "Tusi and Copernicus: The Earth's Motion in Context", Science in Context, Cambridge University Press, 14 (1–2): 145–163, doi:10.1017/s0269889701000060, S2CID 145372613
+
+External links
+
+Fazlıoğlu, İhsan (2007), "Qūshjī: Abū al‐Qāsim ʿAlāʾ al‐Dīn ʿAlī ibn Muḥammad Qushči‐zāde", in Thomas Hockey; et al. (eds.), The Biographical Encyclopedia of Astronomers, New York: Springer, pp. 946–8, ISBN 978-0-387-31022-0. (PDF version)

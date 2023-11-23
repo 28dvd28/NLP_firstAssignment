@@ -1,0 +1,43 @@
+Irving Ezra Segal (1918–1998) was an American mathematician known for work on theoretical quantum mechanics. He shares credit for what is often referred to as the Segal–Shale–Weil representation. Early in his career Segal became known for his developments in quantum field theory and in functional and harmonic analysis, in particular his innovation of the algebraic axioms known as C*-algebra.
+
+Biography
+Irving Ezra Segal was born in the Bronx on September 13, 1918, to Jewish parents. He attended school in Trenton. In 1934 he was admitted to Princeton University, at the age of 16. He was elected to Phi Beta Kappa, completed his undergraduate studies in just three years time, graduated with highest honors with a bachelor's degree in 1937, and was awarded the George B. Covington Prize in Mathematics. He was then admitted to Yale, and in another three years time had completed his doctorate, receiving his Doctor of Philosophy degree in 1940. Segal taught at Harvard University, then he joined the Institute for Advanced Study in Princeton on a Guggenheim Memorial Fellowship, working from 1941 to 1943 with Albert Einstein and John von Neumann. During World War II Segal served in the US Army conducting research in ballistics at the Aberdeen Proving Ground in Maryland. He joined the mathematics department at the University of Chicago in 1948 where he served until 1960. In 1960 he joined the mathematics department at the Massachusetts Institute of Technology where he remained as a professor until his death in 1998. During his career he supervised 40 doctoral students — 15 at the University of Chicago and 25 at M.I.T. He won three Guggenheim Fellowships, in 1947, 1951 and 1967, and received the Humboldt Award in 1981. He was an Invited Speaker of the International Congress of Mathematicians in 1966 in Moscow and in 1970 in Nice. He was elected to the National Academy of Sciences in 1973.
+In 1983 Victor Guillemin edited a festschrift dedicated to Irving Segal. Physics Today published a review of Introduction to Algebraic and Constructive Quantum Field Theory (1992), which Segal coauthored.Segal died in Lexington, Massachusetts, on August 30, 1998. Edward Nelson's obituary article about Segal concludes: "... It is rare for a mathematician to produce a life work that at the time can be fully and confidently evaluated by no one, but the full impact of the work of Irving Ezra Segal will become known only to future generations."
+
+Chronometric cosmology
+Segal provided an alternative to the Big Bang theory of expansion of the universe. The cosmological redshift that motivates the expanding universe theory is due to curvature of the cosmos, according to Segal. Spacetime symmetry is expressed by the Lorentz group and its extension the Poincare group. “The inclusion of the Einstein temporal evolution among the fundamental symmetries gives rise to the conformal group...” But conformal compactification introduces closed timelike curves so Segal portrayed the spatial part of the cosmos as a large 3-sphere with an auxiliary real line for time. Spacetime cannot turn back on itself. At each point in the cosmos there is a convex future direction, meaning, "the future can never merge into the past", no spacetime curvature can close or loop.Segal reviewed redshift data to verify his cosmology. He claimed confirmation, but generally his chronometric cosmology has not found favor.
+For instance, Abraham H. Taub reviewed Mathematical Cosmology and Extragalactic Astronomy, saying 
+
+The chronometric theory as described in this book is not a theory concerning the nature of the universe nor the behaviour of objects in it. Rather it ignores the effect of gravitational forces on these objects, postulates that astronomical bodies in it are at rest without explaining how this happens and ascribes the redshift to a particular description of methods of measurement which is at variance with that used in theories such as general relativity.
+As for the cosmic microwave background, in the chronometric view, "The observed blackbody... is simply the most likely disposition of remnants of light on a purely random basis... and is not at all uniquely indicative of a Big Bang."In 2005 A. Daigneault spoke on "Irving Segal's Axiomatization of Spacetime and its Cosmological Consequences" in Budapest.
+The cosmological consequences of [Segal's] assumptions fly in the face of present day dogmas in cosmology: the universe is eternal; there is no such thing as the expansion of the universe and no such thing as a Big Bang; space is a hypersphere i.e. a three-dimensional sphere of fixed radius; the principle of energy conservation is reestablished; the redshift phenomenon is no Doppler effect but is an effect of the curvature of space ... (page 3)
+He concedes at the outset that Segal's cosmology is "generally ignored by astrophysicists", and that the model was first proposed by Einstein in 1917 and is "supposedly discredited".
+
+Selected publications
+For a list of 227 articles and 10 books to which Segal contributed, see the MIT external link below.
+
+1951: Segal, Irving Ezra (1951). Decompositions of operator algebras, I and II. Memoirs of the American Mathematical Society, no. 9. ISBN 9780821812099.
+1962: Lectures at the Boulder Summer Seminar, American Mathematical Society
+1963: Mathematical problems of relativistic physics. Lectures in Applied Mathematics, vol. 2. American Mathematical Soc. 1967; with an appendix by George W. Mackey{{cite book}}:  CS1 maint: postscript (link)
+1968: (with Ray Kunze) Integrals and operators. McGraw-Hill. 1968. Revised & enlarged 2nd edition. Grundlehren der mathematische Wissenschaften, vol. 228. Springer-Verlag. 2012-12-06. ISBN 9783642666933; pbk reprint of 1978 2nd edition{{cite book}}:  CS1 maint: postscript (link)
+1976: Mathematical cosmology and extragalactic astronomy. Pure and Applied Mathematics Series, Vol. 68. Academic Press. 1976-02-19. ISBN 9780080873848.
+1992: (with John C. Baez and Zhengfang Zhou) Baez, J. C.; Segal, I. E.; Zhou, Z.; Kon, Mark A. (1993). "Introduction to algebraic and constructive quantum field theory". Physics Today. Princeton University Press. 46 (12): 43. Bibcode:1993PhT....46l..43B. doi:10.1063/1.2809125. Baez, John C.; Segal, Irving E.; Zhou, Zhengfang (2014-07-14). 2014 reprint. Princeton University Press. ISBN 9781400862504.
+1993: (with Nicoll, J.F., Wu, P., Zhou, Z.) Statistically Efficient Testing of the Hubble and Lundmark Laws on IRAS Galaxy Samples, The Astrophysical Journal 465–484
+1995: (with Zhou, Z.) Maxwell's Equations in the Einstein Universe and Chronometric Cosmology, ApJS. Ser. 100, 307–324
+1997: "Cosmic time dilation", The Astrophysical Journal 482:L115–17
+
+See also
+Commutation theorem for traces
+Metaplectic group
+Symplectic group
+Symplectic spinor bundle
+
+References
+Habermann, Katharina; Habermann, Lutz (2006), Introduction to Symplectic Dirac Operators, Springer-Verlag, ISBN 978-3-540-33420-0
+
+External links
+O'Connor, John J.; Robertson, Edmund F., "Irving Segal", MacTutor History of Mathematics Archive, University of St Andrews
+Irving Segal at the Mathematics Genealogy Project
+"Publications of Irving Segal" (PDF). math.mit.edu.
+John C. Baez (1999) Memories of Irving Segal
+Leonard Gross and William Segal, "Irving E. Segal", Biographical Memoirs of the National Academy of Sciences (2022)

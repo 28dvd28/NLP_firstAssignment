@@ -1,0 +1,22 @@
+William Judson LeVeque (August 9, 1923 – December 1, 2007) was an American mathematician and administrator who worked primarily in number theory. He was executive director of the American Mathematical Society during the 1970s and 1980s when that organization was growing rapidly and greatly increasing its use of computers in academic publishing.
+
+Life and education
+LeVeque was born August 9, 1923, in Boulder, Colorado. He received his Bachelor of Arts degree from the University of Colorado in 1944, and a master's degree in 1945 and a Ph.D. in 1947 from Cornell University.He was an instructor at Harvard University from 1947 to 1949, then started at University of Michigan as an instructor and rose to professor. In 1970 he moved to the Claremont Graduate School. In 1977 he became executive director of the American Mathematical Society and remained there until his retirement in 1988.After retirement LeVeque and his wife, Ann, took up sailing and lived on their sailboat for three years while they traveled from Narragansett Bay to Grenada. They then moved to Bainbridge Island, Washington, where he kept active in volunteer activities for the rest of his life.
+He died December 1, 2007. His son Randall J. LeVeque is a well known applied mathematician.
+
+Work
+LeVeque's research interest was number theory, specifically transcendental numbers, uniform distribution, and Diophantine approximation.He wrote a number of number theory textbooks and reference books, which influenced the development of number theory in the United States. A long-term project was to update Leonard Eugene Dickson's History of the Theory of Numbers. This project eventually produced a six-volume collection titled Reviews in Number Theory. The Special Libraries Association's Physics-Astronomy-Mathematics Division awarded LeVeque its Division Award in 1978 for his contributions to the bibliography of mathematics.The American Mathematical Society grew rapidly during LeVeque's time as executive director (1977–1988). Revenues tripled from $5 million in 1977 to $14.9 million in 1988. The Society began computerizing at a rapid rate during this period, with Mathematical Reviews first becoming available electronically through existing academic dial-up services; this system later evolved into MathSciNet. Most of the headquarters staff received computer terminals for use in the new operations.
+
+Selected publications
+LeVeque, William J. (2002) [1956]. Topics in Number Theory, Volumes I and II. New York: Dover Publications. ISBN 978-0-486-42539-9.
+Leveque, William J. (1990) [1962]. Elementary Theory of Numbers. New York: Dover Publications. ISBN 978-0-486-66348-7.
+LeVeque, William J., ed. (1969). Studies in number theory. Mathematical Association of America. OCLC 17369.
+LeVeque, William J., ed. (1974). Reviews in number theory, as printed in Mathematical reviews, 1940 through 1972, volumes 1-44 inclusive. American Mathematical Society. OCLC 948152. (6 volumes)
+Leveque, William J. (1996) [1977]. Fundamentals of Number Theory. New York: Dover Publications. ISBN 978-0-486-68906-7.
+
+Further reading
+LeVeque, William J. (July–August 1988). "The AMS—Then, Now, and Soon" (PDF). Notices of the American Mathematical Society. 35 (6): 785–789. Retrieved 2009-01-01. A retrospective by LeVeque of his work at the American Mathematical Society.
+
+Notes
+External links
+William J. LeVeque at the Mathematics Genealogy Project

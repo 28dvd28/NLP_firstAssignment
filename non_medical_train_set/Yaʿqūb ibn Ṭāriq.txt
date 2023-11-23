@@ -1,0 +1,26 @@
+Yaʿqūb ibn Ṭāriq (يعقوب بن طارق; referred to by some sources as Yaʿqūb;  died c. 796) was an 8th-century Persian astronomer and mathematician who lived in Baghdad.
+
+Career
+Yaʿqūb ibn Ṭāriq was active in Baghdad as an astronomer during the rule of the second Abbasid caliph, al-Manṣūr (r. 754–775). He seems not to have been aware of Ptolemaic astronomy, and used a Zoroastrian calendar, which consisted of 12 months of 30 days each, with any remaining days being added after the eighth month, Ābān.Yaʿqūb ibn Ṭāriq's treatise Tarkīb al‐aflāk dealt with cosmography (the placement and sizes of the heavenly bodies). The estimations of their sizes and distances in Tarkīb al‐aflāk were tabulated in the 11th century by the polymath al-Bīrūnī, in his work on India. According to al-Bīrūnī, Yaʿqūb ibn Ṭāriq gave the radius of the Earth as 1,050 farsakhs, the diameter of the Moon and Mercury as 5,000 farsakhs (4.8 Earth radii), and the diameter of the other heavenly bodies (Venus, the Sun, Mars, Jupiter, and Saturn) as 20,000 farsakhs (19.0 Earth radii). He wrote that each of the planets had six associated spheres, that the Sun possessed two spheres, and the Moon three. He also spoke of planetary epicycles and speeds. His values for the longitudes and apogees of celestial objects originated from a Persian set of astronomical table, the Zīǧ aš-šāh, although he used methods originating from the work of Indian astronomers to calculate the lunar phases.The Christian astrologer Ibn Hibintā mentioned Yaʿqūb, noting that he used the positions of the Sun and the stars to determine the latitude of places.
+
+Works
+Works ascribed to Yaʿqūb ibn Ṭāriq include:
+Zīj maḥlūl fī al‐Sindhind li‐daraja daraja ("Astronomical Tables in the 'Sindhind' Resolved for each Degree");
+Tarkīb al‐aflāk ("Arrangement of the Orbs"). Part of this work, the earliest surviving description of the celestial sky by an Islamic astronomer, is preserved by Ibn Hibintā.
+Kitāb al‐ʿilal ("Rationales");
+Taqṭīʿ kardajāt al‐jayb ("Distribution of the Kardajas of the Sine");
+Mā irtafaʿa min qaws niṣf al‐nahār ("Elevation along the Arc of the Meridian").An astrological work, Al‐maqālāt ("The Chapters"), is ascribed to Yaʿqūb ibn Ṭāriq by an unreliable source.Yaʿqūb ibn Ṭāriq's zij, written in around 770, was based on a Sanskrit work, thought to be similar to the Brāhmasphuṭasiddhānta. It was brought to the court of al-Mansūr, the third caliph of the Fatimid Caliphate, from Sindh, reportedly by the Sindhi astronomer Kankah.
+
+References
+Sources
+Kennedy, Edward Stewart (1956). "A Survey of Islamic Astronomical Tables". Transactions of the American Philosophical Society. New Series. Philadelphia, Pennsylvania: American Philosophical Society. 46 (2): 123–177. doi:10.2307/1005726. hdl:2027/mdp.39076006359272. ISSN 0065-9746. JSTOR 1005726.
+Pingree, David (1976). "Yaʿqūb ibn Ṭāriq". In Gillispie, Charles Coulston (ed.). Dictionary of Scientific Biography. Vol. 14. New York: Charles Scribner's Sons. ISBN 978-0-684-16962-0.
+Plofker, Kim (2007). "Yaʿqūb ibn Ṭāriq". In Thomas Hockey; et al. (eds.). The Biographical Encyclopedia of Astronomers. New York: Springer. ISBN 978-0-387-31022-0. (PDF version)
+Sezgin, Fuat (2021). "III. Arab Astronomers". Sezgin Online. doi:10.1163/2667-3975_SEZO_COM_603. Retrieved 8 May 2023.
+
+Further reading
+Hogendijk, Jan P. (1988). "New Light on the Lunar Crescent Visibility Table of Yaʿqūb ibn Ṭāriq". Journal of Near Eastern Studies. 47 (2): 95–104. doi:10.1086/373260. JSTOR 544381. S2CID 162371303.
+Kennedy, E. S. (1968). "The Lunar Visibility Theory of Yaʿqūb Ibn Ṭāriq". Journal of Near Eastern Studies. 27 (2): 126–132. doi:10.1086/371945. JSTOR 543759. S2CID 162369374.
+Pingree, David (1968). "The Fragments of the Works of Yaʿqūb Ibn Ṭāriq". Journal of Near Eastern Studies. 27 (2): 97–125. doi:10.1086/371944. JSTOR 543758. S2CID 68584137.
+Steinschneider, Moritz (1870). "Zur Geschichte der Uebersetzungen aus dem Indischen in's Arabische und ihres Einflusses aus die arabische Literatur". Zeitschrift der Deutschen Morgenländischen Gesellschaft. 24: 332.
+Suter, Heinrich (1900). Die Mathematiker und Astronomen der Araber und ihre Werke (in German). Leipzig: Teubner. p. 4. OCLC 230703086.

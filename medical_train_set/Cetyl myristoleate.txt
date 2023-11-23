@@ -1,0 +1,19 @@
+Cetyl myristoleate is a fatty acid ester or, more specifically, a cetylated fatty acid (CFA).  It is the cetyl ester of myristoleic acid. Preclinical and clinical data show potential benefits in the management of arthritis and fibromyalgia.
+
+History
+Cetyl myristoleate was isolated for the first time by Dr. Harry Diehl at the Laboratory of Chemistry of the National Institute of Arthritis, Metabolic, and Digestive Diseases in Bethesda, Maryland. Dr. Diehl had tried to unsuccessfully induce polyarthritis in Swiss albino mice using Freund's adjuvant (heat-killed desiccated Mycobacterium butyricum) but realized that they were immune. Further investigation revealed that cetyl myristoleate was what was causing the mice to be immune to becoming arthritic. The compound was isolated and identified using thin layer chromatography. In order to validate his theory that cetyl myristoleate could prevent arthritis in rodents, Diehl injected two groups of rats with the arthritis-inducing Freund’s adjuvant. After 20 days, both groups had no visible sign of arthritis. Then, a group was re-injected with the adjuvant while the other group received an injection of cetyl myristoleate followed by an injection of the adjuvant 48 hours later. After 58 days of observation, the rats that had not received cetyl myristoleate injections had developed swelling, had grown on average 5.17 times less than the other group and were lethargic. On the other hand, the rats who received cetyl myristoleate injections were healthy and growing at a normal rate. The findings were first published in 1994 in the peer-reviewed American Journal of Pharmaceutical Sciences.
+
+Synthesis
+Cetyl myristoleate has been prepared by an esterification reaction between myristoleic acid and cetyl alcohol, catalyzed by p-toluenesulfonic acid monohydrate.
+
+Animal pharmacology
+In animal studies, cetyl myristoleate was first reported to block inflammation and prevent adjuvant-induced arthritis at very high doses in rats. In follow-up studies in mice, a modest anti-inflammatory effect was observed.
+
+Studies in humans
+In 1997, a prospective randomized study conducted by H. Siemandi showed that after 32 weeks of observation, cetyl myristoleate had clearly superior efficacy in terms of reducing the frequency of arthritic episodes when compared to control groups of patients who received a mixture of natural compounds or a placebo.Although cetyl myristoleate is sold as a dietary supplement, its possible benefits in the treatment of any medical condition are not completely established and the Federal Trade Commission has taken legal action against supplement manufacturers for inaccurate claims.There is some clinical evidence for the benefits of CFAs, which may contain cetyl myristoleate, in arthritic patients. One pilot study found that cetyl myristoleate may be beneficial against fibromyalgia, and there have been other studies. However, these low-quality clinical trials provide only limited scientific evidence of efficacy.
+
+Mechanism of Action
+Although not fully established, the most likely mechanism of action of cetyl myristoleate is the decrease of production of prostaglandins and leukotrienes through the inhibition of the lipoxygenase and cyclooxygenase pathways of arachidonic acid metabolism.
+
+
+== References ==

@@ -1,0 +1,7 @@
+HD 179070, also known as Kepler-21, is a F-type subgiant star 354 light-years (109 parsecs) away in the constellation Lyra. A transiting exoplanet was discovered orbiting this star by the Kepler spacecraft. At a magnitude of 8.25 this was the brightest star observed by Kepler to host a validated planet until the discovery of an exoplanet orbiting HD 212657 in 2018.
+
+Planetary system
+The single known planet orbiting this star was identified as a candidate based on photometry from the first four months of data from the Kepler spacecraft. Confirmation was obtained in 2012 after extensive follow-up observations and analysis of the Kepler light curves.The calculated density of the planet is approximately 6.4 g cm−3, similar to Earth's 5.5 g cm−3, which suggests a rocky composition. With an equilibrium temperature of 2025 Kelvin, the top few-hundred kilometers of the planet is probably molten.Calculations of the rate of orbital decay from tidal effects results in a decrease in the orbital period of 3.88 milliseconds per year, since this would be a change of only 4 seconds every thousand years it would be undetectable in any reasonable length of time.
+
+
+== References ==

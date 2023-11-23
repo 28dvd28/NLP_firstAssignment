@@ -1,0 +1,27 @@
+Kepler-186e (also known by its Kepler Object of Interest designation KOI-571.04) is a confirmed exoplanet orbiting the red dwarf star Kepler-186, approximately 582 light years away from Earth in the constellation of Cygnus. It is near the optimistic habitable zone but probably not in it, possibly making it have a runaway greenhouse effect, like Venus. The exoplanet was found by using the transit method, in which the dimming effect that a planet causes as it crosses in front of its star is measured. Four additional planets orbiting  the star (all modestly larger than Earth) were also discovered.
+
+Physical characteristics
+Mass, orbit, and composition
+The exoplanet is only slightly larger than Earth, with a radius 1.27–1.33 times that of Earth. Its mass is not known but it is likely to have a similar composition to Earth, giving it a mass of about 2.29–2.72 times the mass of the Earth. Kepler-186e orbits an M-dwarf star with about 4% of the Sun's luminosity with an orbital period of 22.4077 days and an orbital radius of about 0.11 times that of Earth's (compared to 0.39 AU for Mercury). The habitable zone for this system is estimated conservatively to extend over distances receiving from 88% to 25% of Earth's illumination (from 0.22 to 0.40 AU).
+
+Formation, tidal evolution and habitability
+The star hosts four other planets discovered so far. Because of the very slow evolution of red dwarfs, the age of the Kepler-186 system is poorly constrained, although it is likely to be greater than a few billion years. Due to its proximity to its star, Kepler-186e is probably tidally locked, facing one side to its star at all times, and one side facing away from its star at all times. The side in permanent daylight would be extremely hot and the side in permanent darkness would be extremely cold. But between these hostile environments, there would be a sliver of habitability, which could support life.
+Kepler-186e's axial tilt (obliquity) is likely very small. Its orbit is probably close to circular, so it will lack seasonal changes. However, the axial tilt could be larger (about 23 degrees) if another undetected nontransiting planet orbits between it and Kepler-186f; planetary formation simulations have shown that the presence of at least one additional planet in this region is likely. If such a planet exists, it cannot be much more massive than Earth as it would then cause orbital instabilities.
+
+Discovery
+The exoplanet, along with the other planets of the Kepler-186 system (including 186f), were announced on April 17, 2014, in an article published by NASA.
+
+Previous names
+As the Kepler telescope observational campaign proceeded, an initially identified system was entered in the Kepler Input Catalog (KIC), and then progressed as a candidate host of planets to a Kepler Object of Interest (KOI). Thus, Kepler-186 started as KIC 8120608 and then was identified as KOI 571. Kepler-186e was mentioned when known as KOI-571-04 or KOI-571.04 or using similar nomenclatures in 2013 in various discussions and publications before its full confirmation.
+
+See also
+Habitability of red dwarf systems
+List of potentially habitable exoplanets
+Kepler-186f
+
+References
+Notes
+External links
+NASA – Kepler Mission.
+NASA – Kepler Discoveries – Summary Table.
+Habitable Exolanets Catalog at UPR-Arecibo.

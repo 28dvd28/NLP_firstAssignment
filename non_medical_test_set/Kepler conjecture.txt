@@ -1,0 +1,102 @@
+The Kepler conjecture, named after the 17th-century mathematician and astronomer Johannes Kepler, is a mathematical theorem about sphere packing in three-dimensional Euclidean space. It states that no arrangement of equally sized spheres filling space has a greater average density than that of the cubic close packing (face-centered cubic) and hexagonal close packing arrangements. The density of these arrangements is around 74.05%.
+In 1998, Thomas Hales, following an approach suggested by Fejes Tóth (1953),  announced that he had a proof of the Kepler conjecture. Hales' proof is a proof by exhaustion involving the checking of many individual cases using complex computer calculations. Referees said that they were "99% certain" of the correctness of Hales' proof, and the Kepler conjecture was accepted as a theorem. In 2014, the Flyspeck project team, headed by Hales, announced the completion of a formal proof of the Kepler conjecture using a combination of the Isabelle and HOL Light proof assistants.  In 2017, the formal proof was accepted by the journal Forum of Mathematics, Pi.
+
+Background
+Imagine filling a large container with small equal-sized spheres: Say a porcelain gallon jug with identical marbles. The "density" of the arrangement is equal to the total volume of all the marbles, divided by the volume of the jug. To maximize the number of marbles in the jug means to create an arrangement of marbles stacked between the sides and bottom of the jug, that has the highest possible density, so that the marbles are packed together as closely as possible.
+Experiment shows that dropping the marbles in randomly, with no effort to arrange them tightly, will achieve a density of around 65%. However, a higher density can be achieved by carefully arranging the marbles as follows:
+
+For the first layer of marbles, arrange them in a hexagonal lattice (the honeycomb pattern)
+Put the next layer of marbles in the lowest lying gaps you can find above and between the marbles in the first layer, regardless of pattern
+Continue with the same procedure of filling in the lowest gaps in the prior layer, for the third and remaining layers, until the marbles reach the top edge of the jug.At each step there are at least two choices of how to place the next layer, so this otherwise unplanned method of stacking the spheres creates an uncountably infinite number of equally dense packings. The best known of these are called cubic close packing and hexagonal close packing. Each of these arrangements has an average density of
+
+  
+    
+      
+        
+          
+            π
+            
+              3
+              
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        0.740480489
+        …
+      
+    
+    {\displaystyle {\frac {\pi }{3{\sqrt {2}}}}=0.740480489\ldots }
+  The Kepler conjecture says that this is the best that can be done – no other arrangement of marbles has a higher average density: Despite there being astoundingly many different arrangements possible that follow the same procedure as steps 1–3, no packing (according to the procedure or not) can possibly fit more marbles into the same jug.
+
+Origins
+The conjecture was first stated by Johannes Kepler (1611) in his paper 'On the six-cornered snowflake'. He had started to study arrangements of spheres as a result of his correspondence with the English mathematician and astronomer Thomas Harriot in 1606. Harriot was a friend and assistant of Sir Walter Raleigh, who had asked Harriot to find formulas for counting stacked cannonballs, an assignment which in turn led Raleigh's mathematician acquaintance into wondering about what the best way to stack cannonballs was. Harriot published a study of various stacking patterns in 1591, and went on to develop an early version of atomic theory.
+
+Nineteenth century
+Kepler did not have a proof of the conjecture, and the next step was taken by Carl Friedrich Gauss (1831), who proved that the Kepler conjecture is true if the spheres have to be arranged in a regular lattice.
+This meant that any packing arrangement that disproved the Kepler conjecture would have to be an irregular one. But eliminating all possible irregular arrangements is very difficult, and this is what made the Kepler conjecture so hard to prove. In fact, there are irregular arrangements that are denser than the cubic close packing arrangement over a small enough volume, but any attempt to extend these arrangements to fill a larger volume is now known to always reduce their density.
+After Gauss, no further progress was made towards proving the Kepler conjecture in the nineteenth century. In 1900 David Hilbert included it in his list of twenty three unsolved problems of mathematics—it forms part of Hilbert's eighteenth problem.
+
+Twentieth century
+The next step toward a solution was taken by László Fejes Tóth. Fejes Tóth (1953) showed that the problem of determining the maximum density of all arrangements (regular and irregular) could be reduced to a finite (but very large) number of calculations. This meant that a proof by exhaustion was, in principle, possible. As Fejes Tóth realised, a fast enough computer could turn this theoretical result into a practical approach to the problem.
+Meanwhile, attempts were made to find an upper bound for the maximum density of any possible arrangement of spheres. English mathematician Claude Ambrose Rogers (see Rogers (1958)) established an upper bound value of about 78%, and subsequent efforts by other mathematicians reduced this value slightly, but this was still much larger than the cubic close packing density of about  74%.
+In 1990, Wu-Yi Hsiang claimed to have proven the Kepler conjecture. The proof was praised by Encyclopædia Britannica and Science and Hsiang was also honored at joint meetings of AMS-MAA. Wu-Yi Hsiang (1993, 2001)  claimed to prove the Kepler conjecture using geometric methods. However Gábor Fejes Tóth (the son of László Fejes Tóth) stated in his review of the paper "As far as details are concerned, my opinion is that many of the key statements have no acceptable proofs."  
+Hales (1994) gave a detailed criticism of Hsiang's work, to which Hsiang (1995) responded. The current consensus is that Hsiang's proof is incomplete.
+
+Hales' proof
+Following the approach suggested by Fejes Tóth (1953), Thomas Hales, then at the University of Michigan, determined that the maximum density of all arrangements could be found by minimizing a function with 150 variables. In 1992, assisted by his graduate student Samuel Ferguson, he embarked on a research program to systematically apply linear programming methods to find a lower bound on the value of this function for each one of a set of over 5,000 different configurations of spheres. If a lower bound (for the function value) could be found for every one of these configurations that was greater than the value of the function for the cubic close packing arrangement, then the Kepler conjecture would be proved. To find lower bounds for all cases involved solving about 100,000 linear programming problems.
+When presenting the progress of his project in 1996, Hales said that the end was in sight, but it might take "a year or two" to complete. In August 1998 Hales announced that the proof was complete. At that stage, it consisted of 250 pages of notes and 3 gigabytes of computer programs, data and results.
+Despite the unusual nature of the proof, the editors of the Annals of Mathematics agreed to publish it, provided it was accepted by a panel of twelve referees. In 2003, after four years of work, the head of the referee's panel, Gábor Fejes Tóth, reported that the panel were "99% certain" of the correctness of the proof, but they could not certify the correctness of all of the computer calculations.
+Hales (2005) published a 100-page paper describing the non-computer part of his proof in detail.
+Hales & Ferguson (2006) and several subsequent papers described the computational portions. Hales and Ferguson received the Fulkerson Prize for outstanding papers in the area of discrete mathematics for 2009.
+
+A formal proof
+In January 2003, Hales announced the start of a collaborative project to produce a complete formal proof of the Kepler conjecture. The aim was to remove any remaining uncertainty about the validity of the proof by creating a formal proof that can be verified by automated proof checking software such as HOL Light and Isabelle. This project was called Flyspeck – an expansion of the acronym FPK standing for Formal Proof of Kepler. At first, Hales estimated that producing a complete formal proof would take around 20 years of work. Hales published a "blueprint" for the formal proof in 2012; the completion of the project was announced on August 10, 2014. In January 2015 Hales and 21 collaborators posted a paper titled "A formal proof of the Kepler conjecture" on the arXiv, claiming to have proved the conjecture.  In 2017, the formal proof was accepted by the journal Forum of Mathematics.
+
+Related problems
+Thue's theorem
+The regular hexagonal packing is the densest circle packing in the plane (1890). The density is π⁄√12.
+The 2-dimensional analog of the Kepler conjecture; the proof is elementary. Henk and Ziegler attribute this result to Lagrange, in 1773 (see references, pag. 770).
+A simple proof by Chau and Chung from 2010 uses the Delaunay triangulation for the set of points that are centers of circles in a saturated circle packing.The hexagonal honeycomb conjecture
+The most efficient partition of the plane into equal areas is the regular hexagonal tiling.
+Related to Thue's theorem.Dodecahedral conjecture
+The volume of the Voronoi polyhedron of a sphere in a packing of equal spheres is at least the volume of a regular dodecahedron with inradius 1. McLaughlin's proof, for which he received the 1999 Morgan Prize.
+A related problem, whose proof uses similar techniques to Hales' proof of the Kepler conjecture. Conjecture by L. Fejes Tóth in the 1950s.The Kelvin problem
+What is the most efficient foam in 3 dimensions? This was conjectured to be solved by the Kelvin structure, and this was widely believed for over 100 years, until disproved in 1993 by the discovery of the Weaire–Phelan structure. The surprising discovery of the Weaire–Phelan structure and disproof of the Kelvin conjecture is one reason for the caution in accepting Hales' proof of the Kepler conjecture.Sphere packing in higher dimensions
+In 2016, Maryna Viazovska announced proofs of the optimal sphere packings in dimensions 8 and 24. However, the optimal sphere packing question in dimensions other than 1, 2, 3, 8, and 24 is still open.Ulam's packing conjecture
+It is unknown whether there is a convex solid whose optimal packing density is lower than that of the sphere.
+
+References
+Publications
+Aste, Tomaso; Weaire, Denis (2000), The Pursuit of Perfect Packing, Bristol: IOP Publishing Ltd., doi:10.1887/0750306483, ISBN 978-0-7503-0648-5, MR 1786410
+Gauss, Carl F. (1831), "Untersuchungen über die Eigenschaften der positiven ternären quadratischen Formen von Ludwig August Seber", Göttingische Gelehrte Anzeigen
+Hales, Thomas C. (2000), "Cannonballs and honeycombs", Notices of the American Mathematical Society, 47 (4): 440–449, ISSN 0002-9920, MR 1745624 An elementary exposition of the proof of the Kepler conjecture.
+Hales, Thomas C. (2005), "A proof of the Kepler conjecture", Annals of Mathematics, Second Series, 162 (3): 1065–1185, arXiv:math/9811078, doi:10.4007/annals.2005.162.1065, ISSN 0003-486X, MR 2179728
+Hales, Thomas C. (2006), "Historical overview of the Kepler conjecture", Discrete & Computational Geometry, 36 (1): 5–20, doi:10.1007/s00454-005-1210-2, ISSN 0179-5376, MR 2229657
+Hales, Thomas C.; Ferguson, Samuel P. (2006), "A formulation of the Kepler conjecture" (PDF), Discrete & Computational Geometry, 36 (1): 21–69, arXiv:math/9811078, doi:10.1007/s00454-005-1211-1, ISSN 0179-5376, MR 2229658, S2CID 6529590
+Hales, Thomas C.; Ferguson, Samuel P. (2011), The Kepler Conjecture: The Hales-Ferguson Proof, New York: Springer, ISBN 978-1-4614-1128-4
+Hales, Thomas C. (2012), "Dense Sphere Packings: A Blueprint for Formal Proofs", London Mathematical Society Lecture Note Series, Cambridge University Press, 400, ISBN 978-0-521-61770-3
+Henk, Martin; Ziegler, Guenther (2008), La congettura di Keplero, La matematica. Problemi e teoremi, vol. 2, Torino: Einaudi
+Hsiang, Wu-Yi (1993), "On the sphere packing problem and the proof of Kepler's conjecture", International Journal of Mathematics, 4 (5): 739–831, doi:10.1142/S0129167X93000364, ISSN 0129-167X, MR 1245351
+Hsiang, Wu-Yi (1995), "A rejoinder to T. C. Hales's article: The status of the Kepler conjecture", The Mathematical Intelligencer, 17 (1): 35–42, doi:10.1007/BF03024716, ISSN 0343-6993, MR 1319992, S2CID 119641512
+Hsiang, Wu-Yi (2001), Least action principle of crystal formation of dense packing type and Kepler's conjecture, Nankai Tracts in Mathematics, vol. 3, River Edge, NJ: World Scientific Publishing Co. Inc., doi:10.1142/9789812384911, ISBN 978-981-02-4670-9, MR 1962807
+Kepler, Johannes (1611), Strena seu de nive sexangula [The six-cornered snowflake] (in Latin), Paul Dry Books, ISBN 978-1-58988-053-5, MR 0927925
+"On the Six-Cornered Snowflake". Kepler's Discovery. Archived from the original on 2007-12-19.
+Hales, Thomas C.; MacLaughin, Sean (2010), "The dodecahedral conjecture", Journal of the American Mathematical Society, 23 (2): 299–344, arXiv:math.MG/9811079, Bibcode:2010JAMS...23..299H, doi:10.1090/S0894-0347-09-00647-X
+Marchal, Christian (2011), "Study of Kepler's conjecture: the problem of the closest packing", Mathematische Zeitschrift, 267 (3–4): 737–765, doi:10.1007/s00209-009-0644-2, S2CID 122088451
+Rogers, C. A. (1958), "The packing of equal spheres", Proceedings of the London Mathematical Society, Third Series, 8 (4): 609–620, doi:10.1112/plms/s3-8.4.609, ISSN 0024-6115, MR 0102052
+Szpiro, George G. (2003), Kepler's conjecture, New York: John Wiley & Sons, ISBN 978-0-471-08601-7, MR 2133723
+Fejes Tóth, L. (1953), Lagerungen in der Ebene, auf der Kugel und im Raum, Die Grundlehren der Mathematischen Wissenschaften in Einzeldarstellungen mit besonderer Berücksichtigung der Anwendungsgebiete, Band LXV, Berlin, New York: Springer-Verlag, doi:10.1007/978-3-642-65234-9, ISBN 978-3-642-65235-6, MR 0057566
+
+External links
+Weisstein, Eric W. "Kepler Conjecture". MathWorld.
+Front page of 'On the six-cornered snowflake'
+Thomas Hales' home page
+Flyspeck project home page
+Overview of Hales' proof Archived 2011-09-27 at the Wayback Machine
+Article in American Scientist by Dana Mackenzie
+Flyspeck I: Tame Graphs, verified enumeration of tame plane graphs as defined by Thomas C. Hales in his proof of the Kepler Conjecture

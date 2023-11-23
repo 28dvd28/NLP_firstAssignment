@@ -1,0 +1,28 @@
+The School Mathematics Project arose in the United Kingdom as part of the new mathematics educational movement of the 1960s. It is a developer of mathematics textbooks for secondary schools, formerly based in Southampton in the UK.
+Now generally known as SMP, it began as a research project inspired by a 1961 conference chaired by Bryan Thwaites at the University of Southampton, which itself was precipitated by calls to reform mathematics teaching in the wake of the Sputnik launch by the Soviet Union, the same circumstances that prompted the wider New Math movement.  It maintained close ties with the former Collaborative Group for Research in Mathematics Education at the university.
+Instead of dwelling on 'traditional' areas such as arithmetic and geometry, SMP dwelt on subjects such as set theory, graph theory and logic, non-cartesian co-ordinate systems, matrix mathematics, affine transforms, Euclidean vectors, and non-decimal number systems.
+
+Course books
+SMP, Book 1
+This was published in 1965. It was aimed at entry level pupils at secondary school, and was the first book in a series of 4 preparing pupils for Elementary Mathematics Examination at 'O' level.
+
+SMP, Book 3
+The computer paper tape motif on early educational material reads "THE SCHOOL MATHEMATICS PROJECT DIRECTED BY BRYAN THWAITES".
+
+   O O   O        O    O  O OO    O   O  O    O  OO   O O  O O O
+   O  O    OOOO O  O O  O     OO     O        O   O O  O  O    O
+   O O O     OO O O OO O      O O O O  O OOO        O O O  OO  O
+···································································
+   O     OO OO           OO  OOO O    O O    O  OO  O   O    O O
+   O   O OO OO  OO  OOO OOO   O OO   O OO O   O   OO    OOO OO O
+     THE SCHOOL MATHEMATICS PROJECT DIRECTED BY BRYAN THWAITES
+
+The code for this tape is introduced in Book 3 as part of the notional computer system now described.
+
+Simpol programming language
+The Simpol language was devised by The School Mathematics Project  in the 1960s so as to introduce secondary pupils (typically aged 13) to what was then the novel concept of computer programming. It runs on the fictitious Simon computer.
+An interpreter for the Simpol language (that will run on a present-day PC) can be downloaded from the University of Southampton, at their SMP 2.0 website.
+
+References
+External links
+Manning, Godfrey (n.d.). "The simpol interpreter, manual and simpol code can be downloaded here". Simpol – Towards a School Mathematics Project 2.0. Southampton Education School; University of Southampton.

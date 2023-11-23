@@ -1,0 +1,19 @@
+In medicine, the Elixhauser Comorbidity Index  is a measure of overall severity of comorbidities, predicting hospital length of stay, hospital charges, and in-hospital mortality. The higher the score, the higher the predicted hospital resource use and mortality rate are. For a physician, this score is helpful in deciding how aggressively to treat a condition.
+Conditions can be identified using the International Classification of Diseases (ICD) diagnosis codes commonly used in patient records.
+The measurement was developed by Anne Elixhauser and colleagues in 1998 and initially included 30 diseases with a uniform weighting for each. The methodology has been adapted several times since then, with the introduction of weights in 2009 and adjustments to the list of categories considered.
+
+Comparison with other comorbidity measures
+The measure is most similar to the Charlson Comorbidity Index (CCI), which considers a smaller set of diseases and applies different weights.
+While CCI is one of the most widely used scoring system for comorbidities, a systematic review and comparative analysis shows that among various comorbidities indices, Elixhauser index is a better predictor of the risk especially beyond 30 days of hospitalization.
+
+History
+The Elixhauser comorbidity measure was originally published in 1998 in Medical Care and developed using administrative data from a statewide California inpatient database from all non-federal inpatient community hospital stays in California (n = 1,779,167). The Elixhauser comorbidity measure developed a list of 30 comorbidities relying on the ICD-9-CM coding manual. The comorbidities were not simplified as an index because each comorbidity affected outcomes (length of hospital stay, hospital changes, and mortality) differently among different patients groups. The comorbidities identified by the Elixhauser comorbidity measure are significantly associated with in-hospital mortality and include both acute and chronic conditions.
+In 2009, van Walraven et al. have derived and validated an Elixhauser comorbidity index that summarizes disease burden and can discriminate for in-hospital mortality.
+
+See also
+Comorbidity
+Charlson Comorbidity Index (CCI)
+Comorbidity–polypharmacy score (CPS)
+
+
+== References ==

@@ -1,0 +1,39 @@
+Sir William Vallance Douglas Hodge  (; 17 June 1903 – 7 July 1975) was a British mathematician, specifically a geometer.His discovery of far-reaching topological relations between algebraic geometry and differential geometry—an area now called Hodge theory and pertaining more generally to Kähler manifolds—has been a major influence on subsequent work in geometry.
+
+Life and career
+Hodge was born in Edinburgh in 1903, the younger son and second of three children of Archibald James Hodge (1869-1938), a searcher of records in the property market and a partner in the firm of Douglas and Company, and his wife, Jane (born 1875), daughter of confectionery business owner William Vallance. They lived at 1 Church Hill Place in the Morningside district.He attended George Watson's College, and studied at Edinburgh University, graduating MA in 1923. With help from E. T. Whittaker, whose son J. M. Whittaker was a college friend, he then took the Cambridge Mathematical Tripos. At Cambridge he fell under the influence of the geometer H. F. Baker. He gained a Cambridge BA degree in 1925, receiving the MA in 1930 and the Doctor of Science (ScD) degree in 1950.In 1926 he took up a teaching position at the University of Bristol, and began work on the interface between the Italian school of algebraic geometry, particularly problems posed by Francesco Severi, and the topological methods of Solomon Lefschetz. This made his reputation, but led to some initial scepticism on the part of Lefschetz. According to Atiyah's memoir, Lefschetz and Hodge in 1931 had a meeting in Max Newman's rooms in Cambridge, to try to resolve issues. In the end Lefschetz was convinced.
+In 1928 he was elected a Fellow of the Royal Society of Edinburgh. His proposers were Sir Edmund Taylor Whittaker, Ralph Allan Sampson, Charles Glover Barkla, and Sir Charles Galton Darwin. He was awarded the Society's Gunning Victoria Jubilee Prize for the period 1964 to 1968.In 1930 Hodge was awarded a Research Fellowship at St. John's College, Cambridge. He spent the year 1931–2 at Princeton University, where Lefschetz was, visiting also Oscar Zariski at Johns Hopkins University. At this time he was also assimilating de Rham's theorem, and defining the Hodge star operation. It would allow him to define harmonic forms and so refine the de Rham theory.
+On his return to Cambridge, he was offered a University Lecturer position in 1933. He became the Lowndean Professor of Astronomy and Geometry at Cambridge, a position he held from 1936 to 1970. He was the first head of DPMMS.
+He was the Master of Pembroke College, Cambridge from 1958 to 1970, and vice-president of the Royal Society from 1959 to 1965.  He was knighted in 1959. Amongst other honours, he received the Adams Prize in 1937 and the Copley Medal of the Royal Society in 1974.
+He died in Cambridge on 7 July 1975.
+
+Work
+The Hodge index theorem was a result on the intersection number theory for curves on an algebraic surface: it determines the signature of the corresponding quadratic form. This result was sought by the Italian school of algebraic geometry, but was proved by the topological methods of Lefschetz.
+The Theory and Applications of Harmonic Integrals summed up Hodge's development during the 1930s of his general theory. This starts with the existence for any Kähler metric of a theory of Laplacians – it applies to an algebraic variety V (assumed complex, projective and non-singular) because projective space itself carries such a metric. In de Rham cohomology terms, a cohomology class of degree k is represented by a k-form α on V(C). There is no unique representative; but by introducing the idea of harmonic form (Hodge still called them 'integrals'), which are solutions of Laplace's equation, one can get unique α. This has the important, immediate consequence of splitting up
+
+Hk(V(C), C)into subspaces
+
+Hp,qaccording to the number p of holomorphic differentials dzi wedged to make up α (the cotangent space being spanned by the dzi and their complex conjugates). The dimensions of the subspaces are the Hodge numbers.
+This Hodge decomposition has become a fundamental tool. Not only do the dimensions hp,q refine the Betti numbers, by breaking them into parts with identifiable geometric meaning; but the decomposition itself, as a varying 'flag' in a complex vector space, has a meaning in relation with moduli problems. In broad terms, Hodge theory contributes both to the discrete and the continuous classification of algebraic varieties.
+Further developments by others led in particular to an idea of mixed Hodge structure on singular varieties, and to deep analogies with étale cohomology.
+
+Hodge conjecture
+The Hodge conjecture on the 'middle' spaces Hp,p is still unsolved, in general. It is one of the seven Millennium Prize Problems set up by the Clay Mathematics Institute.
+
+Exposition
+Hodge also wrote, with Daniel Pedoe, a three-volume work Methods of Algebraic Geometry, on classical algebraic geometry, with much concrete content – illustrating though what Élie Cartan called 'the debauch of indices' in its component notation. According to Atiyah, this was intended to update and replace H. F. Baker's Principles of Geometry.
+
+Family
+In 1929 he married Kathleen Anne Cameron.
+
+Publications
+Hodge, W. V. D. (1941), The Theory and Applications of Harmonic Integrals, Cambridge University Press, ISBN 978-0-521-35881-1, MR 0003947
+Hodge, W. V. D.; Pedoe, D. (1994) [1947], Methods of Algebraic Geometry, Volume I (Book II), Cambridge University Press, ISBN 978-0-521-46900-5
+Hodge, W. V. D.; Pedoe, Daniel (1994) [1952], Methods of Algebraic Geometry: Volume 2 Book III: General theory of algebraic varieties in projective space. Book IV: Quadrics and Grassmann varieties., Cambridge Mathematical Library, Cambridge University Press, ISBN 978-0-521-46901-2, MR 0048065
+Hodge, W. V. D.; Pedoe, Daniel (1994) [1954], Methods of Algebraic Geometry: Volume 3, Cambridge University Press, ISBN 978-0-521-46775-9
+
+See also
+List of things named after W. V. D. Hodge
+
+
+== References ==

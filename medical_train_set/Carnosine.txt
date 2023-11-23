@@ -1,0 +1,29 @@
+Carnosine (beta-alanyl-L-histidine) is a dipeptide molecule, made up of the amino acids beta-alanine and histidine. It is highly concentrated in muscle and brain tissues. Carnosine was discovered by Russian chemist Vladimir Gulevich.Carnosine is naturally produced by the body in the liver from beta-alanine and histidine. Like carnitine, carnosine is composed of the root word carn, meaning "flesh", alluding to its prevalence in meat. There are no plant-based sources of carnosine. Carnosine is readily available as a synthetic nutritional supplement.
+
+Biosynthesis
+Carnosine is synthesized within the body from beta-alanine and histidine. Beta-alanine is a product of pyrimidine catabolism and histidine is an essential amino acid. Since beta-alanine is the limiting substrate, supplementing just beta-alanine effectively increases the intramuscular concentration of carnosine.
+
+Physiological effects
+pH buffer
+Carnosine has a pKa value of 6.83, making it a good buffer for the pH range of animal muscles. Since beta-alanine is not incorporated into proteins, carnosine can be stored at relatively high concentrations (millimolar). Occurring at 17–25 mmol/kg (dry muscle), carnosine (β-alanyl-L-histidine) is an important intramuscular buffer, constituting 10-20% of the total buffering capacity in type I and II muscle fibres.
+
+Anti-oxidant
+Carnosine has been shown to scavenge reactive oxygen species (ROS) as well as alpha-beta unsaturated aldehydes formed from peroxidation of cell membrane fatty acids during oxidative stress. It also buffers pH in muscle cells, and acts as a neurotransmitter in the brain. It is also a zwitterion, a neutral molecule with a positive and negative end.
+
+Antiglycating
+Carnosine acts as an antiglycating agent, reducing the rate of formation of advanced glycation end-products (substances that can be a factor in the development or worsening of many degenerative diseases, such as diabetes, atherosclerosis, chronic kidney failure, and Alzheimer's disease), and ultimately reducing development of atherosclerotic plaque build-up.
+
+Geroprotective
+Carnosine is considered as a geroprotector. Carnosine can increase the Hayflick limit in human fibroblasts, as well as appearing to reduce the telomere shortening rate. Carnosine may also slow aging through its anti-glycating properties (chronic glycolyating is speculated to accelerate aging).
+
+Other
+Carnosine can chelate divalent metal ions.  It has been suggested that binding Ca2+ may displace protons, thereby providing  a link between Ca2+ and H+ buffering.   However, there is still controversy as to how much Ca2+ is bound to carnosine under physiological conditions. Research has demonstrated a positive association between muscle tissue carnosine concentration and exercise performance. β-Alanine supplementation is thought to increase exercise performance by promoting carnosine production in muscle. Exercise has conversely been found to increase muscle carnosine concentrations, and muscle carnosine content is higher in athletes engaging in anaerobic exercise.
+
+See also
+Acetylcarnosine, a similar molecule used to treat lens cataracts
+Anserine, another dipeptide antioxidant (found in birds)
+Carnosine synthase, an enzyme that helps carnosine production
+Carnosinemia, a disease of excess carnosine due to an enzyme defect/deficiency
+
+
+== References ==

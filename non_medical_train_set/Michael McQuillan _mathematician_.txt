@@ -1,0 +1,50 @@
+Michael Liam McQuillan is a Scottish mathematician studying algebraic geometry.  As of 2019 he is Professor at the University of Rome Tor Vergata.
+
+Career
+Michael McQuillan received the doctorate in 1992 at  Harvard University under Barry Mazur ("Division points on semi-Abelian varieties").In 1995, McQuillan proved the Mordell–Lang conjecture. In 1996, MacQuillan gave a new proof of a conjecture of André Bloch (1926) about holomorphic curves in closed subvarieties of Abelian varieties, proved a conjecture of  Shoshichi Kobayashi (about the  Kobayashi-hyperbolicity of generic hypersurfaces of high degree in projective n-dimensional space) in the three-dimensional case and achieved partial results on a conjecture of Mark Green and Phillip Griffiths (which states that a holomorphic curve on an algebraic surface of general type with  
+  
+    
+      
+        
+          c
+          
+            1
+          
+          
+            2
+          
+        
+        >
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle c_{1}^{2}>c_{2}}
+   cannot be Zariski-dense).From 1996 to 2001 he was a post-doctoral Research Fellow at All Souls College of the University of Oxford and in 2009 was Professor at the University of Glasgow as well as Advanced Research Fellow of the British  Engineering and Physical Sciences Research Council. As of 2019 he is Professor at the University of Rome Tor Vergata and an editor of the European Journal of Mathematics.
+
+Awards
+In 2000 McQuillan received the EMS Prize, which was announced from the European Congress of Mathematics in July 2000, for his work:Michael McQuillan has created the method of dynamic diophantine approximation, which has led to a series of remarkable results in complex geometry of algebraic varieties. Among these results one can mention a new proof of Bloch’s conjecture on holomorphic curves in closed subvarieties of abelian varieties, the proof of the conjecture of Green and Griffiths that a holomorphic curve in a surface of general type cannot be Zariski-dense, and the hyperbolicity of generic hypersurfaces of high degree in projective 3-space (the Kobayashi conjecture).
+In 2001 he was awarded the  Whitehead Prize of the  London Mathematical Society. In 2002 he was invited speaker at the  International Congress of Mathematicians in Beijing (Integrating 
+  
+    
+      
+        ∂
+        
+          
+            
+              ∂
+              ¯
+            
+          
+        
+      
+    
+    {\displaystyle \partial {\bar {\partial }}}
+  ). In 2001 he received the  Whittaker Prize.
+
+
+== References ==

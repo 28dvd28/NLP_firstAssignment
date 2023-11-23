@@ -1,0 +1,19 @@
+Liquid-based cytology is a method of preparing samples for examination in cytopathology. The sample is collected, normally by a small brush, in the same way as for a conventional smear test, but rather than the smear being transferred directly to a microscope slide, the sample is deposited into a small bottle of preservative liquid. At the laboratory, the liquid is treated to remove other elements such as mucus before a layer of cells is placed on a slide.
+
+History
+For many years, efforts have been made to develop methods that would enhance the sensitivity and specificity of the Papanicolaou smear (also called Pap smear). Emphasis has been placed on creating automated screening machines whose success depends on a representative sampling of cells on standardized slides containing a monolayer of well-stained, well-preserved cells.From this research and development, liquid-based gynecologic specimen collection has evolved. Its proponents argue that liquid-based preparations outperform conventional smears because of improved fixation, decreased obscuring factors, and standardization of cell transfer. Proponents point out that, in direct smears, the cells are not transferred in a representative fashion and that up to 90% of the material scraped from the cervix may be discarded with the sampling device. With liquid-based collection, the sampling will be representative and operator-dependent variation will not occur since processing is controlled by the laboratory.
+SurePath (by BD) and ThinPrep (by Hologic) are two such systems currently approved by the United States Food and Drug Administration (FDA) for cervicovaginal testing. With both methods, the sample is collected in the conventional manner with one of the brush instruments but, instead of being spread onto a glass slide, it is transferred to a vial of transport medium.The United Kingdom screening programmes changed their cervical screening method from the Pap test to liquid-based cytology in 2008.
+
+Methods
+SurePath: In the SurePath method, the sample is vortexed, strained, layered onto a density gradient, and centrifuged. Instruments required are a computer-controlled robotic pipette and a centrifuge. The cells form a circle 12.5 mm in diameter.
+Thinprep: The ThinPrep method requires an instrument and special polycarbonate filters. After the instrument immerses the filter into the vial, the filter is rotated to homogenize the sample. Cells are collected on the surface of the filter when a vacuum is applied. The filter is then pressed against a slide to transfer the cells into a 20 mm diameter circle.
+
+Comparison to conventional smear
+Liquid-based cytology improves specimen adequacy.The most significant alterations seen with the ThinPrep technique include:
+Selective loss of extracellular material, which prevents it from obscuring cells, but may cause a loss of diagnostic clues.
+Selective loss of small cells
+Fragmentation of large sheets and papillae
+Absence of smearing artifacts seen on conventional smears, which usually facilitates the diagnosis, but also removes the opportunity to see characteristic smearing artifacts such as chromatin smearing in small-cell carcinoma.As studied on SurePath and ThinPrep, early trials showed increased detection of high-grade cervical intraepithelial neoplasia (CIN2 and CIN3), but subsequent meta-analyses and prospective randomized trials have failed to demonstrate a significant difference between conventional smears and liquid cytology in the detection of CIN2 and CIN3.
+
+
+== References ==

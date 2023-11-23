@@ -1,0 +1,31 @@
+André da Silva Graça Arroja Neves (born 1975, Lisbon) is a Portuguese mathematician and a professor at the University of Chicago. He joined the faculty of the University of Chicago in 2016. In 2012,  jointly with Fernando Codá Marques, he solved the Willmore conjecture. 
+Neves received his Ph.D. in 2005 from  Stanford University under the direction of Richard Melvin Schoen.
+
+Contributions
+Jointly with Hugh Bray, they computed the Yamabe invariant of 
+  
+    
+      
+        
+          R
+        
+        
+          
+            P
+          
+          
+            3
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} \mathbb {P} ^{3}}
+  . In 2012, jointly with Fernando Codá Marques, they solved the Willmore conjecture (Thomas Willmore, 1965). In  the same year, jointly with Ian Agol and Fernando Codá Marques, they solved the Freedman–He–Wang conjecture (Freedman–He–Wang, 1994). In 2017, jointly with Kei Irie and Fernando Codá Marques, they solved Yau's conjecture (formulated by Shing-Tung Yau in 1982) in the generic case.
+
+Honors and awards
+He was awarded the Philip Leverhulme Prize in 2012, the LMS Whitehead Prize in 2013, invited speaker at the International Congress of Mathematicians in Seoul in 2014, and  the Royal Society Wolfson Research Merit Award in 2015.
+In November 2015 he was awarded a New Horizons in Mathematics Prize in November 2015, "for outstanding contributions to several areas of differential geometry, including work on scalar curvature, geometric flows, and his solution with Codá Marques of the 50-year-old Willmore Conjecture."Jointly with Fernando Codá Marques he was awarded the 2016 Oswald Veblen Prize in Geometry.In 2018 he received a Simons Investigator Award.He was elected fellow of the American Academy of Arts and Sciences (AAAS) in 2020.
+
+References
+External links
+André Neves's home page

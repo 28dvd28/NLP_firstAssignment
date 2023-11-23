@@ -1,0 +1,86 @@
+The NIH Toolbox®, for the assessment of neurological and behavioral function, is a multidimensional set of brief royalty-free measures that researchers and clinicians can use to assess cognitive, sensory, motor and emotional function in people ages 3–85. This suite of measures can be administered to study participants in two hours or less, in a variety of settings, with a particular emphasis on measuring outcomes in longitudinal epidemiologic studies and prevention or intervention trials. The battery has been normed and validated across the lifespan in subjects age 3-85 and its use ensures that assessment methods and results can be used for comparisons across existing and future studies. The NIH Toolbox is capable of monitoring neurological and behavioral function over time, and measuring key constructs across developmental stages.
+
+History
+In 2004, the 15 Institutes, Centers and Offices at the National Institutes of Health which support neuroscience research formed a coalition called the NIH Blueprint for Neuroscience Research. The NIH Blueprint goal is to develop new tools, resources, and training opportunities to accelerate the pace of discovery in neuroscience research. Because the research community had long sought the development of standard instruments to measure cognitive and emotional health, in 2006 the NIH Blueprint awarded a contract to develop an innovative approach to meet this need. Under the leadership of principal investigator Richard C. Gershon, a team of more than 300 scientists from nearly 100 academic institutions were charged with developing a set of tools to enhance data collection in large cohort studies and to advance the neurobehavioral research enterprise.
+
+Test batteries
+The NIH Toolbox divides tests into four aspects of neural function, called "domain batteries":
+
+Cognition
+Sensation
+Motor
+Emotion
+
+Impact on neurological research
+Prior to the NIH Toolbox, there were many studies that collected information on aspects of neural function with little uniformity among the measures used to capture these constructs. Moreover, capturing information on all four domains within a study would be costly in terms of time and subject burden. Custom measures could not easily be compared across studies, and assessments were typically limited to looking at cognitive variables.  Expensive equipment and per-subject royalty fees were often required. Time-consuming measures usually required highly trained administrators.
+With the NIH Toolbox, researchers can assess function using a common metric and can “crosswalk” among measures, supporting the pooling and sharing of large data sets. The NIH Toolbox will support scientific discovery by bringing a common language to research questions – both with respect to the primary study aims and to those arising from secondary data analyses.  The four batteries  provide researchers with measures that have minimal subject burden and cost. The NIH Toolbox battery of measures will be used by The Human Connectome Project (HCP) to understand the relationship between brain connectivity and behavior,
+Standardized measures are easily compared across studies. Measures are validated against “gold standard” instruments and easily incorporate multiple areas of neurological functioning.  NIH Toolbox requires inexpensive equipment, no royalties, low per-subject costs (per-subject costs limited to taste and olfaction assessments). NIH Toolbox offers brief, psychometrically sound measures that can be administered with minimal expertise.
+
+Selection of domains and sub-domains
+Initial literature and database reviews and a Request for Information of NIH-funded researchers identified the sub-domains for inclusion in the NIH Toolbox, existing measures relevant to the project goals, and criteria for instrument selection. NIH Project Team members, external content experts, and contract scientists met at a follow-up consensus meeting to discuss potential sub-domains along with the criteria affecting instrument selection, creation, and norming. Additional expert interviews were undertaken to gather more detailed information from clinical and scientific experts to help further refine the list of possible sub-domains. A second consensus group meeting was held and results directed the selection of the sub-domains within each core domain area to be measured in the final NIH Toolbox.
+
+Selection of measures
+More than 1,400 existing measures were identified and evaluated for inclusion in the NIH Toolbox. The selection criteria included a measure’s applicability across the life span, psychometric soundness, brevity, ease of use, applicability in diverse settings and with different groups, and lack of intellectual property constraints. There was also a preference for instruments that were already validated and normed for use with individuals between 3 and 85 years old. Results of the instrument selection process greatly facilitated the drafting of plans to develop the NIH Toolbox measures.
+
+Validation
+Validation studies were conducted for all NIH Toolbox measures, to assure that these important tools for research met rigorous scientific standards. Studies were conducted across the entire age range, typically included 450-500 subjects, and were statistically compared against “gold standard” measures wherever available. For tests using item response theory approaches to scoring, calibration samples generally included several thousand participants, ensuring robust models. In total, data was collected from more than 16,000 subjects as part of field-test, calibration and validation activities.
+
+Norming
+NIH Toolbox conducted a national standardization study in both English and Spanish languages to allow for normative comparisons on each assessment. A sample of 4,859 participants, ages 3–85 – representative of the U.S. population based on gender, race/ethnicity,  and socioeconomic status – was administered all of the NIH Toolbox measures at sites around the country. NIH Toolbox normative scores are now available for each year of age from 3 through 17, as well as for ages 18–29, 30-39, 40-49, 50-59, 60-69, 70-79, and 80-85, allowing for targeted, accurate comparisons for any research study participant groups against the U.S. population.
+
+Advanced measurement techniques
+The NIH Toolbox measures utilize several advanced approaches in item development, test construction, and scoring. Two of these are item response theory and computer adaptive testing (CAT). Item Response Theory allows tests to be brief, yet still precise and valid. Using IRT methodology, sets of items are calibrated along a continuum that covers the full range of the construct to be measured. This calibrated set of items enables the creation of CAT, a specialized type of computer-based testing that enables frequent assessments and immediate feedback with minimal burden on participants and precise evaluation at the individual level.
+
+Early childhood use
+NIH Toolbox measure development focused special attention on assessing young children, to ensure that all tests given are developmentally appropriate for ages 3–7. A special team of early childhood assessment consultants was engaged to provide testing guidelines for the very young, to offer input on measure development, and to review all NIH Toolbox measures to ensure they fit the needs of young children.
+
+Assessment Center
+NIH Toolbox measures are administered using Assessment Center, a free, browser-based research management software application where users can access, practice, and then administer NIH Toolbox measures. Assessment Center enables researchers to create study-specific websites for capturing participant data securely. Studies can include measures within the Assessment Center library as well as custom measures created or entered by the researcher.As Assessment Center is no longer available, the toolbox has transitioned into an iPad app, available via the App Store. The iPad version of the toolbox requires a years subscription.
+
+See also
+National Institutes of Health
+Test (assessment)
+Psychological testing
+Neuropsychology
+
+References
+Further reading
+Neurology, March 2013; 80 (11 Supplement 3) full issue
+Bauer P, Leventon J, Varga N.  Neuropsychological Assessment of Memory in Preschoolers. Neuropsychol. Rev. 2012;Epub ahead of print
+Bleck TP, Nowinski CJ, Gershon R, Koroshetz WJ. [1] What is the NIH Toolbox, and what will it mean to neurology? Neurology. 2013;80(10):874-875.
+Bohannon RW, Bubela DJ, Magasi SR, Gershon RC.  Relative reliability of three objective tests of limb muscle strength. Isokinetics and Exercise Science. 2011;19(2):77-81.
+Bohannon RW, Bubela DJ, Magasi SR, Wang Y-C, Gershon RC.  Sit-to-Stand Test: Performance and Determinants across the Age-Span. Isokinet Exerc Sci. 2010;18(4):235-240.
+Bohannon RW, Bubela DJ, Wang YC, Magasi SR, Gershon RC.  Adequacy of Belt-Stabilized Testing of Knee Extension Strength. J. Strength Cond. Res. 2011;25(7):1963-1167.
+Bohannon RW, Magasi SR, Bubela DJ, Wang Y-C, Gershon RC.  Grip and Knee extension muscle strength reflect a common construct among adults. Muscle Nerve. 2012;46(4):555-8.
+Dalton P, Mennella JA, Cowart BJ, Maute C, Pribitkin EA, Reilly JS.  Evaluating the Prevalence of Olfactory Dysfunction in a Pediatric Population. Ann. N. Y. Acad. Sci. 2009;1170(1):537-542. Article in PMC
+Dalton P, Mennella JA, Maute C, Castor SM, Silva-Garcia A, Slotkin J.  Development of a test to evaluate olfactory function in a pediatric population. Laryngoscope. 2011;121(9):1843-1850.
+Fjell AM, Walhovd KB, Brown TT, et al. Multimodal imaging of the self-regulating developing brain. Proc Natl Acad Sci. 2012;109(48):19620-19625.
+Gershon RC, Cella D, Fox NA, Havlik RJ, Hendrie HC, Wagster MV.  [2]. Lancet Neurol. 2010;9(2):138-139.
+Gershon R, Rothrock NE, Hanrahan RT, Jansky LJ, Harniss M, Riley W. The development of a clinical outcomes survey research application: Assessment CenterSM. Qual. Life Res. 2010;19(5):677-685.
+Gershon R, Cella D, Rothrock N, Hanrahan RT, Bass M. The Use of PROMIS and Assessment Center to Deliver Patient-Reported Outcome Measures in Clinical Research. J. Appl. Meas. 2010;11(3):304-314.
+Gershon RC, Cook K. Use of Computer Adaptive Testing in the Development of Machine Learning Algorithms. Pain Med. 2011;12(10):1450-1452.
+Hoffman HJ, Cruickshanks KJ, Davis B. Perspectives on Population-based Epidemiological Studies of Olfactory and Taste Impairment. Ann. N. Y. Acad. Sci. 2009;1170(1):514-530.
+Holloway RG.  Bringing the Patient's Voice into the Measures We Use. Neurology Today. 2010;10(6):3.
+McClelland MM, Cameron CE. Self-regulation and academic achievement in elementary school children. New Dir. Child Adolesc. Dev. 2011;2011(133):29-44.
+Mennella JA, Lukasewycz LD, Griffith JW, Beauchamp GK.  Evaluation of the Monell Forced-Choice, Paired-Comparison Tracking Procedure for Determining Sweet Taste Preferences across the Lifespan. Chem. Senses. 2011;36(4):345-355.
+National Institutes of Health. NIH Toolbox is open...A new set of tools to help scientists measure the ways we think, move, feel and sense the world is ready for use in studies.... NIH Record newsletter, October 26, 2012
+Nowinski CJ, Victorson D, Cavazos JE, Gershon R, Cella D. Neuro-QOL and the NIH Toolbox: implications for epilepsy. Therapy. 2010;7(5):533-540.
+Pilkonis PA, Choi SW, Salsman JM, et al. Assessment of self-reported negative affect in the NIH Toolbox. Psychiatry Res. 2012 Epub ahead of print.
+Rine R, Roberts D, Corbin BA, et al. A new portable tool to screen vestibular and visual function in children and adults: NIH Toolbox. J. Rehabil. Res. Dev. 2012;49(2):209-220.
+Talan, Jamie. New NIH Toolbox Rolled Out for Standardized Behavioral and Clinical Assessment Measures. Neurology Today. 2012; 12(21):7
+Wang Y-C, Magasi SR, Bohannon RW, et al. Assessing Dexterity Function: A Comparison of Two Alternatives for the NIH Toolbox. J. Hand Ther. 2011;24(4):313-320.
+Whitney SL, Roche JL, Marchetti GF, Lin CC, Steed DP, Furman GR.  A comparison of accelerometry and center of pressure measures during computerized dynamic posturography: A measure of balance. Gait & Posture. 2011;33(4):594-599
+
+External links
+NIH Toolbox
+The Gershon Lab
+National Institutes of Health
+NIH Blueprint for Neuroscience Research
+Assessment Center
+Northwestern University Department of Medical Social Sciences
+Human Connectome Project
+ECHO (Environmental Influences on Child Health Outcomes)
+Infant and Toddler (Baby) Toolbox
+Mobile Toolbox
+ARMADA (Advancing Reliable Measurement in Alzheimer's Disease and cognitive Aging)
+MyCog (Rapid Detection of Cognitive Impairment in Everyday Clinical Settings)

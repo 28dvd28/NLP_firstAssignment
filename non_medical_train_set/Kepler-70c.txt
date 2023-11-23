@@ -1,0 +1,21 @@
+Kepler-70c (formerly called KOI-55.02; sometimes listed as KOI-55 c) is one of two postulated exoplanets orbiting the sdB star Kepler-70. Their discovery was announced in 2011. However, later research suggests that the two exoplanets probably do not exist, and that "pulsation modes visible beyond the cut-off frequency of the star" were a more likely explanation for the signals believed to indicate exoplanets. This is not proven with certainty one way or the other.
+If it exists, Kepler-70c orbits its host along with another planet, Kepler-70b. Both of these planets orbit very close to their host star. Kepler-70c completes one orbit around its star in just 8.232 hours. It is also one of the hottest exoplanets as of mid-2013. It has a high density, suggesting that it is largely composed of metals.According to the main author of the paper in Nature which announced the discovery of the two planets, Stephane Charpinet, the two planets "probably plunged deep into the star's envelope during the red giant phase, but survived." However, this is not the first sighting of planets orbiting a post-red giant star - numerous pulsar planets have been observed, including one that orbits closer to its host star, and consequently in a shorter time than, any other planet.
+
+Origins
+The two planets may have started out as a pair of gas giants which spiraled inward toward their host star, which subsequently became a red giant. This engulfed the planets, evaporating all but their solid cores, which now orbit the sdB star. Alternatively, there may only have been one gas giant engulfed in this way, with the rocky/metallic core having survived evaporation but fragmented inside the star. If this theory is correct, the two planets would be two large sections of the gas giant's core.
+According to the Extrasolar Planets Encyclopedia, the star left the red giant stage 18.4 million years ago.
+
+Host star
+The host star, Kepler-70 (also formally known as KOI-55, 2MASS J19452546+4105339 or KIC 5807616), is a subdwarf B-type star that left the red-giant stage of its lifetime – according to the Extrasolar Planets Encyclopedia – about 18.4 million years ago. It has a surface temperature of 27730 ± 270 K, nearly 6 times as hot as the surface temperature of the Sun, which has a surface temperature of 5778 K. The star has a mass of 0.496 M☉ and a radius of 0.203 R☉ It is expected to become a white dwarf in the future, after fusing the remaining helium in its core, and shrink in size to around the size of the Earth.
+The star's apparent magnitude, or how bright it appears from Earth's perspective, is 14.87. Therefore, Kepler-70 is too dim to be seen with the naked eye.
+
+Encounters
+Kepler-70b passes 240,000 kilometres (150,000 mi) away from Kepler-70c during their closest approach, possibly causing tidal forces against each other. This is currently the closest recorded approach between planets. Such orbital configuration is relatively stable due to orbital resonance between planets and small Hill spheres of planets due to proximity of the star.
+
+See also
+Chthonian planet
+
+Notes
+References
+External links
+Kepler mission planet discoveries

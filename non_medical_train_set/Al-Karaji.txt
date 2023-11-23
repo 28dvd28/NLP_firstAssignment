@@ -1,0 +1,24 @@
+Abū Bakr Muḥammad ibn al Ḥasan al-Karajī (Persian: بوبکر محمد بن حسن کرجی; c. 953 – c. 1029) was a 10th-century Persian mathematician and engineer who flourished at Baghdad. He was born in Karaj, a city near Tehran. His three principal surviving works are mathematical: Al-Badi' fi'l-hisab (Wonderful on calculation), Al-Fakhri fi'l-jabr wa'l-muqabala (Glorious on algebra), and Al-Kafi fi'l-hisab (Sufficient on calculation).
+
+Work
+Al-Karaji wrote on mathematics and engineering. Some consider him to be merely reworking the ideas of others (he was influenced by Diophantus) but most regard him as more original, in particular for the beginnings of freeing algebra from geometry. Among historians, his most widely studied work is his algebra book al-fakhri fi al-jabr wa al-muqabala, which survives from the medieval era in at least four copies.In his book "Extraction of hidden waters" he has mentioned that earth is spherical in shape but considers it the centre of the universe long before Galileo Galilei, Johannes Kepler or Isaac Newton, but long after Aristotle and Ptolemy. He expounded the basic principles of hydrology and this book reveals his profound knowledge of this science and has been described as the oldest extant text in this field.He systematically studied the algebra of exponents, and was the first to define the rules for monomials like x,x²,x³ and their reciprocals in the cases of multiplication and division. However, since for example the product of a square and a cube would be expressed, in words rather than in numbers, as a square-cube, the numerical property of adding exponents was not clear.His work on algebra and polynomials gave the rules for arithmetic operations for adding, subtracting and multiplying polynomials; though he was restricted to dividing polynomials by monomials.
+F. Woepcke was the first historian to realise the importance of al-Karaji's work and later historians mostly agree with his interpretation. He praised Al-Karaji for being the first who introduced the theory of algebraic calculus.Al-Karaji gave the first formulation of the binomial coefficients and the first description of Pascal's triangle. He is also credited with the discovery of the binomial theorem.
+In a now lost work known only from subsequent quotation by al-Samaw'al, Al-Karaji introduced the idea of argument by mathematical induction. As Katz says Another important idea introduced by al-Karaji and continued by al-Samaw'al and others was that of an inductive argument for dealing with certain arithmetic sequences. Thus al-Karaji used such an argument to prove the result on the sums of integral cubes already known to Aryabhata [...] Al-Karaji did not, however, state a general result for arbitrary n. He stated his theorem for the particular integer 10 [...] His proof, nevertheless, was clearly designed to be extendable to any other integer. [...] Al-Karaji's argument includes in essence the two basic components of a modern argument by induction, namely the truth of the statement for n = 1 (1 = 13) and the deriving of the truth for n = k from that of n = k - 1. Of course, this second component is not explicit since, in some sense, al-Karaji's argument is in reverse; this is, he starts from n = 10 and goes down to 1 rather than proceeding upward. Nevertheless, his argument in al-Fakhri is the earliest extant proof of the sum formula for integral cubes.
+
+See also
+Mathematics in medieval Islam
+Science in medieval Islam
+List of Iranian scientists
+
+Notes
+References and external links
+O'Connor, John J.; Robertson, Edmund F., "Abu Bekr ibn Muhammad ibn al-Husayn Al-Karaji", MacTutor History of Mathematics Archive, University of St Andrews
+Rashed, Roshdi (1970–1980). "Al-Karajī (or Al-Karkhī), Abū Bakr Ibn Muḥammad Ibn al Ḥusayn". Dictionary of Scientific Biography. New York: Charles Scribner's Sons. ISBN 978-0-684-10114-9.
+J. Christianidis. Classics in the History of Greek Mathematics, p. 260
+Carl R. Seaquist, Padmanabhan Seshaiyer, and Dianne Crowley. "Calculation across Cultures and History" (Texas College Mathematics Journal 1:1, 2005; pp 15–31) [PDF]
+Matthew Hubbard and Tom Roby. "The History of the Binomial Coefficients in the Middle East"(from "Pascal's Triangle from Top to Bottom")
+Fuat Sezgin. Geschichte des arabischen Schrifttums (1974, Leiden: E. J. Brill)
+James J. Tattersall. Elementary Number Theory in Nine Chapters, p. 32
+Mariusz Wodzicki. "Early History of Algebra: a Sketch" (Math 160, Fall 2005) [PDF]
+"al-Karaji" — Encyclopædia Britannica Online (4 April 2006)
+Extrait du Fakhri, traité d'Algèbre par Abou Bekr Mohammed Ben Alhaçan Alkarkhi, presented with commentary by F. Woepcke, year 1853.

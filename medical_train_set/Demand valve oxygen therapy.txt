@@ -1,0 +1,36 @@
+Demand Valve Oxygen Therapy (DVOT) is a way of delivering high flow oxygen therapy  using a device that only delivers oxygen when the patient breathes in and shuts off when they breathe out. DVOT is commonly used to treat conditions such as cluster headache, which affects up to four in 1000 people (0.4%), and is a recommended first aid procedure for several diving disorders. It is also a recommended prophylactic for decompression sickness in the event of minor omitted decompression without symptoms.
+
+Medical uses
+Cluster headache
+High flow oxygen therapy, delivered at a rate of between 7 and 15 litres per minute, has been recognized as an effective treatment for cluster headache since 1981.  Since then, several double-blind, randomized, placebo-controlled, crossover trials have provided further clinical evidence for its efficacy.When inhaled at 100% at the outset of a cluster headache attack, high flow oxygen therapy has been proven to abort episodes in up to 78% of patients.  Inhaling 100% oxygen is recommended by the European Federation of Neurological Societies as the first choice for the treatment of cluster headache attacks. The British Thoracic Society and National Institute of Health and Care Excellence, among other organisations, endorse the therapy.
+
+Diving disorders
+Decompression sickness, as first aid during transport to recompression facility.
+Omitted decompression, with or without symptoms of DCS. As prophylaxis where recompression is not practicable.
+
+Equipment
+A portable administration set will comprise a portable high-pressure oxygen cylinder containing sufficient gas for the expected treatment, with an oxygen service cylinder valve, an oxygen compatible first stage regulator with pressure gauge, intermediate pressure hose, and demand valve with mouthpiece.
+
+Equipment for cluster headache treatment
+Demand valves have been proven to be particularly effective at delivering high flow oxygen therapy.  Unlike conventional breathing systems, oxygen demand valves only deliver gas when the patient inhales and shut off the flow when they exhale. Exhaled gas is directed to the atmosphere through side vents. This means that almost 100 percent of the oxygen is inhaled, while the amount of exhaled carbon dioxide that the patient rebreathes is minimized.
+
+Compared to other mask types, demand valves have been better at achieving pain relief at 15 minutes in the first cluster headache attack.
+
+Equipment for diving first aid
+For diving first aid an oxygen compatible diving regulator may be used if a special purpose oxygen treatment demand valve is not available. Technical divers routinely use such equipment for in-water decompression.
+When used in diving recompression chambers and multi-place medical hyperbaric chambers, a built-in breathing system venting to the exterior is generally used to avoid buildup of oxygen partial pressure in the chamber to dangerous levels which would otherwise require more frequent venting.
+
+Procedure
+Contraindications
+Hazards and precautions
+High oxygen concentrations in the surroundings constitute a fire hazard. Oxygen therapy should be accompanied by good ventilation and avoidance of ignition sources, and where reasonably practicable, removal of combustible materials. Oxygen firebreaks are a requirement in some countries for patients using oxygen therapy.
+
+See also
+Oxygen therapy – Use of oxygen as a medical treatment
+Hyperbaric medicine – Medical treatment at raised ambient pressure
+In-water recompression – In-water treatment for decompression sickness
+Built-in breathing system – System for supply of breathing gas on demand within a confined space
+Oxygen for cluster headaches - Information for cluster headache patients, carers, and clinicians
+
+
+== References ==

@@ -1,0 +1,36 @@
+Lalla (c. 720–790 CE) was an Indian mathematician, astronomer, and astrologer who belonged to a family of astronomers. Lalla was the son of Trivikrama Bhatta and the grandson of Śâmba. He lived in central India, possibly in the Lāṭa region in modern south Gujarat. Lalla was known as being one of the leading Indian astronomers of the eighth century.
+Only two of his works are currently thought to be extant.His best-known work is the Śiṣyadhīvṛddhidatantra ("Treatise which expands the intellect of students").  This text is one of the first major Sanskrit astronomical texts known from the period following the 7th-century works of Brahmagupta and Bhāskara I. It generally treats the same astronomical subject matter and demonstrates the same computational techniques as earlier authors, although there are some significant innovations, such that Lalla’s treatise offers a compromise between the rival astronomical schools of his predecessors, Āryabhaṭa I and Brahmagupta. It is within the Śiṣyadhīvṛddhidatantra that the earliest known description of perpetual motion is described.
+The other extant work by Lalla is the Jyotiṣaratnakośa ("Treasury of Jewels"), a treatise on catarchic astrology. This work is one of the earliest known Sanskrit astrological works for determining auspicious and inauspicious times. No edition of this text has ever been published while the known manuscripts are incomplete.In his work, Lalla drew on his predecessors Brahmagupta, and Bhāskara I. In turn, he influenced later generations of astronomers, including Āryabhaṭa II, Śrīpati, Vaṭeśvara, and Bhāskara II (who later wrote a commentary on the Śiṣyadhīvṛddhidatantra).He followed the Āryapakṣa or the school of Āryabhaṭa (continued by Bhāskara I), but divided the mahāyuga in the traditional way, following the Brāhmapakṣa school
+of Brahmagupta.
+
+Works
+Śiṣyadhīvṛddhidatantra: The most extensive extant exposition of the views of the Āryapaksa school. It contains twenty-two chapters divided into two books:I. On the Computation of the Positions of the PlanetsOn the mean longitudes of the planets.
+On the true longitudes of the planets.
+On the three problems involving diurnal motion.
+On lunar eclipses.
+On solar eclipses.
+On the syzygies.
+On the heliacal settings and risings of the planets.
+On the shadow of the moon.
+On the lunar crescent.
+On planetary conjunctions.
+On conjunctions of the planets with the stars.
+On the pātas of the sun and moon.
+Conclusion.II. On the SphereOn graphical representations.
+On the construction of the celestial sphere.
+On the principles of mean motion.
+On the terrestrial sphere.
+On the motions and stations of the planets.
+On geography.
+On erroneous knowledge.
+On instruments.
+On certain (selected) problems"Jyotiṣaratnakośa: A popular book on astronomy in India
+A commentary on Brahmagupta's Khandakhadyaka, now lost
+
+Notes
+References
+O'Connor, John J.; Robertson, Edmund F., "Lalla", MacTutor History of Mathematics Archive, University of St Andrews
+K. V. Sarma. "Lalla." Encyclopaedia of the History of Science, Technology, and Medicine in Non-Western Cultures, ed. Helaine Selin, Dordrecht: Kluwer Academic Publishers, 1997, p. 508.
+Plofker, Kim (2009), Mathematics in India (book), Princeton University Press, ISBN 978-0-691-12067-6
+"Lalla." Complete Dictionary of Scientific Biography. Vol. 7. Detroit: Charles Scribner's Sons, 2008. 582-583. Gale Virtual Reference Library. Web. 3 June 2013.
+Bracher, Katherine. The Biographical Encyclopedia Of Astronomers [Electronic Resource] / Edited By K. Bracher ... [Et Al.]. n.p.: New York ; London : Springer, 2006., 2006. UNIV OF OKLAHOMA LIBRARIES's Catalog. Web. 6 June 2013.

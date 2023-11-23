@@ -1,0 +1,16 @@
+Diagnostic overshadowing is the attribution of a person’s symptoms to a psychiatric problem when such symptoms actually suggest a comorbid condition.  Diagnostic overshadowing occurs when a healthcare professional assumes that a patient's complaint is due to their disability or coexisting mental health condition rather than fully exploring the cause of the patient's symptoms.  Often, once a patient has a confirmed diagnosis, there is a tendency to attribute all new behaviors or symptoms to the original diagnosis.   Diagnostic overshadowing increases the risk of further health complications and delay in accurate treatment.  An example of diagnostic overshadowing may be a patient being diagnosed with a psychiatric problem and prescribed medication due to head banging behavior, but the patient actually has communication challenges and can't express pain in their mouth due to a dental abscess.
+
+History
+The term was first used to describe the underdiagnosis of mental illness in people with intellectual or developmental disabilities.  In recent years, the term has also been used when physical illnesses are overlooked in people with mental illness.
+
+Causes
+Diagnostic overshadowing can occur for several reasons. Diagnostic shadowing most often occurs when a new behavior develops or previous abnormal behaviors increase.  Staff inexperienced with working with people with intellectual disability are also more likely to mistakenly attribute symptoms of a physical illness to a person's intellectual disability.   Time pressures of healthcare providers and stigma have been found to be additional causes of diagnostic overshadowing.
+
+Impact
+Diagnostic overshadowing can lead to inadequate medical treatment for physical health conditions in people with mental illnesses, leading to increased mortality and poorer treatment outcomes.    The World Health Organization attributes lower life expectancy in people with intellectual disability or mental illnesses in part to diagnostic overshadowing.   In addition to diagnostic overshadowing, people with intellectual disabilities experience barriers to accessing quality health care, increasing the likelihood of developing complex health conditions.  People with intellectual disabilities are more likely to be impacted by diabetes, hypertension, obesity and on average die 16 years earlier than their peers without ID. Diagnostic overshadowing can also lead to delays in treatment or support.  When a developmental disorder- such as Autism- is not diagnosed due to diagnostic overshadowing, this can lead to a delay in appropriate support being provided.
+
+Prevention
+In the UK, the NHS recommends that local NHS trusts "have effective safeguarding arrangements" to prevent diagnostic overshadowing in people with intellectual disability and autism spectrum disorder.  Healthcare providers play a significant role in helping to eliminate the risk of diagnostic overshadowing.
+
+
+== References ==

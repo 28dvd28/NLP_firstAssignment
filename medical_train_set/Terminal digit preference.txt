@@ -1,0 +1,7 @@
+Terminal digit preference, terminal digit bias, or end-digit preference is a commonly-observed statistical phenomenon whereby humans recording numbers have a bias or preference for a specific final digit in a number. In medical science, this is often seen when recording measurements such as blood pressure by hand, where those taking measurements will round to the nearest 5 or 0. The phenomenon  has been blamed for misdiagnoses. Terminal digit bias has been used to identify errors in research, and is one method used in the identification of scientific fraud. Severe terminal digit bias has been found in datasets for scientific papers that were later retracted
+
+See also
+Benford's law
+
+
+== References ==

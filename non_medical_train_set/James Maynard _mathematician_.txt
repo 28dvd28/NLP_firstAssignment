@@ -1,0 +1,178 @@
+James Alexander Maynard  (born 10 June 1987) is an English mathematician working in analytic number theory and in particular the theory of prime numbers. In 2017, he was appointed Research Professor at Oxford. Maynard is a fellow of St John's College, Oxford. He was awarded the Fields Medal in 2022 and the New Horizons in Mathematics Prize in 2023.
+
+Education
+Maynard attended King Edward VI Grammar School, Chelmsford in Chelmsford, England. Then after completing his bachelor's and master's degrees at Queens' College, University of Cambridge in 2009, Maynard obtained his D.Phil. from University of Oxford at Balliol College in 2013 under the supervision of Roger Heath-Brown. He then became a Fellow by Examination at Magdalen College, Oxford.
+
+Career
+For the 2013–2014 year, Maynard was a CRM-ISM postdoctoral researcher at the University of Montreal.In November 2013, Maynard gave a different proof of Yitang Zhang's theorem that there are bounded gaps between primes, and resolved a longstanding conjecture by showing that for any 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   there are infinitely many intervals of bounded length containing 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   prime numbers. This work can be seen as progress on the Hardy–Littlewood 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  -tuples conjecture as it establishes that "a positive proportion of admissible 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  -tuples satisfy the prime 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  -tuples conjecture for every 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  ." Maynard's approach yielded the upper bound, with 
+  
+    
+      
+        
+          p
+          
+            n
+          
+        
+      
+    
+    {\displaystyle p_{n}}
+   denoting the 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  'th prime number,
+
+  
+    
+      
+        
+          lim inf
+          
+            n
+            →
+            ∞
+          
+        
+        
+          (
+          
+            
+              p
+              
+                n
+                +
+                1
+              
+            
+            −
+            
+              p
+              
+                n
+              
+            
+          
+          )
+        
+        ≤
+        600
+        ,
+      
+    
+    {\displaystyle \liminf _{n\to \infty }\left(p_{n+1}-p_{n}\right)\leq 600,}
+  which improved significantly upon the best existing bounds due to the Polymath8 project. (In other words, he showed that there are infinitely many prime gaps with size of at most 600.) Subsequently, Polymath8b was created, whose collaborative efforts have reduced the gap size to 246, according to an announcement on 14 April 2014 by the Polymath project wiki. Further, assuming the Elliott–Halberstam conjecture and, separately, its generalised form, the Polymath project wiki states that the gap size has been reduced to 12 and 6, respectively.In August 2014, Maynard (independently of Ford, Green, Konyagin and Tao) resolved a longstanding conjecture of Erdős on large gaps between primes, and received the largest Erdős prize ($10,000) ever offered.In 2014, he was awarded the SASTRA Ramanujan Prize. In 2015, he was awarded a Whitehead Prize and in 2016 an EMS Prize.In 2016, he showed that, for any given decimal digit, there are infinitely many prime numbers that do not have that digit in their decimal expansion.In 2019, together with Dimitris Koukoulopoulos, he proved the Duffin–Schaeffer conjecture.In 2020, in joint work with Thomas Bloom, he improved the best-known bound for square-difference-free sets, showing that a set 
+  
+    
+      
+        A
+        ⊂
+        [
+        N
+        ]
+      
+    
+    {\displaystyle A\subset [N]}
+   with no square difference has size at most  
+  
+    
+      
+        
+          
+            N
+            
+              (
+              log
+              ⁡
+              N
+              
+                )
+                
+                  c
+                  log
+                  ⁡
+                  log
+                  ⁡
+                  log
+                  ⁡
+                  N
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {N}{(\log N)^{c\log \log \log N}}}}
+   for some 
+  
+    
+      
+        c
+        >
+        0
+      
+    
+    {\displaystyle c>0}
+  .Maynard was awarded the Fields Medal 2022 for "contributions to analytic number theory, which have led to major advances in the understanding of the structure of prime numbers and in Diophantine approximation".Maynard was elected a Fellow of the Royal Society (FRS) in 2023.
+
+Personal life
+Maynard was born on 10 June 1987 in Chelmsford, England. His partner is Eleanor Grant, a medical doctor. They have a son.
+
+References
+External links
+Maynard interviewed by Brady Haran on the Twin Prime Conjecture
+Maynard interviewed by Brady Haran on the completion of the Duffin-Schaeffer Conjecture
+James Maynard publications indexed by Google Scholar

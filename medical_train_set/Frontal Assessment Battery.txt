@@ -1,0 +1,13 @@
+The Frontal Assessment Battery (FAB) is a short screening test to evaluate executive function (EF).
+
+Format
+FAB is a battery of tests, consisting of six subtests, that takes about 10 minutes and is designed as a short bedside assessment of executive function.
+
+Applications
+FAB is useful in the differential diagnosis of neurological diseases including Parkinson's disease, corticobasal degeneration, frontotemporal dementias, Alzheimer's disease, Huntington's disease, progressive supranuclear palsy, and dementia with Lewy bodies.
+
+Development
+FAB was developed by Dubois et al. in 2000 and became a widely used tool.
+
+
+== References ==

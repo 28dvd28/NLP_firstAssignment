@@ -1,0 +1,47 @@
+Maddrey's discriminant function (DF) is the traditional model for evaluating the severity and prognosis in alcoholic hepatitis and evaluates the efficacy of using alcoholic hepatitis steroid treatment.  The Maddrey DF score is a predictive statistical model compares the subject's DF score with mortality prognosis within 30-day or 90-day scores.  The subject's Maddrey DF score is determined by blood analysis.
+The modified Maddrey's discriminant function was originally described by Maddrey and Boitnott to predict prognosis in alcoholic hepatitis.  It is calculated by a simple formula using prothrombin time and serum bilirubin concentration:
+  
+    
+      
+        
+          (
+          
+            4.6
+            ×
+            
+              (
+              
+                
+                  
+                    prothrombin time
+                  
+                
+                −
+                
+                  
+                    control time
+                  
+                
+              
+              )
+            
+          
+          )
+        
+        +
+        
+          
+            serum bilirubin in mg/dl
+          
+        
+      
+    
+    {\displaystyle \left(4.6\times \left({\hbox{prothrombin time}}-{\hbox{control time}}\right)\right)+{\hbox{serum bilirubin in mg/dl}}}
+  Prospective studies have shown that it is useful in predicting short term prognosis, especially mortality within 30 days.  A value more than 32 implies poor outcome with one month mortality ranging between 35% to 45%.  Corticosteroid therapy or pentoxifylline have been used with mixed results for patients whose increased mortality is indicated with a value greater than 32.To calculate Maddrey discriminant function using SI units, such as micromoles per litre, divide bilirubin value by 17.
+
+See also
+Model for End-Stage Liver Disease
+Child-Pugh score
+
+
+== Reference list ==

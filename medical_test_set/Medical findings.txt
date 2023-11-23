@@ -1,0 +1,20 @@
+Medical findings are the collective physical and psychological occurrences of patients surveyed by a medical doctor. The survey is composed of physical examinations by the doctor's senses and simple medical devices, which build clinical findings.
+If necessary, the results are proofed by further diagnostic tests, which may include procedures using medical apparatus. As the findings relate to the intersubjective occurrences diagnosed by the doctor, they will be differentiated from the sum of subjective data in the patient's medical history.
+
+Definition
+Using for example the National Cancer Institute Thesaurus (NCIT), a finding is a Clinical, Laboratory or Molecular evidence (or absence of evidence) of a disease.
+
+Types of findings
+The documentation of medical findings can differ between:
+
+quantitative evidence, e.g. "the cholesterol level is 220 mmol/L"
+qualitative evidence, e.g. "the consciousness is clouded"Out of a combination of these extracted medical findings, a doctor can deduce their diagnosis, whereby they ascribe an affliction to the patient. Medical findings that do not match these diagnoses will be labeled auxiliary medical findings, whose symptoms can illustrate other afflictions.
+According to the nature of the finding they can be classified into:
+
+Clinical: When they are related to the patient's medical signs and symptoms evolution
+Physiological: When they are related to an intermediate biological biomarker
+Pathological or histopathological: When they are related to the physical damage produced by the diseasePsychological findings would be more a medical sign than a finding, except when they are supported by a test.Findings can appear during a targeted medical test or unexpectedly during an unrelated exploration.
+
+Findings and symptoms
+Although the difference is not clear in everyday parlance, medical findings and symptoms are completely delineated: during the process of confirming a medical finding the empirical character (those that can be found) of the collected medical characteristics is brought out, highlighting symptom of an affliction.
+Acquiring medical findings is one of the main duties of a doctor.

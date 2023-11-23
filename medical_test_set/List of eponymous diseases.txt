@@ -1,0 +1,683 @@
+An eponymous disease is a disease, disorder, condition, or syndrome named after a person, usually the physician or other health care professional who first identified the disease; less commonly, a patient who had the disease; rarely, a fictional character who exhibited signs of the disease; and, in some few instances, after an actor or the subject of a literary allusion, because characteristics associated with them were suggestive of symptoms observed in a particular disorder.
+
+Naming systems
+Eponyms are a longstanding tradition in Western science and medicine. Being awarded an eponym is regarded as an honor: "Eponymity, not anonymity, is the standard." The scientific and medical communities regard it as bad form to attempt to eponymise oneself.Ideally, to discuss something, it should have a name. When medicine lacked diagnostic tools to investigate and definitively pinpoint the underlying causes of many diseases, assigning an eponym afforded physicians a concise label for a symptom cluster versus cataloguing the multiple systemic features that characterized the patient.
+Some diseases are named for the person, most often a physician, but occasionally another health care professional, who first described the condition—typically by publishing an article in a respected medical journal. Less frequently, an eponymous disease is named after a patient, examples being Lou Gehrig disease, Hartnup disease, and Mortimer disease. In one instance, Machado–Joseph disease, the eponym is derived from the surnames of two families in which the condition was initially described. Examples also exist of eponyms named for fictional persons who displayed characteristics attributed to the syndrome; these include Miss Havisham syndrome, named for a Dickens character, and  Plyushkin syndrome, named for a Gogol character (the two also happen to be alternative names for the same symptom complex). At least two eponymous disorders follow none of the foregoing conventions: Fregoli delusion draws its name from an actor whose character shifts mimicked the type of delusion it now describes; Munchausen syndrome derives from a literary allusion to Baron von Munchausen, whose personal habits were suggestive of the symptom cluster associated with it.
+Disease naming structures which reference place names (such as Bornholm disease, Lyme disease, and Ebola virus disease) are properly termed toponymic, although an NLM/NIH online publication described them as eponymic. Diseases named for animals with which they are associated, usually as a vector, are properly styled as zoonymic; cat scratch fever and monkeypox are examples.  Those named for association with a particular occupation or trade, examples of which include nun's knee, tennis elbow, and mad hatter's disease, are properly described as occupational diseases.
+In May 2015, the World Health Organization, in collaboration with the World Organization for Animal Health (OIE) and the Food and Agriculture Organization of the United Nations (FAO), released a statement on the Best Practices for the Naming of New Human Infectious Diseases "with the aim to minimize unnecessary negative impact of disease names on trade, travel, tourism or animal welfare, and avoid causing offence to any cultural, social, national, regional, professional or ethnic groups." These guidelines emerged in response to backlash against people and places, based on the vernacular names of infectious diseases such as Middle East respiratory syndrome, and the 2009 swine flu pandemic. These naming conventions are not intended to replace the International Classification of Diseases, but rather, are guidelines for scientists, national authorities, the national and international media and other stakeholders who may be the first to discuss a disease publicly.
+
+Punctuation
+In 1975, the Canadian National Institutes of Health held a conference that discussed the naming of diseases and conditions. This was reported in The Lancet where the conclusion was summarized as: "The possessive use of an eponym should be discontinued, since the author neither had nor owned the disorder." Medical journals, dictionaries and style guides remain divided on this issue. European journals tend towards continued use of the possessive, while US journals are largely discontinuing its use. The trend in possessive usage varies between countries, journals, and diseases.The problem is, in fact, that the possessive case was given its misleading name for historical reasons and that now even educated people, if they are not linguists, often make incorrect assumptions and decisions based on this misleading name. Nevertheless, no native speakers would accept the ungrammatical "men department" as a possible way of saying "men's department" nor claim that this "possessive" and obligatory apostrophe in any way imply that men possess the department.
+This case was called the genitive until the 18th century and (like the genitive case in other languages) in fact expresses much more than possession. For example, in the expressions "the school's headmaster", "the men's department", and "tomorrow's weather", the school does not own/possess the headmaster, men don't own/possess the department, and tomorrow does not/will not own the weather. Most disagreements about the use of possessive forms of nouns and of the apostrophe are due to the erroneous opinion that a term should not use an apostrophe if it does not express possession.In the words of Merriam-Webster's Dictionary of English Usage:
+The argument is a case of fooling oneself with one's own terminology. After the 18th-century grammarians began to refer to the genitive case as the possessive case, grammarians and other commentators got it into their heads that the only use of the case was to show possession.... Simply changing the name of the genitive does not change or eliminate any of its multiple functions.
+This dictionary also cites a study that found that only 40% of the possessive forms were used to indicate actual possession.
+
+Autoeponym
+Associating an individual's name with a disease merely based on describing it confers only an eponymic; the individual must have been either affected by the disease or have died from it for the name to be termed autoeponymic. Thus, an 'autoeponym' is a medical condition named in honor of: a physician or other health care professional who was affected by or died as a result of the disease which he had described or identified; or, a patient, who was not a health care professional, but suffered from or died as a result of the disease. Autoeponyms may use either the possessive or non-possessive form, with the preference to use the non-possessive form for a disease named for a physician or health care professional who first described it and the possessive form in cases of a disease named for a patient (commonly, but not always, the first patient) in whom the particular disease was identified. Autoeponyms listed in this entry conform to those conventions with regard to the possessive and non-possessive forms.
+Examples of autoeponyms include:
+
+Rickettsiosis: in 1906, Howard Taylor Ricketts discovered that the bacteria that causes Rocky Mountain Spotted Fever is carried by a tick. He injected himself with the pathogen. Ricketts died in 1909 while investigating typhus (Rickettsia prowazakii) in Mexico City.
+Thomsen's disease: an autosomal dominant myotonia of voluntary muscles described by Julius Thomsen about himself and his family members.
+Carrion disease: Peruvian medical student Daniel Alcides Carrión inoculated himself with Bartonella bacilliformis in 1885 to prove the link to this disease, characterized by "Oroya fever." He is now regarded as a national hero.
+Lou Gehrig's disease: although Gehrig, a New York Yankees player of the early twentieth century, was not the first patient described as having amyotrophic lateral sclerosis, the association of such a prominent individual with the then little-known disease resulted in his name becoming eponymous with it.
+
+Eponyms and trends
+The current trend is away from the use of eponymous disease names and towards a medical name that describes either the cause or primary signs. Reasons for this include:
+
+A national or ethnic bias attaches to the eponym chosen;
+Credit should have gone to a different person;
+An eponym may be applied to different diseases, which creates confusion;
+Several eponyms refer to one disease (e.g., amyloid degeneration is variously called Abercrombie disease, Abercrombie syndrome, and Virchow syndrome);
+An eponym proves invalid (e.g., Laurence–Moon–Bardet–Biedl syndrome, in which findings in the patients of Laurence and Moon were later found to differ from those of Bardet and Biedl).
+An eponym honors an individual who has been otherwise discredited (e.g., Wegener's Granulomatosis is named for Friedrich Wegener, a Nazi physician). It was renamed to granulomatosis with polyangiitis when Dr. Wegener's Nazi ties were discovered.
+Its referent varies by country (e.g., sideropenic dysphagia is Plummer–Vinson syndrome in the US and Australia, Patterson–Kelly syndrome in the UK, and Waldenstrom–Kjellberg syndrome in Scandinavia).Arguments for maintaining eponyms include:
+The eponym may be shorter and more memorable than the medical name (the latter requiring abbreviation to its acronym);
+The medical name proves to be incorrect;
+The syndrome may have more than one cause, yet it remains useful to consider it as a whole.
+It continues to respect a person who may otherwise be forgotten.The usage of the genitive apostrophe in disease eponyms has followed different trends. While it remains common for some diseases, it has dwindled for others.
+
+Alphabetical list
+Explanation of listing sequence
+As described above, multiple eponyms can exist for the same disease. In these instances, each is listed individually (except as described below), followed by an in-line parenthetical entry beginning 'aka' ('also known as') that lists all alternative eponyms. This facilitates use of the list for a reader who knows a particular disease only by one of its eponyms, without the necessity of cross-linking entries.
+It sometimes happens that an alternative eponym, if listed separately, would immediately alphabetically precede or succeed another eponymous entry for the same disease. There are three conventions that have been applied to these instances:
+
+1. No separate entry appears for the alternative eponym. It is listed only in the parenthetical 'aka' entry (e.g., Aarskog syndrome appears only as a parenthetical entry to Aarskog–Scott syndrome).
+2. If eponymous names subsequent to the first are sequenced differently or the eponym is differentiated by another term (e.g., disease versus syndrome), alphabetical sequence dictates which is the linked version versus which is listed as the alternative (e.g., Abderhalden–Kaufmann–Lignac is the linked entry and Abderhalden–Lignac–Kaufmann is the parenthetical alternative entry).
+3. If the number of names included in two or more eponyms varies, the linked entry is the one which includes the most individual surnames (e.g., Alpers–Huttenlocher syndrome is the linked entry for the disease also known as Alpers disease or Alpers syndrome).
+
+A
+Aarskog–Scott syndrome (a.k.a. Aarskog syndrome) – Dagfinn Aarskog, Charles I. Scott Jr.
+Aase–Smith syndrome (a.k.a. Aase syndrome) – Jon Morton Aase, David Weyhe Smith
+Abdallat–Davis–Farrage syndrome – Adnan Al Abdallat, S.M. Davis, James Robert Farrage
+Abderhalden–Kaufmann–Lignac syndrome (a.k.a. Abderhalden–Lignac–Kaufmann disease) – Emil Abderhalden, Eduard Kauffman, George Lignac
+Abercrombie disease (a.k.a. Abercrombie syndrome) – John Abercrombie
+Achard–Thiers syndrome – Emile Achard, Joseph Thiers
+Ackerman tumor – Lauren Ackerman
+Adams–Oliver syndrome – Robert Adams, William Oliver
+Adams–Stokes syndrome (a.k.a. Gerbec–Morgagni–Adams–Stokes syndrome, Gerbezius–Morgagni–Adams–Stokes syndrome, Stokes–Adams syndrome) – Robert Adams, William Stokes
+Addison disease – Thomas Addison
+Adson–Caffey syndrome – Alfred Washington Adson, I. R. Caffey
+Ahumada–Del Castillo syndrome – Juan Carlos Ahumada Sotomayor, Enrique Benjamin Del Castillo
+Aicardi syndrome – Jean Aicardi
+Aicardi–Goutières syndrome – Jean Aicardi, Francoise Goutieres
+Alagille syndrome – Daniel Alagille
+Albers-Schönberg disease – Heinrich Albers-Schönberg
+Albright disease (a.k.a. Albright hereditary osteodystrophy, Albright syndrome, McCune–Albight syndrome) – Fuller Albright
+Albright–Butler–Bloomberg disease – Fuller Albright, Allan Macy Butler, Esther Bloomberg
+Albright–Hadorn syndrome – Fuller Albright, Walter Hadorn
+Albright IV syndrome (a.k.a. Martin–Albright syndrome) – Fuller Albright
+Alexander disease – William Stuart Alexander
+Alibert–Bazin syndrome – Jean-Louis-Marc Alibert, Pierre-Antoine-Ernest Bazin
+Alice in Wonderland syndrome (a.k.a. Todd syndrome) – Alice, a fictional character in works of Lewis Carroll
+Alpers–Huttenlocher syndrome (a.k.a. Alpers disease, Alpers syndrome) – Bernard Jacob Alpers, Peter Huttenlocher
+Alport syndrome – Arthur Cecil Alport
+Alström syndrome – Carl Henry Alström
+Alvarez syndrome – Walter C. Alvarez
+Alzheimer disease – Alois Alzheimer
+Anders disease – James Meschter Anders
+Andersen disease – Dorothy Hansine Andersen
+Andersen–Tawil syndrome (a.k.a. Andersen syndrome) – Ellen Andersen, Al-Rabi Tawil
+Anderson–Fabry disease – William Anderson, Johannes Fabry
+Angelman syndrome – Harry Angelman
+Angelucci syndrome – Arnaldo Angelucci
+Anton–Babinski syndrome (a.k.a. Anton syndrome) – Gabriel Anton, Joseph Babinski
+Apert syndrome – Eugène Apert
+Aran–Duchenne disease (a.k.a. Aran–Duchenne spinal muscular atrophy) – François-Amilcar Aran, Guillaume Duchenne
+Arnold–Chiari malformation – Julius Arnold, Hans Chiari
+Asherman syndrome – Joseph G. Asherman
+Asperger syndrome (a.k.a. Asperger disorder) – Hans Asperger
+Avellis syndrome – Georg Avellis
+Ayerza–Arrillaga syndrome (a.k.a. Ayerza–Arrillaga disease, Ayerza syndrome, Ayerza disease) – Abel Ayerza, Francisco Arrillaga
+
+B
+Baastrup sign – Christian Ingerslev Baastrup
+Babesiosis – Victor Babeş
+Babington disease – Benjamin Babington
+Babinski–Fröhlich syndrome – Joseph Babinski, Alfred Fröhlich
+Babinski–Froment syndrome – Joseph Babinski, Jules Froment
+Babinski–Nageotte syndrome – Joseph Babinski, Jean Nageotte
+Baker cyst – William Morrant Baker
+Baller–Gerold syndrome – Friedrich Baller, M Gerold
+Balo concentric sclerosis (a.k.a. Balo disease) – József Mátyás Baló
+Bamberger disease – Heinrich von Bamberger
+Bamberger–Marie disease – Eugen von Bamberger, Pierre Marie
+Bamforth–Lazarus syndrome - J Steven Bamforth, John Lazarus
+Bancroft filariasis – Joseph Bancroft
+Bang disease – Bernhard Bang
+Bankart lesion – Arthur Sidney Blundell Bankart
+Bannayan–Riley–Ruvalcaba syndrome – George A. Bannayan, Harris D. Riley Jr., Rogelio H. A. Ruvalcaba
+Bannayan–Zonana syndrome – George A. Bannayan, Jonathan X. Zonana
+Banti syndrome – Guido Banti
+Bárány syndrome – Robert Bárány
+Bardet–Biedl syndrome (formerly, a.k.a. Laurence–Moon–Bardet–Biedl syndrome, but that construct is now deemed invalid) – Georges Bardet, Arthur Biedl
+Barlow disease – Thomas Barlow
+Barlow syndrome – John Barlow
+Barraquer–Simons syndrome – Luis Barraquer Roviralta, Arthur Simons
+Barré–Liéou syndrome – Jean Alexandre Barré, Yang-Choen Liéou
+Barrett ulcer – Norman Barrett
+Bart–Pumphrey syndrome – R. S. Bart, R. E. Pumphrey
+Barth syndrome – Peter Barth
+Bartholin cyst – Caspar Bartholin
+Bartter syndrome – Frederic Bartter
+Basedow coma – Karl Adolph von Basedow
+Basedow disease (a.k.a. Basedow syndrome, Begbie disease, Flajan disease, Flajani–Basedow syndrome, Graves disease, Graves–Basedow disease, Marsh disease, Morbus Basedow – Karl Adolph von Basedow
+Basedow ocular syndrome – Karl Adolph von Basedow
+Bassen–Kornzweig syndrome – Frank Bassen, Abraham Kornzweig
+Batten disease – Frederick Batten
+Bazin disease – Pierre-Antoine-Ernest Bazin
+Becker muscular dystrophy – Peter Emil Becker
+Beckwith–Wiedemann syndrome – John Bruce Beckwith, Hans-Rudolf Wiedemann
+Behçet disease – Hulusi Behçet
+Bekhterev disease – Vladimir Bekhterev
+Bell palsy – Charles Bell
+Benedikt syndrome – Moritz Benedikt
+Benjamin syndrome – Erich Benjamin
+Berardinelli–Seip congenital lipodystrophy – Waldemar Berardinelli, Martin Seip
+Berdon syndrome – Walter Berdon
+Berger disease – Jean Berger
+Bergeron disease – Etienne-Jules Bergeron
+Bernard syndrome – Claude Bernard
+Bernard–Soulier syndrome – Jean Bernard, Jean Pierre Soulier
+Bernhardt–Roth paraesthesia – Martin Bernhardt, Vladimir Karlovich Roth
+Bernheim syndrome – P. I. Bernheim
+Besnier prurigo – Ernest Henri Besnier
+Besnier–Boeck–Schaumann disease – Ernest Henri Besnier, Cæsar Peter Møller Boeck, Jörgen Nilsen Schaumann
+Biermer anaemia – Michael Anton Biermer
+Bietti crystalline dystrophy – G. Bietti
+Bickerstaff brainstem encephalitis – Edwin Bickerstaff
+Bilharzia – Theodor Maximilian Bilharz
+Binder syndrome – K.H. Binder
+Bing–Horton syndrome – Paul Robert Bing, Bayard Taylor Horton
+Bing–Neel syndrome – Jens Bing, Axel Valdemar Neel
+Binswanger dementia – Otto Binswanger
+Birt–Hogg–Dubé syndrome – Arthur Birt, Georgina Hogg, William Dubé
+Bland–White–Garland syndrome – Edward Franklin Bland, Paul Dudley White, Joseph Garland
+Bloch–Sulzberger syndrome – Bruno Bloch, Marion Baldur Sulzberger
+Bloom syndrome – David Bloom
+Blount syndrome – Walter Putnam Blount
+Boerhaave syndrome – Herman Boerhaave
+Bogorad syndrome – F. A. Bogorad
+Bonnevie–Ullrich syndrome – Kristine Bonnevie, Otto Ullrich
+Bourneville–Pringle disease – Désiré-Magloire Bourneville, John James Pringle
+Bowen disease – John T. Bowen
+Brachman de Lange syndrome – Winfried Robert Clemens Brachmann, Cornelia Catharina de Lange
+Brailsford–Morquio syndrome – James Frederick Brailsford, Luís Morquio
+Brandt syndrome – Thore Edvard Brandt
+Brenner tumour – Fritz Brenner
+Brewer kidney – George Emerson Brewer
+Bright disease – Richard Bright
+Brill–Symmers disease – Nathan Brill, Douglas Symmers
+Brill–Zinsser disease – Nathan Brill, Hans Zinsser
+Briquet syndrome – Paul Briquet
+Brissaud disease – Édouard Brissaud
+Brissaud–Sicard syndrome – Édouard Brissaud, Jean-Athanase Sicard
+Broadbent apoplexy – William Broadbent
+Brock syndrome – Russell Claude Brock
+Brodie abscess – Benjamin Collins Brodie
+Brodie syndrome – Benjamin Collins Brodie
+Brooke epithelioma – Henry Ambrose Grundy Brooke
+Brown-Séquard syndrome – Charles-Édouard Brown-Séquard
+Brucellosis – David Bruce
+Bruck–de Lange disease – Franz Bruck, Cornelia Catharina de Lange
+Brugada syndrome – Pedro Brugada, Josep Brugada
+Bruns–Garland syndrome – Ludwig Bruns
+Bruns syndrome – Ludwig Bruns
+Bruton–Gitlin syndrome – Ogden Carr Bruton, David Gitlin
+Budd–Chiari syndrome – George Budd, Hans Chiari
+Buerger disease – Leo Buerger
+Bumke syndrome – Oswald Conrad Edouard Bumke
+Bürger–Grütz syndrome – Max Burger, Otto Grutz
+Burkitt lymphoma – Denis Parsons Burkitt
+Burnett syndrome – Charles Hoyt Burnett
+Bywaters syndrome – Eric Bywaters
+
+C
+Caffey–Silverman syndrome – John Patrick Caffey, William Silverman
+Calvé disease – Jacques Calvé
+Camurati–Engelmann disease (a.k.a. Camurati–Engelmann syndrome, Engelmann disease, Engelmann syndrome) – M. Camurati, G. Engelmann
+Canavan disease – Myrtelle Canavan
+Cannon disease – Abernathy Benson Cannon
+Cantú syndrome – José María Cantú
+Capgras delusion (a.k.a. Capgras syndrome) – Joseph Capgras
+Caplan syndrome – Anthony Caplan
+Carney complex – J. Aidan Carney
+Carney triad – J. Aidan Carney
+Carney–Stratakis syndrome – J. Aidan Carney, C. A. Stratakis
+Caroli syndrome – Jacques Caroli
+Carrion disease – Daniel Alcides Carrión
+Castleman disease – Benjamin Castleman
+Céstan–Chenais syndrome – Étienne Jacques Marie Raymond Céstan, Louis Jean Chennais
+Chagas disease – Carlos Chagas
+Charcot disease – Jean-Martin Charcot
+Charcot–Marie–Tooth disease – Jean-Martin Charcot, Pierre Marie, Howard Henry Tooth
+Charles Bonnet syndrome – Charles Bonnet
+Cheadle disease – Walter Butler Cheadle
+Chédiak–Higashi syndrome – Alexander Chédiak, Otokata Higashi
+Chiari malformation – Hans Chiari
+Chiari–Frommel syndrome – Johann Baptist Chiari, Richard Frommel
+Chilaiditi syndrome – Demetrius Chilaiditi
+Christ–Siemens–Touraine syndrome – Josef Christ, Hermann Werner Siemens, Albert Touraine
+Christensen–Krabbe disease – Erna Christensen, Knud Krabbe
+Christmas disease – Stephen Christmas
+Churg–Strauss syndrome – Jacob Churg, Lotte Strauss
+Claude syndrome – Henri Claude
+Claude Bernard–Horner syndrome – Claude Bernard, Johann Friedrich Horner
+Clerambault syndrome – Gaëtan Gatian de Clerambault
+Clerambault–Kandinsky syndrome – Gaëtan Gatian de Clerambault, Victor Khrisanfovich Kandinsky
+Coats disease – George Coats
+Cock peculiar tumor – Edward Cock
+Cockayne syndrome – Edward Alfred Cockayne
+Coffin–Lowry syndrome – Grange Coffin, Robert Lowry
+Coffin–Siris syndrome – Grange Coffin, Evelyn Siris
+Cogan syndrome – David Glendenning Cogan
+Cohen syndrome – Michael Cohen
+Collet–Sicard syndrome – Frédéric Justin Collet, Jean-Athanase Sicard
+Concato disease – Luigi Maria Concato
+Conn syndrome – Jerome Conn
+Cooley anemia – Thomas Benton Cooley
+Cori Disease – Carl Ferdinand Cori, Gerty Cori
+Cornelia de Lange syndrome – Cornelia Catharina de Lange
+Costello syndrome – Jack Costello
+Costen syndrome – James Bray Costen
+Cotard delusion (a.k.a. Cotard syndrome) – Jules Cotard
+Cowden syndrome (a.k.a. Cowden disease) – Rachel Cowden
+Crigler–Najjar syndrome – John Fielding Crigler, Victor Assad Najjar
+Creutzfeldt–Jakob disease – Hans Gerhard Creutzfeldt, Alfons Maria Jakob
+Crocq–Cassirer syndrome – Jean Crocq, Richard Cassirer
+Crohn disease – Burrill Bernard Crohn
+Cronkhite–Canada syndrome – L. W. Cronkhite, Wilma Canada
+Crouzon syndrome – Octave Crouzon
+Cruveilhier–Baumgarten disease – Jean Cruveilhier, Paul Clemens von Baumgarten
+Cruz disease – Osvaldo Gonçalves Cruz
+Cryer syndrome – Philip E. Cryer
+Curling ulcer – Thomas Blizard Curling
+Curschmann–Batten–Steinert syndrome – Hans Curschmann, Frederick Batten, Hans Gustav Steinert
+Cushing disease – Harvey Cushing
+Cushing ulcer – Harvey Cushing
+
+D
+Da Costa syndrome – Jacob Mendez Da Costa
+Dalrymple disease – John Dalrymple
+Danbolt–Closs syndrome – Niels Christian Gauslaa Danbolt, Karl Philipp Closs
+Dandy–Walker syndrome – Walter Dandy, Arthur Earl Walker
+De Clérambault syndrome – Gaëtan Gatian de Clérambault
+de Quervain disease – Fritz de Quervain
+de Quervain thyroiditis – Fritz de Quervain
+Dejerine–Sottas disease – Joseph Jules Dejerine, Jules Sottas
+Dennie–Marfan syndrome – Charles Clayton Dennie, Antoine Marfan
+Dent disease – Charles Enrique Dent
+Denys–Drash syndrome – Pierre Denys, Allan L. Drash
+Dercum disease – Francis Xavier Dercum
+Devic disease (a.k.a. Devic syndrome) – Eugène Devic
+Diamond–Blackfan anemia – Louis Diamond, Kenneth Blackfan
+DiGeorge syndrome – Angelo DiGeorge
+Di Guglielmo disease – Giovanni di Gugliemo
+Diogenes syndrome (a.k.a. Havisham syndrome, Miss Havisham syndrome, Plyushkin syndrome)– Diogenes of Sinope (the particular usage, Diogenes syndrome, is deemed to be a misnomer)
+Doege–Potter syndrome – Karl W. Doege, Roy P. Potter
+Donnai–Barrow syndrome – Dian Donnai, Margaret Barrow
+Donovanosis – Charles Donovan
+Down syndrome – John Langdon Down
+Dravet syndrome – Charlotte Dravet
+Dressler syndrome – William Dressler
+Duane syndrome – Alexander Duane
+Dubin–Johnson syndrome
+Duchenne–Aran disease – Guillaume-Benjamin-Amand Duchenne de Boulogne, François-Amilcar Aran
+Duchenne muscular dystrophy – Guillaume-Benjamin-Amand Duchenne de Boulogne
+Dukes disease – Clement Dukes
+Duncan disease (a.k.a. Duncan syndrome, Purtilo syndrome) – David Theodore Purtilo
+Dupuytren contracture (a.k.a. Dupuytren disease) – Baron Guillaume Dupuytren
+Duroziez disease – Paul Louis Duroziez
+
+E
+Eales disease – Henry Eales
+Early-onset Alzheimer disease – Alois Alzheimer
+Ebstein's anomaly – Wilhelm Ebstein
+Edwards syndrome – John H. Edwards
+Ehlers–Danlos syndrome – Edvard Ehlers, Henri-Alexandre Danlos
+Ehrlichiosis – Paul Ehrlich
+Eisenmenger's syndrome – Victor Eisenmenger
+Ekbom's Syndrome – Karl-Axel Ekbom
+Emanuel syndrome – Beverly Emanuel
+Emery–Dreifuss muscular dystrophy – Alan Eglin H. Emery, Fritz E. Dreifuss
+Erb–Duchenne palsy (a.k.a. Erb palsy) – Wilhelm Heinrich Erb, Guillaume-Benjamin-Amand Duchenne de Boulogne
+Erdheim–Chester disease – Jakob Erdheim, William Chester
+Evans syndrome – R. S. Evans
+Extramammary Paget's disease – Sir James Paget
+
+F
+Fabry disease – Johannes Fabry
+Fanconi anemia – Guido Fanconi
+Fanconi syndrome – Guido Fanconi
+Farber disease – Sidney Farber
+Felty's syndrome – Augustus Roi Felty
+Fitz-Hugh–Curtis syndrome – Thomas Fitz-Hugh Jr., Arthur Hale Curtis
+Foix–Alajouanine syndrome – Charles Foix, Théophile Alajouanine
+Foix–Chavany–Marie syndrome - Charles Foix, Jean Alfred Émile Chavany, Julien Marie
+Fournier gangrene – Jean Alfred Fournier
+Forbes–Albright syndrome – Anne Pappenheimer Forbes, Fuller Albright
+Forbes disease – Gilbert Burnett Forbes
+Fregoli delusion – Leopoldo Fregoli, an Italian actor
+Frey's syndrome - Lucja Frey-Gottesman, Jewish neurosurgeon
+Friedreich's ataxia – Nikolaus Friedreich
+Fritsch–Asherman syndrome (a.k.a. Fritsch syndrome) – Heinrich Fritsch, Joseph Asherman
+Fryns syndrome – Jean-Pierre Fryns
+Fuchs' dystrophy – Ernst Fuchs
+
+G
+Ganser syndrome – Sigbert Ganser
+Gaucher's disease – Philippe Gaucher
+Gerbec–Morgagni–Adams–Stokes syndrome (a.k.a. Adams–Stokes syndrome, Gerbezius–Morgagni–Adams–Stokes syndrome, Stokes–Adams syndrome) – Marko Gerbec, Giovanni Battista Morgagni, Robert Adams, William Stokes
+Gerbezius–Morgagni–Adams–Stokes syndrome (a.k.a. Adams–Stokes syndrome, Gerbec–Morgagni–Adams–Stokes syndrome, Stokes–Adams syndrome) – Marko Gerbec (Latinized as Gerbezius), Giovanni Battista Morgagni, Robert Adams, William Stokes
+Ghon's complex – Anton Ghon
+Ghon focus – Anton Ghon
+Gilbert's syndrome – Augustin Nicolas Gilbert
+Gitelman syndrome – Hillel J. Gitelman
+Glanzmann's thrombasthenia – Eduard Glanzmann
+Goodpasture's syndrome – Ernest Goodpasture
+Goldenhar syndrome – Maurice Goldenhar
+Gorlin–Goltz syndrome – Robert J. Gorlin, Robert W. Goltz
+Gouverneur’s syndrome – R. Gouverneur
+Graves' disease – Robert James Graves
+Graves–Basedow disease – Robert James Graves, Karl Adolph von Basedow
+Grawitz tumor – Paul Albert Grawitz
+Grinker myelinopathy – Roy R. Grinker, Sr.
+Gruber syndrome – Georg Gruber
+Guillain–Barré syndrome – Georges Guillain, Jean Alexandre Barré
+Guillain–Barré–Strohl syndrome – Georges Guillain, Jean Alexandre Barré, André Strohl
+Gunther's disease – Hans Gunther
+
+H
+Hailey–Hailey disease – Hugh Edward Hailey, William Howard Hailey
+Hallervorden–Spatz disease – Julius Hallervorden, Hugo Spatz This disorder is now preferred to be called Pantothenate kinase-associated neurodegeneration (PKAN) given that the genetics are now known but mainly due to the unethical research practices of Hallervorden and Spatz as they were Nazis. See List of medical eponyms with Nazi associations
+Hand–Schüller–Christian disease – Alfred Hand, Artur Schüller, Henry Asbury Christian
+Hansen's disease – Gerhard Armauer Hansen
+Hardikar Syndrome – Winita Hardikar
+Hartnup disease (a.k.a. Hartnup disorder) – Hartnup family of London, U.K.
+Hashimoto thyroiditis – Hakaru Hashimoto
+Havisham syndrome (a.k.a. Diogenes syndrome, Miss Havisham syndrome, and Plyushkin syndrome) – Miss Havisham, a fictional character in Charles Dickens' Great Expectations
+Hecht–Scott syndrome – Jacqueline T. Hecht, Charles I. Scott, Jr
+Henoch–Schönlein purpura – Eduard Heinrich Henoch, Johann Lukas Schönlein
+Heyde's syndrome – Edward C. Heyde
+Hirschsprung disease – Harald Hirschsprung
+Hodgkin disease – Thomas Hodgkin
+Holt–Oram syndrome – Mary Clayton Holt, Samuel Oram
+Horner syndrome – Johann Friedrich Horner
+Horton headache – Bayard Taylor Horton
+Huntington's disease – George Huntington
+Hurler syndrome – Gertrud Hurler
+Hurler–Scheie syndrome – Gertrud Hurler, Harold Glendon Scheie
+Hutchinson–Gilford progeria syndrome – Jonathan Hutchinson, Hastings Gilford
+
+I
+Illig syndrome – Ruth Illig
+Irvine–Gass syndrome – S. Rodman Irvine, J. Donald M. Gass
+
+J
+Jaeken's disease – Jaak Jaeken
+Jakob–Creutzfeldt disease – Alfons Maria Jakob, Hans Gerhard Creutzfeldt
+Jalili syndrome – I.K. Jalili
+Jarvi–Nasu–Hakola disease – O. Jarvi, T. Nasu, P. Hakola
+Johanson–Blizzard syndrome – Ann Johanson, Robert M. Blizzard
+Jones-Smith Syndrome – Kenneth Lyons Jones, David Weyhe Smith
+
+K
+Kahler's disease – Otto Kahler
+Kallmann syndrome – Franz Josef Kallmann
+Kanner syndrome – Leo Kanner
+Kaposi sarcoma – Moritz Kaposi
+Kartagener syndrome – Manes Kartagener
+Kasabach–Merritt syndrome – Haig Haigouni Kasabach, Katharine Krom Merritt
+Kashin–Beck disease – Nicolai Ivanowich Kashin, Evgeny Vladimirovich Bek
+Kawasaki disease – Tomisaku Kawasaki
+Kearns–Sayre syndrome – Thomas P. Kearns, George Pomeroy Sayre
+Kennedy's disease – William R. Kennedy
+Kennedy's syndrome – Robert Foster Kennedy
+Kenny-Caffey syndrome – Frederic Marshal Kenny, John Patrick Caffey
+Kienbock's disease – Robert Kienböck
+Kikuchi's disease – Masahiro Kikuchi, Y.Fujimoto
+Kimmelstiel–Wilson disease – Paul Kimmelstiel, Clifford Wilson
+Kimura's disease – T. Kimura
+King–Kopetzky syndrome – P. F. King, Samuel J. Kopetzky
+Kinsbourne syndrome – Marcel Kinsbourne
+Kjer's optic neuropathy – Poul Kjer
+Klatskin's tumor – Gerald Klatskin
+Klinefelter syndrome – Harry Klinefelter
+Klüver–Bucy syndrome – Heinrich Klüver, Paul Bucy
+Köhler disease – Alban Köhler
+Korsakoff syndrome – Sergei Korsakoff
+Kounis syndrome – Nicholas Kounis
+Krabbe's disease – Knud Haraldsen Krabbe
+Krukenberg tumor – Friedrich Ernst Krukenberg
+Kugelberg–Welander disease – Erik Klas Henrik Kugelberg, Lisa Welander
+Kuttner's tumor – Hermann Küttner
+
+L
+Lafora's disease – Gonzalo Rodriguez Lafora
+Laron syndrome – Zvi Laron
+Laurence–Moon syndrome – John Zachariah Laurence, Robert Charles Moon
+Laurence–Moon–Bardet–Biedl syndrome (a.k.a. Laurence–Moon–Biedl–Bardet syndrome, a.k.a. Laurence–Moon–Biedl syndrome - both now deemed invalid constructs, see instead Bardet–Biedl syndrome) – John Zachariah Laurence, Robert Charles Moon, Georges Bardet, Arthur Biedl
+Legg–Calvé–Perthes syndrome – Arthur Legg, Jacques Calvé, Georg Perthes
+Leigh's disease – Denis Archibald Leigh
+Leiner syndrome – Karl Leiner, André Moussous
+Leishmaniasis – Sir William Boog Leishman
+Lejeune's syndrome – Jérôme Lejeune
+Lemierre's syndrome – André Lemierre
+Lenègre's disease – Jean Lenègre
+Lennox–Gastaut syndrome (a.k.a. Lennox syndrome) – William Gordon Lennox, Henri Jean Pascal Gastaut
+Lesch–Nyhan syndrome – Michael Lesch, William Leo Nyhan
+Letterer–Siwe disease – Erich Letterer, Sture Siwe
+Lev disease – Maurice Lev
+Lewandowsky–Lutz dysplasia – Felix Lewandowsky, Wilhelm Lutz
+Li–Fraumeni syndrome – Frederick Pei Li, Joseph F. Fraumeni, Jr.
+Libman–Sacks disease – Emanuel Libman, Benjamin Sacks
+Liddle's syndrome – Grant Liddle
+Lisfranc injury (a.k.a. Lisfranc dislocation, a.k.a. Lisfranc fracture) – Jacques Lisfranc de St. Martin
+Listeriosis – Joseph Lister
+Lobomycosis – Jorge Lobo
+Loeys-Dietz Syndrome - Bart Loeys, Hal Dietz
+Löffler's eosinophilic endocarditis – Wilhelm Löffler
+Löfgren syndrome – Sven Halvar Löfgren
+Lou Gehrig's disease – Lou Gehrig
+Lowe Syndrome – Charles Upton Lowe
+Ludwig's angina – Wilhelm Friedrich von Ludwig
+Lujan-Fryns syndrome - J. Enrique Lujan, Jean-Pierre Fryns
+Lynch syndrome – Henry T. Lynch
+
+M
+Machado–Joseph Azorean disease (a.k.a. Machado–Joseph disease, Machado disease, Joseph disease) – named for William Machado and Antone Joseph, patriarchs of families in which it was first identified
+Marie–Foix–Alajouanine syndrome – Pierre Marie, Charles Foix, Théophile Alajouanine
+Maladie de Charcot – Jean-Martin Charcot
+Mallory–Weiss syndrome – G. Kenneth Mallory, Soma Weiss
+Mansonelliasis – Sir Patrick Manson
+Marburg multiple sclerosis – Otto Marburg
+Marfan syndrome – Antoine Marfan
+Marshall syndrome – Richard E. Marshall
+Marshall–Smith–Weaver syndrome (a.k.a. Marshall–Smith syndrome, Greig syndrome) – Richard E. Marshall, David Weyhe Smith
+Martin–Albright syndrome (a.k.a. Albright IV syndrome) – August E. Martin, Fuller Albright
+May–Hegglin anomaly – Richard May, Robert Hegglin
+Maydl's hernia—Karel Maydl
+Mayer–Rokitansky–Küster–Hauser syndrome (MRKH) - August Franz Josef Karl Mayer, Carl von Rokitansky, Hermann Küster, Georges Andre Hauser
+Mazzotti reaction – Luigi Mazzotti
+McArdle's Disease – Brian McArdle
+McCune–Albright syndrome – (a.k.a. Albright disease, Albright hereditary osteodystrophy, Albright syndrome) – Donovan James McCune, Fuller Albright
+Meckel–Gruber syndrome (a.k.a. Meckel syndrome) – Johann Meckel, Georg Gruber
+Meigs' syndrome – Joe Vincent Meigs
+Ménétrier's disease – Pierre Eugène Ménétrier
+Ménière’s disease – Prosper Ménière
+Menkes disease – John Hans Menkes
+Middleton syndrome – Stephen John Middleton
+Mirizzi syndrome
+Mikulicz's disease – Jan Mikulicz-Radecki
+Miss Havisham syndrome (a.k.a. Diogenes syndrome, Havisham syndrome, and Plyushkin syndrome) – Miss Havisham, a fictional character in Charles Dickens' Great Expectations
+Mondor's disease – Henri Mondor
+Monge's disease – Carlos Monge
+Mortimer's disease – First documented by Jonathan Hutchinson, named for his patient Mrs. Mortimer
+Morton's neuroma
+Moschcowitz syndrome – Eli Moschcowitz
+Mowat–Wilson syndrome – David Mowat, Meredith Wilson
+Mucha–Habermann disease – Viktor Mucha, Rudolf Habermann
+Mulvihill–Smith syndrome – John J. Mulvihill, David Weyhe Smith
+Munchausen syndrome – Baron Munchausen
+Munchausen syndrome by proxy – Baron Munchausen
+Myhre–Riley–Smith syndrome – S. Myhre, Harris D. Riley Jr.
+
+N
+Nasu–Hakola disease – T. Nasu, P. Hakola
+Non-Hodgkin lymphoma – Thomas Hodgkin
+Noonan syndrome – Jacqueline Noonan
+
+O
+Opitz-Kaveggia syndrome – John M. Opitz, Elisabeth G. Kaveggia
+Ormond's disease – John Kelso Ormond
+Osgood–Schlatter disease – Robert Bayley Osgood, Carl B. Schlatter
+Osler–Weber–Rendu syndrome – William Osler, Frederick Parkes Weber, Henri Jules Louis Marie Rendu
+Othello Syndrome – Delusional or pathological jealousy
+
+P
+Paget's disease of bone (a.k.a. Paget's disease) – James Paget
+Paget's disease of the breast (a.k.a. Paget's disease of the nipple) – James Paget
+Paget's disease of the penis – James Paget
+Paget's disease of the vulva – James Paget
+Paget–Schroetter disease (a.k.a. Paget–Schroetter syndrome and Paget–von Schrötter disease) – James Paget, Leopold von Schrötter
+Parkinson's disease – James Parkinson
+Patau syndrome – Klaus Patau
+Pearson syndrome – Howard Pearson
+Pelizaeus–Merzbacher disease – Friedrich Christoph Pelizaeus, Ludwig Merzbacher
+Pendred syndrome - Vaughan Pendred - a British doctor (1869–1946)
+Perthes syndrome – Arthur Legg, Jacques Calvé, Georg Perthes
+Peutz–Jeghers syndrome – Jan Peutz, Harold Jeghers
+Peyronie's disease – François Gigot de la Peyronie
+Pfaundler–Hurler syndrome – Meinhard von Pfaundler, Gertrud Hurler
+Pick's disease – Arnold Pick
+Pickardt syndrome – Renate Pickardt
+Plummer's disease – Henry Stanley Plummer
+Plummer–Vinson syndrome (a.k.a. Kelly–Patterson syndrome, Paterson–Brown–Kelly syndrome, and Waldenstrom–Kjellberg syndrome) – Henry Stanley Plummer and Porter Paisley Vinson
+Plyushkin syndrome (a.k.a. Diogenes syndrome, Havisham syndrome, and Miss Havisham syndrome)– Stepan Plyushkin, a fictional character in Nikolai Gogol's Dead Souls
+Poland's syndrome – Alfred Poland
+Pompe's disease – Johann Cassianius Pompe
+Pott's disease – Percivall Pott
+Pott's puffy tumor – Percivall Pott
+Potocki–Lupski syndrome – Lorraine Potocki, James R. Lupski
+Potocki–Shaffer syndrome – Lorraine Potocki, Lisa G. Shaffer
+Potter sequence – Edith Potter
+Prader–Willi syndrome – Andrea Prader, Heinrich Willi
+Prasad's Syndrome – Ashok Prasad
+Primrose syndrome – D. A. Primrose
+Prinzmetal angina – Myron Prinzmetal
+Purtilo syndrome (a.k.a. Duncan disease and Duncan syndrome) –
+
+Q
+Quarelli syndrome – G.Quarelli
+Quervain syndrome
+
+R
+Ramsay Hunt syndromes – James Ramsay Hunt
+Ranke complex – Karl Ernst Ranke
+Raymond Céstan syndrome – Étienne Jacques Marie Raymond Céstan
+Raynaud disease – Maurice Raynaud
+Refsum disease – Sigvald Bernhard Refsum
+Reiter syndrome – Hans Conrad Julius Reiter (This is now a strongly discouraged eponym due to Dr. Reiter's Nazi party ties. The disease is now known as reactive arthritis.)
+Rett syndrome – Andreas Rett
+Reye syndrome – Douglas Reye
+Rickettsiosis – Howard Taylor Ricketts
+Riddoch syndrome – George Riddoch
+Riedel thyroiditis – Bernhard Riedel
+Riggs disease – John M. Riggs (dentist)
+Riley–Day syndrome – Conrad Milton Riley, Richard Lawrence Day
+Riley–Smith syndrome – Harris D. Riley Jr., William R. Smith
+Ritter disease – Baron Gottfried Ritter von Rittershain
+Robles disease – Rodolfo Robles
+Roger disease – Henri Louis Roger
+Rolandic epilepsy – Luigi Rolando
+Rotor syndrome – Arturo Belleza Rotor
+Rubinstein–Taybi syndrome – Jack Herbert Rubinstein, Hooshang Taybi
+Russell–Silver syndrome – Alexander Russell, Henry Silver
+Ruvalcaba–Myhre syndrome – Rogelio H. A. Ruvalcaba, S. Myhre
+Ruvalcaba–Myhre–Smith syndrome – Rogelio H. A. Ruvalcaba, S. Myhre, David Weyhe Smith
+Ruzicka–Goerz–Anton syndrome – T. Ruzicka, G. Goerz, I. Anton-Lamprecht
+
+S
+Saint's triad – C. F. M. Saint
+Sandhoff disease – Konrad Sandhoff
+Sandifer syndrome – Paul Sandifer
+Sanjad-Sakati syndrome (a.k.a Sanjad-Sakati-Richardson-Kirk syndrome, Hypoparathyroidism-retardation-dysmophic (HRD)) - Sami A. Sanjad, Nadia Awni Sakati, Ricky J Richardson, Jeremy MW Kirk
+Schamberg disease – Jay Frank Schamberg
+Scheie syndrome – Harold Glendon Scheie
+Scheuermann's disease – Holger Scheuermann
+Schilder's disease – Paul Ferdinand Schilder
+Schinzel–Giedion syndrome – Albert Schinzel, Andreas Giedion
+Schnitzler syndrome – Liliane Schnitzler
+Seaver Cassidy syndrome – Laurie Seaver, Suzanne Cassidy
+Seligmann's disease – Maxime Seligmann
+Sever's disease – J. W. Sever
+Shabbir syndrome – G. Shabbir
+Sheehan's syndrome – Harold Leeming Sheehan
+Shprintzen's syndrome – Robert Shprintzen
+Shwachman–Bodian–Diamond syndrome – Harry Shwachman, Martin Bodian, Louis Klein Diamond
+Silver–Russell syndrome (a.k.a. Silver–Russell dwarfism) – Henry Silver, Alexander Russell
+Simmonds' syndrome – Moritz Simmonds
+Sipple's syndrome – John H. Sipple
+Sjögren syndrome – Henrik Sjögren
+Sjögren–Larsson syndrome – Torsten Sjögren, Tage Konrad Leopold Larsson
+Skumin syndrome - Victor Skumin
+Smith–Lemli–Opitz syndrome – David Weyhe Smith
+Stargardt disease – Karl Stargardt
+Steele–Richardson–Olszewski syndrome –
+Stevens–Johnson syndrome – Albert Mason Stevens, Frank Chambliss Johnson
+Sturge–Weber syndrome – William Allen Sturge, Frederick Parkes Weber
+Still's disease – Sir George Frederic Still
+Susac's syndrome – John Susac
+Sutton's disease – Richard Lightburn Sutton
+
+T
+TAN syndrome – Tan Aik Kah
+Takayasu's arteritis – Mikito Takayasu
+Tatton-Brown-Rahman syndrome - Kate Tatton Brown, Nazneen Rahman
+Tay–Sachs disease – Warren Tay, Bernard Sachs
+Theileriosis – Sir Arnold Theiler
+Thomsen's disease – Julius Thomsen
+Tietz syndrome – Walter Tietz
+Tietze syndrome – Alexander Tietze
+Temple–Baraitser syndrome - Karin Temple and Michael Baraitser
+Todd syndrome (a.k.a. Alice in Wonderland syndrome) - John Todd
+Tourette syndrome – Georges Albert Édouard Brutus Gilles de la Tourette
+Treacher Collins syndrome – Edward Treacher Collins
+Turcot syndrome – Jacques Turcot
+Turner syndrome – Henry Turner
+
+U
+Unverricht–Lundborg disease – Heinrich Unverricht, Herman Bernhard Lundborg
+Usher syndrome – Charles Usher
+
+V
+Valentino syndrome – Rudolph Valentino
+Verner Morrison syndrome – J. V. Verner, A. B. Morrison
+Vincent's angina – Henri Vincent
+Virchow's syndrome – Rudolf Virchow
+Vogt–Koyanagi–Harada disease - Alfred Vogt, Yoshizo Koyanagi, Einosuke Harada
+Von Gierke's disease – Edgar von Gierke
+Von Hippel–Lindau disease – Eugen von Hippel, Arvid Vilhelm Lindau
+Von Recklinghausen's disease – Friedrich Daniel von Recklinghausen
+Von Willebrand's disease – Erik Adolf von Willebrand
+Von Zumbusch (acute) generalized pustular psoriasis) – (a.k.a. Zumbusch psoriasis) Leo Ritter von Zumbusch
+Von Zumbusch syndrome (a.k.a. Csillag disease, Hallopeau disease, Zumbusch syndrome) – Leo Ritter von Zumbusch
+
+W
+Waardenburg syndrome – Petrus Johannes Waardenburg
+Waldenstrom–Kjellberg syndrome – Jan G. Waldenström, S. R. Kjellberg
+Waldenstrom macroglobulinaemia – Jan G. Waldenström
+Warkany syndrome 1 – Joseph Warkany
+Warkany syndrome 2 – Joseph Warkany
+Warthin's tumor – Aldred Scott Warthin
+Waterhouse–Friderichsen syndrome – Rupert Waterhouse, Carl Friderichsen
+Watson syndrome – G.H.Watson
+Weber–Christian disease – Frederick Parkes Weber, Henry Asbury Christian
+Wegener's granulomatosis – Friedrich Wegener (This usage is now formally discouraged by professional medical societies due to the Nazi associations of the eponymous physician. The disease is now known as granulomatosis with polyangiitis.)
+Weil's disease – Adolf Weil
+Welander distal myopathy – Lisa Welander
+Wells syndrome – George Crichton Wells
+Werdnig–Hoffmann disease – Guido Werdnig, Johann Hoffmann
+Wermer's syndrome – Paul Wermer
+Werner's syndrome – Otto Werner
+Wernicke's encephalopathy – Karl Wernicke
+Westerhof syndrome – Wiete Westerhof
+Westerhof–Beemer–Cormane syndrome – Wiete Westerhof, Frederikus Antonius Beemer, R. H.Cormane
+Whipple's disease – George Hoyt Whipple
+Williams syndrome – J. C. P. Williams
+Wilms tumor – Max Wilms
+Wilson's disease – Samuel Alexander Kinnier Wilson
+Willis–Ekbom syndrome – Thomas Willis, Karl-Axel Ekbom
+Wiskott–Aldrich syndrome – Alfred Wiskott, Robert Aldrich
+Wittmaack–Ekbom syndrome – Theodur Wittmaack, Karl-Axel Ekbom
+Wohlfart–Kugelberg–Welander disease – Karl Gunnar Vilhelm Wohlfart, Erik Klas Henrik Kugelberg, Lisa Welander
+Wolff–Parkinson–White syndrome – Louis Wolff, John Parkinson, Paul Dudley White
+Wolman disease – Moshe Wolman
+Wernicke encephalopathy - Carl Wernicke
+Wernicke–Korsakoff syndrome - (Named for the combination of Wernicke encephalopathy and Korsakoff syndrome which were discovered separately, unlike usual naming this disease was not discovered by Carl Wernicke and Sergei Korsakoff)
+
+X
+Y
+Yesudian syndrome – Paul Yesudian
+
+Z
+Zahorsky syndrome I – John Zahorsky
+Zahorsky syndrome II (a.k.a. Mikulicz' Aphthae, Mikulicz' Disease, Sutton disease 2, Mikulicz' Aphthae, Zahorsky disease) – John Zahorsky
+Zellweger syndrome – Hans Ulrich Zellweger
+Zenker diverticulum – Friedrich Albert von Zenker
+Zenker paralysis – Friedrich Albert von Zenker
+Zieve syndrome – Leslie Zieve
+Zimmermann–Laband syndrome (a.k.a. Laband syndrome, Laband–Zimmermann syndrome) – Karl Wilhelm Zimmermann
+Zollinger–Ellison syndrome – Robert Zollinger, Edwin Ellison
+Zondek–Bromberg–Rozin syndrome (a.k.a. Zondek syndrome) – Bernhard Zondek, Yehuda M. Bromberg, R.Rozin
+Zuelzer syndrome – Wolf William Zuelzer
+Zuelzer–Kaplan syndrome II (a.k.a. Crosby syndrome) – Wolf William Zuelzer, E. Kaplan
+Zuelzer–Ogden syndrome – Wolf William Zuelzer, Frank Nevin Ogden
+Zumbusch psoriasis (a.k.a. von Zumbusch (acute) generalized pustular psoriasis) – Leo Ritter von Zumbusch
+Zumbusch syndrome (a.k.a. Csillag disease, Hallopeau disease, von Zumbusch syndrome) – Leo Ritter von Zumbusch
+
+See also
+List of eponymous medical signs, a list of medical signs named after people
+
+References
+External links
+Whonamedit?, a site dedicated to medical eponyms and their namesakes.

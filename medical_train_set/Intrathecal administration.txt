@@ -1,0 +1,32 @@
+Intrathecal administration is a route of administration for drugs via an injection into the spinal canal, or into the subarachnoid space so that it reaches the cerebrospinal fluid (CSF) and is useful in spinal anesthesia, chemotherapy, or pain management applications. This route is also used to introduce drugs that fight certain infections, particularly post-neurosurgical. The drug needs to be given this way to avoid being stopped by the blood–brain barrier. The same drug given orally must enter the blood stream and may not be able to pass out and into the brain. Drugs given by the intrathecal route often have to be compounded specially by a pharmacist or technician because they cannot contain any preservative or other potentially harmful inactive ingredients that are sometimes found in standard injectable drug preparations.
+The route of administration is sometimes simply referred to as "intrathecal"; however, the term is also an adjective that refers to something occurring in or introduced into the anatomic space or potential space inside a sheath, most commonly the arachnoid membrane of the brain or spinal cord (under which is the subarachnoid space). For example, intrathecal immunoglobulin production is production of antibodies in the spinal cord. The abbreviation "IT" is best not used; instead, "intrathecal" is spelled out to avoid medical mistakes.
+
+Intrathecal administration of analgesic agents
+Very popular for a single 24-hour dose of analgesia (opioid with local anesthetic)
+Caution because of late onset hypoventilation due to intrathecal opioids
+Severe pruritus and urinary retention may limit the use of intrathecal morphine
+Pethidine has the unusual property of being both a local anaesthetic and opioid analgesic which occasionally permits its use as the sole intrathecal anaesthetic agent
+An intrathecal catheter and pump can be used to deliver a local anaesthetic and sometimes also an opioid and/or clonidine.
+The analgesic ziconotide is administered through an intrathecal pump system.
+
+Intrathecal administration of antifungal agents
+For CNS infections, amphotericin B is administered intrathecally.
+
+Intrathecal chemotherapy
+Currently, only four agents are licensed for intrathecal chemotherapy
+They are methotrexate, cytarabine (Ara-C), hydrocortisone, and, rarely, thiotepa.
+Accidental administration of any vinca alkaloids—especially vincristine but also vinblastine, vinorelbine, or others—via the intrathecal route is nearly always fatal.
+
+Intrathecal baclofen
+Often reserved for spastic cerebral palsy, intrathecally-administered baclofen is done through an intrathecal pump implanted just below the skin of the abdomen (or behind the chest wall, depending on the surgeon implanting the device, and patient preferences), with a tube (called the 'catheter') connected directly to the base of the spine, where it bathes the spinal cord using a dose about one thousand times smaller than that required by orally-administered baclofen. Intrathecal baclofen also carries none of the side effects, such as sleepiness, that typically occur with oral baclofen. However, intrathecal baclofen pumps carry serious clinical risks, such as infection or a possibly fatal sudden malfunction, that oral baclofen does not.
+A tremendous amount of care is taken to ensure the optimal location of the pump and catheter, based upon medical considerations and patient requirements.
+
+See also
+Cancer pain/Interventional/Intrathecal pump
+History of neuraxial anesthesia
+Intrathecal pump
+Theca
+Thecal sac
+
+
+== References ==

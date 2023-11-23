@@ -1,0 +1,20 @@
+Nicholas John Higham FRS (born 25 December 1961 in Salford) is a British numerical analyst. He is Royal Society Research Professor and Richardson Professor of Applied Mathematics in the Department of Mathematics at the University of Manchester.
+
+Education and career
+Higham was educated at Eccles Grammar School, Eccles College, and the University of Manchester, from which he gained his B.Sc. in mathematics (1982), M.Sc. in Numerical Analysis and Computing (1983), and PhD in Numerical Analysis (1985). His PhD thesis was supervised by George Hall. He was appointed lecturer in mathematics at the University of Manchester in 1985, where he has been Richardson Professor Professor of Applied Mathematics since 1998.In 1988–1989 he was Visiting Assistant Professor of Computer Science at Cornell University, Ithaca, New York.
+
+Research
+Higham is best known for his work on the accuracy and stability of numerical algorithms. He has more than 140 refereed publications on topics such as rounding error analysis, linear systems, least squares problems, matrix functions and nonlinear matrix equations, matrix nearness problems, condition number estimation, and generalized eigenvalue problems. He has contributed software to LAPACK and the NAG library, and has contributed code included in the MATLAB distribution.
+Higham's books include  Functions of Matrices: Theory and Computation, (2008),Accuracy and Stability of Numerical Algorithms, Handbook of Writing for the Mathematical Sciences, and MATLAB Guide, co-authored with his brother Desmond Higham. He is Editor of the Princeton Companion to Applied Mathematics and a contributor to the Penguin Dictionary of Mathematics. His books have been translated into Chinese, Japanese and Korean.
+
+Awards and honours
+Higham's honours include the Alston S. Householder Award VI, 1987 (for the best PhD thesis in numerical algebra 1984–1987), the 1988 Leslie Fox Prize for Numerical Analysis, a 1999 Junior Whitehead Prize from the London Mathematical Society, a 2020 IMA Gold Medal, the 2019 Naylor Prize and Lectureship by the London Mathematical Society, the 2021 George Pólya Prize for Mathematical Exposition by the Society for Industrial and Applied Mathematics (SIAM), and the 2022 Hans Schneider Prize in Linear Algebra. Higham held a prestigious Royal Society Wolfson Research Merit Award (2003–2008). He was elected as a Fellow of the Royal Society in 2007 and as a ACM Fellow in 2020.  In 2008 he was awarded the Fröhlich Prize in recognition of 'his leading contributions to numerical linear algebra and numerical stability analysis'. He was elected a Member of Academia Europaea in 2016. In 2022 he became Fellow of the Royal Academy of Engineering.Higham is a Fellow of the Institute of Mathematics and Its Applications, a Fellow of the Institute of Engineering and Technology, and a Fellow of the Society for Industrial and Applied Mathematics. He is also a Fellow of the Alan Turing Institute.
+
+Professional service
+Higham served as president of the Society for Industrial and Applied Mathematics (SIAM) 2017–2018, as vice president at Large 2010–2013, and on the SIAM Board of Trustees 2006–2009, and Council 1996–2001. He was a member of the Applied Mathematics sub-panel for the 2008 UK Research Assessment Exercise and the Mathematical Sciences sub-panel of the 2014 UK Research Exercise Excellence Framework.
+
+References
+External links
+Nicholas Higham at the Mathematics Genealogy Project
+Higham on GitHub
+Publications by Nicholas Higham at ResearchGate

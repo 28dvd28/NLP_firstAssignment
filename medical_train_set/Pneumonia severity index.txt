@@ -1,0 +1,27 @@
+The pneumonia severity index (PSI) or PORT Score is a clinical prediction rule that medical practitioners can use to calculate the probability of morbidity and mortality among patients with community acquired pneumonia.The PSI/PORT score is often used to predict the need for hospitalization in people with pneumonia. This is consistent with the conclusions stated in the original report that published the PSI/PORT score: "The prediction rule we describe accurately identifies the patients with community-acquired pneumonia who are at low risk for death and other adverse outcomes. This prediction rule may help physicians make more rational decisions about hospitalization for patients with pneumonia."Mortality prediction is similar to that when using CURB-65.
+
+Development
+The rule uses demographics (whether someone is older, and is male or female), the coexistence of co-morbid illnesses, findings on physical examination and vital signs, and essential laboratory findings.  This study demonstrated that patients could be stratified into five risk categories, Risk Classes I-V, and that these classes could be used to predict 30-day survival.
+
+Usage
+The purpose of the PSI is to classify the severity of a patient's pneumonia to determine the amount of resources to be allocated for care.  Most commonly, the PSI scoring system has been used to decide whether patients with pneumonia can be treated as outpatients or as (hospitalized) inpatients. 
+
+A Risk Class I or Risk Class II pneumonia patient can be sent home on oral antibiotics.
+A Risk Class III patient, after evaluation of other factors including home environment and follow-up, may either:be sent home with oral antibiotics
+be admitted for a short hospital stay with antibiotics and monitoring.Patients with Risk Class IV-V pneumonia patient should be hospitalized for treatment.
+
+Algorithm
+The PSI Algorithm is detailed below.  An online, automated PSI calculator was once available on the US AHRQ website for Personal Digital Assistants that are no longer sold. In 2018 AHRQ presented a new toolkit on the basis of CURB-65, an older counterpart to the PSI.  In the 2019 ATS/IDSA Guidelines for the Diagnosis and Treatment of Adults with Community-acquired
+Pneumonia, PSI was recommended over CURB-65 because of lack of evidence supporting the safety and effectiveness of the latter.
+
+Data source for derivation and validation
+The rule was derived then validated with data from 38,000 patients from the MedisGroup Cohort Study for 1989, comprising 1 year of data from 257 hospitals across the US who used the MedisGroup patient outcome tracking software built and serviced by Mediqual Systems (Cardinal Health). One significant caveat to the data source was that patients who were discharged home or transferred from the MedisGroup hospitals could not be followed at the 30-day mark, and were therefore assumed to be "alive" at that time.  Further validation was performed with the Pneumonia Patient Outcomes Research Team [PORT] (1991) cohort study.  This categorization method has been replicated by others and is comparable to the CURB-65 in predicting mortality.
+
+Derivation and validation data
+Note: % Died refers to 30-day mortality.
+
+References
+External links
+Pneumonia: New Prediction Model Proves Promising
+Community-Acquired Pneumonia Mortality Risk for Adults (Pneumonia Patient Outcomes Research Team - PORT) Score Calculator
+Figure 1, Halm E, Teirstein A. Management of Community-Acquired Pneumonia. NEJM 2002 347 (25): 2039

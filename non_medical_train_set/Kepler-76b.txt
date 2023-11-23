@@ -1,0 +1,11 @@
+Kepler-76b is a gas giant with mass about two times that of Jupiter.It is a Hot Jupiter that orbits its star every 1.5 days. It was confirmed with the Trans-Atlantic Exoplanet Survey and the SOPHIE échelle spectrograph.
+
+Detection
+The planet was discovered by observing the amount of stellar flux reaching the Earth. The existence of the planet was confirmed by also observing the reflected starlight from the planet, the shape of the star due to gravitational tug from the planet and radial velocity method. Finally, part of the planet was found transiting the parent star with secondary occultation also being detected.It is the first planet detected using Einstein's special relativity.
+
+Characteristics
+Kepler-76b is slightly denser than Jupiter indicating that it is not a puffy planet. Nonetheless, it is very hot with measured dayside temperature of 2830+50−30 K. It also exhibits a strong winds and variable clouds in the atmosphere.
+
+References
+External links
+Table of confirmed planets at NASA, Kepler mission

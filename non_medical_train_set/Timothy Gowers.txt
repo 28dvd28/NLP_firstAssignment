@@ -1,0 +1,111 @@
+Sir William Timothy Gowers,  (; born 20 November 1963) is a British mathematician. He is Professeur titulaire of the Combinatorics chair at the Collège de France, and director of research at the University of Cambridge and Fellow of Trinity College, Cambridge. In 1998, he received the Fields Medal for research connecting the fields of functional analysis and combinatorics.
+
+Education
+Gowers attended King's College School, Cambridge, as a choirboy in the King's College choir, and then Eton College as a King's Scholar, where he was taught mathematics by Norman Routledge. In 1981, Gowers won a gold medal at the International Mathematical Olympiad with a perfect score. He completed his PhD, with a dissertation on Symmetric Structures in Banach Spaces at Trinity College, Cambridge in 1990, supervised by Béla Bollobás.
+
+Career and research
+After his PhD, Gowers was elected to a Junior Research Fellowship at Trinity College. From 1991 until his return to Cambridge in 1995 he was lecturer at University College London. He was elected to the Rouse Ball Professorship at Cambridge in 1998. During 2000–2 he was visiting professor at Princeton University. In May 2020 it was announced that he would be assuming the title chaire de combinatoire at the College de France beginning in October 2020, though he intends to continue to reside in Cambridge and maintain a part-time affiliation at the university, as well as enjoy the privileges of his life fellowship of Trinity College.
+Gowers initially worked on Banach spaces. He used combinatorial tools in proving several of Stefan Banach's conjectures in the subject, in particular constructing a Banach space with almost no symmetry, serving as a counterexample to several other conjectures. With Bernard Maurey he resolved the "unconditional basic sequence problem" in 1992, showing that not every infinite-dimensional Banach space has an infinite-dimensional subspace that admits an unconditional Schauder basis.After this, Gowers turned to combinatorics and combinatorial number theory. In 1997 he proved that the Szemerédi regularity lemma necessarily comes with tower-type bounds.
+In 1998, Gowers proved the first effective bounds for Szemerédi's theorem, showing that any subset 
+  
+    
+      
+        A
+        ⊂
+        {
+        1
+        ,
+        …
+        ,
+        N
+        }
+      
+    
+    {\displaystyle A\subset \{1,\dots ,N\}}
+   free of k-term arithmetic progressions has cardinality 
+  
+    
+      
+        O
+        (
+        N
+        (
+        log
+        ⁡
+        log
+        ⁡
+        N
+        
+          )
+          
+            −
+            
+              c
+              
+                k
+              
+            
+          
+        
+        )
+      
+    
+    {\displaystyle O(N(\log \log N)^{-c_{k}})}
+   for an appropriate 
+  
+    
+      
+        
+          c
+          
+            k
+          
+        
+        >
+        0
+      
+    
+    {\displaystyle c_{k}>0}
+  . One of the ingredients in Gowers's argument is a tool now known as the Balog–Szemerédi–Gowers theorem, which has found many further applications. He also introduced the Gowers norms, a tool in arithmetic combinatorics, and provided the basic techniques for analysing them. This work was further developed by Ben Green and Terence Tao, leading to the Green–Tao theorem.
+In 2003, Gowers established a regularity lemma for hypergraphs, analogous to the Szemerédi regularity lemma for graphs.
+In 2005, he introduced the notion of a quasirandom group.
+More recently, Gowers has worked on Ramsey theory in random graphs and random sets with David Conlon, and has turned his attention to other problems such as the P versus NP problem. He has also developed an interest, in joint work with Mohan Ganesalingam, in automated problem solving.
+Gowers has an Erdős number of three.
+
+Popularisation work
+Gowers has written several works popularising mathematics, including Mathematics: A Very Short Introduction (2002), which describes modern mathematical research for the general reader. He was consulted about the 2005 film Proof, starring Gwyneth Paltrow and Anthony Hopkins. He edited The Princeton Companion to Mathematics (2008), which traces the development of various branches and concepts of modern mathematics. For his work on this book, he won the 2011 Euler Book Prize of the Mathematical Association of America. In May 2020 he was made a professor at the Collège de France, a historic institution dedicated to popularising science.
+
+Blogging
+After asking on his blog whether "massively collaborative mathematics" was possible, he solicited comments on his blog from people who wanted to try to solve mathematical problems collaboratively. The first problem in what is called the Polymath Project, Polymath1, was to find a new combinatorial proof to the density version of the Hales–Jewett theorem. After seven weeks, Gowers wrote on his blog that the problem was "probably solved".In 2009, with Olof Sisask and Alex Frolkin, he invited people to post comments to his blog to contribute to a collection of methods of mathematical problem solving. Contributors to this Wikipedia-style project, called Tricki.org, include Terence Tao and Ben Green.
+
+Elsevier boycott
+In 2012, Gowers posted to his blog to call for a boycott of the publishing house Elsevier. A petition ensued, branded the Cost of Knowledge project, in which researchers commit to stop supporting Elsevier journals. Commenting on the petition in The Guardian, Alok Jha credited Gowers with starting an Academic Spring.In 2016, Gowers started Discrete Analysis to demonstrate that a high-quality mathematics journal could be inexpensively produced outside of the traditional academic publishing industry.
+
+Awards and honours
+In 1994, Gowers was an invited speaker at the International Congress of Mathematicians in Zürich where he discussed the theory of infinite-dimensional Banach spaces. In 1996, Gowers received the Prize of the European Mathematical Society, and in 1998 the Fields Medal for research on functional analysis and combinatorics. In 1999 he became a Fellow of the Royal Society and a member of the American Philosophical Society in 2010. In 2012 he was knighted by the British monarch for services to mathematics. He also sits on the selection committee for the Mathematics award, given under the auspices of the Shaw Prize. He was listed in Nature's 10 people who mattered in 2012.
+
+Personal life
+Timothy Gowers was born on November 20, 1963 in Marlborough, Wiltshire, England.Gowers's father was Patrick Gowers, a composer; his great-grandfather was Sir Ernest Gowers, a British civil servant who was best known for guides to English usage; and his great-great-grandfather was Sir William Gowers, a neurologist. He has two siblings, the writer Rebecca Gowers, and the violinist Katharine Gowers. He has five children and plays jazz piano.In November 2012, Gowers opted to undergo catheter ablation to treat a sporadic atrial fibrillation, after performing a mathematical risk–benefit analysis to decide whether to have the treatment.In 1988, Gowers married Emily Thomas, a classicist and Cambridge academic: they divorced in 2007. Together they had three children. In 2008, he married for a second time, to Julie Barrau, a University Lecturer in British Medieval History at the University of Cambridge. They have two children together.
+
+Publications
+Selected research articles
+Gowers, W. T.; Maurey, Bernard (6 May 1992). "The unconditional basic sequence problem". arXiv:math/9205204.
+Gowers, W. T. (2001). "A new proof of Szemerédi's theorem". Geom. Funct. Anal. 11 (3): 465–588. CiteSeerX 10.1.1.145.2961. doi:10.1007/s00039-001-0332-9. S2CID 124324198.
+Gowers, W. T. (2007). "Hypergraph regularity and the multidimensional Szemerédi theorem". Ann. of Math. 166 (3): 897–946. arXiv:0710.3032. Bibcode:2007arXiv0710.3032G. doi:10.4007/annals.2007.166.897. S2CID 56118006.
+Gowers, Timothy, ed. (2008). The Princeton Companion to Mathematics. Princeton University Press. ISBN 978-0-691-11880-2.
+
+Popular mathematics books
+Gowers, Timothy (2002). Mathematics: A Very Short Introduction. Oxford University Press. ISBN 978-0-19-285361-5.
+
+References
+External links
+1998 Fields Medalist William Timothy Gowers from the American Mathematical Society
+Video lectures by Timothy Gowers on Computational Complexity and Quantum Computation
+Timothy Gowers – Faces of Mathematics
+BBC News (1998): British academics Tim Gowers and Richard Borcherds win top maths awards
+"Multiplying and dividing by whole numbers: Why it is more difficult than you might think", lecture by Timothy Gowers at Gresham College, 22 May 2007 (available for download as video and audio files)
+Körner, Tom (September 1999). "Interview with Tim Gowers (Cambridge)" (PDF). Newsletter of the European Mathematical Society (33): 8–9.
+"William Timothy Gowers". PlanetMath.
+Listen to Timothy Gowers on The Forum, BBC World Service Radio
+Timothy Gowers's results at International Mathematical Olympiad 
+'What can learned societies do to improve scholarly communication?' Audio recording of Sir Timothy Gower's presentation at State Library of Queensland, 29 June 2017

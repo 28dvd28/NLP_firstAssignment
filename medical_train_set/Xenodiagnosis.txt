@@ -1,0 +1,14 @@
+Xenodiagnosis is a diagnostic method used to document the presence of infectious disease microorganisms or pathogens by exposing possibly infected tissue to a vector and then examining the vector for the presence of the microorganisms or pathogens it may have ingested.
+
+Uses
+Xenodiagnosis has not been commonly used in diagnosing Lyme disease because in vitro cell culturing now serves the purpose, however the process is commonly used to diagnose infections involving microorganisms such as trypanosomiasis.
+
+Study
+Émile Brumpt introduced the xenodiagnosis technique into parasitological research and extensively studied such diseases as bilharzia, Chagas disease, onchocerciasis and leishmaniasis.
+Medical professionals primarily use xenodiagnosis in determining the presence of a chronic infection of Trypanosoma cruzi (the flagellate that causes Chagas disease).  Directly and definitively demonstrating the presence of this causative agent in a patient proves difficult.  Therefore, the doctor allows a triatominae, a vector of the flagellate, to take a blood meal from the patient.  The doctor later inspects the gut of the triatominae for growth of Trypanosoma cruzi.
+Medical professionals historically successfully identified babesiosis with xenodiagnosis, both in hamsters for Babesia microti and in gerbils for Babesia divergens.  They now use faster diagnostic measures.
+Xenodiagnosis for filariasis is now obsolete.
+
+References
+External links
+Xenodiagnosis at the U.S. National Library of Medicine Medical Subject Headings (MeSH)

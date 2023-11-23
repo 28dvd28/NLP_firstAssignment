@@ -1,0 +1,40 @@
+The Johannes Kepler ATV, or Automated Transfer Vehicle 002 (ATV-002), was an uncrewed cargo spacecraft built to resupply the International Space Station (ISS). It was launched on February 16, 2011 by the European Space Agency (ESA). Johannes Kepler carried propellant, air and dry cargo weighing over 7,000 kilograms (15,000 lb), and had a total mass of over 20,000 kilograms (44,000 lb), making it, at the time, the heaviest payload launched by the ESA. The spacecraft was named after the 17th-century German astronomer Johannes Kepler.Johannes Kepler was the second ATV cargo resupply vehicle to be launched, following the Jules Verne mission of 2008. Johannes Kepler carried around five tons more cargo than Russia's Progress-M resupply spacecraft, and about 1.5 tons more than the Japanese HTV. The ATV used 4,500 kilograms (9,900 lb) of fuel to boost the ISS's altitude from 350 to 400 km.Many of the supplies aboard the ATV were used for the Space Shuttle mission STS-133 and the ISS Expedition 26. A Reentry Breakup Recorder was placed aboard the ATV before it undocked from the ISS on June 20,2011. Johannes Kepler performed a destructive re-entry as intended on 21 June 2011, with its remains impacting the Pacific Ocean.
+
+Spacecraft
+Johannes Kepler consisted of two sections: the Propulsion Module, with four main engines and 28 smaller maneuvering thrusters, and the Integrated Cargo Carrier, which attached directly to the ISS and could hold up to eight standard payload racks. The four solar wings of the spacecraft provided up to 4,800 watts of electrical power to its rechargeable batteries.
+The ATV's rendezvous and docking system mounted a telegoniometer, which functioned as a radar system, and two videometers, which fired laser pulses at cube-shaped reflectors on the ISS' Zvezda service module for range detection. The nose of the spacecraft contained rendezvous sensors and Russian docking equipment.
+
+Specifications
+Mission payload
+Source: NASA
+
+GeoFlow II
+Johannes Kepler delivered the GeoFlow II hydrodynamics experiment container to the ISS. This experiment was designed to observe liquid movements in microgravity, and compare them with computer simulations, thus helping scientists to understand convection currents within the Earth's mantle.
+
+Mission summary
+Launch
+On 16 February 2011 UTC, Johannes Kepler was launched on an Ariane 5ES rocket from the Guiana Space Centre in Kourou, French Guiana. The launch was conducted by Arianespace on behalf of the ESA.The first launch attempt, on 15 February 2011, was halted four minutes before lift-off, due to an erroneous signal from one of the rocket's fuel tanks.
+
+Docking
+Docking with the ISS was completed on 24 February 2011 at 15:59 UTC, after a 15-minute delay. The spacecraft traveled over eight days to catch up with the space station, and arrived at the aft port of the station's Zvezda service module. During the rendezvous operations, ATV-2 traveled a total of 2.5 million miles. The docking occurred as ATV-2 and the ISS flew over the coast of Liberia in western Africa. Hooks and latches engaged a few minutes later to firmly attach ATV-2 to the ISS.
+The Johannes Kepler mission marked the first time European astronauts were on board the International Space Station during an ATV mission, with Italian astronaut Paolo Nespoli welcoming the ATV's arrival. ESA astronaut Roberto Vittori was also aboard the ISS at the same time as the ATV, having arrived on Space Shuttle Endeavour on the STS-134 mission in May 2011.
+
+ISS altitude Increase
+Johannes Kepler was used to boost the ISS's standard altitude from about 350 kilometers (220 statute miles) to 400 km (248 miles). The higher altitude has lower atmospheric drag, which reduces the propellant needed annually to maintain the station's altitude from 6,800 kg (15,000 lb) to roughly 3,630 kg (8,000 lb), depending on atmospheric conditions. The ATV used about 4,500 kg (9,900 lb) of rocket fuel to accomplish this change, with the reboost occurring incrementally over several months.
+
+End of mission and deorbit
+On 20 June 2011, Johannes Kepler undocked from the ISS. At 18:30 UTC (20:30 CEST) that same day, while preparing to deorbit, the ATV was forced to conduct a debris-avoidance maneuver, using some of its remaining fuel to move into a safe orbit after NASA warned of a potential collision with orbital debris. On 21 June 2011, the ATV deorbited, burning up in the atmosphere as planned over the South Pacific Ocean at around 22:44 CET.
+
+ATV missions
+See also
+H-II Transfer Vehicle
+Progress spacecraft
+Uncrewed spaceflights to the International Space Station
+
+References
+External links
+
+ESA – ATV
+ESA – ATV blog
+Mission Overview Video
+Launch Kit Flight 200 Ariane 5ES ATV Johannes Kepler

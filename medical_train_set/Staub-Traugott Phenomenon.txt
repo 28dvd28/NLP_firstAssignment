@@ -1,0 +1,13 @@
+The Staub-Traugott Phenomenon (or Staub-Traugott Effect) is the premise that a normal subject fed glucose will rapidly return to normal levels of blood glucose after an initial spike, and will see improved reaction to subsequent glucose feedings.
+
+History
+A. T. B. Jacobson determined in 1913 that carbohydrate ingestion results in blood glucose fluctuations. Hamman and Hirschman first reported improvement of carbohydrate tolerance following repeated glucose administration in 1919. H. Staub in 1921 and K. Traugott in 1922 subsequently confirmed the improved reaction in healthy subjects and the phenomenon was named for them. As this effect does not occur in diabetic subjects, it became the basis for the Glucose Tolerance Test.
+
+Mechanism
+Abraira and Lawrence describe the original discovery as being that "when glucose loads are given in succession, orally or intravenously, significant and progressive improvement in glucose tolerance will occur in normal and nonketotic diabetic subjects. This facilitated disposal of a glucose load is known as the Staub-Traugott phenomenon."This phenomenon drew considerable interest as it was demonstrated that the ingested glucose was still being processed by the gut at the same rate while being cleared much more rapidly in the bloodstream. "It is not surprising that when a large amount of readily diffusible glucose is suddenly introduced into the alimentary tract the rate of absorption should exceed the rate at which the tissues can abstract it from the blood. But it is not so clear why the curve should again fall to normal as rapidly as it often does at a time when the rate of absorption from the gut can be scarcely diminished."Various mechanisms were hypothesized involving the liver and insulin. It was determined in 2009 that "enhanced potentiation of insulin response and increased suppression of hepatic glucose production are the main mechanisms underlying the Staub-Traugott effect", meaning that the liver slows its release of glucose into the bloodstream and the existing insulin becomes better at clearing glucose from the bloodstream with each dose of glucose administered.
+
+Exceptions and limitations
+This effect has been observed to disappear under conditions of starvation and in hypopituitary patients.Attempts to base dietary and nutrition advice on this effect have met with limited success.
+
+
+== References ==

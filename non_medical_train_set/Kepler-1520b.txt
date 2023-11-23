@@ -1,0 +1,30 @@
+Kepler-1520b (initially published as KIC 12557548 b), is a confirmed exoplanet orbiting the K-type main sequence star Kepler-1520. It is located about 2,020 light-years (620 parsecs) away from Earth in the constellation of Cygnus. The exoplanet was found by using the transit method, in which the dimming effect that a planet causes as it crosses in front of its star is measured. The planet was previously proposed in 2012 when reports of its host star recorded drops in its luminosity varying from 0.2% to 1.3%, which indicated a possible planetary companion rapidly disintegrating. In 2015, the planetary nature of the cause of the dips was finally verified. It is expected to disintegrate in about 40–400 million years.
+
+Physical characteristics
+Mass, radius, and temperature
+The mass of Kepler-1520b is unknown however modeling of the mass loss rate of the planet indicates that the planet cannot be more massive than about 2% the mass of the Earth (less than double the mass of the Moon). According to calculations, it may have lost 70% of its original mass; we may be currently observing its naked iron core. From attempts to measure the secondary eclipse the radius of the planet is constrained to be less than one Earth radius (4600 km) for an albedo of 0.5. It has a surface temperature of 2,255 K (1,982 °C; 3,599 °F), far hotter than the surface of Venus.
+
+Host star
+The planet orbits a (K-type) star named Kepler-1520. The star has a mass of 0.76 M☉ and a radius of 0.71 R☉. It has a temperature of 4677 K and is 4.47 billion years old. In comparison, the Sun is 4.6 billion years old and has a surface temperature of 5778 K.The star's apparent magnitude, or how bright it appears from Earth's perspective, is 16.7. Therefore, it is too dim to be seen with the naked eye.
+
+Orbit
+Kepler-1520b orbits its host star with about 14% of the Sun's luminosity with an orbital period of slightly over 12 hours and an orbital radius of about 0.01 times that of Earth's (compared to the distance of Mercury from the Sun, which is about 0.38 AU). This is one of the closest orbital periods detected yet.
+
+Remaining lifetime
+Kepler-1520b orbits so close to its host star that it is essentially evaporating into space via sublimation, losing about 0.6 to 15.6 Earth masses per billion years. Based on predictions made by scientists, Kepler-1520b will cease to exist in about 40–400 million years. Calculations of mass loss rates show that the planet probably had a mass slightly smaller than Mercury in size  when it first formed, since the calculations show that planets with masses larger than 7% the Earth's barely lose any mass over billion year time-scales.This discovery helps shed light on how the Earth will interact with the Sun when it becomes a red giant, roughly 5–7 billion years from now.
+
+Discovery
+2012 detections
+The existence of the planet was first evidenced in data collected by the Kepler spacecraft in 2012. However, the light curve of the star, a graph of its stellar flux versus time, showed that while there were regular drops in stellar flux approximately every 15 hours, the amount of light being blocked covered a wide range, from 0.2% to 1.3% of the starlight being blocked. Saul Rappaport and collaborators proposed various possible phenomena which may have caused the anomalies in the light curve, including two planets orbiting each other, and an eclipsing binary orbiting the star in a larger triple-star system. However, the authors found the hypothetical binary planet system to be unstable and the latter scenario to be poorly supported by the data collected by Kepler.Therefore, the authors posited that the most likely cause of the observed light curve was a closely orbiting planet, about twice the mass of Mercury, which was rapidly emitting small particles into independent orbits around the star. Exactly the cause of this phenomenon could be the direct sublimation of the planetary surface and its emission into space, the intense volcanism caused by the tidal effects of orbiting extremely close to the host star, or both processes mutually reinforcing the strength of each other in a positive feedback loop.
+
+2016 confirmation
+Following a campaign of observations using William Herschel Telescope, another group of astronomers was able to detect color dependence of the transit depth, providing independent, direct evidence in favor of this object being a disrupting low-mass rocky planet, feeding a transiting dust cloud. In the new database released by Kepler in May 2016, the planetary nature of then-KIC 12554578 b was confirmed, and was then upgraded to the name Kepler-1520 b.
+
+See also
+K2-22b
+WASP-12b
+WD 1145+017 b
+
+References
+External links
+Google News link for "disintegrating planet"

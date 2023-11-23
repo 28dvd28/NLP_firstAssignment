@@ -1,0 +1,43 @@
+A European Study Group with Industry (ESGI) is usually a week-long meeting where applied mathematicians work on problems presented by industry and research centres. The aim of the meeting is to solve or at least make progress on the problems.
+The study group concept originated in Oxford, in 1968 (initiated by Leslie Fox and Alan Tayler). Subsequently, the format was adopted in other European countries to form ESGIs. Currently, with a variety of names, they appear in the same or a similar format throughout the world. More specific topics have also formed the subject of focussed meetings, such as the environment, medicine and agriculture.
+Problems successfully tackled at study groups are discussed in a number of textbooks as well as a collection of case studies, European Success Stories in Industrial Mathematics. A guide for organising and running study groups is provided by the European Consortium for Mathematics in Industry.
+
+European Study Group with Industry
+A European Study Group with Industry or ESGI is a type of workshop where mathematicians work on problems presented by industry representatives. The meetings typically last five days, from Monday to Friday. On the Monday morning the industry representatives present problems of current interest to an audience of applied mathematicians. Subsequently, the mathematicians split into working groups to investigate the suggested topics. On the Friday solutions and results are presented back to the industry representative. After the meeting a report is prepared for the company, detailing the progress made and usually with suggestions for further work or experiments.
+
+History
+The original Study Groups with Industry started in Oxford in 1968. The format provided a method for initiating interaction between universities and private industry which often led to further collaboration, student projects and new fields of research (many advances in the field of free or moving boundary problems are attributed to the industrial case studies of the 1970s.). Study groups were later adopted in other countries, starting in Europe and then spreading throughout the world. The subject areas have also diversified, for example the Mathematics in Medicine Study Groups, Mathematics in the Plant Sciences Study Groups, the environment, uncertainty quantification and agriculture.The academics work on the problems for free. The following have been given as motivation for this work:
+Discovering new problems and research areas with practical applications.
+The possibility of further projects and collaboration with industry.
+The opportunity for future funding.A number of reasons have also been quoted for companies to attend ESGIs:
+The possibility of a quick solution to their problem, or at least guidance on a way forward.
+Mathematicians can help to identify and correctly formulate a problem for further study.
+Access to state-of-the-art techniques.
+Building contacts with top researchers in a given field.ESGIs are currently an activity of the European Consortium for Mathematics in Industry. Their ESGI webpage  contains details of European meetings and contact details for prospective industry or academics participants. The current co-ordinator of the ESGIs is Prof. Tim Myers of the Centre de Recerca Matemática, Barcelona. Between 2015 and 2019 ESGIs are eligible for funding through the COST network MI-Net (Maths for Industry Network).
+
+List of recent meetings
+Past European meetings are listed on the European Consortium for Mathematics in Industry website. International meetings are covered by the Mathematics in Industry Information Service.Recent ESGIs include:
+
+ESGI 150, Basque Centre for Applied Mathematics,  21–25 October 2019
+ESGI 144, Warsaw, 17 – 22 March 2019
+ESGI 145, Cambridge, Apr. 8-12 2019
+ESGI 147 Spain, Apr. 8-12 2019
+ESGI 152,  Palanga, Lithuania, 10–14 June 2019
+ESGI 155, Polytechnic Institute of Leiria, Portugal, 1–5 July 2019.
+ESGI 154, U. Southern Denmark, 19–23 August 2019
+ESGI 148/SWI 2019 Netherlands, Wageningen, 28 Jan. – 1 Feb., 2019
+ESGI 151 Estonia, Tartu 4-8 Feb. 2019
+ESGI 149 Innsbruck, March 4–8, 2019
+
+International study groups
+As well as being held throughout Europe, annual study groups take place in Australia, Brazil, Canada, India, New Zealand, United States, Russia, and South Africa. A site dedicated solely to Dutch study groups may be found here Dutch ESGI. Information on past and upcoming meetings throughout the world may be found on the Mathematics in Industry Information Service website.
+
+Literature
+There are many books on mathematical modelling, a number of them containing problems arising from ESGIs or other study groups from around the world, examples include:
+
+Practical Applied Mathematics Modelling, Analysis, Approximation
+Topics in Industrial Mathematics: Case Studies and Related Mathematical Methods
+Industrial Mathematics: A Course in Solving Real-World ProblemsThe book European Success Stories in Industrial Mathematics contains brief descriptions of a wide variety of industrial mathematics case studies. The Mathematics in Industry Information Service contains a large repository of past reports from study groups throughout the  world.A guide for organising and running study groups, the ESGI Handbook, has been developed by the Mathematics for Industry Network.
+
+
+== References ==

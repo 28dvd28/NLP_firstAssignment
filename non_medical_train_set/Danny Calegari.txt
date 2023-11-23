@@ -1,0 +1,34 @@
+Danny Matthew Cornelius Calegari  is a mathematician and, as of 2023, a professor of mathematics at the University of Chicago. His research interests include geometry, dynamical systems, low-dimensional topology, and geometric group theory.
+
+Education and career
+In 1994, Calegari received a B.A. in Mathematics from the University of Melbourne with honors. He received his Ph.D. in 2000 from the University of California, Berkeley under the joint supervision of Andrew Casson and William Thurston; his dissertation concerned foliations of three-dimensional manifolds.From 2000–2002 he was Benjamin Peirce Assistant Professor at Harvard University, after which he joined the California Institute of Technology faculty; he became Merkin Professor in 2007. He was a University Professor of Pure Mathematics at the University of Cambridge in 2011–2012, and has been a Professor of Mathematics at the University of Chicago since 2012.Calegari is also an author of short fiction, published in Quadrant, Southerly, and Overland. His story A Green Light was a winner of a 1992 The Age Short Story Award.
+
+Awards
+Calegari was one of the recipients of the 2009 Clay Research Award for his solution to the Marden Tameness Conjecture and the Ahlfors Measure Conjecture. In 2011 he was awarded a Royal Society Wolfson Research Merit Award, and in 2012, he became a Fellow of the American Mathematical Society. In 2012 he delivered the Namboodiri Lectures at the University of Chicago, and in 2013 he delivered the Blumenthal Lectures at Tel Aviv University.
+
+Selected works
+Calegari, Danny (2007). Foliations and the geometry of 3-manifolds. Oxford Mathematical Monographs. Oxford: Oxford University Press. pp. xiv+363 pp. ISBN 978-0-19-857008-0. MR 2327361.
+Calegari, Danny (2009). scl (stable commutator length). MSJ Memoirs. Vol. 20. Tokyo: Mathematical Society of Japan. pp. xii+209 pp. ISBN 978-4-931469-53-2. MR 2527432.
+Calegari, Danny (1999). "
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+  -covered foliations of hyperbolic 3-manifolds". Geometry & Topology. 3: 137–153. arXiv:math/9808064. doi:10.2140/gt.1999.3.137. MR 1695533. S2CID 8716835.
+Calegari, Danny; Dunfield, Nathan (2003). "Laminations and groups of homeomorphisms of the circle". Inventiones Mathematicae. 152 (1): 149–204. arXiv:math/0203192. Bibcode:2003InMat.152..149D. doi:10.1007/s00222-002-0271-6. MR 1965363. S2CID 15149654.
+Calegari, Danny (2006). "Promoting essential laminations". Inventiones Mathematicae. 166 (3): 583–643. arXiv:math/0210148. Bibcode:2006InMat.166..583C. doi:10.1007/s00222-006-0004-3. MR 2257392. S2CID 13985835.
+Calegari, Danny; Gabai, David (2006). "Shrinkwrapping and the taming of hyperbolic 3-manifolds". Journal of the American Mathematical Society. 19 (2): 385–446. arXiv:math/0407161. doi:10.1090/S0894-0347-05-00513-8. MR 2188131. S2CID 1053364.
+Calegari, Danny (2006). "Universal circles for quasigeodesic flows". Geometry & Topology. 10 (4): 2271–2298. arXiv:math/0406040. doi:10.2140/gt.2006.10.2271. S2CID 5604620.
+Calegari, Danny (2008). "What is stable commutator length?" (PDF). Notices of the American Mathematical Society. 55 (9): 1100–1101. MR 2451345.
+
+Personal life
+Mathematician Frank Calegari is Danny Calegari's brother.
+
+References
+External links
+Danny Calegari publications indexed by Google Scholar

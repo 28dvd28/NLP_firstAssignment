@@ -1,0 +1,15 @@
+Kepler-91b is a giant planet orbiting Kepler-91, a star slightly more massive than the Sun. Kepler-91 has left the main sequence and is now a red giant branch star.
+
+Discovery and further confirmation
+Kepler-91b was detected by analyzing the data of Kepler spacecraft where a transit-like signal was found. Initially thought to be a false positive due to light curve variations by a self-luminous object, it was later revealed that due to low density of Kepler-91's shape is distorted to slightly ellipsoidal shape due to gravitational effects of the planet. Ellipsoidal light variations caused by Kepler-91b constitute more than the third of light variations compared to transit depth. Ellipsoidal light variations also allowed to determine the planet's mass. It was also found that Kepler-91b reflects some of the starlight from its star.Further analysis managed to question the planetary nature of the object, suspecting that it is a self-luminous object. However, the planetary nature was eventually confirmed again through both the radial velocity technique and re-analysis of the light curve modulations.
+
+Characteristics
+Kepler-91b is about 14% less massive than Jupiter while being more than 35% larger, making it less than half of the density of water. Kepler-91b orbits around the host star in about 6.25 days. Despite being one of the least edge-on orbits relative to Earth with inclination being about 68.5 degrees, transit was detected due to low semi-major axis to host star radius ratio.
+Kepler-91b is expected to be engulfed by the parent star within about 55 million years.
+
+Possible trojan companion
+The possibility of a trojan planet to Kepler-91b was suggested due to the presence of a small dim in the phase-folded light curve at phase 0.68. This was subsequently studied but the conclusion was that the transit-signal was a false-positive.
+
+References
+External links
+Technology.org: Kepler-91b: a planet at the end of its life

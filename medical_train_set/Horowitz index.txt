@@ -1,0 +1,13 @@
+The Horowitz index or Horovitz index (also known as the Horowitz quotient or the P/F ratio) is a ratio used to assess lung function in patients, particularly those on ventilators. It is useful for evaluating the extent of damage to the lungs. The simple abbreviation as oxygenation can lead to confusion with other conceptualizations of oxygenation index.
+The Horowitz index is defined as the ratio of partial pressure of oxygen in blood (PaO2), in millimeters of mercury, and the fraction of oxygen in the inhaled air (FiO2) — the PaO2/FiO2 ratio.
+In healthy lungs, the Horowitz index depends on age and usually falls between 350 and 450. A value below 300 is the threshold for mild lung injury, and 200 is indicative of a moderately severe lung injury. A value below 100 is a criterion for a severe injury.
+The Horowitz index plays a major role in the diagnosis of acute respiratory distress syndrome (ARDS). Three severities of ARDS are categorized based on the degree of hypoxemia using the Horowitz index, according to the Berlin definition.
+
+History
+The Horowitz index was first proposed in a 1974 paper by Joel H. Horovitz and two co-authors, Charles Carrico and G. Tom Shires. The reason for the spelling with w is unclear.
+
+See also
+Arterial blood gas
+
+
+== References ==

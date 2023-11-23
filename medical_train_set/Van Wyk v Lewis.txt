@@ -1,0 +1,24 @@
+Van Wyk v Lewis is an important case in South African law, particularly in the area of delict and on the question of negligence.
+
+Facts
+The defendant, a surgeon, had performed an urgent and difficult abdominal operation upon the plaintiff. The operation took place in a hospital at night, assisted by an anesthetist and a qualified nurse on the hospital staff who acted as theatre sister. At the conclusion of the operation, one of the swabs used by the defendant was overlooked and remained in plaintiff's body, from which it passed after a lapse of twelve months. The evidence showed that:
+
+in accordance with the usual practice at the hospital, the defendant had relied upon the sister to count and check the swabs used;
+at the conclusion of the operation, he made as careful a search as the critical condition of the patient permitted; and that
+both he and the sister believed that all the swabs were accounted for before the wound was sewn up.
+
+Judgment
+In an action against the defendant for damages for negligence in failing to remove the swab, the court held that negligence could not be inferred from the mere fact that the accident happened; the onus of establishing negligence lay upon plaintiff. Although the defendant, in performing the operation, was bound to exercise all reasonable care and skill, it was a reasonable and proper practice to leave the duty of checking the swabs to the theatre sister, so the defendant, in following that practice, was not guilty of negligence. Assuming, without deciding, that the sister was negligent in checking the swabs, the court held that the defendant was not liable for the result of such negligence.
+The decision of the Queenstown Circuit Local Division, in Van Wyk v Lewis, was thus confirmed.
+
+See also
+Delict
+Law of South Africa
+South African law of delict
+
+References
+Case law
+Van Wyk v Lewis 1924 AD 438.
+
+
+== Notes ==

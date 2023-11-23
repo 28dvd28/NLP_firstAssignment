@@ -1,0 +1,23 @@
+Cardiac markers are biomarkers measured to evaluate heart function. They can be useful in the early prediction or diagnosis of disease. Although they are often discussed in the context of myocardial infarction, other conditions can lead to an elevation in cardiac marker level.
+Most of the early markers identified were enzymes, and as a result, the term "cardiac enzymes" is sometimes used. However, not all of the markers currently used are enzymes. For example, in formal usage, troponin would not be listed as a cardiac enzyme.
+
+Applications of measurement
+Measuring cardiac biomarkers can be a step toward making a diagnosis for a condition. Whereas cardiac imaging often confirms a diagnosis, simpler and less expensive cardiac biomarker measurements can advise a physician whether more complicated or invasive procedures are warranted. In many cases medical societies advise doctors to make biomarker measurements an initial testing strategy especially for patients at low risk of cardiac death.Many acute cardiac marker IVD products are targeted at nontraditional markets, e.g., the hospital ER instead of traditional hospital or clinical laboratory environments. Competition in the development of cardiac marker diagnostic products and their expansion into new markets is intense.Recently, the intentional destruction of myocardium by alcohol septal ablation has led to the identification of additional potential markers.
+
+Types
+Types of cardiac markers include the following:
+
+Limitations
+Depending on the marker, it can take between 2 and 24 hours for the level to increase in the blood. Additionally, determining the levels of cardiac markers in the laboratory - like many other lab measurements - takes substantial time. Cardiac markers are therefore not useful in diagnosing a myocardial infarction in the acute phase. The clinical presentation and results from an ECG are more appropriate in the acute situation.However, in 2010, research at the Baylor College of Medicine revealed that, using diagnostic nanochips and a swab of the cheek, cardiac biomarker readings from saliva can, with the ECG readings, determine within minutes whether someone is likely to have had a heart attack.
+
+See also
+Myocardial markers in myocardial infarction
+Reference ranges for blood tests § Cardiac tests
+
+References
+Further reading
+Ross G, Bever F, Uddin Z, Devireddy L, Gardin J (2004). "Common scenarios to clarify the interpretation of cardiac markers". J Am Osteopath Assoc. 104 (4): 165–76. PMID 15127984.Full text
+
+External links
+Quick overview, with graph
+eMedicine -- more detailed

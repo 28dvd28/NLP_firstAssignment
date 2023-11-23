@@ -1,0 +1,15 @@
+A random glucose test, also known as a random blood glucose test (RBG test) or a casual blood glucose test (CBG test) is a glucose test (test of blood sugar level) on the blood of a non-fasting person. This test assumes a recent meal and therefore has higher reference values than the fasting blood glucose (FBG) test.
+Most mentions of capillary blood glucose (CBG) tests refer to random, nonfasting instances thereof, but the real distinction in that term is capillary blood glucose versus venous blood glucose, arterial blood glucose, or interstitial fluid glucose; any fingerstick or optical transdermal glucose test, fasting or nonfasting, measures capillary blood glucose level.
+
+Reference values
+The reference values for a "normal" random glucose test in an average adult are 80–140mg/dl (4.4–7.8 mmol/l), between 140 and 200mg/dl (7.8–11.1 mmol/l) is considered pre-diabetes, and ≥ 200 mg/dl is considered diabetes according to ADA guidelines (you should visit your doctor or a clinic for additional tests however as a random glucose of > 160mg/dl does not necessarily mean you are diabetic).
+
+See also
+Blood glucose
+Diabetes mellitus
+Hypoglycemia
+
+References
+External links
+Glucose Tests @ Lab Tests Online
+ADA page that hints at random glucose levels

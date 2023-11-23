@@ -1,0 +1,25 @@
+Hepatitis B immunoglobulin (HBIG) is a human immunoglobulin that is used to prevent the development of hepatitis B and is used for the treatment of acute exposure to HBsAg.
+
+Medical uses
+HBIG is indicated as a postexposure prophylaxis for people at risk to develop hepatitis B because they have been recently exposed to body fluids of individuals who have hepatitis B. This includes babies of mothers with hepatitis B, sexual partners, healthcare workers, police and fire workers, and morticians. It provides a temporarily induced immunity by the transfer of immunoglobulins.HBIG is given by either intramuscular (IM) or intravenous (IV) route, depending on the preparation. Side effects include allergic reactions, back pain, general feeling of discomfort, headaches, muscle pain, nausea, and pain or bleeding at the injection site. Allergy to human immunoglobulin is a contraindication. HIV has never been transmitted by HBIG. As with all blood-derived products, the transmission of prions is possible as a residual risk.
+
+Concomitant vaccination
+HBIG should be given within 14 days of exposure to the hepatitis B virus. The half-life of HBIG is about 3 weeks. In lieu of a booster administration of HBIG, a hepatitis B vaccination is initiated at the time of the initial HBIG administration, thus providing long term protection.HBIG is classified as pregnancy category C substance by the U.S. Food and Drug Administration.
+
+Preparation
+HBIG is prepared from the plasma of donors who have high antibody levels of the hepatitis B surface antigen. It is extracted from the Cohn fraction II. During the process, viruses are deactivated, and in the final steps, solvents used in the preparation are removed. The preparation is tested for absence of HIV, HCV, herpes virus, and reovirus.
+
+Brand names
+Bayhep B
+HepaGam B (US market; intravenous preparation)
+HyperHEP B (US market; intramuscular preparation)
+Nabi-HB
+Nabi-HB NovaPlus
+Zutectra (EU)
+
+See also
+Needlestick injury
+
+References
+External links
+"Hepatitis B immunoglobulins". Drug Information Portal. U.S. National Library of Medicine.

@@ -1,0 +1,5 @@
+Single Scan Dynamic Molecular Imaging Technique is a positron emission tomography (PET) based neuroimaging technique that allows detection of dopamine released in the brain during a cognitive or behavioral processing. The technique was developed by a psychiatry resident Rajendra Badgaiyan and his colleagues at Massachusetts General Hospital Boston.. The technique has been used to detect dopamine released during cognitive, behavioral and emotional tasks by a number of investigators. This technique has for the first time allowed scientists to detect changes in the concentration of neurotransmitters released acutely during task performance. It expanded the scope of neuroimaging studies by allowing detection of neurochemical changes associated with the brain processing.
+
+References
+
+Special:WhatLinksHere/Rajendra Badgaiyan

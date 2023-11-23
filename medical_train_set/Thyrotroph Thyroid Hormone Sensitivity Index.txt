@@ -1,0 +1,83 @@
+The Thyrotroph Thyroid Hormone Sensitivity Index (abbreviated TTSI, also referred to as Thyrotroph T4 Resistance Index or TT4RI) is a calculated structure parameter of thyroid homeostasis. It was originally developed to deliver a method for fast screening for resistance to thyroid hormone. Today it is also used to get an estimate for the set point of thyroid homeostasis, especially to assess dynamic thyrotropic adaptation of the anterior pituitary gland, including non-thyroidal illnesses.
+
+How to determine TTSI
+Universal form
+The TTSI can be calculated with
+
+  
+    
+      
+        T
+        T
+        S
+        I
+        =
+        
+          
+            
+              100
+              ⋅
+              T
+              S
+              H
+              ⋅
+              F
+              T
+              4
+            
+            
+              l
+              
+                u
+              
+            
+          
+        
+      
+    
+    {\displaystyle TTSI={100\cdot TSH\cdot FT4 \over l_{u}}}
+  from equilibrium serum or plasma concentrations of thyrotropin (TSH), free T4 (FT4) and the assay-specific upper limit of the reference interval for FT4 concentration (lu).
+
+Reference ranges
+Short form
+Some publications use a simpler form of this equation that doesn't correct for the reference range of free T4. It is calculated with
+
+  
+    
+      
+        T
+        T
+        S
+        I
+        =
+        
+          100
+          ⋅
+          T
+          S
+          H
+          ⋅
+          F
+          T
+          4
+        
+      
+    
+    {\displaystyle TTSI={100\cdot TSH\cdot FT4}}
+  .The disadvantage of this uncorrected version is that its numeric results are highly dependent on the used assays and their units of measurement.
+
+Biochemical associations
+In case of resistance to thyroid hormone, the magnitude of TTSI depends on which nucleotide in the THRB gene is mutated, but also on the genotype of coactivators. A systematic investigation in mice demonstrated a strong association of TT4RI to the genotypes of THRB and the steroid receptor coactivator (SRC-1) gene.
+
+Clinical significance
+The TTSI is used as a screening parameter for resistance to thyroid hormone due to mutations in the THRB gene, where it is elevated. It is also beneficial for assessing the severity of already confirmed thyroid hormone resistance, even on replacement therapy with L-T4, and for monitoring the pituitary response to substitution therapy with thyromimetics (e.g. TRIAC) in RTH Beta.In autoimmune thyroiditis the TTSI is moderately elevated.A large cohort study demonstrated TTSI to be strongly influenced by genetic factors. A variant of the TTSI that is not corrected for the upper limit of the FT4 reference range was shown to be significantly increased in offspring from long-lived siblings compared to their partners.Conversely, an elevated set point of thyroid homeostasis, as quantified by the TT4RI, is associated to higher prevalence of metabolic syndrome and several harmonized criteria by the International Diabetes Federation, including triglyceride and HDL concentration and blood pressure.In certain phenotypes of non-thyroidal illness syndrome, especially in cases with concomitant sepsis, the TTSI is reduced. This reflects a reduced set point of thyroid homeostasis, as also experimentally predicted in rodent models of inflammation and sepsis.Negative correlation of the TTSI with the urinary excretion of certain phthalates suggests that endocrine disruptors may affect the central set point of thyroid homeostasis.
+
+See also
+Thyroid function tests
+Thyroid's secretory capacity
+Sum activity of peripheral deiodinases
+Jostel's TSH index
+Thyroid Feedback Quantile-based Index
+
+
+== References ==

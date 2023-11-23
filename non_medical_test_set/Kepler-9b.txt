@@ -1,0 +1,16 @@
+Kepler-9b is one of the first planets discovered outside the solar system (exoplanets) by NASA's Kepler Mission.  It revolves around the star Kepler-9 within the constellation Lyra. Kepler-9b is the largest of three planets detected in the Kepler system by transit method; its mass is roughly half that of the planet Saturn, and it is the largest planet in its system. Kepler-9b and Kepler-9c display a phenomenon called orbital resonance, in which gravitational pull from each planet alters and stabilizes the orbit of the other. The planet's discovery was announced on August 26, 2010.
+
+Nomenclature and history
+Kepler-9b's name denotes that it is the first exoplanet discovered in orbit around the star Kepler-9. The star, in turn, was named for the Kepler Mission, a NASA project designed to search for Earth-like planets. Kepler-9's planets were among 700 planetary candidates collected during Kepler's first 43 days online. The system in particular was flagged as one of five systems that appeared to have held over one transiting exoplanet. Kepler-9b's discovery was announced on August 26, 2010. It was the part of the first confirmed star system in which multiple planets transited the same star.The planet was confirmed by the Kepler satellite by the transit method, in which the planet passes across the face of its star in relation to Earth, dimming that star's light by a small amount; this light difference is then used to determine the planet and several of its characteristics, including size and distance from its home star.Initial estimates for Kepler-9b's mass were refined by the W. M. Keck Observatory at Mauna Kea, Hawaii. In doing so, scientists found that Kepler-9b is the larger of the two gas planets discovered in the Kepler-9 system, although in mass it is smaller than planet Saturn.
+
+Characteristics
+Kepler-9b is a gas planet that has a mass approximately 43 times that of the Earth; thus, it is about one-half the mass of the planet Saturn. It has a radius of approximately 0.842 RJ, or about 80% the radius of Jupiter. The planet orbits Kepler-9 every 19.243 days, and it lies some 0.14 AU from the star. To compare, planet Mercury's average distance from the Sun is .387 AU and takes 87.969 days to complete an orbit. Kepler-9b is the second-closest planet to its star in the Kepler-9 system.
+The first known case of orbital resonance in transiting exoplanets has been noted between Kepler-9b and Kepler-9c. The two planets, whose orbits correspond in a roughly 1:2 ratio, maintain the orbit of the other by gravitational tug. Kepler-9b's orbit grows, on average, four minutes longer every orbital period. Eventually, this trend will reverse and increase. Over time, it can be seen that the planets' orbits oscillate slightly above and below the 1:2 ratio. Alycia Weinberger of the Carnegie Institution has stated that the Kepler-9 gas giants probably formed further away from the star than they are, and the appearance of the orbital resonance phenomenon may help explain the history of their inward migration.
+
+Other planets in the Kepler-9 system
+Kepler-9c
+Kepler-9d
+
+References
+External links
+ Media related to Kepler-9 b at Wikimedia Commons

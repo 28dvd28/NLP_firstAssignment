@@ -1,0 +1,8 @@
+Kepler-1638 is a G-type main-sequence star located about 5,000 light years away in the constellation of Cygnus. One known exoplanet has been found orbiting the star: Kepler-1638b. This planet may be a potentially habitable super-Earth. As of January 2021, Kepler-1638 is the farthest star with a known potentially habitable exoplanet.
+
+Planetary system
+Kepler-1638 b is an exoplanet in orbit of its star, Kepler-1638, located in the constellation Cygnus. It was confirmed in 2016 as part of a study statistically validating hundreds of Kepler planets. Based on the parameters in the discovery paper, the planet is a super-Earth, with a radius of 1.87+0.33−0.22 R🜨, and a predicted mass of 4.16 Earths. It has an orbit of 259.337±0.013 days in its system's habitable zone and orbits 0.745 AU from its star. It is the most distant known exoplanet that is considered potentially habitable.However, these parameters were estimated before the first measurement of the host star's parallax was published as part of Gaia DR2 in 2018. The Gaia parallax suggests a distance of about 1,548 parsecs (5,050 light-years), much farther than the pre-Gaia estimate of about 764 parsecs (2,490 light-years). This revised distance results in a significantly larger estimate of the radius of the star, and thus of the planet, with a 2018 study finding a planetary radius of 3.226+0.201−0.315 R🜨. This would make the planet an ice giant like Neptune, and thus not potentially habitable in an Earth-like sense.
+
+References
+See also
+List of potentially habitable exoplanets

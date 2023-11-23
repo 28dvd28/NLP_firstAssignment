@@ -1,0 +1,14 @@
+The quantitative insulin sensitivity check index (QUICKI) is derived using the inverse of the sum of the logarithms of the fasting insulin and fasting glucose:
+
+1 / (log(fasting insulin μU/mL) + log(fasting glucose mg/dL))This index correlates well with glucose clamp studies (r = 0.78), and is useful for measuring insulin sensitivity (IS), which is the inverse of insulin resistance (IR). It has the advantage of that it can be obtained from a fasting blood sample, and is the preferred method for certain types of clinical research.
+There are no documented reference value for QUICKI. In one study, 95% of healthy persons had a QUICKI index above 0.357. Another study concluded that QUICKI index 0.3469 or below should be used to determine insulin resistance.
+
+See also
+SPINA-GBeta
+SPINA-GR
+Homeostatic model assessment
+
+References
+Sources
+Katz, Arie; Nambi, Sridhar S.; Mather, Kieren; Baron, Alain D.; Follmann, Dean A.; Sullivan, Gail; Quon, Michael J. (2000-07-01). "Quantitative Insulin Sensitivity Check Index: A Simple, Accurate Method for Assessing Insulin Sensitivity In Humans". The Journal of Clinical Endocrinology & Metabolism. 85 (7): 2402–2410. doi:10.1210/jcem.85.7.6661. ISSN 0021-972X. PMID 10902785.
+Source as above - Katz et al.  Also data for unusually healthy individuals derived from those practicing caloric restriction.  See CR Society for details.

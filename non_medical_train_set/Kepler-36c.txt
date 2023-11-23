@@ -1,0 +1,8 @@
+Kepler-36 is a star in the constellation of Cygnus with two known planets. It has an anomalously large radius, meaning that it is a subgiant.
+
+Planetary system
+On June 21, 2012, the discovery of two planets orbiting the star was announced. The planets, a super-Earth and a "mini-Neptune", are unusual in that they have very close orbits; their semi-major axes differ by only 0.013 AU. The outer planet orbits only 11% further than the inner one. Coupled with masses significantly higher than Earth, their gravitational influence to each other is significant, meaning that their interaction causes extreme transit timing variations for both. Kepler-36b and c have estimated densities of 6.8 and 0.86 g/cm3, respectively. The two planets are close to a 7:6 orbital resonance. The large difference in densities, despite the close proximity of the planets' orbits, is likely due to the large difference in mass. The innermost and less massive planet likely lost most, or all, of the hydrogen/helium envelope acquired during formation.
+
+References
+External links
+Kepler mission discoveries

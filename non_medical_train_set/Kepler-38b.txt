@@ -1,0 +1,13 @@
+Kepler-38 is a binary star system in the constellation Lyra. These stars, called Kepler-38A and Kepler-38B have masses of 95% and 25% solar masses respectively. The brighter star is spectral class G while the secondary has spectral class M. They are separated by 0.147 AU, and complete an eccentric orbit around a common center of mass every 18.8 days.
+
+Planetary system
+In 2012, a circumbinary Neptune-sized planet was found transiting the brighter star. Follow-up radial velocity measurements did not give sufficient information to constrain the mass of the planet. The planet was confirmed via transit duration variation method.
+It is likely that additional planets in the habitable zone exist, including rocky terrestrial planets, according to simulations of the formation of the Kepler-38 system; furthermore, the orbits of any such planets are probably stable.
+
+See also
+Kepler-16
+Kepler-34
+Kepler-35
+
+
+== References ==

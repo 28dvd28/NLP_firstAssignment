@@ -1,0 +1,234 @@
+This is a shortened version of the fifth chapter of the ICD-9: Mental Disorders. It covers ICD codes 290 to 319. The full chapter can be found on pages 177 to 213 of Volume 1, which contains all (sub)categories of the ICD-9. Volume 2 is an alphabetical index of Volume 1. Both volumes can be downloaded for free from the website of the World Health Organization. See here for a PDF file of only the mental disorders chapter.
+Chapter 5 of the ICD-9, which was first published in 1977, was used in the field of psychiatry for approximately three and a half decades. In the United States, an extended version of the ICD-9 was developed called the ICD-9-CM. Several editions of the Diagnostic and Statistical Manual of Mental Disorders, or the DSM, interfaced with the codes of the ICD-9-CM. Following the DSM-II (1968), which used the ICD-8, the ICD-9-CM was used by the DSM-III (1980), the DSM-III-R (1987), the DSM-IV (1994), and the DSM-IV-TR (2000). The DSM-5 (2013), the current version, also features ICD-9-CM codes, listing them alongside the codes of Chapter V of the ICD-10-CM. On 1 October 2015, the United States health care system officially switched from the ICD-9-CM to the ICD-10-CM.The DSM is the authoritative reference work in diagnosing mental disorders in the world. The ICD system is used to code these disorders, and strictly seen, the ICD has always been the official system of diagnosing mental diseases in the United States. Due to the dominance of the DSM, however, not even many professionals within psychiatry realize this. The DSM and the ICD form a 'dual-system': the DSM is used for categories and diagnostic criteria, while the ICD-codes are used to make reimbursement claims towards the health insurance companies. The ICD also contains diagnostic criteria, but for the most part, therapists use those in the DSM. This structure has been criticized, with people wondering why there should be two separate systems for classification of mental disorders. It has been proposed that the ICD supersede the DSM.
+
+Psychosis (290–299)
+Organic psychotic conditions (290–294)
+290 Senile and presenile organic psychotic conditions
+290.0 Senile dementia, simple type
+290.1 Presenile dementia
+290.2 Senile dementia, depressed or paranoid type
+290.3 Senile dementia with acute confusional state
+290.4 Arteriosclerotic dementia
+290.8 Other senile and presenile organic psychotic conditions
+290.9 Unspecified senile and presenile organic psychotic conditions
+291 Alcoholic psychoses
+291.0 Delirium tremens
+291.1 Korsakov's psychosis, alcoholic
+291.2 Other alcoholic dementia
+291.3 Other alcoholic hallucinosis
+291.4 Pathological drunkenness
+291.5 Alcoholic jealousy
+291.8 Other alcoholic psychoses (Include: Alcohol withdrawal syndrome)
+291.9 Unspecified alcoholic psychoses (Include: alcoholic mania NOS, alcoholic psychosis NOS, alcoholism (chronic) with psychosis)
+292 Drug psychoses
+292.0 Drug withdrawal syndrome
+292.1 Paranoid and/or hallucinatory states induced by drugs
+292.2 Pathological drug intoxication
+292.8 Other drug psychoses
+292.9 Unspecified drug psychoses
+292.9 Unspecified drug-induced mental disorder
+293 Transient organic psychotic conditions
+293.0 Acute confusional state
+293.1 Subacute confusional state
+293.1 Other transient organic psychotic conditions
+293.1 Unspecified transient organic psychotic conditions
+294 Other organic psychotic conditions (chronic)
+294.0 Korsakov's psychosis or syndrome (nonalcoholic)
+294.1 Dementia in conditions classified elsewhere
+294.8 Other (Include: Mixed paranoid and affective organic psychotic states, epileptic psychosis NOS (code also 345))
+294.9 Unspecified
+
+Other psychoses (295–299)
+295 Schizophrenic psychoses
+295.0 Simple type
+295.1 Hebephrenic type
+295.2 Catatonic type
+295.3 Paranoid type
+295.4 Acute schizophrenic episode
+295.5 Latent schizophrenia (Include: latent schizophrenic reaction; schizophrenia: borderline, prepsychotic, prodromal; schizophrenia: pseudoneurotic, pseudopsychopathic)
+295.6 Residual schizophrenia (Include: chronic undifferentiated schizophrenia, Restzustand (schizophrenic), schizophrenic residual state)
+295.7 Schizoaffective type (Include: cyclic schizophrenia, mixed schizophrenic and affective psychosis, schizoaffective psychosis, schizophreniform psychosis, affective type)
+295.8 Other specified types of schizophrenia (Include: acute (undifferentiated), atypical schizophrenia, coenesthopathic schizophrenia)
+295.9 Unspecified schizophrenia (Include: schizophrenia NOS, schizophrenic reaction NOS, schizophreniform psychosis NOS)
+296 Affective psychoses
+296.0 Manic-depressive psychosis, manic type
+296.1 Manic-depressive psychosis, depressed type
+296.2 Manic-depressive psychosis, circular type but currently manic
+296.3 Manic-depressive psychosis, circular type but currently depressed
+296.4 Manic-depressive psychosis, circular type, mixed
+296.5 Manic-depressive psychosis, circular type, current condition not specified
+296.6 Manic-depressive psychosis, other and unspecified
+296.8 Other affective psychoses
+296.9 Unspecified affective psychoses (Include: affective psychosis NOS, Melancholia NOS)
+297 Paranoid states
+297.0 Paranoid state, simple
+297.1 Paranoia
+297.2 Paraphrenia (Include: involutional paranoid state, late paraphrenia)
+297.3 Induced psychosis
+297.8 Other specified paranoid states (Include: Paranoia querulans, Sensitiver Beziehungswahn)
+297.9 Unspecified paranoid state (Paranoid: psychosis NOS/reaction NOS/state NOS)
+298 Other nonorganic psychoses
+298.0 Depressive type psychosis
+298.1 Excitative type psychosis
+298.2 Reactive confusion (Include: psychogenic confusion, psychogenic twilight state)
+298.3 Acute paranoid reaction (Include: Bouffée délirante)
+298.4 Psychogenic paranoid psychosis (Include: protracted reactive paranoid psychosis)
+298.8 Other and unspecified reactive psychosis (Include: hysterical psychosis, psychogenic stupor, psychogenic psychosis NOS)
+298.9 Unspecified psychosis (Include: psychosis NOS)
+299 Psychoses with origin specific to childhood
+299.0 Infantile autism (Include: childhood autism, Kanner's syndrome, infantile psychosis)
+299.1 Disintegrative psychosis (Include: Heller's syndrome)
+299.8 Other specified pervasive developmental disorders (Include: atypical childhood psychosis)
+299.9 Unspecified psychoses with origin specific to childhood (Include: Child psychosis NOS, Schizophrenia, childhood type NOS, Schizophrenic syndrome of childhood NOS)
+
+Neurotic disorders, personality disorders, and other nonpsychotic mental disorders (300–316)
+Neurotic disorders (300)
+300 Neurotic disorders
+300.0 Anxiety states
+300.1 Hysteria (Include: Astasia-abasia, hysterical; Compensation neurosis; Conversion hysteria; Conversion reaction; Dissociative reaction or state; Ganser's syndrome, hysterical; Hysteria NOS; Multiple personality)
+300.2 Phobic state (Include: Agoraphobia; Animal phobias; Anxiety-hysteria; Claustrophobia; Phobia NOS)
+300.3 Obsessive-compulsive disorders
+300.4 Neurotic depression (Include: Anxiety depression; Neurotic depressive state; Depressive reaction; Reactive depression)
+300.5 Neurasthenia (Include: Nervous debility)
+300.6 Depersonalization syndrome (Include: Derealization (neurotic))
+300.7 Hypochondriasis
+300.8 Other neurotic disorders (Include: Briquet's disorder; Occupational neurosis, including writer's cramp; Psychasthenia, Psychasthenic neurosis)
+300.9 Unspecified neurotic disorders (Include: Neurosis NOS, Psychoneurosis NOS)
+
+Personality disorders (301)
+301 Personality disorders
+301.0 Paranoid personality disorder (Include: fanatic personality, paranoid personality (disorder), paranoid traits)
+301.1 Affective personality disorder (Include: cycloid personality, cyclothymic personality, depressive personality)
+301.2 Schizoid personality disorder
+301.3 Explosive personality disorder (Include: aggressive: personality/reaction, aggressiveness, emotional instability (excessive), pathological emotionality, quarrelsomeness)
+301.4 Anankastic personality disorder (Include: compulsive personality, obsessional personality)
+301.5 Hysterical personality disorder (Include: histrionic personality, psychoinfantile personality)
+301.6 Asthenic personality disorder (Include: dependent personality, inadequate personality, passive personality)
+301.7 Personality disorder with predominantly sociopathic or asocial manifestation (Include: amoral personality, asocial personality, antisocial personality)
+301.8 Other personality disorders (Include: personality: eccentric, "haltlose" type; personality: immature, passive–aggressive, psychoneurotic)
+301.9 Unspecified personality disorder (Include: pathological personality NOS, personality disorder NOS, psychopathic: constitutional state, personality (disorder))
+
+Sexual deviations and disorders (302)
+302 Sexual deviations and disorders
+302.0 Ego-dystonic sexual orientation; until 1990: homosexuality, include: lesbianism
+302.1 Bestiality
+302.2 Pedophilia
+302.3 Transvestism
+302.4 Exhibitionism
+302.5 Trans-sexualism
+302.6 Disorders of psychosexual identity (Include: Gender-role disorder)
+302.7 Frigidity and impotence (Include: Dyspareunia, psychogenic)
+302.8 Other sexual deviations and disorders (Include: fetishism, masochism, sadism)
+302.9 Unspecified sexual deviations and disorders
+
+Psychoactive substance (303–305)
+303 Alcohol dependence syndrome (Include: acute drunkenness in alcoholism, dipsomania, chronic alcoholism)
+304 Drug dependence
+304.0 Morphine type dependence (Include drugs: heroin, methadone, opium, opium alkaloids and their derivatives, synthetics with morphine-like effects)
+304.1 Barbiturate type dependence
+304.2 Cocaine dependence
+304.3 Cannabis dependence
+304.4 Amphetamine and other psychostimulant dependence (Include drugs: phenmetrazine, methylphenidate)
+304.5 Hallucinogen dependence (Include drugs: LSD and derivatives, mescaline, psilocybin)
+304.6 Other drug dependence (Include: absinthe addiction, glue sniffing)
+304.7 Combinations of morphine type drug with any other
+304.8 Combinations excluding morphine type drug
+304.9 Unspecified drug dependence (Include: drug addiction NOS, drug dependence NOS)
+305 Nondependent abuse of drugs
+305.0 Alcohol abuse (Include: Drunkenness NOS; Excessive drinking of alcohol NOS; "Hangover" (alcohol); Inebriety NOS)
+305.1 Tobacco abuse
+305.2 Cannabis abuse
+305.3 Hallucinogens abuse (Include: LSD reaction)
+305.4 Barbiturates and tranquillizers abuse
+305.5 Morphine type abuse
+305.6 Cocaine type abuse
+305.7 Amphetamine type abuse
+305.8 Antidepressants abuse
+305.9 Other, mixed or unspecified (Include: "laxative habit", misuse of drugs NOS, nonprescribed use of drugs or patent medicinals)
+
+Other (primarily adult onset) (306–311)
+306 Physiological malfunction arising from mental factors
+306.0 Musculoskeletal (Include: psychogenic torticollis)
+306.1 Respiratory (Include: air hunger hiccough (psychogenic), hyperventilation, psychogenic cough, yawning)
+306.2 Cardiovascular (Include: cardiac neurosis, cardiovascular neurosis, neurocirculatory asthenia, psychogenic cardiovascular disorder)
+306.3 Skin (Include: psychogenic pruritus)
+306.4 Gastrointestinal (Include: aerophagy; cyclical vomiting, psychogenic)
+306.5 Genitourinary (Include: psychogenic dysmenorrhoea)
+306.6 Endocrine
+306.7 Organs of special sense
+306.8 Other (Include: teeth-grinding)
+307 Special symptoms or syndromes, not elsewhere classified
+307.0 Stammering and stuttering
+307.1 Anorexia nervosa
+307.2 Tics
+307.3 Stereotyped repetitive movements (Include: stereotypies NOS)
+307.4 Specific disorders of sleep (of nonorganic origin)
+307.5 Other and unspecified disorders of eating (of nonorganic origin)
+307.6 Enuresis
+307.7 Encopresis
+307.8 Psychalgia (Include: tension headache, psychogenic backache)
+307.9 Other and unspecified (Include: hair plucking, lalling, lisping, masturbation, nail-biting, thumb-sucking)
+308 Acute reaction to stress
+308.0 Predominant disturbance of emotions
+308.1 Predominant disturbance of consciousness
+308.2 Predominant psychomotor disturbance
+308.3 Other acute reactions to stress
+308.4 Mixed disorders as reaction to stress
+309 Adjustment reaction
+309.0 Brief depressive reaction
+309.1 Prolonged depressive reaction
+309.2 With predominant disturbance of other emotions (Include: abnormal separation anxiety, culture shock)
+309.3 With predominant disturbance of conduct
+309.4 With mixed disturbance of emotions and conduct
+309.8 Other adjustment reactions (Include: adjustment reaction with elective mutism, hospitalism in children NOS)
+309.9 Unspecified adjustment reactions (Include: adjustment reaction NOS, adaptation reaction NOS)
+310 Specific nonpsychotic mental disorders following organic brain damage
+310.0 Frontal lobe syndrome (Include: Lobotomy syndrome, Postleucotomy syndrome (state))
+310.1 Cognitive or personality change of other type (Include: mild memory disturbance, organic psychosyndrome of nonpsychotic severity)
+310.2 Postconcussional syndrome (Include: Postcontusional syndrome (encephalopathy), status post commotio cerebri; post-traumatic brain syndrome, nonpsychotic)
+310.8 Other specific nonpsychotic mental disorders following organic brain damage (Include: other focal (partial) organic psychosyndromes)
+310.9 Unspecified specific nonpsychotic mental disorders following organic brain damage
+311 Depressive disorder, not elsewhere classified (Include: depressive disorder NOS, depressive state NOS, depression NOS)
+
+Mental disorders diagnosed in childhood (312–316)
+312 Disturbance of conduct, not elsewhere classified
+312.0 Unsocialized disturbance of conduct (Include: unsocialized aggressive disorder)
+312.1 Socialized disturbance of conduct (Include: group delinquency)
+312.2 Compulsive conduct disorder (Include: Kleptomania)
+312.3 Mixed disturbance of conduct and emotions (Include: neurotic delinquency)
+312.8 Other disturbance of conduct not elsewhere classified
+312.9 Unspecified disturbance of conduct not elsewhere classified
+313 Disturbance of emotions specific to childhood and adolescence
+313.0 Disturbance of emotions specific to childhood and adolescence with anxiety and fearfulness (Include: overanxious reaction of childhood or adolescence)
+313.1 Disturbance of emotions specific to childhood and adolescence with misery and unhappiness
+313.2 Disturbance of emotions specific to childhood and adolescence with sensitivity, shyness and social withdrawal (Include: withdrawing reaction of childhood or adolescence)
+313.3 Relationship problems (Include: sibling jealousy)
+313.8 Disturbance of emotions specific to childhood and adolescence, other or mixed
+313.9 Unspecified disturbance of emotions specific to childhood and adolescence
+314 Hyperkinetic syndrome of childhood
+314.0 Simple disturbance of activity and attention (Include: overactivity NOS)
+314.1 Hyperkinesis with developmental delay (Include: developmental disorder of hyperkinesis)
+314.2 Hyperkinetic conduct disorder
+314.8 Other hyperkinetic syndrome of childhood
+314.8 Unspecified hyperkinetic syndrome of childhood (Include: hyperkinetic reaction of childhood or adolescence NOS, hyperkinetic syndrome NOS)
+315 Specific delays in development
+315.0 Specific reading retardation (Include: developmental dyslexia, specific spelling difficulty)
+315.1 Specific arithmetical retardation (Include: Dyscalculia)
+315.2 Other specific developmental learning difficulties
+315.3 Developmental speech or language disorder (Include: developmental aphasia, dyslalia)
+315.4 Specific motor retardation (Include: clumsiness syndrome, dyspraxia syndrome)
+315.5 Mixed development disorder
+315.8 Other specified delays in development
+315.9 Unspecified specific delays in development (Include: developmental disorder NOS)
+316 Psychic factors associated with diseases classified elsewhere
+
+Mental retardation (317–319)
+317 Mild mental retardation (Include: feeble-minded, high-grade defect, mild mental subnormality, moron)
+318 Other specified mental retardation
+318.0 Moderate mental retardation (Include: imbecile, moderate mental subnormality)
+318.1 Severe mental retardation (Include: severe mental subnormality)
+318.2 Profound mental retardation (Include: idiocy, profound mental subnormality)
+319 Unspecified mental retardation (Include: mental deficiency NOS, mental subnormality NOS)
+
+
+== References ==

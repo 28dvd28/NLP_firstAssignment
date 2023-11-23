@@ -1,0 +1,18 @@
+Tuftelin is an acidic phosphorylated glycoprotein found in tooth enamel.  In humans, the Tuftelin protein is encoded by the TUFT1 gene. It is an acidic protein that is thought to play a role in dental enamel mineralization and is implicated in caries susceptibility. It is also thought to be involved with adaptation to hypoxia, mesenchymal stem cell function, and neurotrophin nerve growth factor mediated neuronal differentiation.
+
+Classification
+There are two kinds of enamel proteins: Amelogenins & Nonamelogenins. Tuftelin falls under nonamelogenins.
+
+Function
+This protein is formed for a short time during amelogenesis.  The function of tuftelins is under contention, but it is proposed that it acts to start the mineralization process of enamel during tooth development.Other significant proteins in enamel are amelogenins, enamelins, and ameloblastins.
+
+Research
+The human encoding gene for tuftelin (TUFT1) was cloned by Profs. Danny Deutsch and Aharon Palmon from the Hebrew University-Hadassah School of Dental Medicine in Jerusalem.
+
+Interactions
+Tuftelin has been shown to interact with TFIP11.
+
+References
+
+
+== Further reading ==

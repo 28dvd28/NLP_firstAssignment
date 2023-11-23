@@ -1,0 +1,112 @@
+Ben Joseph Green FRS (born 27 February 1977) is a British mathematician, specialising in combinatorics and number theory. He is the Waynflete Professor of Pure Mathematics at the University of Oxford.
+
+Early life and education
+Ben Green was born on 27 February 1977 in Bristol, England. He studied at local schools in Bristol, Bishop Road Primary School and Fairfield Grammar School, competing in the International Mathematical Olympiad in 1994 and 1995. He entered Trinity College, Cambridge in 1995 and completed his BA in mathematics in 1998, winning the Senior Wrangler title. He stayed on for Part III and earned his doctorate under the supervision of Timothy Gowers, with a thesis entitled Topics in arithmetic combinatorics (2003). During his PhD he spent a year as a visiting student at Princeton University. He was a research Fellow at Trinity College, Cambridge between 2001 and 2005, before becoming a Professor of Mathematics at the University of Bristol from January 2005 to September 2006 and then the first Herchel Smith Professor of Pure Mathematics at the University of Cambridge from September 2006 to August 2013. He became the Waynflete Professor of Pure Mathematics at the University of Oxford on 1 August 2013. He was also a Research Fellow of the Clay Mathematics Institute and held various positions at institutes such as Princeton University, University of British Columbia, and Massachusetts Institute of Technology.
+
+Mathematics
+The majority of Green's research is in the fields of analytic number theory and additive combinatorics, but he also has results in harmonic analysis and in group theory. His best known theorem, proved jointly with his frequent collaborator Terence Tao, states that there exist arbitrarily long arithmetic progressions in the prime numbers: this is now known as the Green–Tao theorem.Amongst Green's early results in additive combinatorics are an improvement of a result of Jean Bourgain of the size of arithmetic progressions in sumsets, as well as a proof of the Cameron–Erdős conjecture on sum-free sets of natural numbers. He also proved an arithmetic regularity lemma for functions defined on the first 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   natural numbers, somewhat analogous to the Szemerédi regularity lemma for graphs.
+From 2004–2010, in joint work with Terence Tao and Tamar Ziegler, he developed so-called higher order Fourier analysis. This theory relates Gowers norms with objects known as nilsequences. The theory derives its name from these nilsequences, which play an analogous role to the role that characters play in classical Fourier analysis. Green and Tao used higher order Fourier analysis to present a new method for counting the number of solutions to simultaneous equations in certain sets of integers, including in the primes. This generalises the classical approach using Hardy–Littlewood circle method. Many aspects of this theory, including the quantitative aspects of the inverse theorem for the Gowers norms, are still the subject of ongoing research.
+Green has also collaborated with Emmanuel Breuillard on topics in group theory. In particular, jointly with Terence Tao, they proved a structure theorem for approximate groups, generalising the Freiman-Ruzsa theorem on sets of integers with small doubling. Green also has worked, jointly with Kevin Ford and Sean Eberhard, on the theory of the symmetric group, in particular on what proportion of its elements fix a set of size 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  .Green and Tao also have a paper on algebraic combinatorial geometry, resolving the Dirac-Motzkin conjecture (see Sylvester–Gallai theorem). In particular they prove that, given any collection of 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   points in the plane that are not all collinear, if 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   is large enough then there must exist at least 
+  
+    
+      
+        n
+        
+          /
+        
+        2
+      
+    
+    {\displaystyle n/2}
+   lines in the plane containing exactly two of the points.
+Kevin Ford, Ben Green, Sergei Konyagin, James Maynard and Terence Tao, initially in two separate research groups and then in combination, improved the lower bound for the size of the longest gap between two consecutive primes of size at most 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  . The form of the previously best-known bound, essentially due to Rankin, had not been improved for 76 years.
+More recently Green has considered questions in arithmetic Ramsey theory. Together with Tom Sanders he proved that, if a sufficiently large finite field of prime order is coloured with a fixed number of colours, then the field has elements 
+  
+    
+      
+        x
+        ,
+        y
+      
+    
+    {\displaystyle x,y}
+   such that 
+  
+    
+      
+        x
+        ,
+        y
+        ,
+        x
+        
+          +
+        
+        y
+        ,
+        x
+        y
+      
+    
+    {\displaystyle x,y,x{+}y,xy}
+   all have the same colour.Green has also been involved with the new developments of Croot-Lev-Pach-Ellenberg-Gijswijt on applying the polynomial method to bound the size of subsets of a finite vector space without solutions to linear equations. He adapted these methods to prove, in function fields, a strong version of Sárközy's theorem.
+
+Awards and honours
+Green has been a Fellow of the Royal Society since 2010, and a Fellow of the American Mathematical Society since 2012. Green was chosen by the German Mathematical Society to deliver a Gauss Lectureship in 2013. He has received several awards:
+
+2004: Clay Research Award
+2005: Salem Prize
+2005: Whitehead Prize
+2007: SASTRA Ramanujan Prize
+2008: European Mathematical Society prize recipient
+2014: Sylvester Medal, awarded by the Royal Society.
+2019: Senior Whitehead Prize of the London Mathematical Society
+
+References
+External links
+Ben Green personal homepage at Oxford
+Ben Green faculty page at Oxford Archived 26 April 2014 at the Wayback Machine
+Ben Green Homepage at Trinity College, Cambridge
+Clay Research Award 2004 announcement
+Ben Green at the Mathematics Genealogy Project
+math.NT/0404188 – Preprint on arbitrarily long arithmetic progressions on primes

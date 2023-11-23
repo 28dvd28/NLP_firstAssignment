@@ -1,0 +1,17 @@
+Deryk Osthus is the Professor of Graph Theory at the School of Mathematics, University of Birmingham. He is known for his research in combinatorics, predominantly in extremal and probabilistic graph theory.
+
+Career
+Osthus earned a B.A. in mathematics from Cambridge University in 1996, followed by the Certificate of Advanced Studies in Mathematics (Part III) from Cambridge in 1997. He earned a PhD in theoretical computer science from Humboldt University of Berlin in 2000. From 2000 until 2004, he was a postdoctoral researcher in Berlin. He joined Birmingham University in 2004 as a lecturer. Working at the Birmingham University from 2004 to a 2010 as lecturer, Deryk was a promoted in 2010 to a senior lecturer. From 2011 to 2012, he was a reader in graph theory. He was appointed Professor in Graph Theory in 2012.
+
+Awards and honours
+Together with Daniela Kühn and Alain Plagne, he was one of the first winners of the European Prize in Combinatorics in 2003. Together with Kühn, he was a recipient of the 2014 Whitehead Prize of the London Mathematical Society for "their many results in extremal graph theory and related areas. Several of their papers resolve long-standing open problems in the area." In 2014, he was also invited to a lecture at the International Congress of Mathematics in Seoul.
+
+Grants
+With the variety of intense research that Deryk Osthus was interested in, many grants were needed to conduct, analyze, and publish the research and publications that Deryk Osthus wanted to figure out, and gain more reliable and valid information on graph theories and other detailed areas. Throughout the years starting from the mid 2000's, many grants were accepted and given to Deryk Osthus in order to complete his research interests and potentially answer any research questions. In August 2007, Deryk Osthus was given his first grant for "Graph expansion and applications." Two months later, in October 2007 he was given another grant for "The regularity method for directed graphs." 3 years later in October 2010, he was given a grant for "Problems in Extremal Graph Theory." In June 2012, he had received a grant for "Edge-colourings and Hamilton decompositions of graphs." A few months later in December 2012, another grant was given to Deryk for "Asymptotic properties of graphs." 3 years later In March 2015, he received a grant for "Randomized approaches to combinatorial packing and covering problems." From January 2019 to the current date, he was given a grant for "Approximate structure in large graphs and hypergraphs."
+
+Research Interests
+With an education stemming back From the late 90's and early 2000's, Deryk Osthus had many areas of interest in the field of research. Deryk Osthus has done a variety of research in his area of interest, which resulted in a variety of different publications. Deryk's research interests are in extremal graph theory, random graphs, randomized algorithms, structural graph theory as well as Ramsey theory. His recent research has included results on Hamilton cycles and more general spanning substructures, as well as decompositions of graphs and hypergraphs.
+
+References
+External links
+Deryk Osthus at the Mathematics Genealogy Project

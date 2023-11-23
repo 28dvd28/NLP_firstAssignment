@@ -1,0 +1,12 @@
+Alī ibn Aḥmad al-Nasawī (c. 1011 possibly in Khurasan – c. 1075 in Baghdad) was a Persian mathematician from Khurasan, Iran. He flourished under the Buwayhid sultan Majd al-dowleh, who died in 1029-30AD, and under his successor. He wrote a book on arithmetic in Persian, and then Arabic, entitled the "Satisfying (or Convincing) on Hindu Calculation" (al-muqni fi-l-hisab al Hindi). He also wrote on Archimedes's Book of Lemmas and Menelaus's theorem (Kitab al-ishba, or "satiation"), where he made corrections to the Book of Lemmas as translated into Arabic by Thabit ibn Qurra and last revised by Nasir al-Din al-Tusi.
+Al-Nasawī's arithmetic explains the division of fractions and the extraction of square and cubic roots (square root of 57,342; cubic root of 3, 652, 296) almost in the modern manner. Al-Nasawī replaces sexagesimal by decimal fractions.
+Al-Nasawī criticises earlier authors, but in many cases incorrectly. His work was not original, and he sometimes writes of matters that he does not understand, e.g. "borrowing" in subtraction.Ragep and Kennedy also give an analysis of a mid-12th-century manuscript in which a summary of Euclid's Elements exists by al-Nasawī.
+
+Further reading
+Suter, H. "Die Mathematiker und Astronomen der Araber (96, 1900) Uber das Rechenbuch des Ali ben Ahmed el-Nasawi" (Bibliotheca Mathematica, vol. 7, 113-119, 1906).
+J. Ragep and E. S. Kennedy. "A description of Zahiriyya (Damascus) MS 4871 : a philosophical and scientific collection", J. Hist. Arabic Sci. 5 (1-2) (1981), 85-108.
+Saidan, A. S. (1970–1980). "Nasawī, ʿAlī Ibn Aḥmad al-". Dictionary of Scientific Biography. New York: Charles Scribner's Sons. ISBN 978-0-684-10114-9.
+
+References
+External links
+Yazdi, Hamid-Reza Giahi (2007). "Nasawī: Abū al-Ḥasan ʿAlī ibn Aḥmad al-Nasawī". In Thomas Hockey; et al. (eds.). The Biographical Encyclopedia of Astronomers. New York: Springer. pp. 820–1. ISBN 978-0-387-31022-0. (PDF version)

@@ -1,0 +1,20 @@
+Augustin Banyaga (born March 31, 1947) is a Rwandan-born American mathematician whose research fields include symplectic topology and contact geometry. He is currently a Professor of Mathematics at Pennsylvania State University.
+
+Biography
+He earned his Ph.D. degree in 1976 at the University of Geneva under the supervision of André Haefliger.  (Banyaga was the first person from Rwanda to obtain a Ph.D. in mathematics.) He was a member of the Institute for Advanced Study in Princeton, New Jersey (1977–1978), Benjamin Peirce Assistant Professor at Harvard University (1978–1982), and assistant professor at Boston University (1982–1984), before joining the faculty at Pennsylvania State University in 1984 as associate professor.  He was promoted to full professor in 1992.  
+In 2009 Banyaga was elected a Fellow of the African Academy of Sciences, and in 2015 he was named a Distinguished Senior Scholar by Pennsylvania State University.He has made significant contributions in symplectic topology, especially on the structure of groups of diffeomorphisms preserving a symplectic form (symplectomorphisms).  One of his best-known results states that the group of Hamiltonian diffeomorphisms of a compact, connected, symplectic manifold is a simple group; in particular, it does not admit any non-trivial homomorphism to the real line. 
+Banyaga is an editor of Afrika Matematica, the journal of the African Mathematical Union, and an editor of the African Journal of Mathematics.  He has supervised the theses of 9 Ph.D. students.
+
+Bibliography
+ArticlesAugustin Banyaga, Sur la structure du groupe des difféomorphismes qui préservent une forme symplectique, Commentarii Mathematici Helvetici 53 (1978), no. 2, 174–227. MR0490874
+Augustin Banyaga, On fixed points of symplectic maps, Inventiones Mathematicae 56 (1980), no. 3, 215–229.  MR0561971
+Augustin Banyaga, On Isomorphic Classical Diffeomorphism Groups. I.,  Proceedings of the American Mathematical Society 98 (1986), no. 1, 113–118.  JSTOR 2045779 MR0848887
+Augustin Banyaga, On Isomorphic Classical Diffeomorphism Groups. II.,  Journal of Differential Geometry 28 (1988), no. 1, 23–35. MR0950553
+Augustin Banyaga, A note on Weinstein's conjecture, Proceedings of the American Mathematical Society 123 (1990), no. 12, 3901–3906.  JSTOR 2048230 MR1021206BooksAugustin Banyaga (1997). The Structure of Classical Diffeomorphism Groups. Kluwer Academic Publishers. ISBN 0-7923-4475-8.
+Augustin Banyaga; David Hurtubise (2004). Lectures on Morse Homology. Kluwer Academic Publishers. ISBN 1-4020-2695-1.
+
+References
+External links
+"Home page at PSU". Archived from the original on 2007-03-11. Retrieved 2007-01-18.
+"Vita" (PDF).
+"Augustin Banyaga". Mathematicians of the African Diaspora.

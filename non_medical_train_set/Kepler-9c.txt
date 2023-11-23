@@ -1,0 +1,19 @@
+Kepler-9c is one of the first seven extrasolar planets, exoplanets, discovered by NASA's Kepler Mission, and one of at least two planets orbiting the star Kepler-9. Kepler-9c and Kepler-9b were the first exoplanets confirmed to be transiting their star. The planet's discovery was announced by the Kepler Mission team on August 26, 2010 after its initial discovery by Kepler. At the time, it was one of 700 planetary candidates noted by Kepler.
+Observations of the planet have suggested that it is a hydrogen–helium gas giant that is slightly smaller than Saturn, and that it orbits nearby its star at .225 AU. Kepler-9c and b are notable in that the planets share a pattern of orbital resonance, in which the orbit of each planet stabilizes the orbit of the other. During the time it was observed by the spacecraft, the planet's orbit, which lasts on average approximately 38 days, shortened by 39 minutes every orbital period because of this effect. Its orbit, over time, oscillates slightly above and below a 2:1 ratio with planet b.
+
+Nomenclature and history
+As with most exoplanets, the name "Kepler-9c" denotes that it is the second planet discovered in the orbit of the star Kepler-9. Kepler-9 itself was named after the Kepler Mission, a NASA project oriented towards discovering planets that are transiting their home stars.The planet was one of 700 planetary candidates considered by Kepler in its first 43 days of operation. It was highlighted as a part of one of five star systems that seemed to hold multiple transiting planets. Kepler-9c and Kepler-9b were confirmed as the first planets discovered to transit the same star.Initial estimates concerning Kepler-9c's mass were refined by follow-up observations made by the Keck 1 Telescope at the W.M. Keck Observatory at Mauna Kea, Hawaii. Keck was able to confirm that Kepler-9c and Kepler-9b were planets that were slightly smaller than planet Saturn.
+
+Characteristics
+Kepler-9c is a gas giant that is smaller and slightly less massive than planet Saturn. It is approximately 0.171 MJ, or 17% the mass of planet Jupiter. It also has a radius of 0.823 RJ, which makes it slightly smaller (1.5%) than Saturn. The planet is, on average, situated 0.225 AU from the star.It is probable that the planet is composed of hydrogen and helium. The planet orbits on the same plane as Kepler-9b, a second and larger gas giant located in the Kepler-9 system. While observing the planet, the Kepler team noticed that Kepler-9b and c orbited in a 1:2 ratio, where Kepler-9b orbits its star every 19 days and Kepler-9c orbits every 38 days. The gravitational pull that each planet has on the other, known as orbital resonance, keeps the planets in a stable orbit. This phenomenon is the first of its kind seen outside the Solar System. Every time Kepler-9c completed an orbit during the observation period, its orbital period decreased by about 39 minutes. At some point, however, this trend will reverse and its orbit will increase. The lengths of its orbit will oscillate slightly above and below the 2:1 ratio.
+
+See also
+Kepler-4b
+Kepler-5b
+Kepler-6b
+Kepler-7b
+Kepler-8b
+
+References
+External links
+ Media related to Kepler-9 c at Wikimedia Commons

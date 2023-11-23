@@ -1,0 +1,23 @@
+Kepler-8b is the fifth of the first five exoplanets discovered by NASA's Kepler spacecraft, which aims to discover planets in a region of the sky between the constellations Lyra and Cygnus that transit (cross in front of) their host stars. The planet is the hottest of the five. Kepler-8b was the only planet discovered in Kepler-8's orbit, and is larger (though more diffuse) than Jupiter. It orbits its host star every 3.5 days. The planet also demonstrates the Rossiter–McLaughlin effect, where the planet's orbit affects the redshifting of the spectrum of the host star. Kepler-8b was announced to the public on January 4, 2010 at a conference in Washington, D.C. after radial velocity measurements conducted at the W.M. Keck Observatory confirmed its detection by Kepler.
+
+Nomenclature and history
+The Kepler-8b planet is named because it was the first planet discovered in the orbit of Kepler-8. The star itself (and by extension, its planet) was named after the Kepler spacecraft, a NASA-run satellite that searches for terrestrial planets between constellations Cygnus and Lyra that transit, or cross in front of, their host stars with respect to Earth. This crossing slightly dims the star at a regular interval, which is used to determine if the cause of the fluctuation in brightness is indeed due to a planetary transit. The planet was first noted as a potential transit event by the Kepler telescope, and was originally designated as KOI 10.01. Follow-up observations by the High Resolution Echelle Spectrometer at Hawaii's W.M. Keck Observatory yielded additional information about the planet, including its mass and radius. Kepler-8b was the fifth planet discovered by the Kepler telescope. The first three planets in Kepler's field of view had already been confirmed, and were used to test Kepler's accuracy.Kepler-8b was the last of the first five planets that Kepler discovered. Its discovery, along with the planets Kepler-4b, Kepler-5b, Kepler-6b, and Kepler-7b, were announced to the public at the 215th meeting of the American Astronomical Society in Washington, D.C. This conference took place on January 4, 2010. The discovery of these first five planets helped confirm Kepler's functionality.
+
+Host star
+Kepler-8 is an F-type star in the Lyra constellation that lies approximately 1050 parsecs away from Earth. With a mass and radius of, respectively, 1.213 Msun and 1.486 Rsun, the star is both more massive and wider than the Sun. With an effective temperature of 6213 K, Kepler-8 is also hotter than the Sun, although it is approximately three quarters of a billion years younger and is slightly less metal-rich.
+
+Characteristics
+Kepler-8b has about 60.3% as massive as Jupiter, but being 41.9% wider, it has a very sparse density of about 0.280 g/cm3. Based on its size and the distance from its star, Kepler-8b is a Hot Jupiter planet, orbiting Kepler-8 from a distance of 0.0483 AU every 3.52254 d. To compare, planet Mercury orbits the Sun at an average distance of 0.3871 AU every 87.97 d. With an equilibrium temperature of 1764 K, Kepler-8b was the hottest of the five planets announced during the conference stating its discovery. Kepler-8b has an eccentricity of nearly 0, which means that its orbit is very circular.
+As Kepler-8b orbits its star, it demonstrates the Rossiter–McLaughlin effect, in which the host star's spectrum becomes red- and, later, blueshifted, as a body transits it. The identification of this effect established Kepler-8b as orbiting in a prograde motion (as opposed to retrograde motion, in which a planet orbits in a direction opposite of its star's rotation). The study in 2012, have determined the planetary orbit is probably well-aligned with the equatorial plane of the star, deviating by 5±7°.The planet is likely to be tidally locked to the parent star. In 2015, the planetary nightside temperature was estimated to be equal to 1859±227 K.
+
+See also
+Kepler-4b
+Kepler-5b
+Kepler-6b
+Kepler-7b
+Kepler-9b
+Kepler-10b
+
+References
+External links
+ Media related to Kepler-8 b at Wikimedia Commons

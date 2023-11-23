@@ -1,0 +1,33 @@
+Graham Higman FRS (19 January 1917 – 8 April 2008) was a prominent English mathematician known for his contributions to group theory.
+
+Biography
+Higman was born in Louth, Lincolnshire, and attended Sutton High School, Plymouth, winning a scholarship to Balliol College, Oxford. In 1939 he co-founded The Invariant Society, the student mathematics society, and earned his DPhil from the University of Oxford in 1941.  His thesis, The units of group-rings, was written under the direction of J. H. C. Whitehead.   
+From 1960 to 1984 he was the Waynflete Professor of Pure Mathematics at Magdalen College, Oxford.
+Higman was awarded the Senior Berwick Prize in 1962 and the De Morgan Medal of the London Mathematical Society in 1974. He was the founder of the Journal of Algebra and its editor from 1964 to 1984. Higman had 51 D.Phil. students, including Jonathan Lazare Alperin, Rosemary A. Bailey, Marston Conder, John Mackintosh Howie, and Peter M. Neumann.
+He was also a local preacher in the Oxford Circuit of the Methodist Church.  During the Second World War he was a conscientious objector, working at the Meteorological Office in Northern Ireland and Gibraltar.
+He died in Oxford.
+
+Publications
+Higman, Graham (1940). "The units of group-rings". Proceedings of the London Mathematical Society. (2). 46: 231–248. doi:10.1112/plms/s2-46.1.231.
+Feit, Walter; Higman, Graham (1964). "The nonexistence of certain generalized polygons". Journal of Algebra. 1 (2): 114–131. doi:10.1016/0021-8693(64)90028-6.
+Graham Higman (1966) Odd characterisations of finite simple groups, U. of Michigan Press
+*Graham Higman (1974), Finitely presented infinite simple groups, Notes on Pure Mathematics, vol. 8, Department of Pure Mathematics, Department of Mathematics, I.A.S. Australian National University, Canberra, ISBN 978-0-7081-0300-5, MR 0376874
+Graham Higman and Elizabeth Scott (1988), Existentially closed groups, LMS Monographs, Clarendon Press, Oxford
+
+See also
+Higman–Sims group, named after Donald G. Higman, but studied also by Graham Higman.
+Higman's embedding theorem
+Feit-Higman theorem
+Higman group
+Higman's lemma
+HNN extension
+Hall–Higman theorem
+
+Notes
+References
+Interview on YouTube
+Death notice, Oxford University Gazette, 17 April 2008 Archived 24 April 2008 at the Wayback Machine
+
+External links
+O'Connor, John J.; Robertson, Edmund F., "Graham Higman", MacTutor History of Mathematics Archive, University of St Andrews
+Graham Higman at the Mathematics Genealogy Project

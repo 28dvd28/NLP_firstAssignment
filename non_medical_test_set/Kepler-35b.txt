@@ -1,0 +1,16 @@
+Kepler-35 is a binary star system in the constellation of Cygnus. These stars, called Kepler-35A and Kepler-35B have masses of 89% and 81% solar masses respectively, and both are assumed to be of spectral class G. They are separated by 0.176 AU, and complete an eccentric orbit around a common center of mass every 20.73 days.
+
+Description
+The Kepler-35 system consists of two stars slightly less massive than the sun in a 21-day orbit aligned edge-on to us so that the stars eclipse each other.  The orbit has a semi-major axis 0.2 au and a mild eccentricity of 0.16.  of The precise measurements made by the Kepler satellite allow doppler beaming to be detected, as well as brightness variations due to the ellipsoidal shape of the stars and reflections of one star on the other.The primary star has a mass of 0.9 M☉ and a radius fractionally larger than the sun.  With an effective temperature of 5,606 K, its luminosity is 0.94 L☉.  The secondary star has a mass of 0.8 M☉, a radius of 0.8 R☉, an effective surface temperature of 5,202 K, and a bolometric luminosity of 0.4 L☉.
+
+Planetary system
+Kepler-35b is a gas giant that orbits the two stars in the Kepler-35 system. The planet is over an eighth of Jupiter's mass and has a radius of 0.728 Jupiter radii. The planet completes a somewhat eccentric orbit every 131.458 days from a semimajor axis of just over 0.6 AU, only about 3.5 times the semi-major axis between the parent stars. The proximity and eccentricity of the binary star as well as both stars have similar masses results the planet's orbit to significantly deviate from Keplerian orbit. Studies have suggested that this planet must have been formed outside its current orbit and migrated inwards later. The eccentricity of planetary orbit is acquired on the last stage of migration, due to interaction with the residual debris disk.Numerical simulation of formation of planetary system Kepler-35 has shown the formation of additional rocky planets in the habitable zone is highly likely, and these planetary orbits are stable.
+
+See also
+Kepler-16
+Kepler-34
+Kepler-38
+
+References
+Further reading
+Demidova, T. V.; Shevchenko, I. I. (2018). "Simulations of the Dynamics of the Debris Disks in the Systems Kepler-16, Kepler-34, and Kepler-35". Astronomy Letters. 44 (2): 119. arXiv:1901.07390. Bibcode:2018AstL...44..119D. doi:10.1134/S1063773718010012. S2CID 119226649.

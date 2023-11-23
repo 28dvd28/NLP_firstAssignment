@@ -1,0 +1,29 @@
+Valentin Alexandre Poénaru (born 1932 in Bucharest) is a Romanian–French mathematician. He was a Professor of Mathematics at University of Paris-Sud, specializing in low-dimensional topology.
+
+Life and career
+Born in Bucharest,  Romania, he did his undergraduate studies at the University of Bucharest. In 1962, he was an invited speaker at the International Congress of Mathematicians in Stockholm, Sweden. While at the congress, Poénaru defected, subsequently leaving for France. He arrived in mid-September 1962 at the Institut des Hautes Études Scientifiques in Bures-sur-Yvette; the IHÉS decided to support him, and he has remained associated with the institute ever since then.Poénaru defended his Thèse d'État at the University of Paris on March 23, 1963. His dissertation topic was Sur les variétés tridimensionnelles ayant le type d'homotopie de la sphère S3, and was written under the supervision of Charles Ehresmann.
+After that, he went to the United States, spending four years at Harvard University and Princeton University. In 1967, he returned to France.
+Poénaru has worked for several decades on a proof of the Poincaré conjecture, making a number of related breakthroughs.  His first attempt at proving the conjecture dates from 1957.  He has described his general approach over the years in different papers and conferences.  On December 19, 2006, he posted a preprint to the arXiv, claiming to have finally completed the details of his approach and proven the conjecture.
+His doctoral students include Jean Lannes.
+
+Works
+Valentin Poenaru, Memories from my former life: the making of a mathematician. In: Geometry in history (ed. S. G. Dani and A. Papadopoulos), 705–732, Springer, Cham, 2019.
+Valentin Poenaru, On the 3-Dimensional Poincaré Conjecture and the 4-Dimensional Smooth Schoenflies Problem, arXiv:math.GT/0612554.
+Valentin Poenaru, Sur les variétés tridimensionnelles ayant le type d'homotopie de la sphère S3, Séminaire Ehresmann, Topologie et géométrie différentielle 6 (1964), Exposé No. 1, 1–67.
+Valentin Poenaru, Produits cartésiens de variétés différentielles par un disque, 1963 Proceedings of the International Congress of Mathematicians (Stockholm, 1962), pp. 481–489, Mittag-Leffler Institute, Djursholm.  MR0176481.
+André Haefliger and Valentin Poenaru, La classification des immersions combinatoires, Publications Mathématiques de l'IHÉS 23 (1964), 75–91.
+
+Iconography
+His friend the Peruvian painter Herman Braun-Vega made of him a family portrait with his wife the painter Rigmor Poenaru, where figures and mathematical symbols in the form of graffiti evoke his research works.
+
+See also
+Mazur manifold
+Poénaru conjecture
+List of Eastern Bloc defectors
+
+References
+David Gabai, Valentin Poenaru's program for the Poincaré conjecture. Geometry, topology, & physics, 139–166, Conf. Proc. Lecture Notes Geom. Topology, IV, Int. Press, Cambridge, MA, 1995.
+
+External links
+Valentin Poénaru at the Mathematics Genealogy Project
+Terza e quarta dimensione: un mistero da svelare, interview by Marinella Daidone from Università degli Studi di Trento, Unitn, no. 52, April, 2003.

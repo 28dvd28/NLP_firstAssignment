@@ -1,0 +1,4 @@
+Antibody barcoding is a protein profiling technique that has been used to analyze hundreds of proteins from small tissue samples, such as minimally invasive fine-needle aspirates from cancer tissue. Although promising, the technique has not yet been extensively proven or developed.The method involves optical mapping of DNA sequences that are added as "barcodes" to antibodies attached to the cells in the sample. The method showed high reproducibility and achieved single-cell sensitivity. In addition to profiling cancer cells, the method shows promise as a clinical tool to identify pathway responses to molecularly targeted drugs and to predict drug response in patient samples.
+
+
+== References ==

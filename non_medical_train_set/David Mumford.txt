@@ -1,0 +1,81 @@
+David Bryant Mumford (born 11 June 1937) is an American mathematician known for his work in algebraic geometry and then for research into vision and pattern theory. He won the Fields Medal and was a MacArthur Fellow. In 2010 he was awarded the National Medal of Science. He is currently a University Professor Emeritus in the Division of Applied Mathematics at Brown University.
+
+Early life
+Mumford was born in Worth, West Sussex in England, of an English father and American mother. His father William started an experimental school in Tanzania and worked for the then newly created United Nations.He attended Phillips Exeter Academy, where he received a Westinghouse Science Talent Search prize for his relay-based computer project.  Mumford then went to Harvard University, where he became a student of Oscar Zariski. At Harvard, he became a Putnam Fellow in 1955 and 1956. He completed his PhD in 1961, with a thesis entitled Existence of the moduli scheme for curves of any genus. He married Erika, an author and poet, in 1959 and they had four children, Stephen, Peter, Jeremy, and Suchitra. He currently has seven grandchildren.
+
+Work in algebraic geometry
+Mumford's work in geometry combined traditional geometric insights with the latest algebraic techniques. He published on moduli spaces, with a theory summed up in his book Geometric Invariant Theory, on the equations defining an abelian variety, and on algebraic surfaces.
+His books Abelian Varieties (with C. P. Ramanujam) and Curves on an Algebraic Surface combined the old and new theories. His lecture notes on scheme theory circulated for years in unpublished form, at a time when they were, beside the treatise Éléments de géométrie algébrique, the only accessible introduction. They are now available as The Red Book of Varieties and Schemes (ISBN 3-540-63293-X).
+Other work that was less thoroughly written up were lectures on varieties defined by quadrics, and a study of Goro Shimura's papers from the 1960s.
+Mumford's research did much to revive the classical theory of theta functions, by showing that its algebraic content was large, and enough to support the main parts of the theory by reference to finite analogues of the Heisenberg group. This work on the equations defining abelian varieties appeared in 1966–7. He published some further books of lectures on the theory.
+He also was one of the founders of the toroidal embedding theory; and sought to apply the theory to Gröbner basis techniques, through students who worked in algebraic computation.
+
+Work on pathologies in algebraic geometry
+In a sequence of four papers published in the American Journal of Mathematics between 1961 and 1975, Mumford explored pathological behavior in algebraic geometry, that is, phenomena that would not arise if the world of algebraic geometry were as well-behaved as one might expect from looking at the simplest examples.  These pathologies fall into two types: (a) bad behavior in characteristic p and (b) bad behavior in moduli spaces.
+
+Characteristic-p pathologies
+Mumford's philosophy in characteristic p was as follows:
+
+A nonsingular characteristic p variety is analogous to a general non-Kähler complex manifold;  in particular, a projective embedding of such a variety is not as strong as a Kähler metric on a complex manifold, and the Hodge–Lefschetz–Dolbeault theorems on sheaf cohomology break down in every possible way.
+In the first Pathologies paper, Mumford finds an everywhere regular differential form on a smooth projective surface that is not closed, and shows that Hodge symmetry fails for classical Enriques surfaces in characteristic two.  This second example is developed further in Mumford's third paper on classification of surfaces in characteristic p (written in collaboration with E. Bombieri).  This pathology can now be explained in terms of the Picard scheme of the surface, and in particular, its failure to be a reduced scheme, which is a theme developed in Mumford's book "Lectures on Curves on an Algebraic Surface".  Worse pathologies related to p-torsion in crystalline cohomology were explored by Luc Illusie (Ann. Sci. Ec. Norm. Sup. (4) 12 (1979), 501–661).
+In the second Pathologies paper, Mumford gives a simple example of a surface in characteristic p where the geometric genus is non-zero, but the second Betti number is equal to the rank of the Néron–Severi group. Further such examples arise in Zariski surface theory.  He also conjectures that the Kodaira vanishing theorem is false for surfaces in characteristic p.  In the third paper, he gives an example of a normal surface for which Kodaira vanishing fails.  The first example of a smooth surface for which Kodaira vanishing fails was given by Michel Raynaud in 1978.
+
+Pathologies of moduli spaces
+In the second Pathologies paper, Mumford finds that the Hilbert scheme parametrizing space curves of degree 14 and genus 24 has a multiple component.  In the fourth Pathologies paper, he finds reduced and irreducible complete curves which are not specializations of non-singular curves.
+These sorts of pathologies were considered to be fairly scarce when they first appeared.  But Ravi Vakil showed in his paper "Murphy's law in algebraic geometry" has shown that Hilbert schemes of nice geometric objects can be arbitrarily "bad", with unlimited numbers of components and with arbitrarily large multiplicities (Invent. Math. 164 (2006), 569–590).
+
+Classification of surfaces
+In three papers written between 1969 and 1976 (the last two in collaboration with Enrico Bombieri), Mumford extended the Enriques–Kodaira classification of smooth projective surfaces from the case of the complex ground field to the case of an algebraically closed ground field of characteristic p.  The final answer turns out to be essentially the same as the answer in the complex case (though the methods employed are sometimes quite different), once two important adjustments are made.  The first is that one may get "non-classical" surfaces, which come about when p-torsion in the Picard scheme degenerates to a non-reduced group scheme.  The second is the possibility of obtaining quasi-elliptic surfaces in characteristics two and three.  These are surfaces fibred over a curve where the general fibre is a curve of arithmetic genus one with a cusp.
+Once these adjustments are made, the surfaces are divided into four classes by their Kodaira dimension, as in the complex case.  The four classes are:
+a) Kodaira dimension minus infinity.  These are the ruled surfaces.
+b) Kodaira dimension 0.  These are the K3 surfaces, abelian surfaces, hyperelliptic and quasi-hyperelliptic surfaces, and Enriques surfaces.  There are classical and non-classical examples in the last two Kodaira dimension zero cases.
+c) Kodaira dimension 1. These are the elliptic and quasi-elliptic surfaces not contained in the last two groups.
+d) Kodaira dimension 2. These are the surfaces of general type.
+
+Awards and honors
+Mumford was awarded a Fields Medal in 1974.  He was a
+MacArthur Fellow from 1987 to 1992. He won the Shaw Prize in 2006.  In 2007 he was awarded the Steele Prize for Mathematical Exposition by the American Mathematical Society. In 2008 he was awarded the Wolf Prize; on receiving the prize in Jerusalem from Shimon Peres, Mumford announced that he was donating half of the prize money to Birzeit University in the Palestinian territories and half to Gisha, an Israeli organization that promotes the right to freedom of movement of Palestinians in the Gaza Strip. He also served on the Mathematical Sciences jury for the Infosys Prize in 2009 and 2010. In 2010 he was awarded the National Medal of Science. In 2012 he became a fellow of the American Mathematical Society.There is a long list of awards and honors besides the above, including
+
+Westinghouse Science Talent Search finalist, 1953.
+Junior Fellow at Harvard from 1958 to 1961.
+Elected to the National Academy of Sciences in 1975.
+Honorary Fellow from Tata Institute of Fundamental Research in 1978.
+Honorary D. Sc. from the University of Warwick in 1983.
+Foreign Member of Accademia Nazionale dei Lincei, Rome, in 1991.
+Honorary Member of London Mathematical Society in 1995.
+Elected to the American Philosophical Society in 1997.
+Honorary D. Sc. from Norwegian University of Science and Technology in 2000.
+Honorary D. Sc. from Rockefeller University in 2001.
+Longuet-Higgins Prize in 2005 and 2009.
+Foreign Member of The Royal Society in 2008.
+Foreign Member of the Norwegian Academy of Science and Letters.
+Honorary Doctorate from Brown University in 2011.
+2012 BBVA Foundation Frontiers of Knowledge Award in the Basic Sciences category (jointly with Ingrid Daubechies).
+Honoris Causa University of Hyderabad, India 2012He was elected President of the International Mathematical Union in 1995 and served from 1995 to 1999.
+
+See also
+Notes
+Publications
+Lectures on Curves on Algebraic Surfaces (with George Bergman), Princeton University Press, 1964.
+Geometric Invariant Theory, Springer-Verlag, 1965 – 2nd edition, with J. Fogarty, 1982; 3rd enlarged edition, with F. Kirwan and J. Fogarty, 1994.
+Mumford, David (1999) [1967], The red book of varieties and schemes, Lecture Notes in Mathematics, vol. 1358 (expanded, Includes Michigan Lectures (1974) on Curves and their Jacobians ed.), Berlin, New York: Springer-Verlag, doi:10.1007/b62130, ISBN 978-3-540-63293-1, MR 1748380
+Abelian Varieties, Oxford University Press, 1st edition 1970; 2nd edition 1974.
+Six Appendices to Algebraic Surfaces by Oscar Zariski – 2nd edition, Springer-Verlag, 1971.
+Toroidal Embeddings I (with G. Kempf, F. Knudsen and B. Saint-Donat), Lecture Notes in Mathematics #339, Springer-Verlag 1973.
+Curves and their Jacobians , University of Michigan Press, 1975.
+Smooth Compactification of Locally Symmetric Varieties (with A. Ash, M. Rapoport and Y. Tai, Math. Sci. Press, 1975)
+ Algebraic Geometry I: Complex Projective Varieties, Springer-Verlag New York, 1975.
+Tata Lectures on Theta (with C. Musili, M. Nori, P. Norman, E. Previato and M. Stillman), Birkhäuser-Boston, Part I 1982, Part II 1983, Part III 1991.
+Filtering, Segmentation and Depth (with M. Nitzberg and T. Shiota), Lecture Notes in Computer Science #662, 1993.
+Two and Three Dimensional Pattern of the Face (with P. Giblin, G. Gordon, P. Hallinan and A. Yuille), AKPeters, 1999.
+Mumford, David; Series, Caroline; Wright, David (2002), Indra's Pearls: The Vision of Felix Klein, Cambridge University Press, doi:10.1017/CBO9781107050051.024, ISBN 978-0-521-35253-6, MR 1913879  Indra's Pearls: The Vision of Felix Klein
+Selected Papers on the Classification of Varieties and Moduli Spaces, Springer-Verlag, 2004.
+Mumford, David (2010), Selected papers, Volume II. On algebraic geometry, including correspondence with Grothendieck, New York: Springer, ISBN 978-0-387-72491-1, MR 2741810
+Mumford, David; Desolneux, Agnès (2010), Pattern Theory: The Stochastic Analysis of Real-World Signals, A K Peters/CRC Press, ISBN 978-1568815794, MR 2723182
+Mumford, David; Oda, Tadao (2015), Algebraic geometry. II., Texts and Readings in Mathematics, vol. 73, New Delhi: Hindustan Book Agency, ISBN 978-93-80250-80-9, MR 3443857
+
+External links
+
+O'Connor, John J.; Robertson, Edmund F., "David Mumford", MacTutor History of Mathematics Archive, University of St Andrews
+David Mumford at the Mathematics Genealogy Project
+Mumford's page at Brown University

@@ -1,0 +1,87 @@
+Obstetric ultrasonography, or prenatal ultrasound, is the use of medical ultrasonography in pregnancy, in which sound waves are used to create real-time visual images of the developing embryo or fetus in the uterus (womb). The procedure is a standard part of prenatal care in many countries, as it can provide a variety of information about the health of the mother, the timing and progress of the pregnancy, and the health and development of the embryo or fetus.
+The International Society of Ultrasound in Obstetrics and Gynecology (ISUOG) recommends that pregnant women have routine obstetric ultrasounds between 18 weeks' and 22 weeks' gestational age (the anatomy scan) in order to confirm pregnancy dating, to measure the fetus so that growth abnormalities can be recognized quickly later in pregnancy, and to assess for congenital malformations and multiple pregnancies (twins, etc). Additionally, the ISUOG recommends that pregnant patients who desire genetic testing have obstetric ultrasounds between 11 weeks' and 13 weeks 6 days' gestational age in countries with resources to perform them (the nuchal scan). Performing an ultrasound at this early stage of pregnancy can more accurately confirm the timing of the pregnancy, and can also assess for multiple fetuses and major congenital abnormalities at an earlier stage. Research shows that routine obstetric ultrasound before 24 weeks' gestational age can significantly reduce the risk of failing to recognize multiple gestations and can improve pregnancy dating to reduce the risk of labor induction for post-dates pregnancy. There is no difference, however, in perinatal death or poor outcomes for infants.
+
+Terminology
+Below are useful terms on ultrasound:
+Echogenic – giving rise to reflections (echoes) of ultrasound waves
+Hyperechoic – more echogenic (brighter) than normal
+Hypoechoic – less echogenic (darker) than normal
+Isoechoic – the same echogenicity as another tissue
+Transvaginal ultrasonography – Ultrasound is performed through the vagina
+Transabdominal ultrasonography – Ultrasound is performed across the abdominal wall or through the abdominal cavityIn normal state, each body tissue type, such as liver, spleen or kidney, has a unique echogenicity. Fortunately, gestational sac, yolk sac and embryo are surrounded by hyperechoic (brighter) body tissues.
+
+Types
+Traditional obstetric sonograms are done by placing a transducer on the abdomen of the pregnant woman.  One variant, transvaginal sonography, is done with a probe placed in the woman's vagina.  Transvaginal scans usually provide clearer pictures during early pregnancy and in obese women. Also used is Doppler sonography which detects the heartbeat of the fetus.  Doppler sonography can be used to evaluate the pulsations in the fetal heart and bloods vessels for signs of abnormalities.
+
+3D ultrasound
+Modern 3D ultrasound images provide greater detail for prenatal diagnosis than the older 2D ultrasound technology. While 3D is popular with parents desiring a prenatal photograph as a keepsake, both 2D and 3D are discouraged by the FDA for non-medical use, but there are no definitive studies linking ultrasound to any adverse medical effects.  The following 3D ultrasound images were taken at different stages of pregnancy:
+
+Medical uses
+Early pregnancy
+A gestational sac can be reliably seen on transvaginal ultrasound by 5 weeks' gestational age (approximately 3 weeks after ovulation). The embryo should be seen by the time the gestational sac measures 25 mm, about five-and-a-half weeks. The heartbeat is usually seen on transvaginal ultrasound by the time the embryo measures 5 mm, but may not be visible until the embryo reaches 19 mm, around 7 weeks' gestational age. Coincidentally, most miscarriages also happen by 7 weeks' gestation. The rate of miscarriage, especially threatened miscarriage, drops significantly after normal heartbeat is detected, and after 13 weeks.
+
+First trimester
+In the first trimester, a standard ultrasound examination typically includes:
+Gestational sac size, location, and number
+Identification of the embryo and/or yolk sac
+Measurement of fetal length (known as the crown-rump length)
+Fetal number, including number of amnionic sacs and chorionic sacs for multiple gestations
+Embryonic/fetal cardiac activity
+Assessment of embryonic/fetal anatomy appropriate for the first trimester
+Evaluation of the maternal uterus, tubes, ovaries, and surrounding structures
+Evaluation of the fetal nuchal fold, with consideration of fetal nuchal translucency assessment
+
+Second and third trimester
+In the second trimester, a standard ultrasound exam typically includes:
+Fetal number, including number of amnionic sacs and chorionic sacs for multiple gestations
+Fetal cardiac activity
+Fetal position relative to the uterus and cervix
+Location and appearance of the placenta, including site of umbilical cord insertion when possible
+Amniotic fluid volume
+Gestational age assessment
+Fetal weight estimation
+Fetal anatomical survey
+Evaluation of the maternal uterus, tubes, ovaries, and surrounding structures when appropriate
+
+Dating and growth monitoring
+Gestational age is usually determined by the date of the woman's last menstrual period, and assuming ovulation occurred on day fourteen of the menstrual cycle. Sometimes a woman may be uncertain of the date of her last menstrual period, or there may be reason to suspect ovulation occurred significantly earlier or later than the fourteenth day of her cycle. Ultrasound scans offer an alternative method of estimating gestational age. The most accurate measurement for dating is the crown-rump length of the fetus, which can be done between 7 and 13 weeks of gestation. After 13 weeks of gestation, the fetal age may be estimated using the biparietal diameter (the transverse diameter of the head, across the two parietal bones), the head circumference, the length of the femur, the crown-heel length (head to heel), and other fetal parameters. Dating is more accurate when done earlier in the pregnancy; if a later scan gives a different estimate of gestational age, the estimated age is not normally changed but rather it is assumed the fetus is not growing at the expected rate.The abdominal circumference of the fetus may also be measured. This gives an estimate of the weight and size of the fetus and is important when doing serial ultrasounds to monitor fetal growth.
+
+Fetal sex discernment
+The sex of the fetus may be discerned by ultrasound as early as 11 weeks' gestation. The accuracy is relatively imprecise when attempted early. After 13 weeks' gestation, a high accuracy of between 99% and 100% is possible if the fetus does not display intersex external characteristics.The following is accuracy data from two hospitals:
+
+Influencing factors
+The accuracy of fetal sex discernment depends on:
+Gestational age
+Precision of sonographic machine
+Expertise of the operator
+Fetal posture
+
+Ultrasonography of the cervix
+Obstetric sonography is useful in the assessment of the cervix in women at risk for premature birth.  A short cervix preterm is associated with a higher risk for premature delivery: At 24 weeks' gestation, a cervix length of less than 25 mm defines a risk group for spontaneous preterm birth. Further, the shorter the cervix, the greater the risk. Cervical measurement on ultrasound also has been helpful to use ultrasonography in patients with preterm contractions, as those whose cervical length exceeds 30 mm are unlikely to deliver within the next week.
+
+Abnormality screening
+In most countries, routine pregnancy sonographic scans are performed to detect developmental defects before birth. This includes checking the status of the limbs and vital organs, as well as (sometimes) specific tests for abnormalities. Some abnormalities detected by ultrasound can be addressed by medical treatment in utero or by perinatal care, though indications of other abnormalities can lead to a decision regarding abortion.
+Perhaps the most common such test uses a measurement of the nuchal translucency thickness ("NT-test", or "Nuchal Scan"). Although 91% of fetuses affected by Down syndrome exhibit this defect, 5% of fetuses flagged by the test do not have Down syndrome.
+Ultrasound may also detect fetal organ anomaly.  Usually scans for this type of detection are done around 18 to 23 weeks of gestational age (called the "anatomy scan", "anomaly scan," or "level 2 ultrasound"). Some resources indicate that there are clear reasons for this and that such scans are also clearly beneficial because ultrasound enables clear clinical advantages for assessing the developing fetus in terms of morphology, bone shape, skeletal features, fetal heart function, volume evaluation, fetal lung maturity, and general fetus well being.Second-trimester ultrasound screening for aneuploidies is based on looking for soft markers and some predefined structural abnormalities. Soft markers are variations from normal anatomy, which are more common in aneuploid fetuses compared to euploid ones. These markers are often not clinically significant and do not cause adverse pregnancy outcomes.
+
+Safety issues
+Current evidence indicates that diagnostic ultrasound is safe for the unborn child, unlike radiographs, which employ ionizing radiation. Randomized controlled trials have followed children up to ages 8–9, with no significant differences in vision, hearing, school performance, dyslexia, or speech and neurologic development by exposure to ultrasound. In one randomized trial, the children with greater exposure to ultrasound had a reduction in perinatal mortality, and was attributed to the increased detection of anomalies in the ultrasound group.The 1985 maximum power allowed by the U.S. Food and Drug Administration (FDA) of 180 milliwatts per square cm is well under the levels used in therapeutic ultrasound, but still higher than the 30-80 milliwatts per square cm range of the Statison V veterinary LIPUS device.Doppler ultrasonography examinations has a thermal index (TI) of about five times that of regular (B-mode) ultrasound examinations. Several randomized controlled trials have reported no association between Doppler exposure and birth weight, Apgar scores, and perinatal mortality. One randomized controlled trial, however, came to the result of a higher perinatal death rate of normally formed infants born after 24 weeks exposed to Doppler ultrasonography (RR 3.95, 95% CI 1.32–11.77), but this was not a primary outcome of the study, and has been speculated to be due to chance rather than a harmful effect of Doppler itself.The FDA discourages its use for non-medical purposes such as fetal keepsake videos and photos, even though it is the same technology used in hospitals.The American Institute of Ultrasound in Medicine recommends spectral Doppler only if M-mode sonography is unsuccessful, and even then only briefly, due to the acoustic intensity delivered to the fetus.
+
+History
+Scottish physician Ian Donald was one of the pioneers of medical use of ultrasound. His article "Investigation of Abdominal Masses by Pulsed Ultrasound" was published in The Lancet in 1958. Donald was Regius Professor of Midwifery at the University of Glasgow.In 1962, David Robinson, George Kossoff, George Radovanovich, and Dr William Garrett were the first in the world to identify a number of foetal anatomical structures from high frequency sound wave imaging.In 1962, after about two years of work, Joseph Holmes, William Wright, and Ralph Meyerdirk developed the first compound contact B-mode scanner.  Their work had been supported by U.S. Public Health Services and the University of Colorado. Wright and Meyerdirk left the university to form Physionic Engineering Inc., which launched the first commercial hand-held articulated arm compound contact B-mode scanner in 1963. This was the start of the most popular design in the history of ultrasound scanners.
+Obstetric ultrasound has played a significant role in the development of diagnostic ultrasound technology in general.  Much of the technological advances in diagnostic ultrasound technology are due to the drive to create better obstetric ultrasound equipment. Acuson Corporation's pioneering work on the development of Coherent Image Formation helped shape the development of diagnostic ultrasound equipment as a whole.In March and April 2015, a post by a pregnant woman named Jen Martin (née Cardinal) and her husband to YouTube, which had been viewed at least 2 million times and had many likes, showed the 14-week-old fetus clapping repeatedly to the song, sung by the parents, "If You're Happy And You Know It". It was later revealed that the video – while not a fake – had been somewhat edited to show more fetal claps than likely occurred. It is not unprecedented for fetuses of that age to make momentary movements that could be repeated once or twice beyond the initial movement, according to experts, but to repeat such a movement more than that – especially purposefully – would not likely be feasible at that point.
+
+Society and culture
+The increasingly widespread use of ultrasound technology in monitoring pregnancy has had a great impact on the way in which women and societies at large conceptualise and experience pregnancy and childbirth. The pervasive spread of obstetric ultrasound technology around the world and the conflation of its use with creating a 'safe' pregnancy as well as the ability to see and determine features like the sex of the fetus affect the way in which pregnancy is experienced and conceptualised. This "technocratic takeover" of pregnancy is not limited to western or developed nations but also affects conceptualisations and experiences in developing nations and is an example of the increasing medicalisation of pregnancy, a phenomenon that has social as well as technological ramifications. Ethnographic research concerned with the use of ultrasound technology in monitoring pregnancy can show us how it has changed the embodied experience of expecting mothers around the globe.Recent studies have stressed the importance of framing "reproductive health matters cross-culturally", particularly when understanding the "new phenomenon" of "the proliferation of ultrasound imaging" in developing countries. In 2004, Tine Gammeltoft interviewed 400 women in Hanoi's Obstetrics and Gynecology Hospital; each "had an average of 6.6 scans during her pregnancy", much higher than five years prior when "a pregnant woman might or might not have had a single scan during her pregnancy" in Vietnam. Gammeltoft explains that "many Asian countries" see "the foetus as an ambiguous being" unlike in Western medicine where it is common to think of the foetus as "materially stable". Therefore, although women, particularly in Asian countries, "express intense uncertainties regarding the safety and credibility of this technology", it is overused for its "immediate reassurance".
+
+See also
+3D ultrasound
+Doppler fetal monitor
+Global Library of Women's Medicine
+Gynecologic ultrasonography
+
+References
+External links
+RadiologyInfo: Obstetric Ultrasound Imaging
+AIUM statement on prudent use of Ultrasound
+The Global Library of Women's Medicine Imaging in Obstetrics and Gynecology link

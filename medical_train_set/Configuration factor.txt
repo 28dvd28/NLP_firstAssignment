@@ -1,0 +1,24 @@
+In dentistry, the configuration factor (or c-factor) refers to the number of bonded surfaces in an adhesive dental restoration.  Because adhesive dental restorative material will adhere to the walls of a cavity preparation made available to it during polymerization, competing forces can arise during restoration of the tooth that can have both short and long term effects that correlate to the configuration of the cavity preparation.
+
+Adhesive dental materials
+Adhesive dental materials are generally used in a semi-liquid or semi-solid state that is then changed into a solid state during or after placement of the material into the cavity preparation -- this process is known as polymerization.  This modification of state can occur automatically after a given time period after the material is discharged from the cartridge (referred to as self-polymerization) or this change can be activated by certain wavelengths of light (referred to as light-cured or light-sensitive material) or the material can be activated in both ways (referred to as dual curing).
+
+Competing forces
+Because these materials are adhesive in nature, they bond to the walls of the cavity preparation during curing.  Another feature of polymerization is called polymerization shrinkage -- the material shrinks a tiny bit during this change from semi-liquid / semi-solid to solid.  Because the material both shrinks and adheres to the walls and floor of the cavity preparation, competing forces arise that can lead to strain in the material (weaknesses in the final restoration) and subsequent early failure of the restoration, and lack of marginal integrity (small gaps between the restoration and the tooth) resulting in post-operative pain and or sensitivity.
+
+The role of c-factor in polymerization
+The number of walls in a cavity preparation have been found to correlate with the number and magnitude of competing forces.
+For example, a class I cavity preparation exhibits 5 surfaces that will be bonded to by the future adhesive restorative dental material: mesial, distal, facial, lingual and the floor of the preparation; the c-factor would thus be 5.  If the restorative material is added to the cavity preparation in one application, this high c-factor will put sufficient stress on the restorative material and increase the likelihood of post-operative pain and sensitivity and early failure.  From a very technical perspective, it can be said that "the developing curing contraction in a bonded restoration generates stress on the bonded interfaces that are in competition with the developing bond strength of the setting restorative to the cavity surfaces, which may result in (partial) debonding, marginal leakage and post-operative pain."
+
+How to prevent polymerization-related deficits in high c-factor cavity preparations
+Internal stress can be reduced in an adhesive restoration by employing the following techniques:
+
+"soft-start" polymerization instead of high-intensity light curing
+incremental layering to reduce the effects of polymerization shrinkage; and
+a stress-breaking liner, such as filled adhesive, flowable composite, or resin-modified glass ionomers
+the application of non or low shrinking restorative materials
+
+References
+Further reading
+Roberson, Theodore; Haymann, Harold; Swift, Edward (2002), Sturdevant's Art and science of Operative Dentistry, St. Louis, Missouri: Mosby
+Davidson, Carel L (1986), "Resisting the curing contraction with adhesive composites", J Prosthet Dent, 55 (4): 446–44

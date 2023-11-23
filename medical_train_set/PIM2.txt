@@ -1,0 +1,5 @@
+PIM2 is a scoring system for rating the severity of medical illness for children, one of several ICU scoring systems. Its name stands for "Paediatric Index of Mortality". It has been designed to provide a predicted mortality for a patient by following a well-defined procedure. Predicted mortalities are good when dealing with several patients, because the average predicted mortality for a group of patients is an indicator for the morbidity of these patients.
+Just like APACHE II and SAPS II, it does not provide a real-life predicted mortality. The standard is too old, variations in mortality are huge between countries and departments, and the definition of mortality is varying, too. However, PIM2 provides a good way to benchmark different sets of patients.
+
+References
+Slater A, Shann F, Pearson G, Paediatric Index of Mortality Study Group (2003). "PIM2: a revised version of the Paediatric Index of Mortality". Intensive Care Med. 29 (2): 278–85. doi:10.1007/s00134-002-1601-2. PMID 12541154. S2CID 23477200. this is the first published description of the scoring system

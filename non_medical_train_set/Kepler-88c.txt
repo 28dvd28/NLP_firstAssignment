@@ -1,0 +1,9 @@
+Kepler-88 is a Sun-like star in the constellation of Lyra, with three confirmed planets. In April 2012, scientists discovered that a Kepler candidate known as KOI-142.01 (Kepler-88b) exhibited very significant transit-timing variations caused by a non-transiting planet. Timing variations were large enough to cause changes to transit durations to Kepler-88b as well. Large transit-timing variations helped to put tight constraints to masses of both planets. The non-transiting planet was further confirmed through the radial velocity method in November 2013.
+
+Planetary system
+Kepler-88b is the innermost planet in the system and is Neptune-sized but almost half as dense.
+Kepler 88c is about 60% as massive as Jupiter, but its radius is not known due to not transiting the planet.
+Kepler-88d orbits its star every four years, and its orbit is not circular, but elliptical. At three times the mass of Jupiter, it is the most massive. It was discovered based on six years of radial velocity (RV) follow-up from the W. M. Keck Observatory High Resolution Echelle Spectrometer spectrograph.
+
+
+== References ==

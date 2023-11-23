@@ -1,0 +1,15 @@
+The Lille Model is a medical modeling tool for predicting mortality in patients with alcoholic hepatitis who are not responding to steroid therapy. The model risk stratifies patients who have been receiving steroid treatment for seven days to predict who will improve and who should be considered for alternative treatment options including early referral for transplant.The model is based on:
+
+Age
+Albumin
+Bilirubin (initial)
+Bilirubin (day 7)
+Creatinine
+PTInitial model was based on a study of 238 patients and published in the Journal of Hepatology in 2003.  Recent cohort studies demonstrate that those with a Lille score above 0.45 are likely non-responders to steroid therapy.
+
+See also
+Model for End-Stage Liver Disease
+
+References
+External links
+MedCalc Calculator and Description

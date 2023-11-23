@@ -1,0 +1,40 @@
+Defecography (also known as proctography, defecating/defecation proctography, evacuating/evacuation proctography or dynamic rectal examination) is a type of medical radiological imaging in which the mechanics of a patient's defecation are visualized in real time using a fluoroscope. The anatomy and function of the anorectum and pelvic floor can be dynamically studied at various stages during defecation.
+
+History
+Defecating proctography was pioneered in 1945, during World War II. The procedure gained popularity at this time in the midst of an outbreak of whipworm, which is known to cause rectal prolapse. It has since become used for diagnosis of various anorectal disorders, including anismus and other causes of obstructed defecation.
+It has fallen out of favor due to inadequate training in the technique. It is now only performed at a few institutions. Many radiology residents refer to the procedure as the "Def Proc", "Defogram", or "Stool Finale".
+
+Indications
+Defecography may be indicated for the following reasons:
+
+Evaluation of rectal outlet obstruction (obstructed defecation) symptoms
+Evaluation of all types of rectal (fecal) incontinence.
+Suspected conditions such as internal rectal intussusception, enterocele, anismus, rectocele or sigmoidocele.
+To compare pre- and post-surgical repair of rectal outlet obstruction (obstructed defecation).Specifically, defecography can differentiate between anterior and posterior rectocele. Also, in external rectal prolapse that was not directly visualized during examination, this radiographic projection will demonstrate its presence.
+
+Technique
+In females, pre-procedural preparation involves smearing a small amount of barium contrast agent in the vagina, which will help to identify if anterior rectocele, enterocele or sigmoidocele is present.
+The technique itself involves the insertion of a caulking gun device into the rectum with a subsequent manual infusion of barium paste until there is adequate distension. The patient is then transferred to a portable plastic commode which is situated next to a fluoroscope which records the defecation. Positioning of the X-ray camera is of paramount importance as visualization of the buttocks, rectal vault, and lower pelvis is critical.
+
+Diagnostic yield and interpretation
+Anatomical and physiological parameters that can be objectively measured by this investigation include:
+Anorectal angle:  This is the "mid-axial longitudinal axis of the rectum and the anal canal", created by the anterior pull of the puborectalis sling at the level of the anorectal junction. At rest, it is held at 90 - 100°. This becomes more acute (70 - 90°) when the patient contracts the anal sphincters and pelvic floor muscles, and more obtuse (110 - 180°)during defecation.Perineal descent: This is "the caudad movement of the pelvic floor [during] straining". Defecation normally involves a relaxation of the pelvic floor (levator ani), leading to descent of the perineum. After straining, the opposite occurs, the perineum rises. From the proctogram, descent is calculated by drawing an imaginary line (the pubococcygeal line) between the most inferior point on the pubic bone and the tip of the coccyx. Normal perineal descent or elevation is less than 4 cm from the pubococcygeal line in either direction (superior or inferior).Efficiency of emptying/evacuation: Normally, there is 90-100% evacuation of rectal contents.Anal canal length: This is measured during maximal evacuation.Anal canal width: Again measured during maximal evacuation, this is usually less than 2.5 cm.Conditions which may be demonstrated include:
+Anismus (pelvic floor dyssynergia): It has been suggested that some patients may be embarrassed by this procedure, which give findings of abnormal defecation. For example, the patient may not be able to relax under the conditions, leading to relaxation failure of puborectalis and false positive diagnosis of anismus. It has also been reported that there is a high false positive rate of anismus diagnosis with anorectal manometry for similar reasons.
+Rectocele: This is the most common finding with this type of imaging. Almost always, this is an anterior rectocele where the anterior rectal wall bulges forward, into the vagina in females. In males, the prostate gland gives more support in this area compared to the vaginal cavity, so rectoceles, especially anterior rectoceles are uncommon in males. Less commonly and in males, there may be posterior rectoceles, where the rectum bulges posteriorly. Both the size and the efficiency of emptying can be assessed with proctography. Since many rectoceles are asymptomatic, this may only be a significant finding if there are symptoms of obstructed defecation. Usually rectoceles greater than 3 cm and those that do not empty are clinically significant.
+Enterocele and Sigmoidocele: Enterocele is a prolapse of peritoneum that contains a section of small intestine. Sigmoidocele is a prolapse of peritoneum that contains a section of sigmoid colon. In females, these prolapses usually descend between the rectum and the vagina. They are most likely to be seen during straining.
+Rectal prolapse/Internal rectal intussusception:The rectum may be seen to prolapse, whether internally or externally. There can be difficulty differentiating between internal intussusception and a normal rectal fold. The thickness of the intussusception is half the width of the intussusception (the intussusception is a doubled over layer of rectal wall). This is most likely to be seen during straining.
+
+Megarectum:  This is excessive width (>9 cm) of the rectum at the level of the distal sacrum and incomplete evacuation.
+Descending perineum syndrome: If the perineum descends >4 cm, descending perineum syndrome may be diagnosed.
+Fecal incontinence:  If the barium paste does not stay in the rectum.
+
+Cinedefecography and MRI defecography
+Cinedefecography is a technique that is an evolution of defecography. The defecation cycle is recorded as a continuous series rather than individual still radiographs. More recent techniques involve the use of advanced, cross-sectional imaging modalities such as magnetic resonance imaging. This is known as dynamic pelvic MRI, or MRI proctography. The MRI proctography also called MRI defecography is not as efficient as conventional X-ray defecography for some problems.
+
+See also
+Anorectal manometry
+Obstructed defecation
+
+References
+External links
+Dynamic rectal examination on "the Radiology Assistant", many example defecating proctograms with interpretation.

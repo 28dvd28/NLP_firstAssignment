@@ -1,0 +1,49 @@
+Keļallur Nilakantha Somayaji (14 June 1444 – 1545), also referred to as Keļallur Comatiri, was a major mathematician and astronomer of the Kerala school of astronomy and mathematics. One of his most influential works was the comprehensive astronomical treatise Tantrasamgraha completed in 1501. He had also composed an elaborate commentary on Aryabhatiya called  the Aryabhatiya Bhasya. In this Bhasya, Nilakantha had discussed  infinite series expansions of trigonometric functions and  problems of algebra and spherical geometry. Grahapariksakrama is a manual on making observations in astronomy based on instruments of the time. Known popularly as Kelallur Chomaathiri, he is considered an equal to Vatasseri Parameshwaran Nambudiri.
+
+Early life
+Nilakantha was born into a Brahmin family which came from South Malabar in Kerala.
+
+Biographical details
+Nilakantha Somayaji was one of the very few authors of the scholarly traditions of India who had cared to record details about his own life and times.In one of his works titled Siddhanta-star and also in his own commentary on Siddhanta-darpana, Nilakantha Somayaji has stated that he was born on Kali-day 1,660,181 which works out to 14 June 1444 CE. A contemporary reference to Nilakantha Somayaji in a Malayalam work on astrology implies that Somayaji lived to a ripe old age even to become a centenarian. Sankara Variar, a pupil of Nilakantha Somayaji, in his commentary on Tantrasamgraha titled Tantrasamgraha-vyakhya, points out that the first and last verses of Tantrasamgraha contain chronograms specifying the Kali-days of the commencement (1,680,548) and of completion (1,680,553) of Somayaji's magnum opus Tantrasamgraha. Both these days occur in 1500 CE.
+In Aryabhatiya-bhashya, Nilakantha Somayaji has stated that he was the son of Jatavedas and he had a brother named Sankara. Somayaji has further stated that he was a Bhatta belonging  to the Gargya gotra and was a follower of Asvalayana-sutra of Rigveda. References in his own Laghuramayana indicate that Nilakantha Somayaji was a member of the Kelallur family (Sanskritised as Kerala-sad-grama) residing at Kundagrama, now known as Trikkandiyur in modern Tirur, Kerala. His wife was named Arya and he had two sons Rama and Dakshinamurti.
+Nilakantha Somayaji studied vedanta and some aspects of astronomy under one Ravi. However, it was Damodara, son of Kerala-drgganita author Paramesvara, who initiated him into the science of astronomy and instructed him in the basic principles of mathematical computations. The great Malayalam poet Thunchaththu Ramanujan Ezhuthachan is said to have been a student of Nilakantha Somayaji.
+The epithet Somayaji is a title  assigned to or assumed by a Namputiri who has performed the vedic ritual of Somayajna. So it could be surmised that Nilakantha Somayaji had also performed a Somayajna ritual and assumed the title of a Somayaji in later life. In colloquial Malayalam usage the word Somayaji has been corrupted to Comatiri.
+
+Nilakantha Somayaji as a polymath
+Nilakantha's writings substantiate his knowledge of several branches of Indian philosophy and culture. It is said that he could refer to a Mimamsa authority to establish his view-point in a debate and with equal felicity apply a grammatical dictum to the same purpose. 
+In his writings he refers to a Mimamsa authority, quotes extensively from Pingala's chandas-sutra, scriptures, Dharmasastras, Bhagavata and Vishnupurana also. Sundararaja, a contemporary Tamil astronomer, refers to Nilakantha as sad-darshani-parangata, one who had mastered the six systems of Indian philosophy.
+
+Astronomy
+In his Tantrasangraha, Nilakantha revised Aryabhata's model for the planets Mercury and Venus. According to George G. Joseph his equation of the centre for these planets remained the most accurate until the time of Johannes Kepler in the 17th century.In his Aryabhatiyabhasya, a commentary on Aryabhata's Aryabhatiya, Nilakantha developed a computational system for a partially heliocentric planetary model in which Mercury, Venus, Mars, Jupiter and Saturn orbit the Sun, which in turn orbits the Earth, similar to the Tychonic system later proposed by Tycho Brahe in the late 16th century. Most astronomers of the Kerala school who followed him accepted this planetary model.
+
+Works
+The following is a brief description of the  works by Nilakantha Somayaji dealing with astronomy and mathematics.
+Tantrasamgraha
+Golasara : Description of basic astronomical elements and procedures
+Sidhhantadarpana : A short work in 32 slokas enunciating the astronomical constants with reference to the Kalpa and specifying his views on astronomical concepts and topics.
+Candrachayaganita : A work in 32 verses on the methods for the calculation of time from the measurement of the shadow of the gnomon cast by the moon and vice versa.
+Aryabhatiya-bhashya : Elaborate commentary on Aryabhatiya.
+Sidhhantadarpana-vyakhya : Commentary on his own Siddhantadarapana.
+Chandrachhayaganita-vyakhya : Commentary on his own  Chandrachhayaganita.
+Sundaraja-prasnottara : Nilakantha's answers to questions posed by Sundaraja, a Tamil Nadu-based astronomer.
+Grahanadi-grantha : Rationale of the necessity of correcting old astronomical constants by observations.
+Grahapariksakrama : Description of the principles and methods for verifying astronomical computations by regular observations.
+Jyotirmimamsa : Analysis of astronomy
+
+See also
+Indian mathematicians
+Indian astronomy
+List of astronomers and mathematicians of the Kerala school
+
+References
+Further reading
+R.C. Gupta. "Second order interpolation in Indian mathematics up to the fifteenth century" (PDF). Indian Journal of History of Science. 4 (1 & 2): 87–98. Archived from the original (PDF) on 9 March 2012.
+K. V. Sarma (2008) "Nilakantha Somayaji", Encyclopaedia of the History of Science, Technology, and Medicine in Non-Western Cultures (2nd edition) edited by Helaine Selin, Springer, ISBN 978-1-4020-4559-2.
+Shailesh A Shirali (May 1997). "Nilakantha, Euler and pi". Resonance: 28–43. Retrieved 6 September 2016.
+Ranjan Roy (December 1990). "The discovery of the series formula for π by Leibnitz, Gregory and Nilakantha". Mathematics Magazine. Mathematical Association of America. 63 (5): 291–306. doi:10.2307/2690896. JSTOR 2690896. Retrieved 6 September 2016.
+
+External links
+
+Official Website of Chenthala Vishnu Temple
+Tantrasamgraha Official Website
+Official Website of Kelallur Nilakantha Somayaji

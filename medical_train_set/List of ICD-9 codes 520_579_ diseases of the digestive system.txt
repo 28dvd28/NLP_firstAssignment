@@ -1,0 +1,219 @@
+This is a shortened version of the ninth chapter of the ICD-9: Diseases of the Digestive System. It covers ICD codes 520 to 579. The full chapter can be found on pages 301 to 328 of Volume 1, which contains all (sub)categories of the ICD-9. Volume 2 is an alphabetical index of Volume 1. Both volumes can be downloaded for free from the website of the World Health Organization.
+
+Diseases of oral cavity, salivary glands, and jaws (520–529)
+520 Disorders of tooth development and eruption
+520.0 Anodontia
+520.1 Supernumerary teeth
+520.2 Abnormalities of size and form of teeth
+520.3 Mottled teeth
+520.4 Disturbances of tooth formation
+520.5 Hereditary disturbances in tooth structure not elsewhere classified
+520.6 Disturbances in tooth eruption
+520.7 Teething syndrome
+521 Diseases of hard tissues of teeth
+521.0 Dental caries
+521.1 Excessive attrition
+521.2 Abrasion of teeth
+521.3 Erosion of teeth
+521.4 Pathological tooth resorption
+521.5 Hypercementosis
+521.6 Ankylosis of teeth
+521.7 Intrinsic posteruptive color changes of teeth
+521.8 Other specified diseases of hard tissues of teeth
+521.81 Cracked tooth
+522 Diseases of pulp and periapical tissues
+523 Gingival and periodontal diseases
+523.1 Gingivitis, chronic
+524 Dentofacial anomalies, including malocclusion
+524.0 Major anomalies of jaw size
+524.03 Major anomalies of jaw size maxillary hypoplasia
+524.1 Anomalies of relationship of jaw to cranial base
+524.2 Anomalies of dental arch relationship
+524.3 Anomalies of tooth position of fully erupted teeth
+524.4 Malocclusion unspecified
+524.5 Dentofacial functional abnormalities
+524.6 Temporomandibular joint disorders
+524.7 Dental alveolar anomalies
+524.8 Other specified dentofacial anomalies
+525 Other diseases and conditions of the teeth and supporting structures
+526 Diseases of the jaws
+526.0 Developmental odontogenic cysts
+526.1 Fissural cysts of jaw
+526.2 Other cysts of jaws
+526.3 Central giant cell (reparative) granuloma
+526.4 Inflammatory conditions of jaw
+526.5 Alveolitis of jaw
+526.6 Periradicular pathology associated with previous endodontic treatment
+526.8 Other specified diseases of the jaws
+526.81 Exostosis of jaw
+527 Diseases of the salivary glands
+527.0 Atrophy of salivary gland
+527.1 Hypertrophy of salivary gland
+527.2 Sialoadenitis
+527.3 Abscess of salivary gland
+527.4 Fistula of salivary gland
+527.5 Sialolithiasis
+527.6 Mucocele of salivary gland
+527.7 Disturbance of salivary secretion
+528 Diseases of the oral soft tissues, excluding lesions specific for gingiva and tongue
+528.0 Stomatitis
+528.1 Cancrum oris
+528.2 Aphthous ulcer, Oral aphthae
+528.3 Cellulitis and abscess of oral soft tissues
+528.4 Cysts of oral soft tissues
+528.5 Diseases of lips
+528.6 Leukoplakia of oral mucosa including tongue
+528.6 Leukoplakia, oral mucosa
+528.7 Other disturbances of oral epithelium including tongue
+528.79 Erythroplakia
+528.8 Oral submucosal fibrosis, including of tongue
+528.9 Other and unspecified diseases of the oral soft tissues
+529 Diseases and other conditions of the tongue
+529.0 Glossitis
+
+Diseases of esophagus, stomach, and duodenum (530–539)
+530 Diseases of esophagus
+530.0 Achalasia/cardiospasm
+530.1 Esophagitis, unspec.
+530.3 Esophageal stricture/stenosis
+530.8 Other specified disorders of esophagus
+530.81 Gastroesophageal reflux, no esophagitis
+530.85 Barrett's esophagitis
+531 Gastric ulcer
+532 Duodenal ulcer
+533 Peptic ulcer, site unspecified
+534 Gastrojejunal ulcer
+535 Gastritis and duodenitis
+535.0 Acute gastritis
+535.6 Duodenitis
+536 Disorders of function of stomach
+536.3 Gastroparesis
+536.8 Dyspepsia
+537 Other disorders of stomach and duodenum
+538 Gastrointestinal mucositis (ulcerative)
+539 Complications of bariatric procedures
+
+Appendicitis (540–543)
+540 Acute appendicitis
+540.0 Appendicitis, acute w/ gen. peritonitis
+540.9 Appendicitis, acute w/o peritonitis
+541 Appendicitis, unqualified
+542 Other appendicitis
+543 Other diseases of appendix
+
+Hernia of abdominal cavity (550–553)
+550 Inguinal hernia
+550.9 Hernia, inguinal, NOS, unilateral
+551 Other hernia of abdominal cavity, with gangrene
+552 Other hernia of abdominal cavity with obstruction, without mention
+553 Other hernia of abdominal cavity without mention of obstruction
+553.0 Hernia, femoral, unilateral
+553.1 Hernia, umbilical
+553.2 Hernia, ventral, unspec.
+553.21 Hernia, ventral, incisional
+553.3 Hernia, hiatal, noncongenital
+553.9 Hernias, other, NOS
+
+Noninfectious enteritis and colitis (555–558)
+555 Regional enteritis
+555.0 Crohn's, small intestine
+555.1 Crohn's, large intestine
+555.9 Crohn's disease, NOS
+556 Idiopathic proctocolitis
+556.9 Ulcerative colitis, unspec.
+557 Vascular insufficiency of intestine
+557.0 Vascular insufficiency, acute, intestine
+557.9 Ischemic bowel disease, unspec.
+558 Other noninfectious gastroenteritis and colitis
+558.9 Gastroenteritis, noninfectious, unspec.
+
+Other diseases of intestines and peritoneum (560–569)
+560, Intestinal obstruction without mention of hernia
+560.1, Ileus
+560.3, Impaction of intestine
+560.9, Intestinal obstruction unspec
+562, Diverticula of intestine
+562.1, Diverticulosis of colon
+562.11, Diverticulitis of colon, NOS
+562.12, Diverticulosis colon w/ hemorrhage
+564, Functional digestive disorders not elsewhere classified
+564.0, Constipation unspec
+564.1, Irritable bowel syndrome
+564.2, Post-gastric-surgery syndromes
+564.4, Postoperative functional disorders
+564.6, Anal spasm
+565, Anal fissure and fistula
+565.0, Anal fissure nontraumatic
+566, Abscess of anal and rectal regions
+566.0, Abscess perianal
+567, Peritonitis
+567.0, Peritonitis in infectious diseases classified elsewhere
+567.1, Pneumococcal peritonitis
+567.2, Other suppurative peritonitis
+567.21, Peritonitis (acute) generalized
+567.22, Peritoneal abscess
+567.23, Spontaneous bacterial peritonitis
+567.3, Retroperitoneal infections
+567.31, Psoas muscle abscess
+568, Other disorders of peritoneum
+568.0, Peritoneal adhesions
+568.8, Other specified disorders of peritoneum
+Pneumoperitoneum
+569, Other disorders of intestine
+569.3, Bleeding rectal
+569.61, Infection colostomy/enterostomy
+569.62, Mechanical complication of ostomy
+569.85, Angiodysplasia intestine w/ hemorrhage
+
+Other diseases of digestive system (570–579)
+Liver
+570 Acute and subacute necrosis of liver
+570.0 Hepatic failure, acute
+571 Chronic liver disease and cirrhosis
+571.0 Fatty liver, alcoholic
+571.2 Cirrhosis, liver, alcoholic
+571.4 Hepatitis, chronic, unspec.
+571.5 Cirrhosis, NOS
+571.6 Primary biliary cirrhosis
+571.9 Liver disease, chronic, unspec.
+572 Liver abscess and sequelae of chronic liver disease
+572.2 Coma, hepatic
+572.4 Hepatorenal syndrome
+573 Other disorders of liver
+573.3 Hepatitis, toxic
+
+Gallbladder
+574 Cholelithiasis
+574.3 Choledocholithiasis
+575 Other disorders of gallbladder
+575.0 Cholecystitis, acute
+575.9 Gallbladder disease, unspec.
+
+Other biliary tract
+576 Other disorders of biliary tract
+576.0 Postcholecystectomy syndrome
+576.1 Cholangitis
+576.2 Obstruction of bile duct
+Mirizzi's syndrome
+576.3 Perforation of bile duct
+576.4 Fistula of bile duct
+576.5 Spasm of sphincter of oddi
+
+Other
+577 Diseases of pancreas
+577.0 Pancreatitis, acute
+577.1 Pancreatitis, chronic
+577.2 Pancreatic cyst, pseudocyst
+578 Gastrointestinal hemorrhage
+578.0 Hematemesis
+578.1 Blood in stool, melena
+579 Intestinal malabsorption
+579.0 Coeliac disease
+579.1 Tropical sprue
+579.2 Blind loop syndrome
+579.3 Other and unspecified postsurgical nonabsorption
+Short bowel syndrome
+579.4 Pancreatic steatorrhea
+579.8 Other specified intestinal malabsorption
+Protein losing enteropathy
+579.9 Unspecified intestinal malabsorption

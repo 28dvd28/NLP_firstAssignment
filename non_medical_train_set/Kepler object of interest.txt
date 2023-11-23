@@ -1,0 +1,54 @@
+A Kepler object of interest (KOI) is a star observed by the Kepler space telescope that is suspected of hosting one or more transiting planets. KOIs come from a master list of 150,000 stars, which itself is generated from the Kepler Input Catalog (KIC). A KOI shows a periodic dimming, indicative of an unseen planet passing between the star and Earth, eclipsing part of the star. However, such an observed dimming is not a guarantee of a transiting planet, because other astronomical objects—such as an eclipsing binary in the background—can mimic a transit signal. For this reason, the majority of KOIs are as yet not confirmed transiting planet systems.
+
+The Kepler mission lasted for 4 years from 2009 to 2013. The K2 mission continued the mission for next 5 years and ended in October 2018. It is important to note that KOI provides catalogue 10,000 astronomical bodies and many of those have been confirmed as exoplanets since then but with Kepler missions end, the KOI numbers are not going to increase and with advanced technology telescope like JWST, KOIs could get confirmation on being exoplanets faster than past.
+
+History
+The first public release of a list of KOIs was on 15 June 2010 and contained 306 stars suspected of hosting exoplanets, based on observations taken between 2 May 2009 and 16 September 2009. It was also announced that an additional 400 KOIs had been discovered, but would not be immediately released to the public. This was done in order for follow-up observations to be performed by Kepler team members.On February 1, 2011, a second release of observations made during the same time frame contained improved date reduction and listed 1235 transit signals around 997 stars.
+
+Naming convention
+Stars observed by Kepler that are considered candidates for transit events are given the designation "KOI" followed by an integer number. For each set of periodic transit events associated with a particular KOI, a two-digit decimal is added to the KOI number for that star. For example, the first transit event candidate identified around the star KOI-718 is designated KOI-718.01, while the second candidate is KOI-718.02 and the third is KOI-718.03. Once a transit candidate is verified to be a planet (see below), the star is designated "Kepler" followed by a hyphen and an integer number. The associated planet(s) have the same designation, followed by a letter in the order each was discovered.
+
+Kepler data on KOIs
+For all 150,000 stars that were watched for transits by Kepler, there are estimates of each star's surface temperature, radius, surface gravity and mass. These quantities are derived from photometric observations taken prior to Kepler's launch at the 1.2 m reflector at Fred Lawrence Whipple Observatory. For KOIs, there is, additionally, data on each transit signal: the depth of the signal, the duration of the signal and the periodicity of the signal (although some signals lack this last piece of information). Assuming the signal is due to a planet, these data can be used to obtain the size of the planet relative to its host star, the planet's distance from the host star relative to the host star's size (assuming zero eccentricity), and the orbital period of the planet. Combined with the estimated properties of the star described previously, estimates on the absolute size of the planet, its distance from the host star and its equilibrium temperature can be made.
+
+Sources of confusion
+False positives
+While it has been estimated that 90% of the KOI transit candidates are true planets, it is expected that some of the KOIs will be false positives, i.e., not actual transiting planets. The majority of these false positives are anticipated to be eclipsing binaries which, while spatially much more distant and thus dimmer than the foreground KOI, are too close to the KOI on the sky for the Kepler telescope to differentiate. On the other hand, statistical fluctuations in the data are expected to contribute less than one false positive event in the entire set of 150,000 stars being observed by Kepler.
+
+Misidentification
+In addition to false positives, a transit signal can be due to a planet that is substantially larger than what is estimated by Kepler. This occurs when there are sources of light other than simply the star being transited, such as in a binary system. In cases such as these, there is more surface area producing light than is assumed, so a given transit signal is larger than assumed. Since roughly 34% of stellar systems are binaries, up to 34% of KOI signals could be from planets within binary systems and, consequently, be larger than estimated (assuming planets are as likely to form in binary systems as they are in single star systems). However, additional observations can rule out these possibilities and are essential to confirming the nature of any given planet candidate.
+
+Verifying candidates
+Additional observations are necessary in order to confirm that a KOI actually has the planet that has been predicted, instead of being a false positive or misidentification. The most well-established confirmation method is to obtain radial velocity measurements of the planet acting on the KOI. However, for many KOIs this is not feasible. In these cases, speckle imaging or adaptive optics imaging using ground-based telescopes can be used to greatly reduce the likelihood of background eclipsing binaries. Such follow-up observations are estimated to reduce the chance of such background objects to less than 0.01%. Additionally, spectra of the KOIs can be taken to see if the star is part of a binary system.
+
+Notable KOIs
+KOIs with confirmed planets
+As of August 10, 2016, Kepler had found 2329 confirmed planets orbiting 1647 stars, as well as 4696 planet candidates.
+
+Previously detected planets
+Three stars within the Kepler space telescope's field of view have been identified by the mission as Kepler-1, Kepler-2, and Kepler-3 and have planets which were previously known from ground based observations and which were re-observed by Kepler. These stars are cataloged as GSC 03549-02811, HAT-P-7, and HAT-P-11.
+
+Planets confirmed by the Kepler team
+Eight stars were first observed by Kepler to have signals indicative of transiting planets and have since had their nature confirmed. These stars are: Kepler-1658, KOI-5, Kepler-4, Kepler-5, Kepler-6, Kepler-7, Kepler-8, Kepler-9, Kepler-10, and Kepler-11. Of these, Kepler-9 and Kepler-11 have multiple planets (3 and 6, respectively) confirmed to be orbiting them. Kepler-1658b (KOI-4.01) orbiting Kepler-1658 was confirmed in 2019.
+
+Planets confirmed by other collaborations
+From the Kepler data released to the public, one system has been confirmed to have a planet, Kepler-40.
+
+KOIs with unconfirmed planets
+Kepler-20 (KOI-70) has transit signals indicating the existence of at least four planets. KOI-70.04 is one of the smallest extrasolar planets discovered around a main-sequence star (at 0.6 Earth radii) to date, and the second smallest known extrasolar planet after Draugr. The likelihood of KOI 70.04 being of the nature deduced by Kepler (and not a false positive or misidentification) has been estimated at >80%.
+Six transit signals released in the February 1, 2011 data are indicative of planets that are both "Earth-like" (less than 2 Earth radii in size) and located within the habitable zone of the host star. They are: KOI-456.04, KOI-1026.01, KOI-854.01, KOI-701.03, KOI 326.01, and KOI 70.03. A more recent study found that one of these candidates (KOI-326.01) is in fact much larger and hotter than first reported. For now, the only transiting "Earth-like" candidate in the habitable zone around a sun-like star is KOI-456.04, which is in orbit around Kepler-160.
+A September 2011 study by Muirhead et al. reports that a re-calibration of estimated radii and effective temperatures of several dwarf stars in the Kepler sample yields six new terrestrial-sized candidates within the habitable zones of their stars: KOI-463.01, KOI-1422.02, KOI-947.01, KOI-812.03, KOI-448.02, KOI-1361.01.[1]
+
+Non-planet discoveries
+Several KOIs contain transiting objects which are hotter than the stars they transit, indicating that the smaller objects are white dwarfs formed through mass transfer. These objects include KOI 74, KOI 81 and KOI 959.KOI 54 is believed to be a binary system containing two A-class stars in highly eccentric orbits with a semi-major axis of 0.4 AU. During periastron, tidal distortions cause a periodic brightening of the system. In addition, these tidal forces induce resonant pulsations in one (or both) of the stars, making it only the 4th known stellar system to exhibit such behavior.KOI 126 is a triple star system comprising two low mass (0.24 and 0.21 solar masses (M☉)) stars orbiting each other with a period of 1.8 days and a semi-major axis of 0.02 AU. Together, they orbit a 1.3 M☉ star with a period of 34 days and a semi-major axis of 0.25 AU. All three stars eclipse one another which allows for precise measurements of their masses and radii. This makes the low mass stars 2 of only 4 known fully convective stars to have accurate determinations of their parameters (i.e. to better than several percent). The other 2 stars constitute the eclipsing binary system CM Draconis.
+
+See also
+Kepler Input Catalog (KIC)
+Ecliptic Plane Input Catalog (EPIC)
+
+References
+Further reading
+"The Kepler Bonanza, Making Sense of Over a 1200 Extrasolar Worlds". 2011-02-08. Retrieved 2011-02-10.
+Overbye, Dennis (2 February 2011). "Kepler Planet Hunter Finds 1,200 Possibilities". The New York Times. Retrieved 2011-02-10.
+"NASA Finds Earth-size Planet Candidates in Habitable Zone, Six Planet System". NASA. 2011-02-01. Archived from the original on 2011-05-12. Retrieved 2011-02-14.
+Cumulative table of KOI objects

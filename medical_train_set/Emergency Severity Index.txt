@@ -1,0 +1,10 @@
+The Emergency Severity Index (ESI) is a five-level emergency department triage algorithm, initially developed in 1999. It was previously maintained by the Agency for Healthcare Research and Quality (AHRQ), but is currently maintained by the Emergency Nurses Association (ENA).
+
+Algorithm
+ESI triage is based on the acuity of patients' health care problems and the number of resources their care is anticipated to require. This differs from standardized triage algorithms used in several other countries, such as the Australasian Triage Scale, which attempt to divide patients based on the time they may safely wait.
+The concept of a "resource" in ESI means types of complex interventions or diagnostic tools, above and beyond physical examination. Examples of resources include X-ray, blood tests, sutures, and intravenous or intramuscular medications. Oral medications and prescriptions are specifically not considered resources by the ESI algorithm.
+The ESI levels are numbered one through five, with level one indicating the greatest urgency.  However, levels 3, 4, and 5 are determined not by urgency, but by the number of resources expected to be used as determined by an experienced nurse. The levels are as follows:
+
+References
+Gilboy N, Tanabe T, Travers D, Rosenau AM (2011). Emergency Severity Index (ESI): A Triage Tool for Emergency Department Care, Version 4. Implementation Handbook 2012 Edition. AHRQ. ISBN 978-1-58763-416-1.
+Gilboy N, Tanabe T, Travers D, Rosenau AM (2020). Emergency Severity Index (ESI): A Triage Tool for Emergency Department Care, Version 4. 2020 Edition (PDF). Emergency Nurses Association.

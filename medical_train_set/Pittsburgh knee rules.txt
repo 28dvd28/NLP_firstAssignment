@@ -1,0 +1,17 @@
+The Pittsburgh knee rules are medical rules created to ascertain whether a knee injury requires the use of X-ray to assess a fracture.
+
+Criteria
+Blunt trauma or a fall as mechanism of injury AND either of the following:
+Age younger than 12 years or older than 50 years.
+Inability to walk four weight-bearing steps in the emergency department.If the patient satisfies the above criteria, they should receive an X-ray to assess for a possible fracture.
+
+Accuracy
+The sensitivity of using the Pittsburgh knee rules is 99% with a specificity of 60%. That means the use of the above rules has a false negative result of 1% and a false positive result of 40%.From a medical point of view, the false positive result is less important as if the patient is positive, they should receive an X-ray to assess for a possible fracture, which has a much higher specificity. However, from a practical point of view, false positives that lead to negative X-ray tests were the very thing that the knee rules are trying to address. Nonetheless, the Pittsburgh knee rules offer fewer false positives than do the Ottawa knee rules, though the Ottawa knee rules are more commonly used. 
+ The Ottawa knee rules count even a limping step as a step.  Pittsburgh counts only a complete heel/toe plant as a step.  This key difference likely accounts for the difference in specificity.
+The use of the Pittsburgh knee rules reduces the use of knee radiographs by 52%.
+
+See also
+Ottawa knee rules
+
+
+== References ==

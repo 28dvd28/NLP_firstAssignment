@@ -1,0 +1,12 @@
+Jun-ichi Igusa (井草 準一, Igusa Jun’ichi, 30 January 1924 – 24 November 2013) was a Japanese mathematician who for over three decades was on the faculty at Johns Hopkins University. He is known for his contributions to algebraic geometry and number theory. The Igusa zeta-function, the Igusa quartic, Igusa subgroups, Igusa curves, and Igusa varieties are named after him.He was an invited speaker for the 1962 International Congress of Mathematicians in Stockholm. He was awarded Japan's Order of the Sacred Treasure. In 2012 he became a fellow of the American Mathematical Society.
+
+Life and career
+Igusa was born in Kiyosato village, Gunma Prefecture, Japan, on 30 January 1924. He graduated from the University of Tokyo in 1945 and received his Ph.D. from Kyoto University in 1953, after which he became professor of mathematics at the University of Tsukuba. After a brief period spent at Harvard University, he took up a permanent position at Johns Hopkins University, in Baltimore. Igusa taught at Johns Hopkins from 1955 to 1993. He joined the staff of the American Journal of Mathematics as an associate editor in 1964, and served as chief editor between 1978 and 1993. Igusa died, aged 89, of a stroke at Holly Hill Nursing Home in Towson, Maryland, on 24 November 2013.He had three sons, Kiyoshi, Takeru and Mitsuru. Takeru Igusa is a professor of civil engineering at Johns Hopkins University. Kiyoshi Igusa is a professor of mathematics at Brandeis University.
+
+Publications
+Igusa, Jun-ichi (1972), Theta functions, Die Grundlehren der mathematischen Wissenschaften, vol. 194, Berlin, New York: Springer-Verlag, ISBN 978-3-540-05699-7, MR 0325625
+Igusa, Jun-ichi (1978), Forms of higher degree (PDF), Tata Institute of Fundamental Research Lectures on Mathematics and Physics, vol. 59, Bombay: Tata Institute of Fundamental Research, ISBN 978-0-387-08944-7, MR 0546292
+Igusa, Jun-ichi (2000), An introduction to the theory of local zeta functions, AMS/IP Studies in Advanced Mathematics, vol. 14, Providence, R.I.: American Mathematical Society, ISBN 978-0-8218-2015-5, MR 1743467
+
+
+== References ==

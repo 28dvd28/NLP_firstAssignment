@@ -1,0 +1,18 @@
+The Ottawa knee rules are a set of rules used to help physicians determine whether an x-ray of the knee is needed.They state that an X-ray is required only in patients who have an acute knee injury with one or more of the following:
+
+Age 55 years or older
+Tenderness at head of fibula
+Isolated tenderness of patella
+Inability to flex the knee greater than 90°
+Inability to bear weight both immediately and in the emergency department (4 steps)The Ottawa knee rules were derived to aid in the efficient use of radiography in acute knee injuries and have since been prospectively validated on multiple occasions in different populations and in both children and adults. Some studies found the sensitivity of the Ottawa knee rules is 98-100% for clinically significant knee fractures, meaning that 98-100% of all patients with a fracture will meet the criteria for X-ray. However, specificity for the Ottawa knee rules is typically poor, meaning that a significant proportion of those who meet Ottawa knee criteria will have no knee fracture on X-ray. The Pittsburgh knee rules have been found to be more specific in diagnosis.Clinical decision guidelines such as these not only avoid unnecessary health care and its costs but also help minimize exposure to ionizing radiation. Such radiation is necessary for radiography but may raise risk for cancer, so physicians try to avoid using it whenever practical.
+
+See also
+Ottawa Ankle Rules
+Pittsburgh knee rules
+
+External links
+Pittsburgh Knee Rules
+Diagram of Ottawa knee rules
+
+
+== References ==

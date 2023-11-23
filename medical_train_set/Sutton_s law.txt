@@ -1,0 +1,10 @@
+Sutton's law states that when diagnosing, one should first consider the obvious. It suggests that one should first conduct those tests which could confirm (or rule out) the most likely diagnosis. It is taught in medical schools to suggest to medical students that they might best order tests in that sequence which is most likely to result in a quick diagnosis, hence treatment, while minimizing unnecessary costs. It is also applied in pharmacology, when choosing a drug to treat a specific disease you want the drug to reach the disease. It is applicable to any process of diagnosis, e.g. debugging computer programs.  Computer-aided diagnosis provides a statistical and quantitative approach. 
+A more thorough analysis will consider the false positive rate of the test and the possibility that a less likely diagnosis might have more serious consequences. A competing principle is the idea of performing simple tests before more complex and expensive tests, moving from bedside tests to blood results and simple imaging such as ultrasound and then more complex such as MRI then specialty imaging.  The law can also be applied in prioritizing tests when resources are limited, so a test for a treatable condition should be performed before an equally probable but less treatable condition.
+The law is named after the bank robber Willie Sutton, who reputedly replied to a reporter's inquiry as to why he robbed banks by saying "because that's where the money is." In Sutton's 1976 book Where the Money Was, Sutton denies having said this, but added that "If anybody had asked me, I'd have probably said it. That's what almost anybody would say... it couldn't be more obvious."A similar idea is contained in the physician's adage, "When you hear hoofbeats, think horses, not zebras."
+
+See also
+Occam's razor
+
+References
+Altman, Lawrence (1970-01-03). "A Law Named for Willie Sutton Assists Physicians". The New York Times.
+Rytand, David (1980). "Sutton's or Dock's Law?". New England Journal of Medicine. 302 (17): 972. doi:10.1056/NEJM198004243021726. PMID 6987522.

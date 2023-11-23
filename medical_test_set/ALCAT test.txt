@@ -1,0 +1,10 @@
+The antigen leukocyte antibody test (ALCAT test) is one that claims to measure adverse reactions to dietary substances. It was created by American Medical Testing Laboratories and is now marketed by Cell Science Systems (also known as ALCAT Diagnostic Systems) of Deerfield Beach, Florida.
+Researched conducted at Yale School of Medicine published in BMJ Open Gastroenterology in 2017 demonstrated improvement for those with irritable bowel syndrome
+"These findings reject the null hypothesis and show that a diet guided by leucocyte activation testing results in demonstrable clinical improvement in IBS. These clinical results, associated with a reduction in plasma neutrophil elastase, have implications for better understanding the role of food intolerance and the pathophysiology of IBS."
+A study conducted in 2014 demonstrated reactions identified as "severe" were associated with the up-regulation of CD11b on CD4+ and CD8+ T cells, suggesting a basis for further research into the mechanisms alleged.
+Research published up to 2010 did not support the test or provide evidence that it was a reliable medical diagnostic tool; since it had not been validated.  In a position statement, the Australasian Society of Clinical Immunology and Allergy classified the ALCAT with other forms of cytotoxic tests as inappropriate tests, saying of them"These results have been shown to not be reproducible, give different results when duplicate samples are analysed blindly, don't correlate with those from conventional testing, and 'diagnose' food hypersensitivity in subjects with conditions where food allergy is not considered to play a pathogenic role."
+
+References
+External links
+ALCAT official website
+Food allergy vs. intolerance (WebMD)

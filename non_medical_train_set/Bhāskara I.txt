@@ -1,0 +1,190 @@
+Bhāskara (c. 600 – c. 680) (commonly called Bhāskara I to avoid confusion with the 12th-century mathematician Bhāskara II) was a 7th-century Indian mathematician and astronomer who was the first to write numbers in the Hindu–Arabic decimal system with a circle for the zero, and who gave a unique and remarkable rational approximation of the sine function in his commentary on Aryabhata's work. This commentary, Āryabhaṭīyabhāṣya, written in 629 CE, is among the oldest known prose works in Sanskrit on mathematics and astronomy. He also wrote two astronomical works in the line of Aryabhata's school: the Mahābhāskarīya ("Great Book of Bhāskara") and the Laghubhāskarīya ("Small Book of Bhāskara").On 7 June 1979, the Indian Space Research Organisation launched the Bhāskara I satellite, named in honour of the mathematician.
+
+Biography
+Little is known about Bhāskara's life, except for what can be deduced from his writings. He was born in India in the 7th century, and was probably an astronomer. Bhāskara I received his astronomical education from his father.
+There are references to places in India in Bhāskara's writings, such as Vallabhi (the capital of the Maitraka dynasty in the 7th century) and Sivarajapura, both of which are in the Saurastra region of the present-day state of Gujarat in India. Also mentioned are Bharuch in southern Gujarat, and Thanesar in the eastern Punjab, which was ruled by Harsha. Therefore, a reasonable guess would be that Bhāskara was born in Saurastra and later moved to Aśmaka.Bhāskara I is considered the most important scholar of Aryabhata's astronomical school. He and Brahmagupta are two of the most renowned Indian mathematicians; both made considerable contributions to the study of fractions.
+
+Representation of numbers
+The most important mathematical contribution of Bhāskara I concerns the representation of numbers in a positional numeral system. The first positional representations had been known to Indian astronomers approximately 500 years before Bhāskara's work. However, these numbers were written not in figures, but in words or allegories and were organized in verses. For instance, the number 1 was given as moon, since it exists only once; the number 2 was represented by wings, twins, or eyes since they always occur in pairs; the number 5 was given by the (5) senses. Similar to our current decimal system, these words were aligned such that each number assigns the factor of the power of ten corresponding to its position, only in reverse order: the higher powers were right from the lower ones.
+Bhāskara's numeral system was truly positional, in contrast to word representations, where the same word could represent multiple values (such as 40 or 400). He often explained a number given in his numeral system by stating ankair api ("in figures this reads"), and then repeating it written with the first nine Brahmi numerals, using a small circle for the zero. Contrary to the word system, however, his numerals were written in descending values from left to right, exactly as we do it today. Therefore, since at least 629, the decimal system was definitely known to the Indian scientists. Presumably, Bhāskara did not invent it, but he was the first to openly use the Brahmi numerals in a scientific contribution in Sanskrit.
+
+Further contributions
+Mathematics
+Bhāskara I wrote three astronomical contributions. In 629, he annotated the Āryabhaṭīya, an astronomical treatise by Aryabhata written in verses. Bhāskara's comments referred exactly to the 33 verses dealing with mathematics, in which he considered variable equations and trigonometric formulae. In general, he emphasized proving mathematical rules instead of simply relying on tradition or expediency.His work Mahābhāskarīya is divided into eight chapters about mathematical astronomy. In chapter 7, he gives a remarkable approximation formula for sin x:
+
+  
+    
+      
+        sin
+        ⁡
+        x
+        ≈
+        
+          
+            
+              16
+              x
+              (
+              π
+              −
+              x
+              )
+            
+            
+              5
+              
+                π
+                
+                  2
+                
+              
+              −
+              4
+              x
+              (
+              π
+              −
+              x
+              )
+            
+          
+        
+        ,
+        
+        (
+        0
+        ≤
+        x
+        ≤
+        π
+        )
+      
+    
+    {\displaystyle \sin x\approx {\frac {16x(\pi -x)}{5\pi ^{2}-4x(\pi -x)}},\qquad (0\leq x\leq \pi )}
+  which he assigns to Aryabhata. It reveals a relative error of less than 1.9% (the greatest deviation 
+  
+    
+      
+        
+          
+            16
+            
+              5
+              π
+            
+          
+        
+        −
+        1
+        ≈
+        1.859
+        %
+      
+    
+    {\displaystyle {\frac {16}{5\pi }}-1\approx 1.859\%}
+   at 
+  
+    
+      
+        x
+        =
+        0
+      
+    
+    {\displaystyle x=0}
+  ). Additionally, he gives relations between sine and cosine, as well as relations between the sine of an angle less than 90° and the sines of angles 90°–180°, 180°–270°, and greater than 270°.
+Bhāskara already dealt with the assertion that if 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   is a prime number, then 
+  
+    
+      
+        1
+        +
+        (
+        p
+        −
+        1
+        )
+        !
+      
+    
+    {\displaystyle 1+(p-1)!}
+   is divisible by 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  . This was later proved by Al-Haitham, mentioned by Fibonacci, and is now known as Wilson's theorem.
+Moreover, Bhāskara stated theorems about the solutions to equations now known as Pell's equations. For instance, he posed the problem: "Tell me, O mathematician, what is that square which multiplied by 8 becomes – together with unity – a square?" In modern notation, he asked for the solutions of the Pell equation 
+  
+    
+      
+        8
+        
+          x
+          
+            2
+          
+        
+        +
+        1
+        =
+        
+          y
+          
+            2
+          
+        
+      
+    
+    {\displaystyle 8x^{2}+1=y^{2}}
+  . This equation has the simple solution x = 1, y = 3, or shortly (x,y) = (1,3), from which further solutions can be constructed, such as (x,y) = (6,17).
+Bhāskara clearly believed that π was irrational. In support of Aryabhata's approximation of π, he criticized its approximation to 
+  
+    
+      
+        
+          
+            10
+          
+        
+      
+    
+    {\displaystyle {\sqrt {10}}}
+  , a practice common among Jain mathematicians.He was the first mathematician to openly discuss quadrilaterals with four unequal, nonparallel sides.
+
+Astronomy
+The Mahābhāskarīya consists of eight chapters dealing with mathematical astronomy. The book deals with topics such as the longitudes of the planets, the conjunctions among the planets and stars, the phases of the moon, solar and lunar eclipses, and the rising and setting of the planets.Parts of Mahābhāskarīya were later translated into Arabic.
+
+See also
+Bhāskara I's sine approximation formula
+List of astronomers
+List of Indian mathematicians
+
+References
+Sources
+(From Keller (2006a, p. xiii))
+
+M. C. Apaṭe. The Laghubhāskarīya, with the commentary of Parameśvara. Anandāśrama, Sanskrit series no. 128, Poona, 1946.
+v.harish Mahābhāskarīya of Bhāskarācārya with the Bhāṣya of Govindasvāmin and Supercommentary Siddhāntadīpikā of Parameśvara. Madras Govt. Oriental series, no. cxxx, 1957.
+K. S. Shukla. Mahābhāskarīya, Edited and Translated into English, with Explanatory and Critical Notes, and Comments, etc. Department of mathematics, Lucknow University, 1960.
+K. S. Shukla. Laghubhāskarīya, Edited and Translated into English, with Explanatory and Critical Notes, and Comments, etc., Department of mathematics and astronomy, Lucknow University, 2012.
+K. S. Shukla. Āryabhaṭīya of Āryabhaṭa, with the commentary of Bhāskara I and Someśvara. Indian National Science Academy (INSA), New- Delhi, 1999.
+
+Further reading
+H.-W. Alten, A. Djafari Naini, M. Folkerts, H. Schlosser, K.-H. Schlote, H. Wußing: 4000 Jahre Algebra. Springer-Verlag Berlin Heidelberg 2003 ISBN 3-540-43554-9, §3.2.1
+S. Gottwald, H.-J. Ilgauds, K.-H. Schlote (Hrsg.): Lexikon bedeutender Mathematiker. Verlag Harri Thun, Frankfurt a. M. 1990 ISBN 3-8171-1164-9
+G. Ifrah: The Universal History of Numbers. John Wiley & Sons, New York 2000 ISBN 0-471-39340-1
+Keller, Agathe (2006a), Expounding the Mathematical Seed. Vol. 1: The Translation: A Translation of Bhāskara I on the Mathematical Chapter of the Aryabhatiya, Basel, Boston, and Berlin: Birkhäuser Verlag, 172 pages, ISBN 3-7643-7291-5.
+Keller, Agathe (2006b), Expounding the Mathematical Seed. Vol. 2: The Supplements: A Translation of Bhāskara I on the Mathematical Chapter of the Aryabhatiya, Basel, Boston, and Berlin: Birkhäuser Verlag, 206 pages, ISBN 3-7643-7292-3.
+O'Connor, John J.; Robertson, Edmund F., "Bhāskara I", MacTutor History of Mathematics Archive, University of St Andrews

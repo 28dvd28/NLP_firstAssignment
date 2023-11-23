@@ -1,0 +1,27 @@
+Kepler-61b (also known by its Kepler Object of Interest designation KOI-1361.01) is a super-Earth exoplanet orbiting within parts of the habitable zone of the K-type main-sequence star Kepler-61. It is located about 1,100 light-years (338 parsecs) from Earth in the constellation of Cygnus. It was discovered in 2013 using the transit method, in which the dimming effect that a planet causes as it crosses in front of its star is measured, by NASA's Kepler spacecraft.
+
+Characteristics
+Mass, radius and temperature
+Kepler-61b is a super-Earth, an exoplanet with a radius and mass bigger than Earth, but smaller than that of the ice giants Neptune and Uranus. It has an equilibrium temperature of 273 K (0 °C; 32 °F). It has a radius of 2.15 R🜨. The mass of Kepler-61b is 6.65 MEarth. At 2.15 radius and with a 6.65 mass its density would come to around 3.6 g/cm3 or slightly below the 3.9 g/cm3 of Mars. This planet may also have some "volatile" make up or be an ocean planet to explain the lower density.
+
+Host star
+The planet orbits a (K-type) star named Kepler-61. The star has a mass of 0.63 M☉ and a radius of 0.62 R☉. It has a temperature of 4017 K and is about 1 billion years old. In comparison, the Sun is 4.6 billion years old and has a temperature of 5778 K.The star's apparent magnitude, or how bright it appears from Earth's perspective, is 15. Therefore, it is too dim to be seen with the naked eye.
+
+Orbit
+Kepler-61b orbits its host star with about 8% of the Sun's luminosity with an orbital period of 59.877 days and an orbital radius of about 0.28 times that of Earth's (compared to Mercury from the Sun, which is about 0.38 AU). It has an eccentricity of near 0.25, meaning its orbit is mildly elliptical. It receives 27% more sunlight that Earth does.
+
+Habitability
+Kepler-61b is located in the inner part of the empirical habitable zone, a zone where liquid water could exist with high albedo, relatively low humidity and higher atmospheric pressure. However, the planet is likely tidally locked because of its close distance to its host star.
+It has an estimated average equilibrium temperature of 273 K (0 °C; 32 °F), very close to that of Earth. If Kepler-61b has a rocky surface, it is a good candidate for life, because the system is about one billion years old. Because of its radius (2.24 R🜨), it is likely gaseous, with no solid surface. However, this does not totally destroy the chances of habitability in the Kepler-61 system. For instance, Kepler-61b may have a large, Earth-like moon (with the proper atmospheric properties and pressure), capable of supporting surface liquid water, and potentially life. Any such moon would have to have originated as a smaller planet, that has been captured by Kepler-61b, since such moons have never formed naturally.
+However, the orbit (and close distance to its star) of Kepler-61b may play a key in preventing it and the hypothetical moon from being habitable. The eccentricity of the planet is 0.25, which means it has an elliptical orbit. Kepler-61b's orbit takes it slightly beyond the inner edge of the habitable zone and then out to the middle of it, which would result in the planet experiencing temperatures of up to 310 K (37 °C; 98 °F) at is closest point in its orbit, and as low as 240 K (−33 °C; −28 °F) at its farthest point. These temperatures may vary if Kepler-61b has an intense greenhouse effect, resulting in the planet being too hot to support liquid water altogether.
+
+Discovery
+In 2009, NASA's Kepler spacecraft was completing observing stars on its photometer, the instrument it uses to detect transit events, in which a planet crosses in front of and dims its host star for a brief and roughly regular period of time. In this last test, Kepler observed 50000 stars in the Kepler Input Catalog, including Kepler-61; the preliminary light curves were sent to the Kepler science team for analysis, who chose obvious planetary companions from the bunch for follow-up at observatories. The radial velocity observations confirmed that a planetary body was responsible for the dips observed in Kepler-61's light curve, thus confirming it as a planet. It was announced on April 24, 2013.
+
+See also
+Pi Mensae b – similar exoplanet with an eccentric orbit lying partially in the habitable zone
+
+References
+External links
+Notes on planet Kepler-61b, Extrasolar Planet Encyclopedia
+Kepler mission discoveries

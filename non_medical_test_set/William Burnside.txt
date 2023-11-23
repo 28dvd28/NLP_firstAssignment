@@ -1,0 +1,26 @@
+This English mathematician is sometimes confused with the Irish mathematician William S. Burnside (1839–1920).
+
+William Burnside (2 July 1852 – 21 August 1927) was an English mathematician. He is known mostly as an early researcher in the theory of finite groups.
+Burnside was born in London in 1852. He went to school at Christ's Hospital until 1871 and attended St. John's and Pembroke Colleges at the University of Cambridge, where he was the Second Wrangler (bracketed with George Chrystal) in 1875. He lectured at Cambridge for the following ten years, before being appointed professor of mathematics at the Royal Naval College in Greenwich. While this was a little outside the main centres of British mathematical research, Burnside remained a very active researcher, publishing more than 150 papers in his career.
+Burnside's early research was in applied mathematics. This work was of sufficient distinction to merit his election as a fellow of the Royal Society in 1893, though it is little remembered today. Around the same time as his election his interests turned to the study of finite groups. This was not a widely studied subject in Britain in the late 19th century, and it took some years for his research in this area to gain widespread recognition.
+The central part of Burnside's group theory work was in the area of group representations, where he helped to develop some of the foundational theory, complementing, and sometimes competing with, the work of Ferdinand Georg Frobenius, who began his research in the subject during the 1890s. One of Burnside's best known contributions to group theory is his paqb theorem, which shows that every finite group whose order is divisible by fewer than three distinct primes is solvable.
+In 1897 Burnside's classic work Theory of Groups of Finite Order was published. The second edition (pub. 1911) was for many decades the standard work in the field. A major difference between the editions was the inclusion of character theory in the second.Burnside is also remembered for the formulation of Burnside's problem that concerns the question of bounding the size of a group if there are fixed bounds both on the order of all of its elements and the number of elements  needed to generate it, and also for Burnside's lemma (a formula relating the number of orbits of a permutation group acting on a set with the number of fixed points of each of its elements) though the latter had been discovered earlier and independently by Frobenius and Augustin Cauchy.
+He received an honorary doctorate (D.Sc.) from the University of Dublin in June 1901.In addition to his mathematical work, Burnside was a noted rower. While he was a lecturer at Cambridge, he also coached the rowing crew team. In fact, his obituary in The Times took more interest in his athletic career, calling him "one of the best known Cambridge athletes of his day".
+He is buried at the West Wickham Parish Church in South London.
+
+Books
+Theory of groups of finite order (2nd ed.). Cambridge University Press. 1911; xxiv+512 p.{{cite book}}:  CS1 maint: postscript (link)
+Forsyth, A. R., ed. (1936). Theory of probability. Cambridge University Press; reprint of 1928 first edition, based on a manuscript almost completed by Burnside shortly before his death{{cite book}}:  CS1 maint: postscript (link)
+Neumann, Peter M.; Mann, A. J. S.; Tompson, Julia C., eds. (2004). The collected papers of William Burnside. Vol. 1: Commentary on Burnside's life and work, papers 1883–1899, Volume 2: Papers 1900–1926. Clarendon Press/Oxford University Press. ISBN 978-0-19-850585-3; 1584 pages in 2-volume set{{cite book}}:  CS1 maint: postscript (link); Burnside, William (2004). Vol. 1 (as separate book). ISBN 978-0-19-850586-0; 788 pages in vol. 1.{{cite book}}:  CS1 maint: postscript (link) Burnside, William (2004). Vol. 2 (as separate book). ISBN 978-0-19-850587-7.
+
+Notes
+References
+Curtis, Charles W. (2003), Pioneers of Representation Theory: Frobenius, Burnside, Schur, and Brauer, History of Mathematics, Providence, R.I.: American Mathematical Society, ISBN 978-0-8218-2677-5, MR 1715145 Review
+Wagner, Ascher; Mosenthal, Verity (1978), "A bibliography of William Burnside (1852–1927)" (PDF), Historia Mathematica, 5 (3): 307–312, doi:10.1016/0315-0860(78)90116-7
+
+External links
+ Works by or about William Burnside at Wikisource
+Works by William Burnside at Project Gutenberg
+Works by or about William Burnside at Internet Archive
+O'Connor, John J.; Robertson, Edmund F., "William Burnside", MacTutor History of Mathematics Archive, University of St Andrews
+William Burnside at the Mathematics Genealogy Project

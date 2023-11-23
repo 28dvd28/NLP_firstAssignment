@@ -1,0 +1,20 @@
+The REM Sleep Behavior Disorder Screening Questionnaire (RBDSQ) is a specific questionnaire for rapid eye movement behavior disorder (RBD) developed by Stiasny-Kolster and team, to assess the most prominent clinical features of RBD. It is a 10-item, patient self-rating instrument with short questions to be answered by either 'yes' or 'no'. The validity of the questionnaire was studied by researchers and they have observed it to perform with high sensitivity and reasonable specificity in the diagnosis of RBD.
+
+Use
+RBDSQ has the potential to be useful as a screening instrument for neurodegenerative disorder, such as the α-synucleinopathies, Parkinson's disease or multiple system atrophy which may enable early diagnosis and also recruitment of people with RBD necessary for research studies.
+
+Format
+RBDSQ contains a set of 10 items that are to be answered by either 'yes' or 'no'. Items 1 to 4 address the frequency and content of dreams and their relationship to nocturnal movements and behavior. Item 5 asks about self-injuries and injuries of the
+bed partner. Item 6 consists of four subitems assessing nocturnal motor behavior more specifically, e.g., questions
+about nocturnal vocalization, sudden limb movements, complex movements, or bedding items that fell down. Items 7 and 8 deal with nocturnal awakenings. Item 9 focuses on disturbed sleep in general and item 10 on the presence of any neurological disorder. The maximum total score of the RBDSQ is 13 points.
+
+See also
+Rapid eye movement sleep (REM sleep)
+Non-rapid eye movement sleep (NREM)
+
+References
+External links
+"REM Behavior Disorder and Sleep". Retrieved 23 April 2014.
+Gagnon, JF; Postuma, RB; Mazza, S; Doyon, J; Montplaisir, J (May 2006). "Rapid-eye-movement sleep behaviour disorder and neurodegenerative diseases". Lancet Neurology. 5 (5): 424–32. doi:10.1016/S1474-4422(06)70441-0. PMID 16632313. S2CID 5930908.
+Olson, EJ; Boeve, BF; Silber, MH (Feb 2000). "Rapid eye movement sleep behaviour disorder: demographic, clinical and laboratory findings in 93 cases". Brain: A Journal of Neurology. 123 (2): 331–9. doi:10.1093/brain/123.2.331. PMID 10648440.
+Ahmed, Syed M S. "REM Sleep Behavior Disorder". Retrieved 23 April 2014.

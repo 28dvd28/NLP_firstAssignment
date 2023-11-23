@@ -1,0 +1,17 @@
+The "Cartes d'Identité des Tumeurs (CIT)" program, launched and funded by the French charity "Ligue Nationale contre le Cancer," aims to improve or develop better targeted therapeutic approaches by refining molecular knowledge of multiple types of tumors. The CIT program mainly relies on the large-scale and systematic profiling of large cohorts of tumors at various molecular levels including at least the genome, the epigenome, and the transcriptome.
+
+See also
+Precision medicine
+Oncology
+Cancer Research
+Bioinformatics
+Computational genomics
+Oncogenomics
+Genomics
+Transcriptome
+Gene expression profiling
+
+References
+External links
+Official web site
+List of main scientific publications

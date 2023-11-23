@@ -1,0 +1,50 @@
+Peter Benedict Kronheimer (born 1963) is a British mathematician, known for his work on gauge theory and its applications to 3- and 4-dimensional topology. He is William Caspar Graustein Professor of Mathematics at Harvard University and former chair of the mathematics department.
+
+Education
+Kronheimer attended the City of London School. He completed his DPhil at Oxford University under the direction of Michael Atiyah. He has had a long association with Merton College, the oldest of the constituent colleges of Oxford University, being an undergraduate, graduate, and full fellow of the college.
+
+Career
+Kronheimer's early work was on gravitational instantons, in particular the classification of hyperkähler 4-manifolds with asymptotical locally Euclidean geometry (ALE spaces), leading to the papers "The construction of ALE spaces as hyper-Kähler quotients" and "A Torelli-type theorem for gravitational instantons."  He and Hiraku Nakajima
+gave a construction of instantons on ALE spaces generalizing the Atiyah–Hitchin–Drinfeld–Manin construction. This constructions identified these moduli spaces as moduli spaces for certain quivers (see "Yang-Mills instantons on ALE gravitational instantons.") He was the initial recipient of the Oberwolfach prize in 1998 on the basis of some of this work.
+Kronheimer has frequently collaborated with Tomasz Mrowka from the Massachusetts Institute of Technology. Their collaboration began at the  Mathematical Research Institute of Oberwolfach, and their first work developed analogues of Simon Donaldson's invariants for 4-manifolds with a distinguished surface.  They used the tools developed to prove a conjecture of John Milnor, that the four-ball genus of a 
+  
+    
+      
+        (
+        p
+        ,
+        q
+        )
+      
+    
+    {\displaystyle (p,q)}
+  -torus knot is 
+  
+    
+      
+        (
+        p
+        −
+        1
+        )
+        (
+        q
+        −
+        1
+        )
+        
+          /
+        
+        2
+      
+    
+    {\displaystyle (p-1)(q-1)/2}
+  .   They then went on to develop these tools further  and established a structure theorem for Donaldson's polynomial invariants using Kronheimer–Mrowka basic classes.  After the arrival of Seiberg–Witten theory their work on embedded surfaces culminated in a proof of the Thom conjecture—which had been outstanding for several decades.  Another of Kronheimer and Mrowka's results was a proof of the Property P conjecture for knots.  They developed an instanton Floer invariant for knots which was used in their proof that Khovanov homology detects the unknot.
+Besides his research articles, his writings include a book, with Simon Donaldson, on 4-manifolds, and a book with Mrowka on Seiberg–Witten–Floer homology, entitled "Monopoles and Three-Manifolds".  This book won the 2011 Doob Prize of the AMS.
+In 1990 he was an invited speaker at the International Congress of Mathematicians (ICM) in Kyoto. In 2018 he gave a plenary lecture at the ICM in Rio de Janeiro, together with Tomasz Mrowka. In 2023 he was awarded the Leroy P. Steele Prize for Seminal Contribution to Research.Kronheimer's PhD students have included Ian Dowker, Jacob Rasmussen, Ciprian Manolescu, and Olga Plamenevskaya.
+
+References
+External links
+Peter Kronheimer's home page at Harvard University
+Peter B. Kronheimer at the Mathematics Genealogy Project
+Peter B. Kronheimer's results at International Mathematical Olympiad

@@ -1,0 +1,29 @@
+Philip Hall FRS (11 April 1904 – 30 December 1982), was an English mathematician. His major work was on group theory, notably on finite groups and solvable groups.
+
+Biography
+He was educated first at Christ's Hospital, where he won the Thompson Gold Medal for mathematics, and later at King's College, Cambridge. He was elected a Fellow of the Royal Society in 1951 and awarded its Sylvester Medal in 1961. He was President of the London Mathematical Society in 1955–1957, and awarded its Berwick Prize in 1958 and De Morgan Medal in 1965.
+
+Publications
+Hall, P. (1934). "A Contribution to the Theory of Groups of Prime-Power Order". Proceedings of the London Mathematical Society. s2-36: 29–07. doi:10.1112/plms/s2-36.1.29.
+Hall, P.; Higman, G. (1956). "On the p-Length of p-Soluble Groups and Reduction Theorems for Burnside's Problem". Proceedings of the London Mathematical Society. s3-6: 1–42. doi:10.1112/plms/s3-6.1.1.
+Hall, Philip (1988), The collected works of Philip Hall, Oxford Science Publications, The Clarendon Press Oxford University Press, ISBN 978-0-19-853254-5, MR 0986732
+
+See also
+Abstract clone
+Commutator collecting process
+Isoclinism of groups
+Regular p-group
+Three subgroups lemma
+Hall algebra, and Hall polynomials
+Hall subgroup
+Hall–Higman theorem
+Hall–Littlewood polynomial
+Hall's universal group
+Hall's marriage theorem
+Hall word
+Hall–Witt identity
+Irwin–Hall distribution
+Zappa–Szép product
+
+
+== References ==

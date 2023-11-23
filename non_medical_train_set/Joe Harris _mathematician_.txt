@@ -1,0 +1,16 @@
+Joseph Daniel Harris (born August 17, 1951) is a mathematician at Harvard University working in the field of algebraic geometry. After earning an AB from Harvard College, where he took Math 55, he continued at Harvard to study for a PhD under Phillip Griffiths.
+
+Work
+During the 1980s, he was on the faculty of Brown University, moving to Harvard around 1988. He served as chair of the department at Harvard from 2002 to 2005.  His work is characterized by its classical geometric flavor: he has claimed that nothing he thinks about could not have been imagined by the Italian geometers of the late 19th and early 20th centuries, and that if he has had greater success than them, it is because he has access to better tools.Harris is well known for several of his books on algebraic geometry, notable for their informal presentations:
+
+Principles of Algebraic Geometry ISBN 978-0-471-05059-9, with Phillip Griffiths
+Geometry of Algebraic Curves, Vol. 1 ISBN 978-0-387-90997-4, with Enrico Arbarello, Maurizio Cornalba, and Phillip Griffiths
+William Fulton, Joe Harris. (1991), Representation Theory, A First Course, Graduate Texts in Mathematics, vol. 129, Berlin, New York: Springer-Verlag, doi:10.1007/978-1-4612-0979-9, ISBN 978-0-387-97495-8, MR 1153249, with William Fulton
+Harris, Joe (1992). Algebraic Geometry, A First Course. Springer Science. ISBN 978-0-387-97716-4.
+David Eisenbud, Joe Harris. (2000), The Geometry of Schemes, Graduate Texts in Mathematics, vol. 197, Berlin, New York: Springer-Verlag, ISBN 978-0-387-98638-8, MR 1730819, with David Eisenbud
+David Eisenbud, Joseph Harris (2016) (14 April 2016). 3264 and All That: A Second Course in Algebraic Geometry. Cambridge University Press. ISBN 978-1107602724.
+Moduli of Curves ISBN 978-0-387-98438-4, with Ian Morrison.
+Fat Chance: Probability from 0 to 1, with Benedict Gross and Emily Riehl, 2019As of 2018, Harris has supervised 50 PhD students, including Brendan Hassett, James McKernan, Rahul Pandharipande, Zvezdelina Stankova, and Ravi Vakil.
+
+
+== References ==

@@ -1,0 +1,67 @@
+George David Birkhoff (March 21, 1884 – November 12, 1944) was an American mathematician best known for what is now called the ergodic theorem. Birkhoff was one of the most important leaders in American mathematics in his generation, and during his time he was considered by many to be the preeminent American mathematician.The George D. Birkhoff House, his residence in Cambridge, Massachusetts, has been designated a National Historic Landmark.
+
+Early life
+He was born in Overisel Township, Michigan, the son of two Dutch immigrants, David Birkhoff, who arrived in the United States in 1870, and Jane Gertrude Droppers. Birkhoff's father worked as a physician in Chicago while he was a child. From 1896 to 1902, he would attend the Lewis Institute as a teenager.
+
+Career
+Birkhoff was part of a generation of American mathematicians who were the first to study entirely within the United States and not participate in academics within Europe. Following his time at the Lewis Institute, Birkhoff would spend a year at the University of Chicago. He then obtained his A.B. and A.M. from Harvard University, would return to the University of Chicago in 1905 and at the age of twenty-three graduated summa cum laude with his Ph.D. in 1907, on differential equations. While E. H. Moore was his supervisor, he was most influenced by the writings of Henri Poincaré. After teaching at the University of Wisconsin–Madison from 1907 to 1909 and at Princeton University from 1909 to 1912, he taught at Harvard from 1912 until his death. Being the only American familiar with the three main mathematical institutions within the United States – Chicago, Harvard and Princeton – he was held in high professional regard.
+
+Service
+During his membership in the American Mathematical Society, Birkhoff served multiple positions in the organization. In 1919, he served as vice president of the society. He was editor of Transactions of the American Mathematical Society from 1920 to 1924. 
+From 1925 to 1926, he was President of the American Mathematical Society. During his tenure as president of the society, Birkhoff sought to create a lectureship program to travel the United States to promote mathematics. In 1926, he travelled Europe to serve as an unofficial representative if the Rockefeller Foundation's International Education Board. During his time in Europe, Birkhoff attempted to create links between American and French institutions, especially due to his affection for Paris.In 1937, he served as president of the American Association for the Advancement of Science, a rare occurrence for mathematicians and was proof of his respect amongst the scientific community.
+
+Work
+In 1912, attempting to solve the four color problem, Birkhoff introduced the chromatic polynomial. Even though this line of attack did not prove fruitful, the polynomial itself became an important object of study in algebraic graph theory.
+In 1913, he proved Poincaré's "Last Geometric Theorem," a special case of the three-body problem, a result that made him world-famous and improved the international recognition of American mathematics.Birkhoff was also a contributor to developing general relativity.He wrote on the foundations of relativity and quantum mechanics, publishing (with R. E. Langer) the monograph Relativity and Modern Physics in 1923. In 1923, Birkhoff also proved that the Schwarzschild geometry is the unique spherically symmetric solution of the Einstein field equations. A consequence is that black holes are not merely a mathematical curiosity, but could result from any spherical star having sufficient mass. In 1927, he published his Dynamical Systems. His theorem would be used to develop the Oppenheimer–Snyder model.
+Birkhoff's most durable result has been his 1931 discovery of what is now called the ergodic theorem. Combining insights from physics on the ergodic hypothesis with measure theory, this theorem solved, at least in principle, a fundamental problem of statistical mechanics. The ergodic theorem has also had repercussions for dynamics, probability theory, group theory, and functional analysis. He also worked on number theory, the Riemann–Hilbert problem, and the four colour problem. He proposed an axiomatization of Euclidean geometry different from Hilbert's (see Birkhoff's axioms); this work culminated in his text Basic Geometry (1941).
+His 1933 Aesthetic Measure proposed a mathematical theory of aesthetics. While writing this book, he spent a year studying the art, music and poetry of various cultures around the world. His 1938 Electricity as a Fluid combined his ideas on philosophy and science. His 1943 theory of gravitation is also puzzling since Birkhoff knew (but didn't seem to mind) that his theory allows as sources only matter which is a perfect fluid in which the speed of sound must equal the speed of light.
+
+Influence on selection process
+Birkhoff believed that fellowships from foreign nations would improve the mathematic standards in the United States, though he wanted to raise the standards for fellowships, believing that the qualifications in less-developed countries were different and that access should be limited. He also was adamant that foreign fellows be able to meet language requirements.Albert Einstein and Norbert Wiener, among others, accused Birkhoff of advocating anti-Semitic selection processes. During the 1930s, when many Jewish mathematicians fled Europe and tried to obtain positions in the United States, Birkhoff is alleged to have influenced the selection process at American institutions to exclude Jews. Saunders Mac Lane, who was at Harvard at the time, would call Einstein's allegations "worthless" as he was not familiar with American processes and that the two had competing ideas regarding general relativity while also rebutting the reports of anti-Semitism against Wiener, writing "Birkhoff clearly listened to Norbert's ideas. There could be many reasons why Birkhoff did not take steps to appoint him". Mac Lane also stated that Birkhoff's efforts were motivated less by animus towards Jews than by a desire to find jobs for home-grown American mathematicians.Birkhoff was also close to Jewish mathematician Stanislaw Ulam. Gian-Carlo Rota writes: "Like other persons rumored to be anti-Semitic, he would occasionally feel the urge to shower his protective instincts on some good-looking young Jew. Ulam's sparkling manners were diametrically opposite to Birkhoff's hard-working, aggressive, touchy personality. Birkhoff tried to keep Ulam at Harvard, but his colleagues balked at the idea."Summarizing Birkhoff's selection process, fellow mathematician Oswald Veblen would write:
+While Birkhoff was subject to as many prejudices as most of us, he kept always what most of us lose as we grow older, the power to see people and events simply and naively rather than with reference to current opinion.
+
+Recognition
+In 1923, he was awarded the inaugural Bôcher Memorial Prize by the American Mathematical Society for his paper in 1917 containing, among other things, what is now called the Birkhoff curve shortening process.He was elected to the National Academy of Sciences, the American Philosophical Society, the American Academy of Arts and Sciences, the Académie des Sciences in Paris, the Pontifical Academy of Sciences, and the London and Edinburgh Mathematical Societies.
+The George David Birkhoff Prize in applied mathematics is awarded jointly by the American Mathematical Society and the Society for Industrial and Applied Mathematics in his honor.
+
+Personal life
+Birkhoff would marry Margaret Elizabeth Graftus in 1908 and would remain married with her. The two had three children, Barbara, mathematician Garrett Birkhoff (1911–1996) and Rodney.
+
+Selected publications
+Birkhoff, George David (1912). "A determinant formula for the number of ways of coloring a map". Ann. Math. 14 (1/4): 42–46. doi:10.2307/1967597. JSTOR 1967597.
+Birkhoff, George David (1913). "Proof of Poincaré's geometric theorem". Trans. Amer. Math. Soc. 14: 14–22. doi:10.1090/s0002-9947-1913-1500933-9.
+Birkhoff, George David (1917). "Dynamical Systems with Two Degrees of Freedom". Trans. Amer. Math. Soc. 18 (2): 199–300. doi:10.1090/s0002-9947-1917-1501070-3. PMC 1091243. PMID 16586726.
+Birkhoff, George David and Ralph Beatley. 1959. Basic Geometry, 3rd ed. Chelsea Publishing Co. [Reprint: American Mathematical Society, 2000. ISBN 978-0-8218-2101-5]
+
+See also
+Birkhoff factorization
+Birkhoff–Grothendieck theorem
+Birkhoff's theorem
+Birkhoff's axioms
+Birkhoff interpolation
+Birkhoff–Kellogg invariant-direction theorem
+Poincaré–Birkhoff theorem
+Equidistribution theorem
+Chromatic polynomial
+Recurrent point
+Topological dynamics
+
+Notes
+References
+Aubin, David, 2005, "Dynamical systems" in Grattan-Guinness, I., ed., Landmark Writings in Western Mathematics. Elsevier: 871–81.
+Mac Lane, Saunders (1994). "Jobs in the 1930s and the views of George D. Birkhoff". Math. Intelligencer. 16 (3): 9–10. doi:10.1007/bf03024350. S2CID 189887142.
+Kip Thorne, 19nn. Black Holes and Time Warps. W. W. Norton. ISBN 0-393-31276-3.
+Vandiver, H. S. (1963). "Some of my recollections of George David Birkhoff". J. Math. Anal. Appl. 7 (2): 271–83. doi:10.1016/0022-247x(63)90052-0.
+Norbert Wiener, 1956. I am a Mathematician. MIT Press. Especially pp. 27–28.
+George D. Birkhoff, Proc Natl Acad Sci U S A. 1943 August; 29(8): 231–239, "Matter, Electricity and Gravitation in Flat Space-Time".
+Siegmund-Schultze, Reinhard (2001). Rockefeller and the Internationalization of Mathematics Between the Two Worlds Wars: Documents and Studies for the Social History of Mathematics in the 20th Century. Progress in Mathematics. Vol. 25. Springer. ISBN 9783764364687.
+
+Further reading
+Morse, Marston (1970–1980). "Birkhoff, George David". Dictionary of Scientific Biography. Vol. 2. New York: Charles Scribner's Sons. pp. 143–146. ISBN 978-0-684-10114-9.
+
+External links
+ Media related to George David Birkhoff at Wikimedia Commons
+O'Connor, John J.; Robertson, Edmund F., "George David Birkhoff", MacTutor History of Mathematics Archive, University of St Andrews
+George David Birkhoff at the Mathematics Genealogy Project
+Birkhoff's biography − from National Academies Press, by Oswald Veblen.
+National Academy of Sciences Biographical Memoir

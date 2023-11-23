@@ -1,0 +1,20 @@
+Nicolas Chuquet (French: [ʃykɛ]; born c. 1445 – c. 1455; died c. 1488 – c. 1500) was a French mathematician. He invented his own notation for algebraic concepts and exponentiation. He may have been the first mathematician to recognize zero and negative numbers as exponents.In 1475, Jehan Adam recorded the words "bymillion" and "trimillion" (for 1012 and 1018) and it is believed that these words or similar ones were in general use at that time.
+In 1484, Chuquet wrote an article Triparty en la science des nombres, which was unpublished in his lifetime. Most of it, however, was copied without attribution by Estienne de La Roche in his 1520 textbook, l'Arismetique. In the 1870s, scholar Aristide Marre discovered Chuquet's manuscript and published it in 1880. The manuscript contained notes in de la Roche's handwriting. His article shows a huge number divided into groups of six digits, and in a short passage he states that the groups can be called:
+
+"million, the second mark byllion, the third mark tryllion, the fourth quadrillion, the fifth quyillion, the sixth sixlion, the seventh septyllion, the eighth ottyllion, the ninth nonyllion and so on with others as far as you wish to go.In a second passage, he wrote:
+
+... Item lon doit savoir que ung million vault mille milliers de unitez, et ung byllion vault mille milliers de millions, et [ung] tryllion vault mille milliers de byllions, et ung quadrillion vault mille milliers de tryllions et ainsi des aultres : Et de ce en est pose ung exemple nombre divise et punctoye ainsi que devant est dit, tout lequel nombre monte 745324 tryllions 804300 byllions 700023 millions 654321. Exemple : 745324'8043000'700023'654321 ...Item: one should know that a million is worth a thousand thousand units, and a byllion is worth a thousand thousand millions, and tryillion is worth a thousand thousand byllions, and a quadrillion is worth a thousand thousand tryllions, and so on for the others. And an example of this follows, a number divided up and punctuated as previously described, the whole number being seven hundred forty-five thousand three hundred and twenty-four tryllions, 804300 byllions 700023 millions 654321 ...In the extract from Chuquet's manuscript, the transcription and translation provided here all contain an original mistake: one too many zeros in the 804300 portion of the fully written out example: 745324'8043000 '700023'654321 ...
+Chuquet was, however, the original author of the earliest work using of a systematic, extended series of names ending in -illion or -yllion. The system in which the names million, billion, trillion, etc. refer to powers of one million is sometimes referred to as the Chuquet system.
+In 1514, Budaeus introduced the term Milliard or Milliart for 1012, which was widely publicised around 1550 by the influential Jacques Peletier du Mans. Milliard was reduced to 109 around the end of the 17th century, leaving the modern Long scale system. This system is sometimes referred to as the Chuquet-Peletier system.
+Much later, in France and in the US, a different system, the short scale, became established where the term billion signifies 109.
+Last century, England and other English-speaking countries joined the US and some countries in using the short scale system; whereas, France rejoined Germany, much of Europe, and some other countries in the Chuquet-Peletier, or long scale, system.
+
+See also
+English-language numerals
+Jacques Peletier du Mans
+List of numbers
+Long and short scales
+Names of large numbers
+
+
+== References ==

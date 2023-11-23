@@ -1,0 +1,5 @@
+Kepler-34b (formally Kepler-34(AB)b) is a circumbinary planet announced with Kepler-35b. It is a small gas giant that orbits every ~288 days around two stars. Despite the planet's relatively long orbital period, its existence could be confirmed quickly due to transiting both of its host stars.
+Kepler-34b was unlikely to form at its current orbit, and likely migrated early from its birth orbit beyond 1.5 AU away from its parent binary stars, suffering multiple giant impacts in the process. The eccentricity of its planetary orbit might have been acquired on the last stage of migration, due to interaction with the residual debris disk, or by ejection of a second planet.
+
+
+== References ==

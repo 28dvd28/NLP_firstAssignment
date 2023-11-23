@@ -1,0 +1,25 @@
+In medicine, Allen's test or the Allen test is a medical sign used in physical examination of arterial blood flow to the hands. It was named for Edgar Van Nuys Allen, who described the original version of the test in 1942.An altered test, first suggested by Irving S Wright in 1952, has almost universally replaced the original method in contemporary medical practice. The alternative method is often referred to as the modified Allen's test or modified Allen test.
+
+Method
+Original test
+The original test proposed by Allen is performed as follows:
+The patient is asked to clench both fists tightly for 1 minute at the same time.
+Pressure is applied over both radial arteries simultaneously so as to occlude them.
+The patient then opens the fingers of both hands rapidly, and the examiner compares the colour of both. The initial pallor should be replaced quickly by rubor.
+The test may be repeated, this time occluding the ulnar arteries.Allen's test looks for abnormal circulation. If color returns quickly as described above, Allen's test is considered to demonstrate normal circulation. If the pallor persists for some time after the patient opens their fingers, this suggests a degree of occlusion of the uncompressed artery.
+
+Modified test
+In the modified Allen test, one hand is examined at a time:
+The hand is elevated and the patient is asked to clench their fist for about 30 seconds.
+Pressure is applied over the ulnar and the radial arteries so as to occlude both of them.
+Still elevated, the hand is then opened. It should appear blanched (pallor may be observed at the finger nails).
+Ulnar pressure is released while radial pressure is maintained, and the colour should return within 5 to 15 seconds.If color returns as described, Allen's test is considered to be normal. If color fails to return, the test is considered abnormal and it suggests that the ulnar artery supply to the hand is not sufficient. This indicates that it may not be safe to cannulate or needle the radial artery.   There is still some confusion as to whether a normal Allen test should be referred to as negative or positive.  In preoperative surgical notes it is perhaps best to avoid the words negative or positive and document the result as normal or abnormal.
+
+Anatomical basis
+The hand is normally supplied by blood from both the ulnar and radial arteries. The arteries join in the hand. Thus, if the blood supply from one of the arteries is cut off, the other artery can supply adequate blood to the hand. A minority of people lack this dual blood supply.
+
+Significance
+An uncommon complication of radial arterial blood sampling/cannulation is disruption of the artery (obstruction by clot), placing the hand at risk of ischemia. Those people who lack the dual supply are at much greater risk of ischemia. The risk can be reduced by performing the modified Allen's test beforehand. People who have a single blood supply in one hand often have a dual supply in the other, allowing the practitioner to take blood from the side with dual supply.The modified Allen's test is also performed prior to heart bypass surgery. The radial artery is occasionally used as a conduit for bypass surgery, and its patency lasts longer in comparison to the saphenous veins. Prior to heart bypass surgery, the test is performed to assess the suitability of the radial artery to be used as a conduit. A result of less than 3 seconds is considered as good and suitable. A result of between 3–5 seconds is equivocal, whereas the radial artery will not be considered for grafting if the result is longer than 5 seconds.The utility of the modified Allen's test is questionable, and no direct correlation with reduced ischemic complications of radial artery cannulation have ever been proven.  In 1983, Slogoff and colleagues reviewed 1,782 radial artery cannulations and found that 25% of them resulted in complete radial artery occlusion, without apparent adverse effects. A number of reports have been published in which permanent ischemic sequelae occurred even in the presence of a normal Allen's test. In addition, the results of Allen's tests do not appear to correlate with  distal blood flow as demonstrated by fluorescein dye injections.Further modifications to the test have been proposed to improve reliability.
+
+
+== References ==

@@ -1,0 +1,17 @@
+The Kepler Input Catalog (or KIC) is a publicly searchable database of roughly 13.2 million targets used for the Kepler Spectral Classification Program (SCP) and Kepler.
+
+Overview
+The Kepler SCP targets were observed by the 2MASS project as well as Sloan filters, such as the griz filters. The catalog alone is not used for finding Kepler targets, because only a portion (about 1/3 of the catalog) can be observed by the spacecraft. The full catalog includes up to 21 magnitude, giving 13.2 million targets, but of these only about 6.5 to 4.5 million fall on Kepler's sensors.KIC is one of the few comprehensive star catalogs for a spacecraft's field of view. The KIC was created because no catalog of sufficient depth and information existed for target selection at that time. The catalog includes "mass, radius, effective temperature, log (g), metallicity, and reddening extinction".An example of a KIC catalog entry is KIC #10227020. Having had transit signals detected for this star, it has become a Kepler Object of Interest, with the designation KOI-730. The planets around the star are confirmed, so the star has the Kepler catalog designation Kepler-223.
+Not all star Kepler Input Catalog stars with confirmed planets get a Kepler Object of Interest designation. The reason is that sometimes transit signals are detected by observations that were not made by the Kepler team. An example of one of these objects is Kepler-78b.
+
+Notable objects
+KIC 8462852 is a binary star whose primary shows a mysterious transit profile. The origin of this profile is uncertain, with proposed explanations ranging from an uneven dust ring to a Dyson swarm or similar alien megastructure.KIC 9832227 is a contact binary and an eclipsing binary with a period of about 11 hours.KIC 11026764 is a G-type subgiant star whose astroseismology has been studied extensively by Kepler. It shows weak variability with a period of about 1100 seconds.KIC 11145123 is one of the more interesting non-KOI objects in the list. An A-type main-sequence star with unusually slow rotation for its high mass, it is currently believed to be the roundest natural object.
+
+See also
+Kepler object of interest (KOI)
+Hubble Guide Star Catalog
+Tabby's Star
+
+References
+External links
+Kepler Input Catalog (SAO)

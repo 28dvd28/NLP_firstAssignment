@@ -1,0 +1,50 @@
+Computer-aided simple triage (CAST) are computerized methods or systems that assist physicians in initial interpretation and classification of medical images. CAST is a sub-class of computer-aided diagnosis (CAD). CAST software systems perform a fully automatic initial triage (classification) of diagnostic medical imaging studies. CAST is primarily intended for emergency diagnostic imaging, where a prompt diagnosis of critical, life-threatening condition is required.
+
+Overview
+Computer-aided simple triage (CAST) is a combination of computer-aided diagnosis (CAD) and simple triage and rapid treatment (START).
+CAST performs a fully automatic initial interpretation of a study – a "wet read". Studies are automatically classified into some meaningful categories, e.g. positive/negative, critical/minor/normal, difficult/simple/non-diagnostic, etc.CAST is primarily intended for emergency diagnostic imaging. Unlike traditional CAD, mainly used to detect malignant lesions, CAST deals with acute, life-threatening conditions, when a prompt diagnosis is time
+critical. While the primary goal of the traditional CAD is improving the diagnostic accuracy of a human reader, the CAST addresses two other problems:
+
+Low availability of image interpreters – no reader immediately available to read an urgent study – off hours, rural places, under-staffing
+Reading sequence prioritization – given a large number of studies to read, establish the optimal reading sequence, e.g. urgent cases first; or, given several available readers, distribute the workload in the optimal way, e.g. simple cases to trainees, difficult to experts.
+
+Use case scenario
+As with the traditional CAD, CAST does not substitute the physician. It only alerts about the possibility of acute, critical condition, or suggests that the study is free of severe disease. In both cases, the diagnosis should be verified by a trained physician. 
+The clinical benefit is achieved: 
+
+for positive cases – by bringing expert's attention to critical cases faster than it would happen without CAST
+for negative cases – by letting less experienced staff be the first to deal with simple negative cases, thus releasing pressure from less available experts.Traditional CAD system usually plays the role of a "second reader" and is used after or during the interpretation
+performed by physician. CAST, on the other hand, analyzes the study before the physician, in a background, fully automatic mode. By the time physician comes to read the study, the initial triage or "wet read" prepared by CAST is already available. CAST system can send a message to a physician to report an urgent case requiring immediate attention.
+
+Sensitivity and specificity
+Like any CAD system, CAST, in general, cannot guarantee 100% diagnostic accuracy. 
+Since CAST operates in a fully automated mode, the system is expected to exhibit very high sensitivity – usually above 90%. Moreover, the need to provide a diagnosis at "per study" level dictates stringent requirements for CAST specificity as well. The average of one or more false alarms per study, tolerable for a traditional CAD, is not acceptable for CAST, as almost every study would be reported as positive. Therefore, for most clinical applications, CAST specificity should be higher than 60-70% to make it useful.
+
+Reliability and quality control
+Since CAST operates in a fully automatic mode, it should be able to deal with any study, regardless of image quality, patient anatomy, etc. Therefore, CAST systems should implement a quality control mechanism to ensure the high confidence level of the diagnosis. If the system decides (based on the evaluated image quality, detected artifacts, anatomical anomalies, etc.) that no reliable diagnosis can be automatically achieved, it reports a failure.
+
+Clinical applications
+CAST approach is applicable for the automatic detection of acute, life-threatening conditions from diagnostic medical images, such as:
+
+Pulmonary embolism (PE)
+Aortic dissection
+Coronary artery disease
+Stroke
+Bone fractures
+Internal bleeding
+Pneumoperitoneum
+Idiopathic intracranial hypertensionCAST system can analyze images acquired with various modalities, including x-ray, CT, MRI, ultrasound and others.
+
+Examples
+CAST for coronary artery disease
+CAST system is available for the detection of significant (>50%) coronary stenosis in coronary CT angiography (cCTA) studies. The system exhibits "per study" specificity of 60–70%, while keeping the sensitivity above 90%.
+It can be used for chest pain patient triage in emergency room.
+
+CAST for Intracranial Hemorrhages
+A deep learning system is available for automatic detection of Intracranial Hemorrhages in acute care settings.
+
+See also
+Aidoc
+
+
+== References ==

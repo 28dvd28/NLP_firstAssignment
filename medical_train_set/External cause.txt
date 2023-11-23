@@ -1,0 +1,4 @@
+In medicine, an external cause is a reason for the existence of a medical condition which can be associated with a specific object or acute process that was caused by something outside the body. Such causes are classified as "E codes" in ICD 9.External Cause of Injury Codes (E codes) are ICD-9-CM codes or ICD-10 codes that are used to define the mechanism of death or injury, along with the place of occurrence of the event. [1] E codes are assigned on death certificates based on the manner of death. ICD-10 codes in the range V01–X59 refer to unintentional injuries. Codes in the range X60–X84 refer to intentional self-harm. Codes in the range Y85–Y09 refer to assault, and codes in the range Y10–Y34 refer to events of undetermined intent.E codes are well-collected on death certificate data, but less so on hospital discharge data. Numerous initiatives have increased the percentage of records coded (CDC, MMWR March 28, 2008 / Vol. 57 / No. RR-1).
+
+
+== References ==

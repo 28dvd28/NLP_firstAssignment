@@ -1,0 +1,64 @@
+Pericardiocentesis (PCC), also called pericardial tap, is a medical procedure where fluid is aspirated from the pericardium (the sac enveloping the heart).
+
+Anatomy and physiology
+The pericardium is a fibrous sac surrounding the heart composed of two layers: an inner visceral pericardium and an outer parietal pericardium.  The area between these two layers is known as the pericardial space and normally contains 15 to 50 mL of serous fluid.  This fluid protects the heart by serving as a shock absorber and provides lubrication to the heart during contraction.The elastic nature of the pericardium allows it to accommodate a small amount of extra fluid, roughly 80 to 120 mL, in the acute setting.  However, once a critical volume is reached, even small amounts of extra fluid can rapidly increase pressure within the pericardium.  This pressure can significantly hinder the ability of the heart to contract, leading to cardiac tamponade.  If accumulation of fluid is slow and occurs over weeks to months, the pericardial sac can tolerate several liters of additional fluid without substantially hindering the ability of the heart to pump.
+
+Indications
+Indications for performing pericardiocentesis can be divided into those that are therapeutic (i.e. treating tamponade) and those that are diagnostic (i.e. pericardial fluid analysis).
+
+Therapeutic pericardiocentesis
+Cardiac tamponade
+Pericardiocentesis can be used to diagnose and treat cardiac tamponade. Cardiac tamponade is a medical emergency in which excessive accumulation of fluid within the pericardium (pericardial effusion) creates increased pressure. This prevents the heart from filling normally with blood. This can critically decrease the amount of blood that is pumped from the heart, causing obstructive shock, which can be lethal. The removal of the excess fluid reverses this dangerous process, and is often the first treatment for cardiac tamponade due to its speed.
+
+Pericarditis
+Pericardiocentesis can relieve the symptoms of pericarditis. There may be a normal amount of pericardial fluid, but inflammation still causes compression of the heart. Removal of some of this fluid reduces pressure on the heart.
+
+Diagnostic pericardiocentesis
+Analysis of pericardial fluid
+Pericardiocentesis can also be used to analyze the fluid surrounding the heart. Fluid may be analyzed to differentiate a number of conditions, including:
+infection
+spread of cancer
+autoimmune conditions, such as lupus and rheumatoid arthritis
+
+Contraindications
+Absolute contraindications
+There are no absolute contraindications to pericardiocentesis in emergency situations where a patient is hemodynamically unstable.
+
+Relative contraindications
+Long-term drainage
+Pericardiocentesis is a one-off procedure, which may not be appropriate for long-term drainage. In cases where longer term drainage is needed, the cardiothoracic surgeon can create a pericardial window. This involves the removal of a section of the pericardium, and the placement of a chest tube.
+
+Aortic dissection
+Pericardiocentesis is not appropriate if cardiac tamponade is associated with aortic dissection. In this case, there is a high risk of the procedure worsening this aortic dissection by causing haemorrhage.
+
+Diagnosis of minor pericardial effusion
+Pericardiocentesis is not usually useful for diagnosis of more minor pericardial effusion.
+
+Other
+Other relative contraindications include coagulopathies, thrombocytopenia, myocardial rupture, severe pulmonary hypertension, prior thoracoabdominal surgery, prosthetic heart valves, pacemakers and other cardiac devices, inadequate visualization of the effusion on ultrasound during the procedure, and situations in which more appropriate treatment options are available.
+
+Procedure
+Overview
+The patient undergoing pericardiocentesis is positioned supine with the head of the bed raised between a 30 and 60 degree angle. This places the heart in proximity to the chest wall for easier insertion of the needle into the pericardial sac. For patients that are awake, a local anaesthetic is applied. A large needle is inserted through the skin of the chest into the pericardium, and the practitioner aspirates the pericardial effusion into a syringe.  If needed, a drain can be placed using the Seldinger technique for continuous access.
+
+Approaches
+There are multiple locations that pericardiocentesis can be performed without puncturing the lungs.
+In the past, the standard location was through the infrasternal angle and is also called subxiphoid approach. The needle is inserted at an angle between 30 and 45 degrees to the chest 1 cm inferior to the left xiphocostal angle.
+Another location is through the 5th or 6th intercostal space at the left sternal border at the cardiac notch of the left lung, and is also called as parasternal approach. The needle is inserted at an angle of 90 degrees to the chest. Some evidence suggests that this poses lower risk of vascular damage in adults.
+With the routine use of ultrasound guidance, the apical approach is becoming more widely used.  The needle is inserted at the level of the cardiac apex, usually between the 5th-7th intercostal space.  The needle is advanced directly over the superior aspect of the rib to avoid the neurovascular bundle and aimed toward the right shoulder.
+
+Ultrasound guidance
+Pericardiocentesis should be performed with ultrasound guidance whenever possible to prevent complications.  This allows practitioners to assess the location of the pericardial effusion and identify adjacent structures.  With ultrasound guidance, an apical approach is most often used, but parasternal and subxiphoid approaches can also be used.  Agitated saline is injected and visualized sonographically to confirm the needle placement in the pericardium.Pericardiocentesis can be performed using computed tomography (CT) imaging in cases of complex or loculated effusions or when ultrasound has failed to provide proper visualization.
+
+Blind pericardiocentesis
+Blind pericardiocentesis can be performed in emergency settings when ultrasound is not available and typically utilizes a subxiphoid approach.  As the needle is advanced, aspiration is performed to assess for advancement of the needle into the pericardial space.  To prevent perforation of the heart, electrocardiographic (ECG) monitoring might be used.  This involves using an alligator clip to attach an ECG lead to the needle.  Changes in ECG waves, such as ST segment elevations or PR depressions, are indicative of contact with the myocardium.
+
+Risks
+Fewer than 1.5% of patients experience complications from pericardiocentesis. The most common complications are lacerations of coronary arteries, and puncture of the left ventricle (with associated bleeding from both). Echocardiograms can help to identify complications. Blind approaches are typically only advised in emergencies, and a guided approach is typically preferred (using echocardiography).
+
+References
+External links
+MedlinePlus Encyclopedia: 003872
+med/3560 at eMedicine
+Trauma Man: Images of pericardiocentesis being performed on a simulator
+Cardiac Surgery in the Adult: Pericardial disease

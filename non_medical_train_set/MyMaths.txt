@@ -1,0 +1,21 @@
+MyMaths is a subscription-based mathematics website which can be used on interactive whiteboards or by students and teachers at home. It is owned and operated by Oxford University Press, who acquired the site in 2011. As of February 2021, MyMaths has over 4 million student users in over 70 countries worldwide.
+
+Usage and Cost
+MyMaths operates a subscription model, where schools must pay to access the service. There is a cost of £392 for primary schools or £695 for secondary schools, per annum and not including VAT. Limited resources are available as a free trial. Schools receive an institution username and password, allowing students to access content on the site, and can set up profiles for individual students, enabling teachers to track the progress and grades achieved on homework.
+
+Content
+MyMaths has a wide range of curriculum materials and resources aimed at students in primary and secondary schools, covering content from KS1 foundations to A-Level Further Mathematics. However, it does not cover all topics. Each topic consists of a 'Lesson' which teaches the methods and provides interactive examples, as well as an "Online homework" task which provides and automatically marks practice questions. "Booster packs" for revision purposes and simplistic games are also available.
+Whilst MyMaths only provides content for UK examinations, the sister site MyiMaths provides content for international qualifications.
+
+Flash
+MyMaths was originally constructed in Flash, but most content has now been translated into HTML or other standards as of January 2021. 28 games and some other content was replaced or deleted after widespread support for Flash was ended at the end of 2020.
+
+'Hacks'
+Several websites claim to offer 'hacks' to easily access answers on the site, although these merely involve opening several tabs or checking client side source code. A popular excuse amongst students completing homework was that they had forgotten to click the 'Checkout' tab, which resulted in the results of supposedly completed work not being saved.
+
+Impact
+An impact study undertaken by Oxford University Press — the owners of the website — conducted 22 interviews with teachers, finding that using MyMaths saved teachers between 15 minutes and 5 hours a week, with an average of around 2 hours.
+
+References
+External links
+Official website

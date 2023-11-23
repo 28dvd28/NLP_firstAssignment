@@ -1,0 +1,38 @@
+The Bruce protocol is a standardized diagnostic test used in the evaluation of cardiac function and physical fitness, developed by American cardiologist Robert A. Bruce.According to the original Bruce protocol the patient walks on an uphill treadmill in a graded exercise test with electrodes on the chest to monitor. Every 3 min the speed & incline of the treadmill are increased. There are 7 such stages and only very fit athletes can complete all 7 stages. The modified Bruce Protocol is an alteration in the protocol so that the treadmill is initially horizontal rather than uphill, with the 1st few intervals increasing the treadmill slope only.The Bruce treadmill test estimates maximum oxygen uptake using a formula and the performance of the subject on a treadmill as the workload is increased. The test is easy to perform in a medical office setting, does not require extensive training or expensive equipment, and it has been validated as a strong predictor of clinical outcomes.
+
+Procedure
+Exercise is performed on a treadmill. The leads of the ECG are placed on the chest wall. The treadmill is started at 2.74 km/h (1.7mph) & at an inclined gradient of 10%. After 3 min incline of the treadmill is increased by 2%, and the speed increases. Indications to terminate the test include signs or symptoms of impaired blood flow to the heart, irregular heart rhythm, fatigue, shortness of breath, wheezing, leg cramps, or claudication.
+
+Stages
+Stages of the standard Bruce protocol are as follows:
+Total Duration = 21 minutes
+
+History
+Before the development of the Bruce protocol there was no safe, standardized protocol that could be used to monitor cardiac function in exercising patients. Master's two-step test was often used, but it was too strenuous for many patients, and inadequate for the assessment of respiratory and circulatory function during varying amounts of exercise.
+To address these problems, Bruce and his colleagues began to develop a cardiac stress test. The test made extensive use of relatively new technological developments in electrocardiograph machines and motorized treadmills. The Bruce exercise test involved walking on a treadmill while the heart was monitored by an electrocardiograph with various electrodes attached to the body. Breathing volumes and respiratory gas exchange were also monitored before, during and after exercise. Because the treadmill speed and inclination could be adjusted, this physical activity was tolerated by most patients. Initial experiments involved a single-stage test, in which subjects walked for 10 minutes on the treadmill at a fixed workload. Bruce's first reports on treadmill exercise tests, published in 1949, analyzed minute-by-minute changes in respiratory and circulatory function of normal adults and patients with heart or lung disease.In 1950 Bruce joined the University of Washington, where he continued research on the single-stage test, particularly as a predictor of the success of surgery for valvular or congenital heart disease. Later he developed a multistage test, consisting of several stages of progressively greater workloads. It was this multistage test — a description of which was first published in 1963 — that became known as the Bruce Protocol. In the initial paper, Bruce reported that the test could detect signs of such conditions as angina pectoris, a previous heart attack, or a ventricular aneurysm. Bruce and his colleagues also demonstrated that exercise testing was useful in screening apparently healthy people for early signs of coronary artery disease.Typically during a Bruce Protocol, heart rate and rating of perceived exertion are taken every minute and blood pressure is taken at the end of each stage (every three minutes). There are Bruce protocol tables available for maximal (competitive athletes) and sub-maximal (non-athletic people) efforts.
+
+Modifications
+The Modified Bruce protocol starts at a lower workload than the standard test and is typically used for elderly or sedentary patients. The first two stages of the Modified Bruce Test are performed at a 1.7 mph and 0% grade and 1.7 mph and 5% grade, and the third stage corresponds to the first stage of the Standard Bruce Test protocol as listed above.
+
+Results
+The test score is the time taken on the test, in minutes. This can also be converted to an estimated maximal oxygen uptake score using the calculator below and the following formulas, where the value "T" is the total time completed (expressed in minutes and fractions of a minute e.g. 9 minutes 15 seconds = 9.25 minutes). As with many exercise test equations, there have been many regression equations developed that may give varying results. If possible, use the one derived from a similar population and which best suits your needs.
+VO2max (ml/kg/min) = 14.76 - (1.379 × T) + (0.451 × T²) - (0.012 × T³)
+Women: VO2max (ml/kg/min) = 2.94 x T + 3.74
+Young Women: VO2max (ml/kg/min) = 4.38 × T - 3.9
+Men: VO2max (ml/kg/min) = 2.94 x T + 7.65
+Young Men: VO2max (ml/kg/min) = 3.62 x T + 3.91ref: ACSM's Health-Related Physical Fitness Assessment Manual
+
+Underlying Heart Rate Formulas
+Maximum heart rate (MHR) is often calculated with the formula 220-age, which is quite inaccurate. The heart rate formula most often used for the Bruce is the Karvonen formula (below).
+A more accurate formula, offered in a study published in the journal, Medicine & Science in Sports & Exercise, is 206.9 - (0.67 x age) which can also be used to more accurately determine VO2 Max, but may produce significantly different results.
+A diagnostician (e.g., physical therapist, personal trainer, doctor, athletic trainer, nurse, medical professional, dietitian, etc.) may be best served to conduct the test twice using both parameters and formulas.
+
+Karvonen method
+The Karvonen method factors in resting heart rate (HRrest) to calculate target heart rate (THR), using a range of 50–85% intensity:
+THR = ((HRmax − HRrest) × %Intensity) + HRrestExample for someone with a HRmax of 180 and a HRrest of 70:
+
+50% intensity:  ((180 − 70) × 0.50) + 70 = 125 bpm
+85% intensity:  ((180 − 70) × 0.85) + 70 = 163 bpm
+
+
+== References ==

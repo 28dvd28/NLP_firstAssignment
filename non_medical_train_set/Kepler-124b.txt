@@ -1,0 +1,10 @@
+Kepler-124b is an extrasolar planet discovered in 2014. It is located 359 parsecs (1,170 light-years) from Earth, orbiting the unclassified star Kepler-124 in the constellation Cygnus. Within The Kepler-124 system (KOI-241) there are three known planets, Kepler-124b being both the smallest and closest to its parent star.
+
+Characteristics
+Kepler-124b is located 359 parsecs (1,170 light-years) from Earth orbiting the star Kepler-124. Both Kepler-124b and its host star are smaller than our own planet and star, respectively; Kepler-124b is estimated to be 0.729±0.045 Earth radii (0.065±0.004 Jupiter radii), and its parent star Kepler-124 is estimated to be 68.7% of the mass the Sun, approximately 0.636±0.030 solar radii.It is the smallest discovered planet in the Kepler-124 system, and has the closest orbit of the three known planets. Kepler-124b orbits 96% closer to its star than Earth (approximately 3 Earth days), which in the Kepler-124 system is inside the inner limit of the star's habitable zone.
+
+Discovery
+Like many Exoplanets discovered by the Kepler telescope, Kepler-124b was found using the transit method. The transit method utilizes the high magnification and numerous instruments on the Kepler telescope to detect slight fluctuations in brightness of a star being observed. These dips can indicate the presence planet and determine certain parameters of it as well. Kepler-124b was initially only a planet candidate but was later confirmed as an exoplanet; a statistical analysis by a team at NASA Ames Research Center validated the existence of Kepler-124b with 99% assurance, along with Kepler-124c and Kepler-124d. Although scientists are very confident about some of Kepler-124b's parameters, many are still unknown.
+
+
+== References ==

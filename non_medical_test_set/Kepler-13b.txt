@@ -1,0 +1,11 @@
+Kepler-13 or KOI-13 is a stellar triple star system consisting of Kepler-13A, around which an orbiting hot Jupiter exoplanet was discovered with the Kepler spacecraft in 2011, and Kepler-13B a common proper motion companion star which has an additional star orbiting it.
+
+Stellar system
+The multiple nature of the system was discovered in 1904 by Robert Grant Aitken at Lick Observatory. He measured a separation between the A and B components of approximately one arc second and position angle of 281.3° with the 36" James Lick telescope. The position of the two visual components of the system relative to each other has remained constant since 1904. Radial velocity measurements taken with the SOPHIE échelle spectrograph at the Haute-Provence Observatory revealed an additional companion orbiting Kepler-13B. This companion has a mass of between 0.4 and 1 times that of the Sun and orbits with a period of 65.831 days with an eccentricity of 0.52
+
+Planetary system
+Kepler-13 was identified as one of 1235 planetary candidates with transit-like signatures in the first four months of Kepler data. It was confirmed as a planet by measuring the Doppler beaming effect on the Kepler light curve. The planet that has been confirmed, having a radius of between 1.5 and 2.6 RJ, is also one of the largest known exoplanets.
+The planet is likely to be tidally locked to the parent star. In 2015, the planetary nightside temperature was estimated to be equal to 2394±251 K.The study in 2012, utilizing a Rossiter–McLaughlin effect, have determined the planetary orbit is mildly misaligned with the equatorial plane of the star, misalignment equal to 24±4°.The planetary transits are changing in duration over time which is likely caused by the interaction of the planet with its host star.
+
+
+== References ==

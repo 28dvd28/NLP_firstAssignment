@@ -1,0 +1,26 @@
+Arthrocentesis, or joint aspiration, is the clinical procedure performed to diagnose and, in some cases, treat musculoskeletal conditions. The procedure entails using a syringe to collect synovial fluid from or inject medication into the joint capsule. Laboratory analysis of synovial fluid can further help characterize the diseased joint and distinguish between gout, arthritis, and synovial infections such as septic arthritis.
+
+Uses
+In general, arthrocentesis should be strongly considered if there is suspected trauma, infection, or effusion of the joint.
+
+Diagnostic
+Arthrocentesis can be used to diagnose septic arthritis or crystal arthropathy. In the case of a septic joint, arthrocentesis should preferably be performed prior to starting treatment with antibiotics, in order to ensure a proper sample of synovial fluid is obtained.
+
+Synovial Fluid Analysis
+Patients with a fever, suspected flare of existing arthritis, or unknown cause of joint effusion should undergo arthrocentesis with synovial fluid analysis. Samples of synovial fluid can be analyzed for gross appearance, presence of crystals, white blood cell count with differential, red blood cell count, and bacterial culture. Normal synovial fluid should not have any cells or crystals present and should appear colorless and clear.
+Gross Appearance: Opaque-appearing synovial fluid may indicate the presence of white blood cells, red blood cells, or acellular material such as lipids. Yellow-green appearing synovial fluid may indicate the presence of inflammation or infection. In the case of an infection or septic arthritis, the synovial fluid may contain pus and be more viscous.
+Crystal Analysis: Using a microscope and polarizing light filter, birefringence of crystals can be detected in a sample of synovial fluid. This is essential to distinguish monosodium urate crystals in gout from calcium pyrophosphate dihydrate crystals in pseudogout.
+Cell Count and Differential: In cases of bacterial joint infections, synovial fluid will typically show white blood cell counts of 50,000 to 150,000 cells/mm3. Cases of inflammatory arthritis are also likely to have an elevated white blood cell count in the synovial fluid, although the count will typically be lower than that seen in septic arthritis.
+
+Therapeutic
+Aspiration of synovial fluid in cases of joint effusion or hemarthrosis can help reduce pressure around the joints, thus providing pain relief. Corticosteroid medications may also be injected into the joint capsule to provide pain relief and anti-inflammatory effects, especially for rheumatoid arthritis and less commonly osteoarthritis. Care should be taken to ensure sepsis has been ruled out before injecting corticosteroids, as doing so may worsen the joint infection. Less commonly, recurrent joint aspirations may be performed for cases of septic arthritis.
+
+Procedure
+Ultrasound is often used in conjunction with arthrocentesis to help identify appropriate anatomic markers of the joint. Typically, a 22 gauge needle is used along with a 5 mL syringe, but the sizes can be modified depending on the size of the joint that the procedure is being performed on.
+
+Complications
+Inserting a needle into a joint to aspirate fluid may cause an infection of the joint and lead to septic arthritis. The estimated frequency of this infectious complication is 1 in 3000 procedures. This complication can be prevented by following proper sterile technique, including but not limited to: sterilizing the skin with antiseptic prior to the procedure and sterilizing the tops of medication vials with alcohol wipes prior to drawing up the medication with a syringe. If proper technique is not followed, damage may occur to the tendons, nerves, and cartilage surrounding the joint being aspirated. Using ultrasound guidance and having a rheumatologist perform the procedure can prevent tendon rupture and neurovascular damage from occurring.
+
+References
+External links
+http://www.medicinenet.com/joint_aspiration/article.htm

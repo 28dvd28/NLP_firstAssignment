@@ -1,0 +1,37 @@
+Johann Faulhaber (5 May 1580 – 10 September 1635) was a German mathematician, specifically, a Rechenmeister.
+
+Born in Ulm, Faulhaber was a trained weaver who later took the role of a surveyor of the city of Ulm. He collaborated with Johannes Kepler and Ludolph van Ceulen. In 1620, while in Ulm, Descartes probably corresponded with Faulhaber to discuss algebraic solutions of polynomial equationsHe worked as fortification engineer in various cities (notably Basel, where he was fortification engineer from 1622 to 1624, and Frankfurt), and also worked under Maurice, Prince of Orange in the Netherlands. He also built water wheels in his home town and geometrical instruments for the military. 
+Faulhaber made the first publication of Henry Briggs's Logarithm in Germany. He is also credited with the first printed solution of equal temperament. He died in Ulm.
+Faulhaber's major contribution was in calculating the sums of powers of integers. Jacob Bernoulli makes references to Faulhaber in his Ars Conjectandi.
+Other than his mathematical work, he also worked on various mystical matters, such as alchemy, astrology and numerology. He was a member of the Rosicrucians. In 1619, after his involvement in the Ulm comet dispute, he published his work Fama Syderea Nova, containing prophecies in connection with the Great Comet of 1618 and the beginning of the Thirty Years' War. The Ulm comet dispute concerned whether the comets appearing during 1618 were signs sent by God, or just natural phenomena.
+
+Works
+Arithmetischer Cubicossischer Lustgarten, Tübingen: Erhard Cellius 1604
+Neue geometrische und perspektivische Inventiones etlicher sonderbahrer Instrument (in Latin). Frankfurt am Main: Johann Bringer. 1610.
+Himlische gehaime Magia Oder Newe Cabalistische Kunst/vnd Wunderrechnung, Nürnberg 1613 (lateinische Ausgabe Magia arcana coelestis Nürnberg 1613)
+Andeutung/ Einer vnerhorten newen Wunderkunst. Welche der Geist Gottes/ in etlichen Prophetischen/ vnd Biblischen Geheimnuß Zahlen/ biß auff die letzte Zeit hat wollen versigelt und verborgen halten. Nürnberg 1613
+Neuer Arithmetischer Wegweyßer, Ulm 1614
+Wunderliche Erfindung auß Albrecht Dürers seeligen Alten Invention. Vom Gläßern Perspectiv Tisch/ mit einem Proportional Instrument verbessert. Ulm: Johannes Meder 1617
+Fama siderea nova, Nürnberg 1619
+Miracula Arithmetica, Augsburg 1622
+Mechanische Verbesserung einer alten Roßmühlen, Ulm 1625
+Geheime Kunstkammer. Darinnen hundert allerhand Kriegs Stratagemata, auch andere Vnerhorte Secreta, vnd Machinae mirabiles zusehen/ dergleichen in Europa (respective) wenig zu finden, Ulm 1628
+Academia Algebrae, Augsburg 1631
+Mathematische Andeutung der Ewigkeit, Ulm 1631
+Vernünftiger Creaturen Weissagungen, Augsburg 1632
+Magdenburgischer Phoenix, Augsburg 1632
+Ingenieurs-Schul, 4 Teile, Frankfurt 1630 (Teil 1), Ulm 1633 (Teil 2 bis 4)
+
+See also
+Faulhaber's formula
+
+References
+Faulhaber, Johannes (1631). Academia Algebrae, darinnen die miraculosische Inventiones, zu den höchsten Cossen weiters continuirt und profitiert werden. Ulm. SLUB Dresden
+Knuth, D. E. (1993), "Johann Faulhaber and the Sums of Powers", Mathematics of Computation, American Mathematical Society, 61 (203): 277–294, arXiv:math/9207222, doi:10.2307/2152953, JSTOR 2152953
+Smith, David Eugene (1959), A Source Book in Mathematics, Mineola, NY: Dover, pp. 85–90
+Schneider, Ivo (1993), Johannes Faulhaber: 1580–1635. Rechenmeister in einer Welt des Umbruchs, Basiliae: Birkhäuser, ISBN 3-7643-2919-X
+
+External links
+
+Johann Faulhaber in VD17
+O'Connor, John J.; Robertson, Edmund F., "Johann Faulhaber", MacTutor History of Mathematics Archive, University of St Andrews

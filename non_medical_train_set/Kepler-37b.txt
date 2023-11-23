@@ -1,0 +1,23 @@
+Kepler-37b is an exoplanet orbiting the star Kepler-37 in the constellation Lyra. As of February 2013 it is the smallest planet discovered around a main-sequence star, with a radius slightly greater than that of the Moon and slightly smaller than that of Mercury. The measurements do not constrain its mass, but masses above a few times that of the Moon give unphysically high densities.
+
+Characteristics
+Mass, radius and temperature
+Kepler-37b is a sub-Earth, an exoplanet with a radius and mass smaller than Earth. Its equilibrium temperature is 718 K (445 °C; 833 °F). Because of its small size, it is not expected to have an atmosphere. Its radius is approximately 0.31 R🜨 (about 1,980 kilometres (1,230 mi)), slightly larger than the Moon (0.27 R🜨), but a little smaller than Mercury (0.38 R🜨). Due to its small size, it is very likely Kepler-37b is a rocky planet with a solid surface. Furthermore, it is too hot to support liquid water on its surface.
+
+Host star
+The planet orbits a (G-type) star similar to the Sun, named Kepler-37, orbited by a total of four planets. The star has a mass of 0.80 M☉ and a radius of 0.79 R☉. It has a temperature of 5417 K and is 5.66 billion years old. In comparison, the Sun is 4.6 billion years old and has a temperature of 5778 K.The star's apparent magnitude, or how bright it appears from Earth's perspective, is 9.71. Therefore, it is too dim to be seen with the naked eye.
+
+Orbit
+Kepler-37b orbits its parent star at a distance of about 15 million kilometers (9.3 million miles), with a period of roughly 13 days at a distance of 0.1 AU (compared to Mercury's distance from the Sun, which is about 0.38 AU). The outer two planets in the system have orbital periods within one percent of the 8:5 and 3:1 resonances with Kepler-37b's period.
+
+Discovery
+Kepler-37b, along with two other planets, Kepler-37c and Kepler-37d, were discovered by the Kepler space telescope, which observes stellar transits. After observing transits of Kepler-37b, astronomers had to compare it with the size of the parent star.
+The size of the star was obtained using asteroseismology; Kepler-37 is currently the smallest star to be studied using this process. This allowed the size of Kepler-37b to be determined "with extreme accuracy".To date, Kepler-37b is the smallest planet discovered around a main-sequence star outside the Solar System. Detection of Kepler-37b was possible due to its short orbital period, relative brightness, and low activity of its host star, allowing brightness data to average out quickly. The discovery of Kepler-37b has led Jack Lissauer, a scientist at NASA's Ames Research Center, to conjecture that "such little planets are common".
+
+See also
+List of exoplanet extremes
+
+Notes
+
+
+== References ==

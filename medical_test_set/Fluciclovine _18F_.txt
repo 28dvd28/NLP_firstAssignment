@@ -1,0 +1,14 @@
+Fluciclovine (18F), also known as anti-1-amino-3-18F-fluorocyclobutane-1-carboxylic acid (anti-3[18F] FACBC), or as Axumin (brand name), is a diagnostic agent indicated for positron emission tomography (PET) imaging in men with suspected prostate cancer recurrence based on elevated prostate specific antigen (PSA) levels.
+
+Background
+Most imaging tests have not been able to localize recurrent prostate cancer when the PSA is mildly increased. Axumin scans were compared to [11C]-tagged choline PET scans, another FDA approved PET scan that can assist in this situation, and to biopsy results. Fluciclovine tagged PET scans appear to more sensitive than CT scans and to [11C]-tagged choline PET scans.
+
+Mechanism
+Fluciclovine is a [18F]-tagged synthetic analog of the amino acid L-leucine. FACBC uptake by the tumor is related to functional activity of two amino acid transporters, specifically sodium-dependent system ASC, with a lesser contribution by sodium-independent system L. Although it is handled by the amino acid transporter system, it does not undergo terminally incorporative metabolism within the body. The distribution of the tracer in the body differs from choline and FDG, as kidney uptake of FACBC is negligible, and no activity is found in the urinary tract. There is low native brain uptake compared to FDG, which may enhance detection of brain metastases or primary brain tumors. The more intense native liver and pancreatic uptake seen with this agent would be expected to limit disease detection in those organs. FACBC has a short synthesis time and a long half-life, which eliminate the need for an onsite cyclotron.
+
+Marketing
+Axumin is marketed by Blue Earth Diagnostics, Ltd., United Kingdom.
+
+References
+External links
+"Fluciclovine". Drug Information Portal. U.S. National Library of Medicine.

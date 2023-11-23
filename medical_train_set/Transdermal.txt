@@ -1,0 +1,34 @@
+Transdermal is a route of administration wherein active ingredients are delivered across the skin for systemic distribution. Examples include transdermal patches used for medicine delivery.
+The drug is administered in the form of a patch or ointment that delivers the drug into the circulation for systemic effect.
+
+Techniques
+Obstacles
+Although the skin is a large and logical target for drug delivery, its basic functions limit its utility for this purpose.  The skin functions mainly to protect the body from external penetration (by e.g. harmful substances and microorganisms) and to contain all body fluids.  
+There are two important layers to the human skin: (1) the epidermis and (2) the dermis.  For transdermal delivery, drugs must pass through the two sublayers of the epidermis to reach the microcirculation of the dermis.
+The stratum corneum is the top layer of the skin and varies in thickness from approximately ten to several hundred micrometres, depending on the region of the body. It is composed of layers of dead, flattened keratinocytes surrounded by a lipid matrix, which together act as a brick-and-mortar system that is difficult to penetrate.The stratum corneum provides the most significant barrier to diffusion. In fact, the stratum corneum is the barrier to approximately 90% of transdermal drug applications. However, nearly all molecules penetrate it to some minimal degree.  Below the stratum corneum lies the viable epidermis.  This layer is about ten times as thick as the stratum corneum; however, diffusion is much faster here due to the greater degree of hydration in the living cells of the viable epidermis.  Below the epidermis lies the dermis, which is approximately one millimeter thick, 100 times the thickness of the stratum corneum.  The dermis contains small vessels that distribute drugs into the systemic circulation and to regulate temperature, a system known as the skin's microcirculation.
+
+Transdermal pathways
+There are two main pathways by which drugs can cross the skin and reach the systemic circulation.  The more direct route is known as the transcellular pathway.
+
+Transcellular pathway
+By this route, drugs cross the skin by directly passing through both the phospholipids membranes and the cytoplasm of the dead keratinocytes that constitute the stratum corneum.
+Although this is the path of shortest distance, the drugs encounter significant resistance to permeation. This resistance is caused because the drugs must cross the lipophilic membrane of each cell, then the hydrophilic cellular contents containing keratin, and then the phospholipid bilayer of the cell one more time. This series of steps is repeated numerous times to traverse the full thickness of the stratum corneum.
+
+Intercellular pathway
+The other more common pathway through the skin is via the intercellular route.  Drugs crossing the skin by this route must pass through the small spaces between the cells of the skin, making the route more tortuous.  Although the thickness of the stratum corneum is only about 20 µm, the actual diffusional path of most molecules crossing the skin is on the order of 400 µm.  The 20-fold increase in the actual path of permeating molecules greatly reduces the rate of drug penetration.Recent research has established that the intercellular route can be dramatically enhanced by attending to the physical chemistry of the system solubilizing the active pharmaceutical ingredient, rendering a dramatically more efficient delivery of payload and enabling the delivery of most compounds via this route.
+
+Microneedles
+A third pathway to breach the Stratum Corneum layer is via tiny microchannels created by a medical micro-needling device of which there are many brands and variants.  Investigations at the University of Marburg, Germany, using a standard Franz diffusion cell showed that this approach is efficient in enhancing skin penetration ability for lipophilic as well as hydrophilic compounds.The micro-needling approach is also seen as 'the vaccine of the future'. The microneedles can be hollow, solid, coated, dissolving, or hydrogel-forming. Some have regulatory approval. Microneedle devices/patches can be used to deliver nanoparticle medicines.
+
+Devices and formulations
+Devices and formulations for transdermally administered substances include:
+
+Transdermal patch
+Transdermal gel
+specially formula
+
+See also
+Invasomes
+
+
+== References ==

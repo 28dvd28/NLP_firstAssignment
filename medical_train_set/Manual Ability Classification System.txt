@@ -1,0 +1,22 @@
+The Manual Ability Classification System (MACS) is a medical classification system used to describe how children aged from 4 to 18 years old with cerebral palsy use their hands with objects during activities of daily living, with a focus on the use of both hands together. Like the Gross Motor Function Classification System (GMFCS), there are five levels - level I being the least impaired, only finding difficulty in tasks needing speed and accuracy, and level V being the most impaired, not being able to handle objects and having severely limited abilities for even simple actions.
+
+Medical use
+It is mostly used as a way of describing a sample population and as an independent variable. Occasionally it is used as a dependent variable. MACS levels are stable over time and so they can be used as part of a prognosis for individuals.  Although MACS was not designed for adults, it has been used with a good measure of reliability in young adult populations ranging in ages from 18-24.  Although it has a good level of reliability when used for children between 2 and 5 years of age, there is less evidence for using it with children younger than 2.  Unlike the GMFCS, there are no age bands for the MACS.  Assessment is typically done by asking questions of the parent or therapist of the child to see where the child fits.  MACS has had some studies demonstrating good to excellent inter-rater reliability. The MACS is used worldwide except in Africa.
+
+Development
+The widespread adoption of the GMFCS inspired the development of the MACS.
+
+Alternatives
+Alternative classification systems used for children with CP include:  ABILHAND, AHA, CHEQ, CPQOL, House, MUUL, PedsQLCP, and SHUEE.
+
+Mini-MACS
+A version of the test for children under the age of four years old, the Mini-MACS, was developed in 2016.  It has similar tiers to the MACS, with descriptions that are more relevant for the toddler age group, and has good inter-rater reliability.
+
+See also
+Childhood development of fine motor skills
+Communication Function Classification System - a similar system describing communication.
+International Classification of Functioning, Disability and Health
+
+References
+External links
+Official website

@@ -1,0 +1,57 @@
+Dental antibiotic prophylaxis is the administration of antibiotics to a dental patient for prevention of harmful consequences of bacteremia, that may be caused by invasion of the oral flora into an injured gingival or peri-apical vessel during dental treatment.
+This issue remains a subject under constant revision, with the intention of providing recommendations based on sound scientific evidence.
+In the past, bacteremia caused by dental procedures (in most cases due to viridans streptococci, which reside in oral cavity), such as a cleaning or extraction of a tooth was thought to be more clinically significant than it actually was. However, it is important that a dentist or a dental hygienist be told of any heart problems before commencing treatment. Antibiotics are administered to patients with certain heart conditions as a precaution, although this practice has changed in the US, with new American Heart Association guidelines released in 2007, and in the UK as of August 2018 due to new SDCEP advice in line with the NICE guidelines. Everyday tooth brushing and flossing will similarly cause bacteremia. Although there is little evidence to support antibiotic prophylaxis for dental treatment, the current AHA guidelines are highly accepted by clinicians and patients.
+
+Guidelines
+Currently, there are official guidelines for dental antibiotic prophylaxis for the prevention of infective endocarditis and of infection of prosthetic joint. These guidelines are in constant controversy and revisions by various professional committees. In addition, there are various medical conditions for which clinicians recommended antibiotic prophylaxis, although there is no evidence to support this practice. These conditions include renal dialysis shunt, cerebrospinal fluid shunt, vascular graft, immunosuppression secondary to cancer and cancer chemotherapy, systemic lupus erythematosus, and type 1 diabetes mellitus.It is of importance to dental patients and practitioners to remain current with regards to the latest recommendations rendered by professional governing bodies such as the Scottish Dental Clinical Effectiveness Programme (SDCEP), American Dental Association (ADA), American Heart Association (AHA) and the American Association of Orthopaedic surgeons (AAOS).  Antibiotic prophylaxis is intended to avoid adverse outcomes in certain patients at "highest risk of postoperative complications." Standard antibiotic regimens are routinely prescribed and taken before dental procedures to avoid systemic complications secondary to the transient bacteremia caused by manipulation of the oral tissues.  Although the ADA, in collaboration with AHA and AAOS have published guidelines specifying those patients who should receive antibiotic prophylaxis, research continues to further define the role dental treatment may play in causing adverse outcomes in these patients.
+
+Recommendations
+The Scottish Dental Clinical Effectiveness Programme (SDCEP) had published recommendations in this scope (August 2018) for the dental team on how best to adhere to the guidelines by NICE. These recommendations have been recognised and acknowledged by NICE in July 2018. The recommendations aim to clarify circumstances and management when patients are not within the scope of NICE's guideline on antibiotic prophylaxis.
+
+Considerations should be undertaken by healthcare professional as well to exercise their clinical judgement and patient's consent in decision-making.Infective Endocarditis (IE) is the infection of heart valves.Previous beliefs were held that IE can be induced from dental procedures due to the invasive nature of treatment, therefore antibiotics were widely prescribed before dental treatment to prevent this. This belief has changed with evidence to show that the risk of IE occurrence from everyday routine such as toothbrushing and eating is the same as that of undergoing invasive dental procedure. Increasing concerns regarding rise in antibiotic resistance have also pushed for change in advice on antibiotic prophylaxis, where the British National Formulary (BNF) has now opposed the use of antibiotic prophylaxis in dentistry.
+Unsatisfactory evidence to conclude whether antibiotic prophylaxis is useful in patients at risk of IE before dental treatment.It is now established that ‘Antibiotic prophylaxis against IE is not recommended routinely for people undergoing dental procedures’ according to NICE 2016, recommendation 1.1.3.
+
+Group of patients with higher risks
+Only a selected body of patients are categorized with a more significant risk of IE who might require antibiotic prophylaxis. These patients undergo non-routine management.
+Prosthetic valves which include a transcatheter value, or those with prosthetic material used for cardiac valve repair
+Previous incidence of IE
+Congenital heart disease (CHD) - any type of cyanotic CHD, or any type of CHD repaired with a prosthetic material (via surgical or percutaneous techniques)
+Up to 6 months after procedure or lifelong if residual shunt or valvular regurgitation remains[Table adapted from SDCEP AB Prophylaxis against IE]
+
+Management of patients
+High risk
+Check patient's cardiac condition and determine whether they belong in the selected body of patients who are at a more significant risk of IE. If they do, the dentist should consult with the patient's cardiologist regarding antibiotic cover before dental treatment. Antibiotic cover is only considered when undergoing invasive dental procedures.
+If no antibiotic cover is needed, manage the patient as if they were at normal risk of IE
+If antibiotic cover is needed, discuss with the patient about pros & cons of antibiotic prophylaxis to obtain informed consent about their management.Educate patient about the importance and relevance of good oral hygiene and infective endocarditis
+
+Significance of adequate oral hygiene
+Link between risk of IE & dental procedures or other invasive procedures
+Identify & have awareness of early signs/symptoms of infective endocarditis
+Know when to seek help/treatment when IE suspectedReview any patients with significant risk of IE if they develop a dental infection, and manage without delay to minimize risk of IE development.
+
+Normal or no risk
+Dental treatment commenced without antibiotic cover. Patients need to be informed regarding their cardiac condition and infective endocarditis, and how this may affect dental treatment.
+Discussion of pros & cons of antibiotic prophylaxis, why it is not generally advocated
+Significance of adequate oral hygiene
+Link between risk of IE & dental procedures or other invasive procedures
+Identify & have awareness of early signs/symptoms of infective endocarditis
+Know when to seek help/treatment when IE suspectedIf patients are insistent on antibiotic prophylaxis, consult the patient's cardiologist before proceeding.
+
+Children with cardiac conditions
+Children with cardiac conditions have the same risks of IE as an adult patient. Difference in management lies with gaining consent where Gillick competence comes into play.A child may lack cooperation for dental procedures in which case, they may be considered to be referred for dental treatment under sedation or general anaesthetic.
+
+Emergency patients with cardiac conditions
+Check patient's cardiac condition and determine whether they belong in the selected body of patients who are at a more significant risk of IE. Consulting with a local cardiology centre or the patient's cardiologist may be appropriate. Manage infections without delay to minimise risk of IE development.
+
+Prescribing antibiotics
+It should be clear on the prescription that the antibiotics serve as prophylaxis
+Inform patients about the risks and possible side effects on prescribed drugs, how to seek help if side effects occur
+Inform patients on appropriate use of antibiotics (duration, time, route of administration)
+
+See also
+Infective endocarditis
+Preventive medicine
+Oral medicine
+
+
+== References ==

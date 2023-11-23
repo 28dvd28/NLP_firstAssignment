@@ -1,0 +1,7 @@
+Kepler-89 is a star with four confirmed planets. Kepler-89 is a possible wide binary star.
+
+Planetary system
+The discovery of four planets orbiting the star was announced October 2012 by analyzing data gathered by Kepler space telescope. Follow-up radial velocity measurements confirmed the existence of Kepler-89d, indicating that Kepler-89d is slightly larger and more massive than Saturn. In October 2013, other three planets were confirmed with Kepler-89c and Kepler-89e getting reasonable mass constraints. Transit-timing variations of the outermost planet suggest that additional planets or minor bodies are present in the system.In 2012, a partial transit of the second outermost planet by the outermost planet was reported. This was the first time a planet-planet transit in front of the star was detected. This allowed to determine the mutual inclination of the planets d and e to be 1.15°.Stephen R. Kane did a dynamical analysis of the Kepler-89 system that demonstrated that planets c and d, although close to the 2:1 secular resonance, are not permanently in a 2:1 resonance configuration.
+
+
+== References ==

@@ -1,0 +1,31 @@
+Albumin transport function analysis by EPR spectroscopy is an in vitro blood test that detects changes to the transport and molecular conformation of serum albumin using the method of EPR spectroscopy. The test is used for diagnosis of cancer, sepsis and toxemia.
+
+Principles
+The test is based on the interaction of spin-labeled fatty acids with serum albumin by means of EPR spectroscopy.A sample of blood serum is subjected to a spin probe 16-doxyl stearate. Spin probe molecules bind specifically to albumin molecules where they occupy two main positions:
+
+primary binding sites located in albumin domains, where their mobility is restricted
+the relatively spacious hydrophobic area between the protein domains in the interior of the albumin globule.The spin probe molecules bound on albumin have restricted mobility that changes the EPR spectrum, which reflects characteristics of the protein site where the spin probe is located and allows estimating the conformation of the albumin globule. Some part of the spin probe remains in the serum in the unbound state. The ratio of the fractions of bound and unbound spin probes allows estimating the functional activity of albumin molecules. Analysis of the EPR spectrum allows assessment of the conformation and functional activity of albumin molecules.
+The test material is 100 μL serum or plasma.
+The procedure includes mixing a serum sample with a spin probe reagent, incubating the mixture, measuring the EPR spectrum of a serum with a spin probe, and analyzing the EPR spectrum by calculating the conformation and functional indicators of albumin molecules.
+
+Applications
+Cancer diagnosis
+A specific change to the conformation of albumin molecules that is associated with the growth of a malignant tumor is caused by (or associated with) changes in the composition of metabolites carried by serum albumin during the growth of a malignant tumor (proliferating cancer cells uptake and release metabolites in abnormal quantities).
+Clinical studies of the EPR test of serum albumin showed diagnostic sensitivity and specificity of 90%.
+Clinical applications:
+
+as a screening test to detect cancer-specific metabolic alterations in patients;
+to determine whether the cancer growth has stopped or the disease is progressing;
+to determine when cancer treatment is effective or needs to be changed.
+
+Sepsis and toxemia
+Reduced functional activity of serum albumin (reduced binding efficacy) is associated with toxemia (an increase in the concentration of toxic molecules in the blood) and is manifested before other clinical symptoms.
+Clinical applications:
+
+prognosis and early diagnosis of sepsis (1 to 2 hours after surgery);
+diagnosis of severe preeclampsia (gestosis) in women in the 2nd and 3rd trimesters of pregnancy;
+diagnostics of the functional status of a kidney transplant
+early diagnosis of congenital pneumonia in newborns.
+
+
+== References ==

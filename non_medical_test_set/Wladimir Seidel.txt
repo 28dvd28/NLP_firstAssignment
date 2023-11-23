@@ -1,0 +1,29 @@
+Wladimir P. Seidel (December 21, 1907 – January 12, 1981) was a Russian-born German-American mathematician, and Doctor of Mathematics. He held a fellowship as a Benjamin Peirce Professor in Harvard University. During World War II, he was with the Montreal Theory group for the National Research Council of Canada.
+
+Life
+He was born in Odessa, Russian Empire on December 21, 1907.
+
+Career
+He earned his Ph.D. from Ludwig-Maximilians-Universität in München (February 26, 1930) on a dissertation entitled Über die Ränderzuordnung bei konformen Abbildungen, advised by Constantin Carathéodory.He joined the faculty of Mathematics at Harvard University (as Benjamin Peirce Instructor, 1932–33), at University of Rochester (1941–55), at The Institute for Advanced Study in Princeton (1952–53), at University of Notre Dame (1955–63), and at Wayne State University in Detroit (since 1963).
+During World War II, he was with the Montreal Theory group for the National Research Council of Canada.The Seidel class is named after him.He was married to Leah Lappin-Seidel (1904–1999).
+
+Publications
+Wladimir Seidel (1933). "Note on a Metrically Transitive System". Proceedings of the National Academy of Sciences. 19 (4): 453–456. Bibcode:1933PNAS...19..453S. doi:10.1073/pnas.19.4.453. PMC 1086021. PMID 16577539.
+Wladimir Seidel (1935). "On a Metric Property of Fuchsian Groups". Proceedings of the National Academy of Sciences. 21 (7): 475–478. Bibcode:1935PNAS...21..475S. doi:10.1073/pnas.21.7.475. PMC 1076630. PMID 16588004.
+Wladimir Seidel; Arthur J. Lohwater (1948). "An example in conformal mapping". Duke Mathematical Journal. 15 (1): 137–143. doi:10.1215/s0012-7094-48-01516-6. MR 0023903.
+Franz Schnitzer; Wladimir Seidel (1965). "On the modulus of unbounded holomorphic functions". Mathematische Zeitschrift. 88 (4): 301–308. doi:10.1007/BF01111814. S2CID 120723458.
+F. Bagemihl; W. Seidel (1962). "Koebe arcs and Fatou points of normal functions". Commentarii Mathematici Helvetici. 36 (1): 9–18. doi:10.1007/BF02566888. S2CID 121094714.
+W. Seidel (1962). "Book Review: Cluster sets". Bulletin of the American Mathematical Society. 68 (6): 551–553. doi:10.1090/S0002-9904-1962-10837-4.
+W. Seidel (1962). "Review: Kiyoshi Noshiro, Cluster sets". Bulletin of the American Mathematical Society. 68 (1962): 551–552. doi:10.1090/s0002-9904-1962-10837-4.
+F. Bagemihl; W. Seidel (1960). "Behavior of meromorphic functions on boundary paths, with applications to normal functions". Archiv der Mathematik. 11 (1): 263–269. doi:10.1007/BF01236942. S2CID 120462472.
+W. Seidel (1959). "Holomorphic functions with spiral asymptotic paths". Nagoya Mathematical Journal. 14 (1959): 159–171. doi:10.1017/S0027763000005821.
+F. Bagemihl; W. Seidel (1956). "Functions of bounded characteristic with prescribed ambiguous points". Michigan Mathematical Journal. 3 (1955): 77–81. doi:10.1307/mmj/1031710538.
+F. Bagemihl; W. Seidel (1955). "A problem concerning cluster sets of analytic functions". Mathematische Zeitschrift. 62 (1): 99–110. doi:10.1007/BF01180626. S2CID 122574500.
+F. Bagemihl; W. Seidel (1955). "Some remarks on boundary behavior of analytic and meromorphic functions". Nagoya Mathematical Journal. 9 (1955): 79–85. doi:10.1017/S0027763000023308.
+F. Bagemihl; W. Seidel (1954). "Some boundary properties of analytic functions". Mathematische Zeitschrift. 61 (1): 186–199. doi:10.1007/BF01181342. S2CID 120627257.
+F. Bagemihl; W. Seidel (1953). "A General Principle Involving Baire Category, with Applications to Function Theory and Other Fields". Proceedings of the National Academy of Sciences. 39 (10): 1068–1075. Bibcode:1953PNAS...39.1068B. doi:10.1073/pnas.39.10.1068. PMC 1063907. PMID 16589375.
+W. Seidel (1953). "Note on a persymmetric determinant". Quarterly Journal of Mathematics. 4 (1): 150–151. Bibcode:1953QJMat...4..150S. doi:10.1093/qmath/4.1.150.
+Seidel, W. (1931). "Über die Ränderzuordnung bei konformen Abbildungen". Mathematische Annalen. Springer. 104 (1): 182–243. doi:10.1007/bf01457932. S2CID 119959703.
+
+
+== References ==

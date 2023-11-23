@@ -1,0 +1,768 @@
+Mahāvīra (or Mahaviracharya, "Mahavira the Teacher") was a 9th-century Indian Jain mathematician possibly born in Mysore, in India. He authored Gaṇita-sāra-saṅgraha (Ganita Sara Sangraha) or the Compendium on the gist of Mathematics in 850 CE. He was patronised by the Rashtrakuta emperor Amoghavarsha. He separated astrology from mathematics. It is the earliest Indian text entirely devoted to mathematics. He expounded on the same subjects on which Aryabhata and Brahmagupta contended, but he expressed them more clearly. His work is a highly syncopated approach to algebra and the emphasis in much of his text is on developing the techniques necessary to solve algebraic problems.  He is highly respected among Indian mathematicians, because of his establishment of terminology for concepts such as equilateral, and isosceles triangle; rhombus; circle and semicircle. Mahāvīra's eminence spread throughout southern India and his books proved inspirational to other mathematicians in Southern India. It was translated into the Telugu language by Pavuluri Mallana as Saara Sangraha Ganitamu.He discovered algebraic identities like a3 = a (a + b) (a − b) + b2 (a − b) + b3. He also found out the formula for nCr as [n (n − 1) (n − 2) ... (n − r + 1)] / [r (r − 1) (r − 2) ... 2 * 1]. He devised a formula which approximated the area and perimeters of ellipses and found methods to calculate the square of a number and cube roots of a number. He asserted that the square root of a negative number does not exist.
+
+Rules for decomposing fractions
+Mahāvīra's Gaṇita-sāra-saṅgraha gave systematic rules for expressing a fraction as the sum of unit fractions. This follows the use of unit fractions in Indian mathematics in the Vedic period, and the Śulba Sūtras' giving an approximation of √2 equivalent to 
+  
+    
+      
+        1
+        +
+        
+          
+            
+              1
+              3
+            
+          
+        
+        +
+        
+          
+            
+              1
+              
+                3
+                ⋅
+                4
+              
+            
+          
+        
+        −
+        
+          
+            
+              1
+              
+                3
+                ⋅
+                4
+                ⋅
+                34
+              
+            
+          
+        
+      
+    
+    {\displaystyle 1+{\tfrac {1}{3}}+{\tfrac {1}{3\cdot 4}}-{\tfrac {1}{3\cdot 4\cdot 34}}}
+  .In the Gaṇita-sāra-saṅgraha (GSS), the second section of the chapter on arithmetic is named kalā-savarṇa-vyavahāra (lit. "the operation of the reduction of fractions"). In this, the bhāgajāti section (verses 55–98) gives rules for the following:
+To express 1 as the sum of n unit fractions (GSS kalāsavarṇa 75, examples in 76):rūpāṃśakarāśīnāṃ rūpādyās triguṇitā harāḥ kramaśaḥ /
+dvidvitryaṃśābhyastāv ādimacaramau phale rūpe //
+When the result is one, the denominators of the quantities having one as numerators are [the numbers] beginning with one and multiplied by three, in order. The first and the last are multiplied by two and two-thirds [respectively].
+
+  
+    
+      
+        1
+        =
+        
+          
+            1
+            
+              1
+              ⋅
+              2
+            
+          
+        
+        +
+        
+          
+            1
+            3
+          
+        
+        +
+        
+          
+            1
+            
+              3
+              
+                2
+              
+            
+          
+        
+        +
+        ⋯
+        +
+        
+          
+            1
+            
+              3
+              
+                n
+                −
+                2
+              
+            
+          
+        
+        +
+        
+          
+            1
+            
+              
+                
+                  2
+                  3
+                
+              
+              ⋅
+              
+                3
+                
+                  n
+                  −
+                  1
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle 1={\frac {1}{1\cdot 2}}+{\frac {1}{3}}+{\frac {1}{3^{2}}}+\dots +{\frac {1}{3^{n-2}}}+{\frac {1}{{\frac {2}{3}}\cdot 3^{n-1}}}}
+  To express 1 as the sum of an odd number of unit fractions (GSS kalāsavarṇa 77):
+  
+    
+      
+        1
+        =
+        
+          
+            1
+            
+              2
+              ⋅
+              3
+              ⋅
+              1
+              
+                /
+              
+              2
+            
+          
+        
+        +
+        
+          
+            1
+            
+              3
+              ⋅
+              4
+              ⋅
+              1
+              
+                /
+              
+              2
+            
+          
+        
+        +
+        ⋯
+        +
+        
+          
+            1
+            
+              (
+              2
+              n
+              −
+              1
+              )
+              ⋅
+              2
+              n
+              ⋅
+              1
+              
+                /
+              
+              2
+            
+          
+        
+        +
+        
+          
+            1
+            
+              2
+              n
+              ⋅
+              1
+              
+                /
+              
+              2
+            
+          
+        
+      
+    
+    {\displaystyle 1={\frac {1}{2\cdot 3\cdot 1/2}}+{\frac {1}{3\cdot 4\cdot 1/2}}+\dots +{\frac {1}{(2n-1)\cdot 2n\cdot 1/2}}+{\frac {1}{2n\cdot 1/2}}}
+  To express a unit fraction 
+  
+    
+      
+        1
+        
+          /
+        
+        q
+      
+    
+    {\displaystyle 1/q}
+   as the sum of n other fractions with given numerators 
+  
+    
+      
+        
+          a
+          
+            1
+          
+        
+        ,
+        
+          a
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          a
+          
+            n
+          
+        
+      
+    
+    {\displaystyle a_{1},a_{2},\dots ,a_{n}}
+   (GSS kalāsavarṇa 78, examples in 79):
+  
+    
+      
+        
+          
+            1
+            q
+          
+        
+        =
+        
+          
+            
+              a
+              
+                1
+              
+            
+            
+              q
+              (
+              q
+              +
+              
+                a
+                
+                  1
+                
+              
+              )
+            
+          
+        
+        +
+        
+          
+            
+              a
+              
+                2
+              
+            
+            
+              (
+              q
+              +
+              
+                a
+                
+                  1
+                
+              
+              )
+              (
+              q
+              +
+              
+                a
+                
+                  1
+                
+              
+              +
+              
+                a
+                
+                  2
+                
+              
+              )
+            
+          
+        
+        +
+        ⋯
+        +
+        
+          
+            
+              a
+              
+                n
+                −
+                1
+              
+            
+            
+              (
+              q
+              +
+              
+                a
+                
+                  1
+                
+              
+              +
+              ⋯
+              +
+              
+                a
+                
+                  n
+                  −
+                  2
+                
+              
+              )
+              (
+              q
+              +
+              
+                a
+                
+                  1
+                
+              
+              +
+              ⋯
+              +
+              
+                a
+                
+                  n
+                  −
+                  1
+                
+              
+              )
+            
+          
+        
+        +
+        
+          
+            
+              a
+              
+                n
+              
+            
+            
+              
+                a
+                
+                  n
+                
+              
+              (
+              q
+              +
+              
+                a
+                
+                  1
+                
+              
+              +
+              ⋯
+              +
+              
+                a
+                
+                  n
+                  −
+                  1
+                
+              
+              )
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {1}{q}}={\frac {a_{1}}{q(q+a_{1})}}+{\frac {a_{2}}{(q+a_{1})(q+a_{1}+a_{2})}}+\dots +{\frac {a_{n-1}}{(q+a_{1}+\dots +a_{n-2})(q+a_{1}+\dots +a_{n-1})}}+{\frac {a_{n}}{a_{n}(q+a_{1}+\dots +a_{n-1})}}}
+  To express any fraction 
+  
+    
+      
+        p
+        
+          /
+        
+        q
+      
+    
+    {\displaystyle p/q}
+   as a sum of unit fractions (GSS kalāsavarṇa 80, examples in 81):Choose an integer i such that 
+  
+    
+      
+        
+          
+            
+              
+                q
+                +
+                i
+              
+              p
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {q+i}{p}}}
+   is an integer r, then write
+
+  
+    
+      
+        
+          
+            p
+            q
+          
+        
+        =
+        
+          
+            1
+            r
+          
+        
+        +
+        
+          
+            i
+            
+              r
+              ⋅
+              q
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {p}{q}}={\frac {1}{r}}+{\frac {i}{r\cdot q}}}
+  
+and repeat the process for the second term, recursively. (Note that if i is always chosen to be the smallest such integer, this is identical to the greedy algorithm for Egyptian fractions.)To express a unit fraction as the sum of two other unit fractions (GSS kalāsavarṇa 85, example in 86):
+  
+    
+      
+        
+          
+            1
+            n
+          
+        
+        =
+        
+          
+            1
+            
+              p
+              ⋅
+              n
+            
+          
+        
+        +
+        
+          
+            1
+            
+              
+                p
+                ⋅
+                n
+              
+              
+                n
+                −
+                1
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {1}{n}}={\frac {1}{p\cdot n}}+{\frac {1}{\frac {p\cdot n}{n-1}}}}
+   where 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   is to be chosen such that 
+  
+    
+      
+        
+          
+            
+              p
+              ⋅
+              n
+            
+            
+              n
+              −
+              1
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {p\cdot n}{n-1}}}
+   is an integer (for which 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   must be a multiple of 
+  
+    
+      
+        n
+        −
+        1
+      
+    
+    {\displaystyle n-1}
+  ).
+
+  
+    
+      
+        
+          
+            1
+            
+              a
+              ⋅
+              b
+            
+          
+        
+        =
+        
+          
+            1
+            
+              a
+              (
+              a
+              +
+              b
+              )
+            
+          
+        
+        +
+        
+          
+            1
+            
+              b
+              (
+              a
+              +
+              b
+              )
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {1}{a\cdot b}}={\frac {1}{a(a+b)}}+{\frac {1}{b(a+b)}}}
+  To express a fraction 
+  
+    
+      
+        p
+        
+          /
+        
+        q
+      
+    
+    {\displaystyle p/q}
+   as the sum of two other fractions with given numerators 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   and 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   (GSS kalāsavarṇa 87, example in 88):
+  
+    
+      
+        
+          
+            p
+            q
+          
+        
+        =
+        
+          
+            a
+            
+              
+                
+                  
+                    a
+                    i
+                    +
+                    b
+                  
+                  p
+                
+              
+              ⋅
+              
+                
+                  q
+                  i
+                
+              
+            
+          
+        
+        +
+        
+          
+            b
+            
+              
+                
+                  
+                    a
+                    i
+                    +
+                    b
+                  
+                  p
+                
+              
+              ⋅
+              
+                
+                  q
+                  i
+                
+              
+              ⋅
+              
+                i
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {p}{q}}={\frac {a}{{\frac {ai+b}{p}}\cdot {\frac {q}{i}}}}+{\frac {b}{{\frac {ai+b}{p}}\cdot {\frac {q}{i}}\cdot {i}}}}
+   where 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   is to be chosen such that 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   divides 
+  
+    
+      
+        a
+        i
+        +
+        b
+      
+    
+    {\displaystyle ai+b}
+  Some further rules were given in the Gaṇita-kaumudi of Nārāyaṇa in the 14th century.
+
+See also
+List of Indian mathematicians
+
+Notes
+References
+Bibhutibhusan Datta and Avadhesh Narayan Singh (1962). History of Hindu Mathematics: A Source Book.
+Pingree, David (1970). "Mahāvīra". Dictionary of Scientific Biography. New York: Charles Scribner's Sons. ISBN 978-0-684-10114-9. (Available, along with many other entries from other encyclopaedias for other Mahāvīra-s, online.)
+Selin, Helaine (2008), Encyclopaedia of the History of Science, Technology, and Medicine in Non-Western Cultures, Springer, Bibcode:2008ehst.book.....S, ISBN 978-1-4020-4559-2
+Hayashi, Takao (2013), "Mahavira", Encyclopædia Britannica
+O'Connor, John J.; Robertson, Edmund F. (2000), "Mahavira", MacTutor History of Mathematics Archive, University of St Andrews
+Tabak, John (2009), Algebra: Sets, Symbols, and the Language of Thought, Infobase Publishing, ISBN 978-0-8160-6875-3
+Krebs, Robert E. (2004), Groundbreaking Scientific Experiments, Inventions, and Discoveries of the Middle Ages and the Renaissance, Greenwood Publishing Group, ISBN 978-0-313-32433-8
+Puttaswamy, T.K (2012), Mathematical Achievements of Pre-modern Indian Mathematicians, Newnes, ISBN 978-0-12-397938-4
+Kusuba, Takanori (2004), "Indian Rules for the Decomposition of Fractions", in Charles Burnett; Jan P. Hogendijk; Kim Plofker; et al. (eds.), Studies in the History of the Exact Sciences in Honour of David Pingree, Brill, ISBN 9004132023, ISSN 0169-8729

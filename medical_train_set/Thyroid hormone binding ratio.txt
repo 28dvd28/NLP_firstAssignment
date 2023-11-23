@@ -1,0 +1,24 @@
+Thyroid hormone binding ratio (THBR) is a thyroid function test that measures the "uptake" of T3 or T4 tracer by thyroid-binding globulin (TBG) in a given serum sample. This provides an indirect and reciprocal estimate of the available binding sites on TBG within the sample.
+The results are then reported as a ratio to normal serum.
+
+Indications
+Attempts to correct for changes in thyroid binding globulin due to liver disease, protein losing states, pregnancy or various drugsIt is used to calculate free thyroxine index (total T4 x T3 uptake), an estimate of free T4. Free thyroxine index may be calculated with increased diagnostic accuracy using direct TBG measurement when the total hormone concentration is abnormally elevated
+
+Examples
+In patients with hyperthyroidism, there will be fewer available binding sites on TBG (due to the increased circulating T3 / T4). This will lead to an increased thyroid hormone binding ratio.
+In patients with hypothyroidism, there will be more free binding sites on TBG (due to the decreased amount of circulating T3 / T4) and as such the THBR will be decreased.
+In general, High with High thyroid activity and Low with Low thyroid activity.
+
+Other Conditions
+Total TBG can be increased (thereby decreasing the THBR) congenitally, or in conditions such as pregnancy (period of increased estrogen) and with the treatment of certain infections such as Hepatitis C. In the latter, reduction of inflammation of the liver results in increased protein synthesis
+Total TBG can be decreased (thereby increasing the THBR) congenitally, or in conditions such as liver failure, protein-losing conditions, or nephrotic conditions. Increased androgen levels will also decrease TBG synthesis, increasing THBR.
+THBR can be directly altered by drugs such as;
+Anticonvulsants such as phenytoin and carbamazepine
+Antinflammatory drugs such as salicylates (Aspirin) or phenylbutazone (NSAID)
+High levels of free fatty acids, commonly seen in acutely ill patients.
+
+Limitations
+Invalid if other proteins or immunoglobulins compete with TBG, including familial dysalbuminemic hyperthyroxinemia
+
+
+== References ==

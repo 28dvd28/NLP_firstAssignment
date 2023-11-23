@@ -1,0 +1,15 @@
+Mammoth Biosciences is a biotechnology company based in Brisbane, California developing diagnostic tests using CRISPR-Cas12a and CRISPR-based therapies using its proprietary ultra-small CRISPR systems. Several CRISPR-Cas systems identified through the company's metagenomics-based protein discovery platform, including members of the Casφ and Cas14 families of CRISPR-associated enzymes, have demonstrated potential for therapeutic genome editing in in vivo settings.
+
+History
+The company was founded in 2017 by Jennifer Doudna, Janice Chen, and Lucas Harrington of the University of California, Berkeley, and Trevor Martin of Stanford University. Mammoth signed agreements in December 2019 and January 2020 with Horizon Discovery to combine Mammoth's intellectual property in CRISPR with Horizon's expertise in Chinese hamster ovary cells. Also in 2020, both Mammoth Biosciences and Sherlock Biosciences from the Broad Institute used their similar CRISPR technologies to develop tests for COVID-19. The technology, which is owned under the trademark of DETECTR BOOST, has been contracted to be manufactured by Merck & Co. In 2023, the company announced that it will focus on developing CRISPR-based therapies. Mammoth previously announced partnerships with Vertex Pharmaceuticals (2021) and Bayer (2022) to research ultra-small CRISPR systems for in vivo editing.
+
+Related Works
+Lucas B. Harrington et al. ,Programmed DNA destruction by miniature CRISPR-Cas14 enzymes. Science362,839-842(2018). DOI:10.1126/science.aav4294
+Broughton, J.P., Deng, X., Yu, G. et al. CRISPR–Cas12-based detection of SARS-CoV-2. Nat Biotechnol 38, 870–874 (2020). https://doi.org/10.1038/s41587-020-0513-4
+Patrick Pausch et al. ,CRISPR-CasΦ from huge phages is a hypercompact genome editor. Science369,333-337(2020). DOI:10.1126/science.abb1400
+
+See also
+Sherlock Biosciences
+
+
+== References ==

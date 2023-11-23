@@ -1,0 +1,65 @@
+An abdominal examination is a portion of the physical examination which a physician or nurse uses to clinically observe the abdomen of a patient for signs of disease. The abdominal examination is conventionally split into four different stages: first, inspection of the patient and the visible characteristics of their abdomen. Auscultation (listening) of the abdomen with a stethoscope. Palpation of the patient's abdomen. Finally, percussion (tapping) of the patient's abdomen and abdominal organs. Depending on the need to test for specific diseases such as ascites, special tests may be performed as a part of the physical examination. An abdominal examination may be performed because the physician suspects a disease of the organs inside the abdominal cavity (including the liver, spleen, large or small intestines), or simply as a part of a complete physical examination for other conditions. In a complete physical examination, the abdominal exam classically follows the respiratory examination and cardiovascular examination.
+
+Positioning and environment
+A suggested position is for the patient to be supine (on their back), with their arms to their sides. The patient should be placed in an environment with good lighting, and should be draped with towels or sheets to preserve privacy and warmth. The patient's hips and knees should be flexed (in a bent position) so that their abdominal muscles remain relaxed during the examination. Asking the patient to indicate areas that may be tender or painful is recommended to avoid exacerbating the pain during inspection and to increase the patient's comfort. Although physicians have had concern that giving patients pain medications during acute abdominal pain may hinder diagnosis and treatment, separate systematic reviews by the Cochrane Collaboration and the Rational Clinical Examination refute this.
+
+Inspection
+Although it may not seem very important, the doctor is actually gaining a lot of information when looking at the abdomen during an exam and can pick up important indications that something may be going on below the surface.First, the doctor looks at the surface, outline, and movements of the abdomen, checking to see if there is anything odd or out of the ordinary.
+Looking at the skin, the doctor is looking for anything abnormal like scars, stretch marks, lesions, dilated veins, or rashes.The doctor then determines the shape of your abdomen, looking for any bumps, abdominal distension, or depressions. The doctor will also check your belly button for abnormalities like a hernia.
+Finally, the doctor will look at the movement of the abdomen checking specifically for waves or odd flexing.
+
+Auscultation
+Auscultation refers to the use of a stethoscope by the examiner to listen to sounds from the abdomen.Unlike other physical exams, auscultation is performed prior to percussion or palpation, as both of these could alter the regularity of bowel sounds.Some controversy exists as to the length of time required to confirm or exclude bowel sounds, with suggested durations up to seven minutes. Bowel obstruction may present with grumbling bowel sounds or high-pitched noises. Healthy persons can have no bowel sounds for several minutes  and intestinal contractions can be silent. Hyperactive bowel sounds may be caused by partial or complete bowel obstruction as the intestines initially try to clear the obstruction. Absence of sounds may be caused by peritonitis, paralytic ileus, late-stage bowel obstruction, intestinal ischemia or other causes. Some authors suggest that listening at a single location is enough as sounds can be transmitted throughout the abdomen.A prospective study published in 2014 where 41 physicians listened to the bowel sounds of 177 volunteers (19 of which had bowel obstructions and 15 with an ileus) found that "Auscultation of bowel sounds is not a useful clinical practice when differentiating patients with normal versus pathologic bowel sounds. The listener frequently arrives at an incorrect diagnosis. Agreement between raters was also low (54%).". This article suggests focusing on other indicators (flatus, pain, nausea) instead. There is no research evidence that reliably corroborates the assumed association between bowel sounds and gastro-intestinal motility status.The examiner also typically listens to the two renal arteries for abnormal blood flow sounds (bruits) by listening in each upper quadrant, adjacent to and above the umbilicus. Bruits heard in the epigastrium that are confined to systole are considered normal.
+
+Palpation
+The examiner should first talk to the patient and explain what this part of the examination will involve. He or she will typically palpate all nine areas of the patient's abdomen, and being mindful of areas of discomfort, begin by palpating areas of no pain. This is typically performed twice, first with light pressure and then with deeper pressure to better exam the abdominal organs.
+On light palpation, the examiner tests for any palpable mass, rigidity, or pain on the surface.
+On deep palpation, the examiner is testing for any organomegaly (enlarged organs.) Typically, the clinician is looking for enlargement of the liver and spleen or abnormal masses in the intestines. Sometimes the physician looks for the kidney and uterus as well.Reactions that may indicate pathology include:
+
+Guarding: muscle contraction as pressure is applied.
+Rigidity: indicating peritoneal inflammation.
+Rebound: pain on release.
+Referred pain: pain produced away from the area being palpated.
+
+Percussion
+Percussion can be performed in all four quadrants of the abdomen and may reveal a painful response by the patient. During the abdominal examination, percussion may allow the estimation of location and quantity of gas, hard or soft masses, and sizes of certain organs, such as the liver and the spleen. Abnormal findings may include splenomegaly, hepatomegaly and urinary retention.Organomegaly of the liver and the spleen can be appreciated by percussing in a particular manner:
+
+Hepatomegaly by percussing from the right iliac region to the right hypochondrium
+Splenomegaly by percussing from the right iliac region to the right hypochondrium and the left iliac to the left hypochondriumExamination of the spleen may reveal Castell's sign or alternatively Traube's space.
+Dull sounds on the abdomen could suggest pregnancy, an ovarian tumor, a distended bladder, hepatomegaly or splenomegaly. Dullness on either side of the abdomen could suggest ascites. Some other areas of the abdomen may sound dull suggesting that there may be some fluid or feces. The dullness of the liver can be appreciated by percussing at the edge of the lower chest right above the costal margins. The resonant sounds of gastric air bubbles can be appreciated at the left side. In rare cases, when organs are reversed as is the case in situs inversus, resonant (hollow) sounds would be expected on the right side and liver dullness on the left.
+
+Other tests and special maneuvers
+Examination of pelvic lymph nodes
+Digital rectal exam only if clinically indicated.
+Pelvic examination only if clinically indicated.Special maneuvers may also be performed, to elicit signs of specific diseases. These include
+
+Inflamed gallbladder: Murphy's sign
+During palpation beneath the bottom edge of the right rib cage, the patient experiences pain upon inspiration.
+Appendicitis or peritonitis:
+Psoas sign – pain with extension of the hip and tensing of the psoas muscle 
+Obturator sign – pain when tensing the obturator muscle 
+Rovsing's sign – pain in the right lower abdominal quadrant on palpation of the left side of the abdomen 
+McBurney's sign – deep tenderness at McBurney's point 
+Carnett's sign – pain when tensing the abdominal wall muscles
+Patafio's sign – pain when the patient is asked to cough whilst tensing the psoas muscle
+Cough test – pain when the patient is asked to cough 
+Valsalva maneuver – pain when the patient tries to forcefully exhale while closing their mouth and pinching their nose
+Suspected pyelonephritis: Murphy's punch sign
+Hepatomegaly: liver scratch test
+Rosenbach's sign – absence of abdominal reflex on one side of the abdomen in cerebral hemiplegia
+Courvoisier's sign – palpable distended gallbladder in jaundiced patients due to malignancy or obstruction
+Boas's sign – increased cutaneous sensitivity to the left of the 12th thoracic vertebrae in cholelithiasis
+Krymov's sign
+Berthomier–Michelson's sign
+Blumberg's sign
+Aaron's sign
+Kocher–Volkovich's sign
+Ten Horn's sign
+Baldwin's sign
+Rosenstein's sign
+Fothergill's sign
+Ascites: bulging flanks, fluid wave test, shifting dullness
+
+References
+External links
+Abdominal exam – a practical guide to clinical medicine from the University of California, San Diego.

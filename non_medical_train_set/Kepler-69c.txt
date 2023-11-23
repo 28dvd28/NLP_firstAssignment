@@ -1,0 +1,37 @@
+Kepler-69c (also known by its Kepler Object of Interest designation KOI-172.02) is a confirmed super-Earth extrasolar planet, likely rocky, orbiting the Sun-like star Kepler-69, the outermore of two such planets discovered by NASA's Kepler spacecraft. It is located about 2,430 light-years (746 parsecs) from Earth.
+Kepler-69c orbits its star at a distance of 0.64 AU (96,000,000 km; 59,000,000 mi) from its host star with an orbital period of roughly 242.46 days, has a mass at least 2.14x times that of Earth, and has a radius of around 1.7 times that of Earth. Initial findings found that it could possibly be habitable, however updated analysis shows that Kepler-69c resides outside of the inner edge of the habitable zone, and thus is highly likely to resemble the planet Venus with temperatures and conditions far too hot to sustain any life, making it uninhabitable.The discovery of the exoplanet was announced in April 2013 by NASA as part of the Kepler spacecraft data release. The exoplanet was found by using the transit method, in which the dimming effect that a planet causes as it crosses in front of its star is measured.
+
+Physical characteristics
+Mass, radius and temperature
+Kepler-69c is a super-Earth, an exoplanet that has a radius and mass larger than Earth, but smaller than that of the ice giants Uranus and Neptune. It has an estimated equilibrium temperature of 325 K (52 °C; 125 °F), but likely has a far hotter surface temperature of 548 K (275 °C; 527 °F). It has an estimated mass of around 2.14 MEarth and a radius of 1.71 R🜨. These characteristics make it an analog to Venus, but more massive, so it is called a "super-Venus".
+
+Host star
+The planet orbits a (G-type) star named Kepler-69, orbited by a total of two planets. The star has a mass of 0.81 M☉ and a radius of 0.93 R☉. It has a surface temperature of 5638 K and has an estimated age of around 9.8 billion years, meaning it is probably nearing the end of its lifetime. In comparison, the Sun is about 4.6 billion years old and has a surface temperature of 5778 K.The star's apparent magnitude, or how bright it appears from Earth's perspective, is 13.7. Therefore, Kepler-69 is too dim to be seen with the naked eye.
+
+Orbit
+Kepler-69c orbits its host star with about 80% of the Sun's luminosity every 242 days at a distance of 0.64 times that of Earth. This is very similar to that of Venus's orbital period and distance in the Solar System.
+
+Proposed habitability
+The exoplanet, along with the exoplanets Kepler-62e and Kepler-62f, were announced in the media as being located within the star's "habitable zone", a region where liquid water could exist on the surface of the planet. It was described as being one of the most Earth-like planets, in terms of size and temperature yet found and, according to the scientists, a "prime candidate to host alien life".Due to uncertainties in the stellar parameters, the error bars on the value of the incident flux on this planet are quite large, at 1.91+0.43−0.56 times the level of Earth. Using the nominal parameters, the planet is too close to the star to be habitable, though the uncertainties allow for the possibility that it may actually lie in the innermost region of the habitable zone and be a desert planet, however even with the lowest error bar measurement, a stellar flux of 1.35 S🜨 would still be high enough to boil away any oceans. A more recent analysis has shown that the planet is likely more analogous to Venus, which is known to be one of the most inhospitable places to life in the Solar System, and thus highly unlikely to be habitable to such organisms.
+
+Discovery
+In 2009, NASA's Kepler spacecraft was observing stars with its photometer, an instrument it uses to detect transit events, in which a planet crosses in front of and dims its host star for a brief and roughly regular period of time. In this last test, Kepler observed 50000 stars in the Kepler Input Catalog, including Kepler-69; the preliminary light curves were sent to the Kepler science team for analysis, who chose obvious planetary companions from the bunch for follow-up at observatories. Observations for the potential exoplanet candidates took place between 13 May 2009 and 17 March 2012. After observing the respective transits, which for Kepler-69c occurred roughly every 242 days (its orbital period), it was eventually concluded that a planetary body was responsible for the periodic 242-day transits. The discovery, along with the planetary system of the star Kepler-62 were announced on April 18, 2013.On 9 May 2013, a  congressional hearing by two U.S. House of Representatives subcommittees discussed "Exoplanet Discoveries: Have We Found Other Earths?," prompted by the discovery of exoplanet Kepler-69c, along with Kepler-62e and Kepler-62f. A related special issue of the journal Science, published earlier, described the discovery of the exoplanets.
+
+See also
+List of potentially habitable exoplanets
+Desert planet
+Venus
+
+References
+Notes
+External links
+NASA – Mission overview.
+Kepler – Discoveries – Summary Table – NASA.
+The Habitable Zone Gallery
+Kepler – Discovery of New Planetary Systems (2013).
+Kepler – Tally of Planets/interactive (2013) – NYT.
+Video (02:27) – NASA Finds Three New Planets in "Habitable Zone" (04/18/2013).
+Kepler KOI Data Search.
+KOI-172.02 Data at Exoplanet Archive Caltech
+KOI-172 Star on Star Finder/KPGraham
+Extrasolar Planets – Data/JohnstonArchive

@@ -1,0 +1,221 @@
+This is a shortened version of the thirteenth chapter of the ICD-9: Diseases of the Musculoskeletal System and Connective Tissue. It covers ICD codes 710 to 739. The full chapter can be found on pages 395 to 415 of Volume 1, which contains all (sub)categories of the ICD-9. Volume 2 is an alphabetical index of Volume 1. Both volumes can be downloaded for free from the website of the World Health Organization.
+
+Arthropathies and related disorders (710–719)
+710 Diffuse diseases of connective tissue
+710.0 Systemic lupus erythematosus
+710.2 Sjögren's syndrome
+710.3 Dermatomyositis
+710.4 Polymyositis
+710.5 Eosinophilia myalgia syndrome
+710.9 Connective tissue disease, unspec.
+711 Arthropathy associated with infections
+712 Crystal arthropathies
+712.1 Chondrocalcinosis due to dicalcium phosphate crystals
+712.2 Chondrocalcinosis due to pyrophosphate crystals
+712.3 Chondrocalcinosis, cause unspecified
+pseudogout
+712.8 Other specified crystal arthropathies
+712.9 Unspecified crystal arthropathy
+713 Arthropathy, endocrine disorders
+713.1 Arthropathy, gastrointestinal conditions
+714 Rheumatoid arthritis and other inflammatory polyarthropathies
+714.0 Rheumatoid arthritis
+714.3 Polyarticular juvenile rheumatoid arthritis
+715 Osteoarthrosis and allied disorders
+715.09 Osteoarthrosis, generalized, multiple sites
+715.11 Osteoarthrosis, shoulder
+715.14 Osteoarthrosis, hand
+715.15 Osteoarthrosis, hip
+715.16 Osteoarthrosis, knee
+715.17 Osteoarthrosis, ankle/foot
+715.9 Osteoarthrosis, unspec.
+716 Other and unspecified arthropathies
+716.1 Arthropathy, traumatic, unspec.
+716.9 Arthropathy, unspec.
+717 Internal derangement of knee
+717.1  Derangement of anterior horn of medial meniscus
+717.42 Derangement of lateral meniscus
+717.7 Chondromalacia of patella
+717.9 Derangement, internal, knee, unspec.
+718 Other derangement of joint
+718.0 Articular cartilage disorder
+718.1 Loose body in joint
+718.2 Pathological dislocation
+718.3 Recurrent dislocation of joint
+718.4 Contracture of joint
+718.5 Ankylosis of joint
+718.6 Unspecified intrapelvic protrusion of acetabulum
+718.7 Developmental dislocation of joint
+719 Other and unspecified disorders of joint
+719.0 Effusion/swelling of joint, unspec.
+719.1 Hemarthrosis
+719.2 Villonodular synovitis
+719.3 Palindromic rheumatism
+719.4 Joint pain, unspec.
+719.5 Stiffness of joint
+719.7 Difficulty in walking
+
+Dorsopathies (720–724)
+720 Ankylosing spondylitis and other inflammatory spondylopathies
+720.0 Ankylosing spondylitis
+720.1 Spinal enthesopathy
+720.2 Sacroiliitis
+721 Spondylosis and allied disorders
+721.0 Cervical spondylosis w/o myelopathy
+721.1 Cervical spondylosis, w/myelopathy
+721.2 Thoracic spondylosis w/o myelopathy
+721.3 Lumbosacral spondylosis w/o myelopathy
+721.4 Thoracic or lumbar spondylosis w/ myelopathy
+721.5 Kissing spine
+721.6 Ankylosing vertebral hyperostosis
+721.7 Traumatic spondylopathy
+722 Intervertebral disc disorders
+722.0 Displacement cervical intervertebral disc
+722.1 Lumbar disc displacement w/o myelopathy
+722.2 Degeneration of intervertebral disc site unspecified
+722.3 Schmorl's nodes
+722.4 Degenerative disc disease, cervical
+722.5 Degeneration of thoracic or lumbar intervertebral disc
+722.51 Degenerative disc disease, thoracic
+722.52 Degenerative disc disease, lumbar
+722.6 Degeneration of intervertebral disc, site unspecified
+Degenerative disc disease
+722.7 Intervertebral disc disorder with myelopathy
+722.8 Postlaminectomy syndrome
+723 Other disorders of cervical region
+723.0 Spinal stenosis in cervical region
+723.1 Cervicalgia
+723.2 Cervicocranial syndrome
+723.3 Cervicobrachial syndrome (diffuse)
+723.4 Brachial neuritis or radiculitis nos
+723.5 Torticollis unspecified
+723.6 Panniculitis specified as affecting neck
+723.7 Ossification of posterior longitudinal ligament in cervical region
+724 Other and unspecified disorders of back
+724.0 Spinal stenosis, other than cervical
+724.1 Pain in thoracic spine
+724.2 Lumbago
+724.3 Sciatica
+724.4 Back pain w/ radiation, unspec.
+724.5 Backache, unspecified
+724.6 Disorders of sacrum
+724.7 Disorders of coccyx
+724.79 Coccygodynia
+724.8 Other symptoms referable to back
+
+Rheumatism, excluding the back (725–729)
+725 Polymyalgia rheumatica
+726 Peripheral enthesopathies and allied syndromes
+726.0 Adhesive capsulitis, shoulder
+726.1 Rotator cuff syndrome, NOS (Not Otherwise Specified)
+726.12 Bicipital tenosynovitis
+726.3 Enthesopathy of elbow region
+726.31 Medial epicondylitis
+726.32 Lateral epicondylitis
+726.33 Olecranon bursitis
+726.4 Enthesopathy of wrist and carpus
+726.5 Enthesopathy of hip region
+726.6 Enthesopathy of knee
+726.61 Pes anserinus tendinitis
+726.64 Tendinitis, patellar
+726.65 Prepatellar bursitis
+726.7 Metatarsalgia, NOS (Not Otherwise Specified)
+726.71 Tendinitis, achilles
+726.72 Tendinitis, tibialis
+726.73 Calcaneal spur
+727 Other disorders of synovium, tendon and bursa
+727.0 Synovitis and tenosynovitis
+727.00 Synovitis/tenosynovitis, unspec.
+727.03 Trigger finger, acquired
+727.04 de Quervain's disease
+727.05 Tenosynovitis, hand/wrist
+727.06 Tenosynovitis, foot/ankle
+727.1 Bunion
+727.4 Ganglion and cyst of synovium, tendon, and bursa
+727.42 Ganglion, tendon sheath
+727.43 Ganglion, unspec.
+727.6 Rupture of tendon, nontraumatic
+727.62 Rupture, biceps tendon
+727.67 Rupture, achilles tendon
+727.8 Other disorders of synovium, tendon, and bursa
+727.83 Plica syndrome
+727.89 Abscess, bursa
+728 Disorders of muscle, ligament, and fascia
+728.0 Infective myositis
+728.1 Muscular calcification and ossification
+728.2 Muscular wasting, atrophy
+728.3 Other specific muscle disorders
+728.4 Laxity of ligament
+728.5 Hypermobility syndrome
+728.6 Dupuytren's contracture
+728.7 Other fibromatoses
+728.71 Plantar fasciitis
+728.8 Other disorders of muscle, ligament, and fascia
+728.84 Diastasis recti
+728.85 Muscle spasm
+728.86 Necrotizing fasciitis
+728.87 Muscle weakness
+728.88 Rhabdomyolysis
+728.89 Iliotibial band syndrome
+729 Other disorders of soft tissues
+729.0 Rheumatism unspecified and fibrositis
+729.1 Myalgia and myositis, Fibromyositis
+729.2 Neuralgia neuritis and radiculitis unspecified
+729.3 Panniculitis unspecified
+729.4 Fasciitis unspecified
+729.5 Pain in limb
+729.6 Foreign body in soft tissue
+729.7 Nontraumatic compartment syndrome
+
+Osteopathies, chondropathies, and acquired musculoskeletal deformities (730–739)
+730 Osteomyelitis, periostitis, and other infections involving bone
+731 Osteitis deformans and osteopathies associated with other disorders
+732 Osteochondropathies
+732.7 Osteochondritis dissecans
+733 Other disorders of bone and cartilage
+733.0 Osteoporosis
+733.1 Pathologic fracture
+733.2 Cyst of bone
+733.3 Hyperostosis of skull
+733.4 Aseptic necrosis of bone
+733.5 Osteitis condensans
+733.6 Tietze's disease
+Costochondritis
+733.7 Algoneurodystrophy
+733.8 Malunion and nonunion of fracture
+733.9 Other and unspecified disorders of bone and cartilage
+733.90  Disorder of bone and cartilage, unspecified
+Osteopenia
+Ostealgia
+733.92  Chondromalacia
+734 Flat foot
+735 Acquired deformities of toe
+735.0 Hallux valgus
+735.2 Hallux rigidus
+735.4 Hammer toe, other
+736 Other acquired deformities of limbs
+736.1 Mallet finger
+736.2 Other acquired deformities of finger
+736.7 Other acquired deformities of ankle and foot
+736.8 Acquired deformities of other parts of limbs
+736.81 Unequal leg length (acquired)
+736.89 Other acquired deformity of other parts of limb
+Winged scapula
+736.9 Acquired deformity, limb, unspec.
+737 Curvature of spine
+737.1 Kyphosis (acquired)
+737.2 Lordosis (acquired)
+737.3 Scoliosis
+737.9 Kyphosis/scoliosis, unspec.
+738 Other acquired deformity
+738.0 Acquired deformity of nose
+738.1 Other acquired deformity of head
+738.2 Acquired deformity of neck
+738.3 Acquired deformity of chest and rib
+738.4 Acquired spondylolisthesis
+738.5 Other acquired deformity of back or spine
+738.6 Acquired deformity of pelvis
+738.7 Cauliflower ear
+738.8 Acquired deformity of other specified site
+738.9 Acquired deformity of unspecified site
+739 Nonallopathic lesions, not elsewhere classified

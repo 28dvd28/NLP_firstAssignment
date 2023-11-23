@@ -1,0 +1,89 @@
+SPINA-GBeta is a calculated biomarker for pancreatic beta cell function. It represents the maximum amount of insulin that beta cells can produce per time-unit (e.g. in one second).
+
+How to determine GBeta
+The index is derived from a mathematical model of insulin-glucose homeostasis. For diagnostic purposes, it is calculated from fasting insulin and glucose concentrations with:
+
+  
+    
+      
+        
+          
+            
+              
+                G
+                ^
+              
+            
+          
+          
+            β
+          
+        
+        =
+        
+          
+            
+              [
+              I
+              ]
+              (
+              ∞
+              )
+              (
+              
+                
+                  D
+                
+                
+                  β
+                
+              
+              +
+              
+                [
+                G
+                ]
+              
+              (
+              ∞
+              )
+              )
+            
+            
+              
+                
+                  G
+                
+                
+                  3
+                
+              
+              [
+              G
+              ]
+              (
+              ∞
+              )
+            
+          
+        
+      
+    
+    {\displaystyle {\widehat {G}}_{\beta }={\frac {[I](\infty )({D}_{\beta }+\left[G\right](\infty ))}{{G}_{3}[G](\infty )}}}
+  .[I](∞): Fasting Insulin plasma concentration (μU/mL)
+[G](∞): Fasting blood glucose concentration (mg/dL)Dβ: EC50 for glucose at beta cells (7 mmol/L)G3: Parameter for pharmacokinetics (58,8 s/L)
+
+Validity
+SPINA-GBeta significantly correlates with the M value in glucose clamp studies and (better than HOMA-Beta) with the two-hour value in oral glucose tolerance testing (OGTT), glucose rise in OGTT, subscapular skinfold, truncal fat content and the HbA1c fraction.It has the additional advantage that it circumvents the HOMA-blind zone, which renders the calculation of HOMA-Beta impossible if the fasting glucose concentration is 3.5 mmol/L (63 mg/dL) or below. Unlike HOMA-Beta, SPINA-Beta can be sensibly calculated in the whole range of measurements.
+
+See also
+SPINA-GR
+SPINA-GD
+SPINA-GT
+Homeostatic model assessment
+QUICKI
+
+Notes
+References
+External links
+Functions for R and S for calculating SPINA-GBeta and SPINA-GR. (Permanent DOI)

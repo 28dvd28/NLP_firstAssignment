@@ -1,0 +1,64 @@
+Mathematics education in New York in regard to both content and teaching method can vary depending on the type of school a person attends. Private school math education varies between schools whereas New York has statewide public school requirements where standardized tests are used to determine if the teaching method and educator are effective in transmitting content to the students. While an individual private school can choose the content and educational method to use, New York State mandates content and methods statewide. Some public schools have and continue to use established methods, such as Montessori for teaching such required content. New York State has used various foci of content and methods of teaching math including New Math (1960s), 'back to the basics' (1970s), Whole Math (1990s), Integrated Math, and Everyday Mathematics.
+How to teach math, what to teach, and its effectiveness has been a topic of debate in New York State and nationally since the "Math Wars" started in the 1960s. Often, current political events influence how and what is taught. The politics in turn influence state legislation. California, New York, and several other states have influenced textbook content produced by publishers.The state of New York has implemented a novel curriculum for high school mathematics.
+The courses Algebra I, Geometry, and Algebra II/Trigonometry are required courses mandated by the New York State Department of Education for high school graduation.
+
+2007-present
+Algebra
+This is the first course in the new three-year curriculum. It was originally "Math A," but was replaced with "Integrated Algebra." In 2009 when Common Core was adopted, "Algebra I" replaced "Integrated Algebra" and is still in use today. 
+Students learn to how write, solve, and graph equations and inequalities. They will also learn how to solve systems of equations, as well as how to simplify exponents, quadratic equations, exponential functions, polynomials, radicals, and rational expressions. Other topics included are probability and statistics.
+Some schools divided Algebra 1 into a two-year sequence. The students who receive it begin with Algebra 1A, and will cover the rest of the Algebra 1 topics in Algebra 1B in the next school year. Typically, most students are placed in Algebra 1 which covers all lessons rather than splitting them. 
+At the conclusion of the one-year course, students take the New York State Regents Exam. The first administration of this exam was in June 2008.
+
+Geometry
+This is the second course in the new three year curriculum. It replaced part of "Math A" and part of "Math B"
+Geometric concepts such as right triangles are introduced. The course also covers topics including perpendicular and parallel lines, triangles, quadrilaterals, and transformations.
+At the conclusion of this one-year course, students take a New York State Regents exam in Geometry. The first administration of this exam was in June 2009.
+
+Algebra II
+This is the third and last course of the new three-year curriculum. It replaced the elements of "Math B" not covered in geometry.
+This course covers concepts of advanced algebra, and as well prepares students for pre-calculus and calculus. In 2016, the Board of Regents removed some of the trigonometry concepts and lessons from the course, and the Regents exam has been renamed from 
+"Algebra 2/Trigonometry" to "Algebra II".   
+At the conclusion of the one-year course, students take the New York State Regents exam for Algebra II. This is the last Regents exam in mathematics students could take. Like the former "Math B" Regents, it is considered one of the hardest High School Regents examinations, along with the Physical Setting/Chemistry regents and the Physical Setting/Physics regents. The Algebra 2/Trigonometry exam was given from June 2010 through January 2017 and the new Algebra II Exam has been given since June 2016.
+
+2001-2009
+Math A (former course)
+Math A replaced the former "Course 1" curriculum which focused solely on the topic of algebra, while Math A covered a whole range of topics. After algebra, students would take Geometry in the 10th grade and Algebra II in the 11th grade.
+In Math A, students learned to how write, solve, and graph equations and inequalities. They learned how to solve systems of equations, quadratics, as well as exponents, exponential functions, polynomials, radicals, and rational expressions. Other topics included are probability and statistics. Geometric concepts such as right triangles are also introduced. The course works in conjunction with New York State's Standards for Mathematics.[1] One course lasted three semesters, after which students took the Regents Math A Examination.
+
+Math A/B (former course)
+Math A/B took the place of the former "Course 2" curriculum, which focused almost solely on geometry, while Math A/B focused on a whole range of topics. Math A/B served as a bridge between the Math A and Math B courses.
+Math A/B stayed true to its geometric roots, as the first half of the course covered topics such as perpendicular and parallel lines, triangles, quadrilaterals, and transformations. After their first semester, students took the New York State Math A Regents exam. June 2008 was the last administration of this exam. For the second half of the year, students would begin Math B. They covered logic, geometric figures, and an introduction to trigonometry.
+
+Math B (former course)
+Math B was required to receive a High School Regents Diploma with Advanced Designation. The course replaces the former "Course 3" curriculum, which focused almost solely on trigonometry. Math B focused on a whole range of topics. It was taken after the student has completed and passed Math A.
+A Regents exam was taken at the end of the 1+1⁄2-year course. The Math B Regents was often considered one of the most difficult New York State Regents.
+Math B covered concepts that can be found in trigonometry and advanced algebra, and prepared students for pre-calculus and calculus and reviewed past topics. During their year of study, students learned different theorems, graphed complex numbers and vectors, as well as reviewed topics such as exponential functions, systems of inequalities, and radicals. As the year progressed, students were expected to relate these functions to the real world, create conjectures through their own research, and begin a classroom discussion about these topics. At the end of their studies, they would take the New York State Math B Regents Examination. The last administration of this exam was in August 2010.
+
+Changes proposed in 2004
+In November 2004, the Mathematics Standards Committee made a report to the Board of Regents[2] about the State's requirements for high school graduation as related to mathematics. The committee recommended that:
+
+The curriculum should return to its old format as a one-year course with a Regents exam taken at the end of the year, with the new exam to be administered no earlier than June 2007. Math A would have its name changed to Integrated Algebra.
+In addition to the current Regents exam at the end of the Math B course, there should be another Regents exam, at the end of the first half of Math B study (currently Math A/B), to be administered no later than June 2006, bringing the total number of Regents exams to three.
+The course's name should be changed to Geometry for the first half of the course, and Algebra II and Trigonometry for the second half of the course (currently Math B). Integrated is only used in the new Algebra course.
+The State of New York has announced that these changes will be implemented in the 2009/10 scholastic year.
+In 2009, Integrated Algebra was switched to Algebra 1, due to the common core adoption.The move was praised by many who thought the changes to the original draft curriculum were unnecessary.
+
+Pre-2002
+Sequential Mathematics
+Prior to the 2001-2002 school year, the New York State Board of Regents mandated a three-year Sequential Mathematics series divided into three Courses I, II, and III.
+
+See also
+Mathematics education in the United States
+USA Mathematical Olympiad
+Math circle
+
+References
+Mathematics' Standard Committee's recommendations
+
+External links
+Official website of textbook developer
+New York State Department of Education
+New York State Department of Education: Curriculum, Instruction and Instructional Technology
+Math Help and Resources
+JMAP - Free resources for teachers
+Regents preparation site for New York

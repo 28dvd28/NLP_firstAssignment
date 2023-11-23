@@ -1,0 +1,32 @@
+Li Ye (Chinese: 李冶; Wade–Giles: Li Yeh; 1192–1279), born Li Zhi (Chinese: 李治), courtesy name Li Jingzhai (Chinese: 李敬斋), was a Chinese scientist and writer who published and improved the tian yuan shu method for solving polynomial equations of one variable. Along with the 4th-century Chinese astronomer Yu Xi, Li Ye proposed the idea of a spherical Earth instead of a flat one before the advances of European science in the 17th century.
+
+Name
+Li Ye was born Li Zhi, but later changed his name to Li Ye to avoid confusion with the third Tang emperor who was also named Li Zhi, removing one stroke from his original name to change the character. His name is also sometimes written as Li Chih or Li Yeh. His literary name was Renqing (Chinese: 仁卿; Wade–Giles: Jen-ch’ing)  and his appellation was Jingzhai (Chinese: 敬斋; Wade–Giles: Ching-chai).
+
+Life
+Li Ye was born in Daxing (now Beijing). His father was a secretary to an officer in the Jurchen army.  Li passed the civil service examination in 1230 at the age of 38, and was administrative prefect of Jun prefecture in Henan province until the Mongol invasion in 1233. He then lived in poverty in the mountainous Shanxi province. In 1248 he finished his most known work Ceyuan haijing (測圓海鏡, Sea mirror of circle measurements). Li then returned to Hebei.
+In 1257 Kublai Khan, grandson of Genghis Khan, ordered Li to give advice on science. In 1259 Li completed Yigu yanduan (益古演段, New steps in computation), also a mathematics text. After becoming Khan, Kublai twice offered Li government positions, but Li was too old and had ill health. In 1264 Li finally accepted a position at the Hanlin Academy, writing official histories. However, he had a political fallout and resigned after a few months, again citing ill health. He spent his final years teaching at his home near Feng Lung mountain in Yuan, Hebei. Li told his son to burn all of his books except for Sea mirror of circle measurements.
+
+Mathematics
+Ceyuan haijing
+Ceyuan haijing (Sea mirror of circle measurements) is a collection of 170 problems, all related to the same example of a circular city wall inscribed in a right triangle and a square. They often involve two people who walk on straight lines until they can see each other, meet or reach a tree in a certain spot. The purpose of book was to study intricate geometrical relations with algebra and provide solutions to equations.Many of the problems are solved by polynomial equations, which are represented using a method called tian yuan shu, "coefficient array method" or literally "method of the celestial unknown". The method was known before him in some form.  It is a positional system of rod numerals to represent polynomial equations.
+For example, 2x2 + 18x − 316 = 0 is represented as
+ which is equal to  in Arabic Numbers.
+The 元 (yuan) denotes the unknown x, so the numerals on that line mean 18x. The line below is the constant term (-316) and the line above is the coefficient of the quadratic (x2) term. The system accommodates arbitrarily high exponents of the unknown by adding more lines on top and negative exponents by adding lines below the constant term. Decimals can also be represented. Later, the line order was reversed so that the first line is the lowest exponent.
+Li does not explain how to solve equations in general, but shows it with the example problems. Most of the equations can be reduced to the second or sometimes third order. It is often assumed that he used methods similar to Ruffini's rule and Horner scheme.
+
+Yigu yanduan
+Yigu yanduan (New steps in computation) is a work of more basic mathematics written soon after Li Ye completed Ceyuan haijing, and was probably written to help students who could not understand Sea mirror of circle measurements. Yigu yanduan consists of three volumes dedicated to solving geometrical problems on two tracks, through Tian yuan shu and geometry. It also contained algebraic problems, but with slightly different notations.
+
+Astronomy and shape of the earth
+The huntian (渾天) theory of the celestial sphere stipulated that the earth was flat and square, while the heavens were spherical in shape, along with celestial bodies such as the sun and moon (described by 1st-century AD polymathic scientist and statesman Zhang Heng like a crossbow bullet and ball, respectively). However, the idea of a flat earth was criticized by the Jin dynasty astronomer Yu Xi (fl. 307-345 AD), who suggested a rounded shape as an alternative. In his Jingzhai gu zhin zhu (敬齋古今注), Li Ye echoed Yu's idea that the Earth was spherical, similar in shape to the heavens but smaller in size, arguing that it could not be square since that would hinder the movement of the heavens and celestial bodies.However, the idea of a spherical earth was not accepted in mainstream Chinese science and cartography until the 17th century during the late Ming and early Qing periods, with the advent of evidence of European circumnavigation of the globe. The flat Earth theory in Chinese science was finally overturned in the 17th-century. Jesuits in China also introduced the spherical Earth model advanced by ancient Greeks such as Philolaus and Eratosthenes and presented in world maps such as Matteo Ricci's Kunyu Wanguo Quantu published in Ming-dynasty China in 1602.
+
+See also
+Chinese astronomy
+Chinese mathematics
+Qin Jiushao
+Zhu Shijie
+
+References
+Further reading
+Chan, Hok-Lam. 1997. “A Recipe to Qubilai Qa'an on Governance: The Case of Chang Te-hui and Li Chih”. Journal of the Royal Asiatic Society 7 (2). Cambridge University Press: 257–83. https://www.jstor.org/stable/25183352.

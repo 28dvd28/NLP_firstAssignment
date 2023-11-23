@@ -1,0 +1,9 @@
+In medicine and robotics, diagnostic robots are diagnosis tools in the form of a physical robot or a software expert system. Developed in the 1970s near the height of the AI boom, automatic diagnosis systems are capable of gathering data for medical diagnosis with its knowledge based subsystem, and tools such as a tendon-actuated, anthropomorphic finger, skin-like sensors for tactile perception, etc.In February 2013, IBM announced that Watson software system's first commercial application would be for utilization management decisions in lung cancer treatment at Memorial Sloan–Kettering Cancer Center in conjunction with WellPoint (now Anthem). In 2013, IBM Watson's business chief Manoj Saxena says that 90% of nurses in the field who use Watson now follow its guidance.
+
+See also
+Computer-aided diagnosis
+Mycin
+Robotic surgery
+
+
+== References ==

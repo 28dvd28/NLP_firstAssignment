@@ -1,0 +1,20 @@
+Xinwen Zhu (Chinese: 朱歆文; born 1982 in Sichuan) is a Chinese mathematician and professor at Stanford University. His work deals primarily with geometric representation theory and in particular the Langlands program, tying number theory to algebraic geometry and quantum physics.
+
+Biography
+Zhu obtained his A.B. in mathematics from Peking University in 2004 and his Ph.D. in mathematics from the University of California, Berkeley in 2009 under the direction of Edward Frenkel. He taught at Harvard University as a Benjamin Peirce Lecturer and at Northwestern University as an assistant professor before joining the Caltech faculty in 2014. According to the American Mathematical Society, "[Zhu] studies the geometry and topology of flag varieties of loop groups and applies techniques from the geometric Langlands program to arithmetic geometry."The awards Zhu has received include an AMS Centennial Fellowship in 2013 and a Sloan Fellowship in 2015. His research has been published in Annals of Mathematics and Inventiones mathematicae, among other mathematics journals. Zhu, Wei Zhang, Xinyi Yuan and Zhiwei Yun are frequent collaborators. In 2019 he received the Morningside Medal jointly with Zhiwei Yun. Zhu won the 2020 New Horizons in Mathematics Breakthrough Prize "For work in arithmetic algebraic geometry including applications to the theory of Shimura varieties and the Riemann-Hilbert problem for p-adic varieties."
+
+Publications (selected)
+(with Edward Frenkel) "Gerbal Representations of Double Loop Groups", International Mathematics Research Notices 2012 (2012), No. 17, 3929–4013.
+(with George Pappas]) "Local models of Shimura varieties and a conjecture of Kottwitz", Inventiones mathematicae 194 (2013), No. 1, 147–254.
+"On the coherence conjecture of Pappas and Rapoport", Annals of Mathematics 180 (2014), No. 1, 1–85.
+(with Denis Osipov) "A categorical proof of the Parshin reciprocity laws on algebraic surfaces", Algebra & Number Theory 5 (2011), No. 3, 289–337.
+"Affine Demazure modules and T-fixed point subschemes in the affine Grassmannian", Advances in Mathematics 221 (2009), No. 2, 570–600.
+"Affine Grassmannians and the geometric Satake in mixed characteristic", Annals of Mathematics 185 (2017), No. 2, 403–492.
+(with Edward Frenkel) "Any flat bundle on a punctured disc has an oper structure", Mathematical Research Letters 17 (2010), no. 1, 27–37.
+"The geometric Satake correspondence for ramified groups", Annales Scientifiques de l'École Normale Supérieure 48 (2015), no. 2, 409–451.
+(with Zhiwei Yun) "Integral homology of loop groups via Langlands dual groups", Representation Theory 15 (2011), 347–369.
+(with An Huang, Bong H. Lian) "Period integrals and the Riemann–Hilbert correspondence", Journal of Differential Geometry 104 (2016), No. 2, 325–369.
+(with Tsao-Hsien Chen) "Geometric Langlands in prime characteristic", Compositio Mathematica 153 (2017), No. 2, 395–452.
+
+
+== References ==

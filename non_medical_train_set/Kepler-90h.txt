@@ -1,0 +1,26 @@
+Kepler-90h (also known by its Kepler Object of Interest designation KOI-351.01) is an exoplanet orbiting within the habitable zone of the early G-type main sequence star Kepler-90, the outermost of eight such planets discovered by NASA's Kepler spacecraft. It is located about 2,840 light-years (870 parsecs), from Earth in the constellation Draco. The exoplanet was found by using the transit method, in which the dimming effect that a planet causes as it crosses in front of its star is measured.
+
+Characteristics
+Physical characteristics
+Kepler-90h is a gas giant with no solid surface. Its equilibrium temperature is 292 K (19 °C; 66 °F). It is around 0.64 times as massive and around 1.01 times as large as Jupiter. This makes it very similar to Jupiter, in terms of mass and radius.
+
+Orbit
+Kepler-90h orbits its host star about every 331.6 days at a distance of 1.01 astronomical units, very similar to Earth's orbital distance from the Sun (which is 1 AU).
+
+Habitability
+Kepler-90h resides in the circumstellar habitable zone of the parent star. The exoplanet, with a radius of 1.01 RJ, is too large to be rocky, and because of this the planet itself may not be habitable. Hypothetically, large enough moons, with a sufficient atmosphere and pressure, may be able to support liquid water and potentially life.
+For a stable orbit the ratio between the moon's orbital period Ps around its primary and that of the primary around its star Pp must be < 1/9, e.g. if a planet takes 90 days to orbit its star, the maximum stable orbit for a moon of that planet is less than 10 days. Simulations suggest that a moon with an orbital period less than about 45 to 60 days will remain safely bound to a massive giant planet or brown dwarf that orbits 1 AU from a Sun-like star. In the case of Kepler-90h, this would be practically the same to have a stable orbit.
+Tidal effects could also allow the moon to sustain plate tectonics, which would cause volcanic activity to regulate the moon's temperature and create a geodynamo effect which would give the satellite a strong magnetic field.To support an Earth-like atmosphere for about 4.6 billion years (the age of the Earth), the moon would have to have a Mars-like density and at least a mass of 0.07 MEarth. One way to decrease loss from sputtering is for the moon to have a strong magnetic field that can deflect stellar wind and radiation belts. NASA's Galileo's measurements hints large moons can have magnetic fields; it found that Jupiter's moon Ganymede has its own magnetosphere, even though its mass is only 0.025 MEarth.
+
+Host star
+The planet orbits a G-type star named Kepler-90, its host star. The star is 1.2 times as massive as the Sun and is 1.2 times as large as the Sun. It is estimated to be 2 billion years old, with a surface temperature of 6080 K. In comparison, the Sun is about 4.6 billion years old and has a surface temperature of 5778 K.The star's apparent magnitude, or how bright it appears from Earth's perspective, is 14. It is too dim to be seen with the naked eye, which typically can only see objects with a magnitude around 6 or less.
+
+Discovery
+In 2009, NASA's Kepler spacecraft was completing observing stars on its photometer, the instrument it uses to detect transit events, in which a planet crosses in front of and dims its host star for a brief and roughly regular period of time. In this last test, Kepler observed 50000 stars in the Kepler Input Catalog, including Kepler-90; the preliminary light curves were sent to the Kepler science team for analysis, who chose obvious planetary companions from the bunch for follow-up at observatories. Observations for the potential exoplanet candidates took place between 13 May 2009 and 17 March 2012. After observing the respective transits, which for Kepler-90h occurred roughly every 331 days (its orbital period), it was eventually concluded that a planetary body was responsible for the periodic 331-day transits. The discovery, was announced on November 12, 2013.
+
+See also
+Kepler-47c
+HD 69830 d
+
+
+== References ==

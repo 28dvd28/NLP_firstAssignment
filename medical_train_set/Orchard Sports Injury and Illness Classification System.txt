@@ -1,0 +1,24 @@
+The Orchard Sports Injury and Illness Classification System (OSIICS), previously OSICS, is an injury classification system for sports injuries and illnesses. It was first created in 1993 and is free (open access) for sporting teams and competitions to use. It is one of the two major Sports Injury classification systems in use worldwide; the other is the Sports Medicine Diagnostic Coding System.
+
+Usage
+OSIICS is used by multiple injury surveillance systems in the world of sport, including IOC, UEFA, professional English and international rugby union cricket, professional tennis, Paralympic sport, cycling and other Australian and European sports and military studies.It has been translated into other languages including Spanish, Italian (alongside the version 14 update) and Catalan.
+
+International Olympic Committee (IOC) adoption
+In October 2019, the IOC hosted a 3-day consensus meeting in Lausanne, Switzerland to provide a standard method to report injuries and illnesses in sport. At this meeting, the expert panel recommended that OSICS should be rebranded as OSIICS to also reflect the importance of illness in sport. New consensus injury and illness categories were chosen by the consensus panel and adopted by both OSIICS and the SMDCS. The IOC recommendations have since been adopted by golf, tennis, cycling and parasport  and national datasets such as that of the Australian Institute of Sport.
+
+Structure
+The consensus structure as applied to OSIICS codes is summarised as follows:
+
+Evaluation
+The reason why sporting teams and competitions use sports-specific systems rather than general medical systems like the International Classification of Diseases (ICD) is that the general medical disease systems have many more codes but do not contain the relevant codes for sports injury. OSICS has been found to be more applicable to sports injury coding than the ICD. Most classification of disease has a focus on conditions that present to hospital and/or cause major morbidity or death, whereas in sports medicine there is a focus on conditions (injury and illnesses) that stop an athlete from being able to compete. OSICS has been evaluated for efficacy in multiple studies.
+
+History
+Previously published versions include version 1 in 1993, version 6 in 1998, version 7 in 2000 and version 8 in 2002, then version 10 in 2007, version 13 in 2020  and then version 14 in 2022.
+The major upgrade for version 10 was to include more illness codes and to expand codes to 4 characters. Version 13 was re-written to align categories with an IOC consensus statement.
+
+Limitations
+OSIICS is almost exclusively used within the domain of professional and elite sport—with a high take-up in the field of sports medicine. The classification only includes diagnostic codes, and has no options for coding the mechanisms of injury or an injury's severity.
+
+References
+External links
+https://bjsm.bmj.com/content/54/7/397#supplementary-materials

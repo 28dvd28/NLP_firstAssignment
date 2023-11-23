@@ -1,0 +1,48 @@
+The Gross Motor Function Classification System or GMFCS is a 5 level clinical classification system that describes the gross motor function of people with cerebral palsy on the basis of self-initiated movement abilities. Particular emphasis in creating and maintaining the GMFCS scale rests on evaluating sitting, walking, and wheeled mobility.  Distinctions between levels are based on functional abilities; the need for walkers, crutches, wheelchairs, or canes / walking sticks; and to a much lesser extent, the actual quality of movement.
+The original version of the GMFCS was developed in 1997. As of 2007, the expanded and revised version, known as GMFCS - E&R, further includes an age band for youth 12 to 18 years.
+The original concept was developed collaboratively by Robert Palisano, Professor of Physiotherapy at Drexel University; Peter Rosenbaum, Professor of Developmental Paediatrics at McMaster University; Stephen Walter, Professor of Biostatistics at McMaster University; Dianne Russell; Ellen Wood; and Barbara Galuppi.
+GMFCS is now the standard in both North America and Western Europe for mobility assessment and ambulatory ability prediction for cerebral palsy. The examination is done using the "Gross Motor Function Measure", (GMFM), a set of 66 sitting (truncal control) as well as walking exercises conducted during the GMFM assessment that help the specialist classify the person into one of the system's five levels or, sometimes, to classify the person as "in between" two different levels.
+
+GMFCS Level I
+• Can walk indoors and outdoors and climb stairs without using hands for support
+• Can perform usual activities such as running and jumping
+• Has decreased speed, balance and coordination
+
+GMFCS Level II
+• Can climb stairs with a railing
+• Has difficulty with uneven surfaces, inclines or in crowds
+• Has only minimal ability to run or jump
+
+GMFCS Level III
+• Walks with assistive mobility devices indoors and outdoors on level surfaces
+• May be able to climb stairs using a railing
+• May propel a manual wheelchair and need assistance for long distances or uneven surfaces
+
+GMFCS Level IV
+• Walking ability severely limited even with assistive devices
+• Uses wheelchairs most of the time and may propel own power wheelchair
+• Standing transfers, with or without assistance
+
+GMFCS Level V
+• Has physical impairments that restrict voluntary control of movement
+• Ability to maintain head and neck position against gravity restricted
+• Impaired in all areas of motor function
+• Cannot sit or stand independently, even with adaptive equipment
+• Cannot independently walk but may be able to use powered mobility
+
+Use
+The GMFCS has been used to describe study samples in terms of the number of children in each band. Hence, the GMFCS is much more of a categorization tool or an independent variable rather than an outcome measure. For example, cerebral palsy children with higher GMFCS levels i.e. (III, IV,  V) have a greater risk of developing hip subluxation/dislocation than those with lower GMFCS levels i.e. (I, II). A limitation of the original GMFCS was that parents and therapists would rate a child on their best performance rather than their average performance.  There seems to be more uncertainty between classifying children at level I or II than in other levels.  The GMFCS has been used to classify people with conditions other than cerebral palsy.  This use is not recommended by the authors of the GMFCS.
+
+Alternatives
+The Gross Motor Functional Measure is sometimes used instead of the GMFCS.
+
+See also
+Communication Function Classification System
+Manual Ability Classification System
+
+References
+Palisano, Robert; Rosenbaum, Peter; Walter, Stephen; Russell, Dianne; Wood, Ellen; Galuppi, Barbara (2008). "Development and reliability of a system to classify gross motor function in children with cerebral palsy". Developmental Medicine & Child Neurology. 39 (4): 214–223. doi:10.1111/j.1469-8749.1997.tb07414.x. PMID 9183258.
+Palisano, Robert J.; Rosenbaum, Peter; Bartlett, Doreen; Livingston, Michael H. (2008). "Content validity of the expanded and revised Gross Motor Function Classification System". Developmental Medicine & Child Neurology. 50 (10): 744–750. doi:10.1111/j.1469-8749.2008.03089.x. PMID 18834387. S2CID 45875650.
+
+External links
+Gross Motor Function Classification System - Expanded & Revised (GMFCS - E&R) at CanChild web site

@@ -1,0 +1,11 @@
+The Ecliptic Plane Input Catalog (or EPIC) is a publicly searchable database of stars and planets that is associated with the K2 "Second Light" plan of the Kepler space telescope mission. Examples of related stars include:  EPIC 201563164, EPIC 204278916, EPIC 204376071 and EPIC 249706694. Examples of related planets include: EPIC 203771098 b, EPIC 203771098 c, EPIC 206011691 c and EPIC 211945201 b.
+
+Overview
+In November 2013, a new mission plan named K2 "Second Light" was presented for consideration. K2 would involve using Kepler's remaining capability, photometric precision of about 300 parts per million, compared with about 20 parts per million earlier, to collect data for the study of "supernova explosions, star formation and Solar-System bodies such as asteroids and comets, ... " and for finding and studying more exoplanets. In this proposed mission plan, Kepler would search a much larger area in the plane of Earth's orbit around the Sun.
+
+See also
+References
+External links
+EPIC Catalog at MAST
+Kepler Input Catalog (SAO)
+K2: Extending Kepler's Power to the Ecliptic

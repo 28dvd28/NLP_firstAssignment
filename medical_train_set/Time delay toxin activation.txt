@@ -1,0 +1,5 @@
+Time Delay Toxin Activation (TDTA) belongs to a class of chemotherapy drugs known as High Specificity Anticancer Agents.  This is a process for manufacturing and administering chemotherapy drugs in a nontoxic, proto-drug form.  Then, after a time delay to allow for concentration in the target cancer or invasive tissues or cells, the non-toxic drug is then modified by an activation drug to selectively provide toxic levels of a pharmacologically active agent to the target issue.  This minimizes the toxicity to healthy cells, reducing the adverse side-effects of chemotherapy.
+This idea was first proposed by Dr. Evan Harris Walker in 1980.
+
+References
+"US Patent Office application number 20040192578". Retrieved February 2, 2006."High specificity anticancer agents". USPTO Full text patent database. Retrieved January 29, 2006.

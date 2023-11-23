@@ -1,0 +1,24 @@
+Kepler-47b (also known as Kepler-47 (AB) b and by its Kepler Object of Interest designation KOI-3154.01) is an exoplanet orbiting the binary star system Kepler-47, the innermost of three such planets discovered by NASA's Kepler spacecraft. The system, also involving two other exoplanets, is located about 3,400 light-years (1,060 parsecs) away.
+
+Characteristics
+Mass, radius and temperature
+Kepler-47b is a gas giant, an exoplanet that is near the same mass and radius as the planets Jupiter and Saturn. It has a temperature of 449 K (176 °C; 349 °F). The planet has a radius of 3.03 R🜨, and has no solid surface. It has a mass of 8.43 MEarth.
+
+Host stars
+The planet orbits in a circumbinary orbit around a (G-type) and (M-type) binary star system. The stars orbit each other about every 7.45 days. The stars have masses of 1.04 M☉ and 0.35 M☉ and radii of 0.96 R☉ and 0.35 R☉, respectively. They have temperatures of 5636 K and 3357 K. Based on the stellar characteristics and orbital dynamics, an estimated age of 4–5 billion years for the system is possible. In comparison, the Sun is about 4.6 billion years old and has a temperature of 5778 K. The primary star is somewhat metal-poor, with a metallicity ([Fe/H]) of −0.25, or 56% of the solar amount. The stars' luminosities (L☉) are 84% and 1% that of the Sun.The apparent magnitude of the system, or how bright it appears from Earth's perspective, is about 15.8. Therefore, it is too dim to be seen with the naked eye.
+
+Orbit
+Kepler-47b orbits around its parent stars every 45 days at a distance of 0.29 AU from its stars (close to where Mercury orbits from the Sun, which is about 0.39 AU). It receives about 9.6 times as much sunlight that Earth does from the Sun.
+
+Discovery
+Kepler-47b, as well as Kepler-47c, was first discovered by scientists, from both NASA and the Tel-Aviv University in Israel, using the Kepler space telescope. Additionally, the planetary characteristics of both objects were identified by a team of astronomers at the University of Texas at Austin's McDonald observatory. Both planets were discovered after transiting their parent stars, and they both seem to be orbiting along the same plane.
+
+Significance
+Prior to the discovery of Kepler-47c, it was thought that binary stars with multiple planets could not exist. Gravitational issues caused by the parent stars would, it was believed, cause any circumbinary planets to either collide with each other, collide with one of the parent stars, or be flung out of orbit. However, this discovery shows that multiple planets can form around binary stars, even in their habitable zones; and while Kepler-47c is most likely unable to harbor life because it gas giant, other planets that could support life may orbit binary systems such as Kepler-47.
+
+See also
+List of extrasolar planet firsts
+List of planets discovered by the Kepler spacecraft
+
+
+== References ==

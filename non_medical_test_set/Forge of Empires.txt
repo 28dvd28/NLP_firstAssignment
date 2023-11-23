@@ -1,0 +1,43 @@
+Forge of Empires is a browser-based strategy game developed by InnoGames. It was first launched on closed beta on 29 March 2012. The game was initially released on 17 April 2012 (open beta phase). In 2013, a television advertising campaign helped the game reach 10 million user registrations. The game was later released on iOS 2014, and Android in 2015. The game is similar to both SimCity and Clash of Clans, but includes turn-based strategy elements. As of 2023, the game earned over $1 billion in lifetime revenue.
+
+Gameplay
+The main goal of the game is to expand and develop a city, evolving from the Stone Age to the colonization of Titan. The city has houses that provide coins and population, production buildings that provide supplies, buildings that produce goods, and lastly the decorations and cultural buildings that provide happiness. Forge Points, with a meter that refills in time (one Forge Point per hour up to 10 at a time), allow players to research technologies, which unlock new buildings, more building space and other bonuses.
+Happiness is important for city development because, the happier the city the better resource output. The happiness can be at 50%, 100% or 120% happiness. 
+There are special buildings as well, that may be acquired in special events, daily challenges, and the antiques dealer, who buys and sells items for trade coins, and gemstones. Some may have to be purchased with diamonds, a premium currency that is harder to acquire.
+Forge Points may be contributed to great buildings, based on historical structures and which can be assembled when a player finds the correct blueprints. Great Buildings offer higher benefits but require many forge points to advance. It is possible to speed up construction and research with diamonds, a currency that may be purchased with real money. However, diamonds can sometimes be acquired upon the completion of certain quests and through some buildings like the Crows Nest and Wishing Wells. Some players with large cities start new worlds on their account, and fill them with those types of building, because diamonds are a currency on the account, not the city.
+There are also buildings that allow the training of certain military units. Some military units can also be acquired by conquering certain territories. Combat takes place with turn-based tactics, and unit types work in a rock paper scissors style against each other. Combat may be used to advance territory in a world map, and in player versus player combats, including special tournaments. Those tournaments are held between guilds, groups of players that fight together against other guilds.
+Forge of Empires has a large combat element to progressing.  Although one of the introductory screens says a player can be a fighter or a trader, there soon becomes a point where a player cannot progress without weaponising. 
+There is also a more social aspect to the game with Friends. The Friends Tavern makes Tavern Silver when a friend “sits” in the tavern and you collect the silver. It can be spent on upgrades to the Friends Tavern, or be spent on city boosts.
+
+Guilds
+A player can choose to join a guild, which offers gameplay benefits including additional daily forge points, combat bonuses and social interactions, such as aiding and building progression. Several combat maps are also open for members of a guild to compete with other guilds.
+
+Guild vs Guild
+In 2014, GvG (Guild v Guild) was introduced, taking place on the Guild Continent map. Guilds fight for control of sectors in different ages. There twelve ages (Iron Age, aka IA, through Future Era, aka FE) represented on the map along with an All Ages (AA) continent. Players must use treasury goods which can be donated or medals for AA to set sieges or to place defensive armies (DAs). To win a sector, one must place a siege army and fight until all defending armies are defeated. Once conquered, players may place defensive armies.
+
+Guild Expedition
+In 2016, Guild Expedition was introduced, a weekly event where up to eight guilds compete against each other. The percentage of guild participation affects final placement in the expedition, and the guilds that place first, second, and third receive an extra boost. There are five levels of progressive difficulty.
+In addition to gaining guild power, guild expedition provides rewards at the end of each successful battle or negotiation. Players can also build a Great Building, Temple of Relics, from blueprints gained during the expedition which offers the chance of winning more substantial prizes while participating in Guild Expedition.
+
+Guild Battlegrounds
+Battlegrounds was released on 14 November 2019, serving as a hybrid between Guild Expeditions and Guild vs Guild. Every two weeks, guilds fight for provinces on the map that generate victory points to improve final ranking and to determine league participation. Higher leagues offer greater challenges and more competitive rivals.
+Provinces can be conquered using stand-alone battles or negotiations. Once a province is captured, you can spend goods from the guild treasury to build buildings to improve the province. Progress made on a province is shared throughout the guild. When the battleground ends, guild members earn a reward according to the performance of their guild and their current league.
+
+PvP Arena
+On May 28, 2021 the PVP Arena was released. The PvP Arena is a feature for all players of a server to compete and to show their battle progress against other players of the same server on a weekly basis. This feature is first unlocked when researching the technology Technology Mercenaries in the Early Middle Ages. Rewards are credited to all participating players in multiple ways: by chance when doing battles, according to their performance at the week's end, and progress in a monthly personal league.
+
+Great Buildings
+Great Buildings (GBs) can be built by a player if the player has collected all blueprints of that building. The first set of blueprints will allow the player to level the GB to level 10. All subsequent levels require a full set of blueprints for each level. Most buildings are based on well-known (historical) buildings from real life, but some are also fictional and designed by InnoGames' own concept artists. Currently, there are 43 Great Buildings in the game:
+
+Languages
+Initially, Forge of Empires was only available in English and German. Currently there are 25 language versions available. A Korean language server was closed in 2016.
+
+Awards
+2013 - MMO Award for Best Strategy Browser MMO
+2013 - Deutscher Computerspielpreis for Best Browser Game
+
+References
+External links
+Official website (English)
+foe rechner strategy tool for Forge of Empires
+InnoGames homepage

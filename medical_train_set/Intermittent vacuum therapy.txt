@@ -1,0 +1,27 @@
+The intermittent vacuum therapy (IVT) is a treatment conducted in case of venous and arterial issues as well as in rehabilitation (after sports injuries and vascular complaints). With the aid of normal and low pressure, it should enable to control venous reflux, enhance lymphatic flow and improve blood flow in periphery and muscles.
+
+Technology
+The IVT treatment device consists of a cylindrical space in which the lower body of a lying patient (up until the ribs) is enclosed and affected. The legs are fully comprised. In the waist region, the inner space of the device is sealed by means of a lens. Within the cubicle, a vacuum pump alternatingly generates intermittent normal and low pressure (-20 until -70 mbar).
+The devices are declared medical devices (Class IIa. CE 0123).
+
+Mode of operation
+Through the generation of low pressure, blood circulation within the lower body parts and the abdomen is encouraged, meaning that arterial perfusion is stimulated. This blood flow leads to a reduction of hypertension within the central line, stroke volume, cardiac output and eventually to a reduction of the arterial blood flow which is counteracted through the compensation mechanisms.
+As a reaction to this change, pulse and peripheral vascular resistance are enhanced. In addition, shearforces are effective and the sympathetic answer of the heart is activated. Blood volume is adapted to the change of pressure within the lower part of the body. The flow of oxygenized blood within the legs and lower extremities is encouraged and enhanced through the changed conditions of normal and low pressure. During the phase of normal pressure, the backflow of venous blood and lymph within the large vessels is facilitated. Through that, the IVT has a strong physiological effect on the “removal of lymphatic waste products”, in other words a lymphatic drainage takes place. The related raise in pH value often entails a strengthening of the connective tissue, leading to an increase of collagen synthesis as well as to improved fat reduction.The treatment was developed on basis of the LBNPD-method of the NASA (lower body negative pressure device). In 1999, the development of the intermittent variant of the LBNPD started as a neurolab research project at the institute of aerospace medicine of the German Aerospace Centre (DLR) in Cologne.
+
+Treatment
+The average treatment duration, according to indication, amounts to 4 to > 10 applications (30–45 minutes). There are numerous indications for the intermittent vacuum therapy, however you still find a great need for research since findings are not always distinct enough. Indications are amongst others: Connective tissue weakness, overacidification, cellulite and spider veins, injuries (e.g. bruises or sports injuries), vascular diseases, oedemata and ulcers.
+Further indications which are already treated in the Netherlands are RSI syndrome, CTS (carpal tunnel syndrome), CRPS and the Raynaud syndrome. No blindstudies available.
+
+Contraindications
+Negative effects could not be detected until now. Nevertheless, the IVT should not be conducted in case of acute injuries such as phlebothrombosis, thrombophlebitis, infections or pregnancy.
+
+See also
+Negative-pressure wound therapy
+Manual lymphatic drainage
+Pressure
+Edema
+
+References
+Further reading
+IVT study at the Olypmiastützpunkt Rhein-Ruhr - Dr. med Dietmar F. Alf
+А.К. Orletskiy & D.О. Timtschenko, 2009, Use of devices for intermittent negative pressure therapy for treatment of athletes

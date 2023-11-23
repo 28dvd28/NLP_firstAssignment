@@ -1,0 +1,44 @@
+BI-RADS is an acronym for Breast Imaging-Reporting and Data System, a quality assurance tool originally designed for use with mammography. The system is a collaborative effort of many health groups but is published and trademarked by the American College of Radiology (ACR).
+The system is designed to standardize reporting and is used by medical professionals to communicate a patient's risk of developing breast cancer, particularly for patients with dense breast tissue. The document focuses on patient reports used by medical professionals, not "lay reports" that are provided to patients.
+
+Published documents
+The BI-RADS is published by ACR in the form of the BI-RADS Atlas. As of 2013 the Atlas is divided into three publications:
+
+Mammography, Fifth Edition
+Ultrasound, Second Edition
+MRI, Second Edition
+
+Assessment categories
+While BI-RADS is a quality control system, in day-to-day usage the term BI-RADS refers to the mammography assessment categories. These are standardized numerical codes typically assigned by a radiologist after interpreting a mammogram. This allows for concise and unambiguous understanding of patient records between multiple doctors and medical facilities.The assessment categories were initially developed for mammography and later adapted for use with MRI and ultrasound findings. The summary of each category, given below, is nearly identical for all three modalities.
+Category 6 was added in the 4th edition of the BI-RADS.
+BI-RADS assessment categories are:
+0: Incomplete
+1: Negative
+2: Benign
+3: Probably benign
+4: Suspicious
+5: Highly suggestive of malignancy
+6: Known biopsy – proven malignancyAn incomplete (BI-RADS 0) classification warrants either an effort to ascertain prior imaging for comparison, or to call the patient back for additional views and/or higher quality films. A BI-RADS classification of 4 or 5 warrants biopsy to further evaluate the offending lesion. Some experts believe that the single BI-RADS 4 classification does not adequately communicate the risk of cancer to doctors and recommend a subclassification scheme:
+4A: low suspicion of malignancy, about > 2% to ≤ 10% likelihood of malignancy
+4B: intermediate suspicion of malignancy, about > 10% to ≤ 50% likelihood of malignancy
+4C: moderate concern, but not classic for malignancy, about  > 50% to < 95% likelihood of malignancy
+
+Breast composition categories
+As of the BI-RADS 5th edition:
+a. The breasts are almost entirely fatty
+b. There are scattered areas of fibroglandular density
+c. The breasts are heterogeneously dense, which may obscure small masses
+d. The breasts are extremely dense, which lowers the sensitivity of mammography
+
+Automated extraction
+Automatic parsers have been developed to automatically extract BI-RADS features, categories and breast composition from textual mammography reports.
+There is also an automatic parser available for BI-RADS final category inference by parsing only the semi-formatted finding section of the textual mammography report.
+
+External links
+
+The American College of Radiology
+BI-RADS Atlas
+Short tutorial, with actual mammogram pictures
+
+
+== References ==

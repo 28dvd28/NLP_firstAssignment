@@ -1,0 +1,16 @@
+Eagle score is a five-point scoring system, used mainly for vascular patients, and allows for an accurate estimate of a patient's risk of dying during heart surgery.
+
+Main risk factors
+Age > 70
+Angina
+Myocardial infarction (history or Q waves)
+Congestive cardiac failure
+Diabetes
+
+Estimated mortality
+0 factor: 3%
+1-2 factors: 8%
+3 factors: 18%
+
+
+== References ==

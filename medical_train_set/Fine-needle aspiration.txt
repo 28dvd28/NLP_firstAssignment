@@ -1,0 +1,70 @@
+Fine-needle aspiration (FNA) is a diagnostic procedure used to investigate lumps or masses. In this technique, a thin (23–25 gauge (0.52 to 0.64 mm outer diameter)), hollow needle is inserted into the mass for sampling of cells that, after being stained, are examined under a microscope (biopsy). The sampling and biopsy considered together are called fine-needle aspiration biopsy (FNAB) or fine-needle aspiration cytology (FNAC) (the latter to emphasize that any aspiration biopsy involves cytopathology, not histopathology). Fine-needle aspiration biopsies are very safe minor surgical procedures. Often, a major surgical (excisional or open) biopsy can be avoided by performing a needle aspiration biopsy instead, eliminating the need for hospitalization. In 1981, the first fine-needle aspiration biopsy in the United States was done at Maimonides Medical Center. Today, this procedure is widely used in the diagnosis of cancer and inflammatory conditions. Fine needle aspiration is generally considered a safe procedure. Complications are infrequent.Aspiration is safer and far less traumatic than an open biopsy; complications beyond bruising and soreness are rare. However, the few problematic cells can be too few (inconclusive) or missed entirely (a false negative).
+
+Medical uses
+This type of sampling is performed for one of two reasons:
+
+A biopsy is performed on a lump or a tissue mass when its nature is in question.
+For known tumors, this biopsy is performed to assess the effect of treatment or to obtain tissue for special studies.When the lump can be felt, the biopsy is usually performed by a cytopathologist or a surgeon. In this case, the procedure is usually short and simple. Otherwise, it may be performed by an interventional radiologist, a doctor with training in performing such biopsies under x-ray or ultrasound guidance. In this case, the procedure may require more extensive preparation and take more time to perform.
+Also, fine-needle aspiration is the main method used for chorionic villus sampling, as well as for many types of body fluid sampling.
+It is also used for ultrasound-guided aspiration of breast abscess, of breast cysts, and of seromas.
+
+Preparation
+No aspirin or non-steroidal anti-inflammatory medications (e.g., ibuprofen, naproxen) for one week before the procedure
+No food a few hours before the procedure
+Routine blood tests (including clotting profile) must be completed two weeks before the biopsy.
+Suspension of anticoagulants (blood thinners)
+Antibiotic prophylaxis may be instituted.Before the procedure is started, vital signs (pulse, blood pressure, temperature, etc.) may be taken. Then, depending on the nature of the biopsy, an intravenous line may be placed. Very anxious patients can be sedated through this line, or oral medication (Valium) may be prescribed.
+
+Procedure
+The skin above the area to be biopsied is swabbed with an antiseptic solution and draped with sterile surgical towels. The skin, underlying fat, and muscle may be numbed with a local anesthetic, although this is often not necessary with superficial masses. After locating the mass for biopsy, using x-rays or palpation, a special needle of very fine diameter is passed into the mass. The needle may be inserted and withdrawn several times. There are many reasons for this:
+
+One needle may be used as a guide, with the other needles placed along it to achieve a more precise position.
+Sometimes, several passes may be needed to obtain enough cells for the intricate tests which the cytopathologists perform.After the needles are placed into the mass, cells are withdrawn by aspiration with a syringe and spread on a glass slide. The patient's vital signs are taken again, and the patient is removed to an observation area for three to five hours.
+
+For biopsies in the breast, ultrasound-guided fine-needle biopsy is the most common. The biopsy is advised.
+
+Endoscopic ultrasound-guided fine-needle aspiration (EUS-FNA)
+EUS-FNA is a minimally invasive procedure for acquiring biopsies in gastric regions that are hard to reach otherwise (e.g. the pancreas). Endoscopic ultrasound EUS-FNA of cystic lesions, followed by liquid cell analysis, has been used as a diagnostic tool for differentiating benign, potentially malignant, and malignant pancreatic cysts.
+'Through-the-needle' cytologic brushes have been developed for increasing the cellular content in the aspirates.
+
+Rapid on-site evaluation (ROSE)
+Rapid on-site evaluation (ROSE) is a real-time service during EUS-FNA interventions, that assesses the adequacy of the collected biopsy samples for diagnostics. Sample adequacy is deemed by the number of target cells that allow determining tumor malignancy. ROSE reduces the overall number of needle passes required for an appropriate sample and the number of FNA procedures.
+
+ROSE is typically performed in the operating room and starts by transferring an aliquot of the FNA sample onto a glass slide. Then, the sample is manually smeared out to obtain a thin sample layer with cells dispersed along the glass slide. After an air-drying step, the sample is stained, typically with a rapid Romanowky-type stain. Finally, a morphological assessment of the stained cells under a microscope allows to evaluate the adequacy of the collected FNA sample.
+
+Research focuses, among other, on portable devices for semi-automated sample preparation for ROSE, with the purpose to simplify the performance of FNA sample preparation and reach to a wider implementation of ROSE.
+
+Post-operative care and complications
+As with any surgical procedure, complications are possible, but major complications due to thin-needle aspiration biopsies are fairly uncommon, and when complications do occur, they are generally mild. The kind and severity of complications depend on the organs from which a biopsy is taken or the organs gone through to obtain cells.
+After the procedure, mild analgesics are used to control post-operative pain. Aspirin or aspirin substitutes should not be taken for 48 hours after the procedure (unless aspirin is prescribed for a cardiac or neurological condition). Since sterility is maintained throughout the procedure, infection is rare. But should an infection occur, it will be treated with antibiotics. Bleeding is the most common complication of this procedure. A slight bruise may also appear. If a lung or kidney biopsy has been performed, it is very common to see a small amount of blood in sputum or urine after the procedure. Only a small amount of bleeding should occur. During the observation period after the procedure, bleeding should decrease over time. If more bleeding occurs, this will be monitored until it subsides. Rarely, major surgery will be necessary to stop the bleeding.
+Other complications depend upon the body part on which the biopsy takes place:
+
+Lung biopsies are frequently complicated by pneumothorax (collapsed lung). This complication can also accompany biopsies in the upper abdomen near the base of the lung. About a quarter to half of patients having lung biopsies will develop pneumothorax. Usually, the degree of collapse is small and resolves on its own without treatment. A small percentage of patients will develop a pneumothorax serious enough to require hospitalization and a chest tube. Although it is impossible to predict in whom this will occur, collapsed lungs are more frequent and more serious in patients with severe emphysema and in patients in whom the biopsy is difficult to perform.
+For biopsies of the liver, bile leakages may occur, but these are quite rare.
+Pancreatitis (inflammation of the pancreas) may occur after biopsies in the area around the pancreas.
+In biopsies in the area of the breast, bleeding and bruising may occur, less frequently also infection (rarely) or (very rarely, and only if performed near the chest wall) pneumothorax.
+Deaths have been reported from needle aspiration biopsies, but such outcomes are extremely rare.
+
+Criticism
+A study published in 2004 showed that in one case, a needle biopsy of a liver tumor resulted in the spread of the cancer along the path of the needle and concluded that needle aspiration was dangerous and unnecessary. The conclusions drawn from this paper were subsequently strongly criticized.
+
+See also
+Antibody barcoding, a technique for identifying proteins in small tissue samples such as aspirates
+FNA Mapping, an application for the assessment of male-factor infertility.
+
+References
+External links
+Originally adapted from Preparing for a needle aspiration biopsy (634 KB). Public domain text of the National Institutes of Health Warren Magnuson Grant Clinical Center.
+Video showing ultrasound-guided fine needle biopsy
+Aspiration+Biopsy,+Fine-Needle at the U.S. National Library of Medicine Medical Subject Headings (MeSH)
+Hoffman, Matthew; MD. "Fine Needle Aspiration Procedure: What to Expect". WebMD. Retrieved 2023-01-25.Lung
+
+MedlinePlus Encyclopedia: 003860 "Lung needle biopsy"Neck
+
+ent/561 at eMedicine "Fine-Needle Aspiration of Neck Masses"
+MedlinePlus Encyclopedia: 003899 "Thyroid nodule fine needle aspirate"Bone
+
+MedlinePlus Encyclopedia: 003658 "Bone marrow aspiration"
+med/2971 at eMedicine "Bone Marrow Aspiration and Biopsy"Risk
+
+Risk of tumor cell seeding through biopsy and aspiration cytology 2014

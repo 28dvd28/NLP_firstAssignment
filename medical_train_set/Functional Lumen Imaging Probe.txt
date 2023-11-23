@@ -1,0 +1,20 @@
+Functional Lumen Imaging Probe (FLIP) is a test used to evaluate the function of the esophagus, by measuring the dimensions of the esophageal lumen using impedance planimetry. Typically performed with sedation during upper endoscopy, FLIP is used to evaluate for esophageal motility disorders, such as achalasia, diffuse esophageal spasm, etc.
+
+Procedure
+FLIP is most often performed immediately following upper endoscopy (EGD). EGD helps to rule out a mechanical obstruction as a cause for symptoms, and also provides an estimation on the distance from the incisors to the EGJ.FLIP uses impedance planimetry to measure the cross sectional area of the esophageal lumen. The FLIP device consists of a balloon that encases a catheter with multiple pairs of impedance electrodes. Two catheter configurations are available, which are 8 cm and 16 cm in length. The 8 cm catheter includes 16 sensors spaced 0.5 cm apart, and is used to evaluate esophagogastric junction (EGJ) distensibility and CSA. Alternatively, the 16 cm catheter has 16 sensors spaced 1 cm apart, and may be used to evaluate contractility via secondary peristalsis patterns, in addition to evaluating the esophagogastric junction (EGJ).Following upper endoscopy, the balloon is inserted into the esophagus and the balloon is distended with a fluid with known properties (e.g. conductivity and volume). Each electrode then measures impedance, and a single pressure sensor at the end of the device measures pressure within the balloon.
+
+Results
+The distensibility index (DI) is the most studied and most helpful result obtained with FLIP testing. The normal DI ranges from 3.1 to 9.0 mm2 per mmHg. As the balloon is distended, the results of secondary esophageal secondary contractions may be seen via FLIP panometry. Possible results may include: repetitive anterograde contractions (a normal finding), repetitive retrograde contractions (abnormal), absent contractility, and other abnormalities.
+
+Indications
+FLIP may be used for several indications to evaluate esophageal symptoms, such as dysphagia, chest pain, or regurgitation, or to assess response to treatment. FLIP is used to evaluate for esophageal motility disorders, such as achalasia, diffuse esophageal spasm, etc. FLIP may be used as a complementary or alternative to esophageal manometry for evaluating esophageal outflow obstructive disorders, including achalasia. FLIP may be used as a complementary test for barium esophagram for evaluating esophageal outflow obstructive disorders. FLIP may be used to assess the effect of treatment for achalasia.FLIP is recommended to further evaluate suspected esophagogastric junction outflow obstruction (EGJOO) where the manometry is normal or borderline. FLIP measurements may be used to guide intraoperative reflux surgery, or to assess the degree of fibrostenotic disease from eosinophilic esophagitis. FLIP may be used to guide endoscopic dilation of esophageal strictures.While recommendations exist for its use, the evidence supporting the use of FLIP is of very low quality and further research would be useful in more clearly defining its role.
+
+History
+Early development of impedance planimetry for evaluating the gastrointestinal tract began in the 1980s. FLIP was first developed with a short balloon catheter, which measures distension across the esophagogastric junction. A second generation device was later released, which measures secondary peristalsis proximal to the EGJ.
+
+See also
+Esophageal motility disorder
+Esophageal motility study
+
+
+== References ==

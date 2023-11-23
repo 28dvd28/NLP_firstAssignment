@@ -1,0 +1,36 @@
+Nomina Anatomica (NA) was the international standard on human anatomic terminology from 1895 until it was replaced by Terminologia Anatomica in 1998.
+In the late nineteenth century some 30,000 terms for various body parts were in use. The same structures were described by different names, depending (among other things) on the anatomist's school and national tradition. Vernacular translations of Latin and Greek, as well as various eponymous terms, were barriers to effective international communication. There was disagreement and confusion among anatomists regarding anatomical terminology.
+
+Editions
+The first and last entries in the following table are not NA editions, but they are included for the sake of continuity. Although these early editions were authorized by different bodies, they are sometimes considered part of the same series.Before these codes of terminology, approved at anatomists congresses, the usage of anatomical terms was based on authoritative works of scholars like Galen, Berengario da Carpi, Gaspard Bauhin, Henle, Hyrtl, etc.
+
+The IANC and the FCAT
+Twelfth congress
+Around the time of the Twelfth Congress (London, 1985), a dispute arose over the editorial independence of the IANC.  The IANC did not believe that their work should be subject to the approval of IFAA Member Associations.
+The types of discussion underlying this dispute are illustrated in an article by Roger Warwick, then Honorary Secretary of the IANC:
+An aura of scholasticism, erudition and, unfortunately, pedantry has therefore often impeded attempts to rationalize and simplify anatomical nomenclature, and such obstruction still persists.  The preservation of archaic terms such as Lien, Ventriculus, Epiplooon and Syndesmologia, in a world which uses and continues to use Splen, Gaster, Omentum and Arthrologia (and their numerous derivatives) provides an example of such pedantry.We have inherited a number of archaic and now somewhat irrational terms which are confusing to the non-Latinistic students and scientists of today ... Knowledge of Latin is extremely limited today, and thus any Latin nomenclature must be simplified to the utmost to achieve maximum clarity, usefulness, and hence acceptance.Unless anatomical nomenclature is subject to a most rigorous revision, in terms of simplification and rationalization, general use of such an internationally official nomenclature as Nomina Anatomica will decline rather than increase.What declined, however, was the influence of the IANC on anatomical terminology.  The IANC published a sixth edition of Nomina Anatomica, but it was never approved by the IFAA.
+
+Thirteenth congress
+Instead, at the Thirteenth Congress (Rio de Janeiro, 1989), the IFAA created a new committee – the Federative Committee on Anatomical Terminology (FCAT). The FCAT took over the task of revising international anatomical terminology.  The result was the publication, in 1998, of a "new, updated, simplified and uniform anatomical terminology", the Terminologia Anatomica (TA)
+.  The IANC was acknowledged in this work as follows:
+
+Since the first meeting, the FCAT made several contacts with the IANC aiming at the natural transition from the old approach to the approach established by the General Assembly of the IFAA.  Such initiatives, however, did not result in a modus vivendi for harmonious collaboration.
+
+Terminologia Anatomica (TA)
+The Terminologia Anatomica  is the joint creation of the FCAT (now FICAT—the Federative International Committee on Anatomical Terminology) and the Member Associations of the International Federation of Associations of Anatomists (IFAA). The first edition, published in 1998, supersedes all previous lists. It is the international standard for anatomical terminology.The 39th edition of Gray's Anatomy (2005) explicitly recognizes Terminologia Anatomica.
+
+Modern use
+NA and its derivatives are still used in some contexts (even the controversial sixth edition), and there remain some obstacles to universal adoption of TA:
+
+The TA is only available in Latin, English, and Spanish, while the NA is available in many additional languages, which has had an impact upon international adoption of TA.
+Terminologia Embryologica is under development, but is not yet available. By contrast, multiple editions of Nomina Embryologica were published.
+Nomina Histologica underwent several editions. Until recently, there was no Terminologia Histologica. However, an edition was published in 2008.
+There is no "Terminologia" equivalent to the Nomina Anatomica Veterinaria.
+
+See also
+Federative International Committee on Anatomical Terminology
+International Federation of Associations of Anatomists
+International Morphological Terminology
+
+
+== References ==

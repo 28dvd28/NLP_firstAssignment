@@ -1,0 +1,7 @@
+Cocker's Decimal Arithmetick is a grammar school mathematics textbook written by Edward Cocker (1631–1676) and published posthumously by John Hawkins in 1684. Decimal Arithmetick along with companion volume, Cocker's Arithmetick published in 1677, were used in schools in the United Kingdom for more than 150 years.
+The concept of decimal fractions and the advantages of using them in calculations were well known, but a wide variety of different notations were in use. After surveying various notations, Decimal Arithmetick recommends the decimal point notation introduced by John Napier:
+
+A decimal fraction being written ... by having a point or prick prefixed before it ... being written according to the first direction, I conceive they may be most fit for calculation.Decimal Arithmetick gives instructions for calculations involving decimals, methods of extracting roots, and an overview of the concept of logarithms. There are many worked examples, some of which involve solid geometry or the calculation of interest.
+
+
+== References ==

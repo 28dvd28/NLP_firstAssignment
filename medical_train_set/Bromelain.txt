@@ -1,0 +1,40 @@
+Bromelain is an enzyme extract derived from the stems of pineapples, although it exists in all parts of the fresh pineapple. The extract has a history of folk medicine use. As an ingredient, it is used in cosmetics, as a topical medication, and as a meat tenderizer.The term "bromelain" may refer to either of two protease enzymes extracted from the plants of the family Bromeliaceae, or it may refer to a combination of those enzymes along with other compounds produced in an extract. Bromelain enzymes are called fruit bromelain and stem bromelain.Although tested in a variety of folk medicine and research models for its possible efficacy against diseases, bromelain has only one approved clinical application issued in 2012 by the European Medicines Agency – a topical medication called NexoBrid, used to remove dead tissue in severe skin burns.
+
+Extract components
+Bromelain extract is a mixture of protein-digesting (proteolytic) enzymes and several other substances in smaller quantities. The proteolytic enzymes are sulfhydryl proteases; a free sulfhydryl group of a cysteine amino acid side chain is required for function. The two main enzymes are:
+
+Stem bromelain – EC 3.4.22.32
+Fruit bromelain – EC 3.4.22.33
+
+History
+The first isolation of bromelain was recorded by the Venezuelan chemist Vicente Marcano in 1891 by fermenting the fruit of pineapple. In 1892, Russell Henry Chittenden, assisted by Elliott P. Joslin and Frank Sherman Meara, investigated the matter more completely, and called it 'bromelin'. Later, the term 'bromelain' was introduced and originally  applied to any protease from any member of the plant family Bromeliaceae.
+
+Sources
+Bromelain is present in all parts of the pineapple plant (genus Ananas), but the stem is the most common commercial source, presumably because usable quantities are readily extractable after the fruit has been harvested.
+
+Production
+Produced mainly in parts of the world where pineapples are grown, such as Thailand or Malaysia, bromelain is extracted from the peel, stem, leaves or waste of the pineapple plant after processing the fruit for juice or other purposes. The starting material is blended and pressed through a filter to obtain a supernatant liquid containing the soluble bromelain enzyme. Further processing includes purification and concentration of the enzyme.
+
+Physical characteristics
+Bromelain is a white to tan powder, soluble in water, and is stable at temperatures of 50–60 °C (122–140 °F).
+
+Temperature stability
+After an hour at 50 °C (122 °F), 83% of the enzyme remains active, while at 40 °C (104 °F), practically 100% remains active. 8 minutes at 80 °C (176 °F) is sufficient to almost completely inactivate the enzyme. The proteolytic activity of concentrated bromelain solutions remains relatively stable for at least 1 week at room temperature, with minimal inactivation by multiple freeze-thaw cycles or exposure to the digestive enzyme trypsin.
+
+Uses
+Meat tenderizing and other uses
+Along with papain, bromelain is one of the most popular proteases to use for meat tenderizing. Bromelain is sold in a powdered form, which is combined with a marinade, or directly sprinkled on the uncooked meat.Cooked or canned pineapple does not have a tenderizing effect, as the enzymes are heat-labile and denatured in the cooking process. Some prepared meat products, such as meatballs and commercially available marinades, include pineapple and/or pineapple-derived ingredients.Although the quantity of bromelain in a typical serving of pineapple fruit is probably not significant, specific extraction can yield sufficient quantities for domestic and industrial processing, including uses in baking, anti-browning of cut fruit, textiles and cosmetics manufacturing.
+
+Potential medical uses
+Bromelain has not been scientifically proven to be effective in treating any diseases and has not been approved by the U.S. Food and Drug Administration for the treatment of any disorder. In the United States, the passage of the Dietary Supplement Health and Education Act (DSHEA, 1994) allows the sale of bromelain-containing dietary supplements, even though efficacy has not been confirmed. Ingestion of bromelain may cause an allergic reaction in some people who are sensitive to pineapples.While there have been studies into the medical use of bromelain, "the majority of [them] have methodological issues that make it difficult to draw definite conclusions", as none definitively established efficacy, recommended dosage, long term safety, or adverse interaction with other medications.A concentrate of proteolytic enzymes enriched in bromelain is approved in Europe for the debridement (removal of dead tissue) of severe burn wounds under the trade name NexoBrid. Systemic enzyme therapy (consisting of combinations of proteolytic enzymes such as bromelain, trypsin, chymotrypsin, and papain) has been investigated in Europe to evaluate the efficacy in breast, colorectal, and plasmacytoma cancer patients.  Bromelain may be effective as an adjunct therapy in relieving symptoms of acute rhinosinusitis in patients not treated with antibiotics.
+
+See also
+Phytochemicals
+Papain
+
+References
+External links
+The MEROPS online database for peptidases and their inhibitors:
+C01.005 Stem Bromelain
+C01.028 Fruit Bromelain
+Bromelains at the U.S. National Library of Medicine Medical Subject Headings (MeSH)

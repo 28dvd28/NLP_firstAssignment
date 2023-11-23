@@ -1,0 +1,35 @@
+Sankara Narayana (c. 840 – c. 900 AD) was an Indian astronomer-mathematician in the court of Ravi Kulasekhara (c. 844 – c. 883 AD) of the Chera Perumal kingdom of Kerala. He is best known as the author of Laghu Bhaskariya Vivarana or Vyakha (869/870 AD), a detailed commentary on treatise Laghu Bhaskariya by 7th century mathematician Bhaskara I (which in turn was based on the works of the 5th century polymath Aryabhata). Sankara Narayana is known to have established an astronomical observatory at the port of Kodungallur in central Kerala.Laghu Bhaskariya Vivarana (Chapter VII), produced in the court of king Ravi Kulasekhara at Kodungallur, explicitly states that it was composed in Saka Year 791 (=869/70 AD). It is also mentions that the year was the 25th regnal year of king Ravi Kulasekhara. In the second verse of the vivarana Narayana remembers five major precessors in the field of mathematics (Aryabhata, Varahamihira, Bhaskara I, Govinda and Haridatta), including his possible master Govinda (c. 800 – c. 860 AD).
+
+Observatory
+The vivarana mentions a royal observatory (under the charge of Sankara Narayana) at Mahodayapura (Kodungallur).
+There are references to an instrument called "Rashi Chakra" marked by a "Yanthra Valaya" in the vivarana. This instrument might be the same as the Gola Yanthra/Chakra Yanthra mentioned by famous polymath Aryabhata. The Chakra Yanthra was developed further and called Phalaka Yanthra by Bhaskara I."Oh [king] Ravi Varma Deva, now deign to tell us quickly, reading off from the armillary sphere installed [at the observatory] in Mahodayapura, duly fitted with all the relevant circles and with the sign (degree-minute) markings, the time of the rising point of the ecliptic (lagna) when the Sun is at 10° in the sign of Capricorn, and also when the Sun is at the end of the sign Libra, which I have noted."
+At the directions of Sankara Narayana, in every 'katikai' (= 34 minutes), bells were sounded at different important centres of Mahodayapura to announce correct time.
+
+Mathematical contributions
+Laghu Bhaskariya Vivarana covers the standard mathematical methods of Aryabhata I such as the solution of the indeterminate equation by = ax ± c (a, b, c integers) in integers which is then applied to astronomical problems. The Indian method involves using the Euclidean algorithm. It is called kuttakara ("pulveriser").
+The most unusual feature of the Laghubhāskarīyavivaraṇa is the use of katapayadi system of numeration as well as the place-value Sanskrit numerals which Laghubhāskarīyavivaraṇa frequently uses.
+
+Identification of king Ravi Kulasekhara with Sthanu
+The opening verse of Laghu Bhaskariya Vyakha gives an indirect invocation to the lord called "Sthanu" (carefully composed to be applicable to god Siva and the ruling king)."Sa Sthanurjayati trirupasahito lingepi lokarcitah".
+Sankara Narayana also mentions that the full name of his king as "Ravi Varma Kulasekhara".
+Laghu Bhaskariya Vivarana was composed in the 25th regnal year of king Kulasekhara.
+
+Date of Laghu Bhaskariya Vivarana
+"Angartvambara nanda devamanubhir yate dinanam gane"
+Anga = 6, Rtu = 6, Ambara = 0, Nanda = 9, Veda = 4, and Manu = 14
+Order - 6609414
+Reverse Order - 1449066
+Kali Date - 3967 years and 86 days = 25 Mithuna, Kollam Era 41 = 870 AD
+"Evam Sakabdah punariha candra randhramuni sankhyaya asambhiravagatah"
+Candra = 1, Randhra = 9, and Muni = 7
+Order - 197
+Reverse Order - 791 (Saka Year) = 870 AD"Angartvambara nanda devamanubhir yate dinanam ganeGraste tigma mayukhamalinitamobhute parahne diviPrsta praggrahanad dvitiyaghatika grasa pramanam raverBharta sri Kulasekharena vilasad velavrtaya bhuva". "Evam Sakabdah punariha candra randhramuni sankhyaya asambhiravagatah". "Capapravista guru sauri samatva kalamYamyottaram gamanamantaratah pramanamAcaksvya sarvamavagamya bhatoktamargadItyuktavan ravirasena nrpabhivandya"."Tada pancavimsati Varsanyatitani devasya".
+Meeting of Guru (=Jupiter) and Sauri (=Saturn) in Capa (Dhanu) = 25th regnal year of the king = 870 AD
+
+See also
+Indian mathematics
+History of mathematics
+List of astronomers and mathematicians of the Kerala school
+
+
+== References ==

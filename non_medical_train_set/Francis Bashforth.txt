@@ -1,0 +1,27 @@
+Francis Bashforth (8 January 1819 – 12 February 1912) was an English Anglican priest and mathematician, who is known for his use of applied mathematics on ballistics.
+
+Early life and education
+Bashforth was born on 8 January 1819 in Thurnscoe, Yorkshire, England. Bashforth was the eldest son of John Bashforth, a farmer. He was educated at Doncaster Grammar School. In 1839, he matriculated into St John's College, Cambridge as a sizar. Having studied the Mathematical Tripos at the University of Cambridge, he graduated with a Bachelor of Arts (BA) degree in 1843 and was the Second Wrangler. Bashforth later returned to his alma-mater to undertake a Bachelor of Divinity (BD) degree, which he completed in 1853.
+
+Career
+Bashforth was elected a Fellow of St John's College, Cambridge in 1843. Bashforth was ordained in the Church of England as a deacon in 1850 and as a priest in 1851. From 1857 until 1908, he was the Rector of Minting in Lincolnshire, the living of which belonged to his college.From 1864 to 1872, Bashforth was Professor of Applied Mathematics at the Royal Military Academy, Woolwich, teaching the British Army's artillery officers. Between 1864 and 1880, he undertook systematic ballistics experiments that studied the resistance of air. He invented a ballistic chronograph and received an award from the British government in the amount of £2000 (equivalent to £230,000 in 2021). He also studied liquid drops and surface tension. The Adams–Bashforth method (a numerical integration method) is named after John Couch Adams (who was the 1847 Senior Wrangler to Bashforth's Second Wrangler) and Bashforth. They used the method to study drop formation in 1883.
+
+Personal life
+On 14 September 1869, Bashforth married Elizabeth Jane, daughter of the Revd Samuel Rotton Piggott. Together, they had one son: Charles Pigott Bashforth (1872–1945) who was also an Anglican clergyman.Bashforth died on 12 February 1912 in Woodhall Spa, Lincolnshire, England, aged 93.
+
+Writings
+Bashforth, Francis (1866), Description of a Chronograph adapted for measuring the varying velocity of a body in motion through the air and for other purposes, London: Bell and Daldy
+Bashforth, Francis (1873), A mathematical treatise on the motion of Projectiles founded chiefly on the results of experiments made with the author's chronograph, London: Asher and Company
+Bashforth, Francis; Adams, John Couch (1883), An attempt to test the theories of capillary action by comparing the theoretical and measured forms of drops of fluid, with an explanation of the method of integration employed in constructing the tables which give the theoretical forms of such drops, University Press
+Bashforth, Francis (1890), Revised account of the experiments made with the Bashforth Chronograph, to find the resistance of the air to the motion of projectiles, with the application of the results to the calculation of trajectories according to J. Bernoulli's method, Cambridge University Press
+Bashforth, Francis (1895), Supplement to a revised account of the experiments made with the Bashforth ..., Cambridge: University Press
+Bashforth, Francis (1903), A Historical Sketch of the Experimental Determination of the Resistance of the Air to the Motion of Projectiles, Cambridge University Press
+Bashforth, Francis (1907), Ballistic experiments from 1864 to 1880, Cambridge University Press
+
+References
+Chisholm, Hugh, ed. (1922). "Bashforth, Francis" . Encyclopædia Britannica. Vol. 30 (12th ed.). London & New York: The Encyclopædia Britannica Company. p. 418.
+
+External links
+https://books.google.com/books?id=gO4pAAAAYAAJ&pg=PA42 states "Second Wrangler 1843", "Rector and Vicar of Minting".
+http://armiestrumenti.com/2010/11/03/introduzione-alla-balistica-esterna/ (Italian); has picture of Bashforth
+This article was translated from the corresponding article in the German Wikipedia.

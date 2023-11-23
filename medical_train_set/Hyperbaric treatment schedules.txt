@@ -1,0 +1,545 @@
+Hyperbaric treatment schedules or hyperbaric treatment tables, are planned sequences of events in chronological order for hyperbaric pressure exposures specifying the pressure profile over time and the breathing gas to be used during specified periods, for medical treatment. Hyperbaric therapy is based on exposure to pressures greater than normal atmospheric pressure, and in many cases the use of breathing gases with oxygen content greater than that of air.
+A large number of hyperbaric treatment schedules are intended primarily for treatment of underwater divers and hyperbaric workers who present symptoms of decompression illness during or after a dive or hyperbaric shift, but hyperbaric oxygen therapy may also be used for other conditions.
+Most hyperbaric treatment is done in hyperbaric chambers where environmental hazards can be controlled, but occasionally treatment is done in the field by in-water recompression when a suitable chamber cannot be reached in time. The risks of in-water recompression include maintaining gas supplies for multiple divers and people able to care for a sick patient in the water for an extended period of time.
+
+Background
+Recompression of diving casualties presenting symptoms of decompression sickness has been the treatment of choice since the late 1800s. This acceptance was primarily based on clinical experience.John Scott Haldane's decompression procedures and the associated tables developed in the early 1900s greatly reduced the incidence of decompression sickness, but did not eliminate it entirely. It was, and remains, necessary to treat incidences of decompression sickness.
+
+Hyperbaric chamber recompression
+During the building of the Brooklyn Bridge, workers with decompression sickness were recompressed in an iron chamber built for this purpose. They were recompressed to the same pressure they had been exposed to while working, and when the pain was relieved, decompressed slowly to atmospheric pressure.Although recompression and slow decompression were the accepted treatment, there was not yet a standard for either the recompression pressure or the rate of decompression. This changed when the first standard table for recompression treatment with air was published in the US Navy Diving Manual in 1924. These tables were not entirely successful - there was a 50% relapse rate, and the treatment, though fairly effective for mild cases, was less effective in serious cases.
+
+1945 series of human experiments.
+Field results showed that the 1944 oxygen treatment table was not yet satisfactory, so a series of tests were conducted by staff from the Navy Medical Research Institute and the Navy Experimental Diving Unit using human subjects to verify and modify the treatment tables.Tests were conducted using the 100-foot air-oxygen treatment table and the 100-foot air treatment table, which were found to be satisfactory. Other tables were extended until they produced satisfactory results. The resulting tables were used as the standard treatment for the next 20 years, and these tables and slight modifications were adopted by other navies and industry. Over time, evidence accumulated that the success of these table for severe decompression sickness was not very good.These low success rates led to the development of the oxygen treatment table by Goodman and Workman in 1965, variations of which are still in general use as the definitive treatment for most cases of decompression sickness.
+
+In water recompression
+Treatment of DCS utilizing the US Navy Treatment Table 6 with oxygen at 18 m is a standard of care. Significant delay to treatment, difficult transport, and facilities with limited experience may lead one to consider on site treatment. Surface oxygen for first aid has been proven to improve the efficacy of recompression and decreased the number of recompression treatments required when administered within four hours post dive. IWR to 9 m breathing oxygen is one option that has shown success over the years. IWR is not without risk and should be undertaken with certain precautions. IWR would only be suitable for an organised and disciplined group of divers with suitable equipment and practical training in the procedure.
+
+Applications
+Treatment of decompression sickness, arterial gas embolism, and other medical applications.
+
+Equipment
+Recompression chamber
+The type of chamber which can be used depends on the maximum pressure required for the schedule, and what gases are used for treatment. Most treatment protocols for diving injuries require an attendant in the chamber, and a medical lock to transfer medical supplies into the chamber while under pressure.
+
+Monoplace chambers
+Outside of the diving industry, most chambers are intended for a single occupant, and not all of them are fitted with built-in breathing systems (BIBS). This limits the schedules which can be safely used in them. Some schedules have been developed specifically for hyperbaric oxygen treatment in monoplace chambers, and some hyperbaric treatment schedules nominally intended for chambers with BIBS have been shown to be acceptable for use without air breaks if the preferred facilities are not available.
+
+Treatment gases
+Originally therapeutic recompression was done using air as the only breathing gas, and this is reflected in several of the tables detailed below. However, work by Yarbrough and Behnke showed that use of oxygen as a treatment gas is usually beneficial and this has become the standard of care for treatment of DCS. Pure oxygen can be used at pressures up to 60 fsw (18 msw) with acceptable risk of CNS oxygen toxicity, which generally has acceptable consequences in the chamber environment when an inside tender is at hand. At greater pressures, treatment gas mixtures using Nitrogen or Helium as a diluent to limit partial pressure of oxygen to 3 ata (3 bar) or less are preferred to air as they are more effective both at elimination of inert gases and oxygenating injured tissues in comparison with air. Nitrox and Heliox mixtures are recommended by the US Navy for 
+treatment gases at pressures exceeding 60 fsw (18 msw), and Heliox is preferred at pressures exceeding 165 fsw (50 msw) to reduce nitrogen narcosis. 
+High oxygen fraction gas mixtures may also be substituted for pure oxygen at pressures less than 60 fsw if the patient does not tolerate 100% oxygen.
+
+Built in breathing system
+Treatment gases are generally oxygen or oxygen rich mixtures which would constitute an unacceptable fire hazard if used as the chamber gas. Chamber oxygen concentration is limited due to fire hazard and the high risk of fatality or severe injury in the event of a chamber fire. US Navy specifications for oxygen content of chamber air allow a range from 19% to 25%. If the oxygen fraction rises above this limit the chamber must be ventilated with air to bring the concentration to an acceptable level. To minimize the requirement for venting, oxygen-rich treatment gases are usually provided to the patient by built in breathing system (BIBS) masks, which vent exhaled gas outside the chamber. BIBS masks are provided with straps to hold them in place over the mouth and nose, but are often held in place manually, so they will fall away if the user has an oxygen toxicity convulsion.
+BIBS masks provide gas on demand (inhalation), much like a diving regulator, and use a similar system to control outflow to the normobaric environment. They are connected to supply lines plumbed through the pressure hull of the chamber, valved on both sides, and supplied from banks of storage cylinders, usually kept near the chamber. The BIBS system is normally used with medical oxygen, but can be connected to other breathing gases as required. Chamber gas oxygen content is usually monitored by bleeding chamber gas past an electro-galvanic oxygen sensor cell.
+
+Units of measurement used in hyperbaric treatment
+The commonly used units of pressure for hyperbaric treatment are metres of sea water (msw) and feet of sea water (fsw) which indicate the pressure of treatment in terms of the height of water column that would be supported in a manometer. These units are also used for measuring the depth of a surface supplied diver using a pneumofathometer and directly relate the pressure to an equivalent depth. The pressure gauges used on diving chambers are often calibrated in both of these units. Elapsed time of treatment is usually recorded in minutes, or hours and minutes, and may be measured from the start of pressurisation, or from the time when treatment pressure is reached.
+
+Hyperbaric chamber treatment schedules
+The schedules listed here include both historical procedures and schedules currently in use. As a general rule, more recent tables from the same source have a greater success rate than the superseded schedules. Some of the older procedures are now considered to be dangerous.
+
+US Navy 1943 100-foot Air Treatment Table
+Use: Treatment of decompression sickness where relief is obtained at or less than 66 fsw.
+Obsolete
+Oxygen is not used
+Maximum pressure 100 fsw (30 msw)
+Run time 3 hours 37 minutes
+
+US Navy 1943 150-foot Air Treatment Table
+Use: Treatment of decompression sickness where relief is obtained at or less than 116 fsw.
+Obsolete
+Oxygen is not used
+Maximum pressure 150 fsw (46 msw)
+Run time 4 hours 55 minutes
+
+US Navy 1943 200-foot Air Treatment Table
+Use: Treatment of decompression sickness where relief is obtained at or less than 166 fsw.
+Obsolete
+Oxygen is not used
+Maximum pressure 200 fsw (61 msw)
+Run time 5 hours 58 minutes
+
+US Navy 1943 250-foot Air Treatment Table
+Use: Treatment of decompression sickness where relief is obtained at or less than 216 fsw.
+Obsolete
+Oxygen is not used
+Maximum pressure 250 fsw (76 msw)
+Run time 6 hours 46 minutes
+
+US Navy 1943 300-foot Air Treatment Table
+Use: Treatment of decompression sickness where relief is obtained at or less than 266 fsw.
+Obsolete
+Oxygen is not used
+Maximum pressure 300 fsw (91 msw)
+Run time 7 hours 29 minutes
+
+US Navy 1944 Long Air Recompression Treatment Table
+Use: Treatment of moderate to severe decompression sickness when oxygen is not available or the patient cannot tolerate the elevated oxygen partial pressure.
+Oxygen is not used
+Maximum pressure 165 fsw (50 msw)
+Run time 5 hours 39 minutes
+
+US Navy 1944 Long Air Recompression Treatment Table with Oxygen
+Use: Treatment of moderate to severe decompression sickness when oxygen is available.
+Oxygen is used
+Maximum pressure 165 fsw (50 msw)
+Run time 3 hours 0 minutes
+
+US Navy 1944 Short Air Recompression Treatment Table
+Use: Treatment of mild decompression sickness when oxygen is not available or the patient cannot tolerate the elevated oxygen partial pressure.
+Oxygen is not used
+Maximum pressure 100 fsw (30 msw)
+Run time 5 hours 5 minutes
+
+US Navy 1944 Short Oxygen Recompression Treatment Table
+Use: Treatment of mild decompression sickness.
+Oxygen is used
+Maximum pressure 100 fsw (30 msw)
+Run time 2 hours 17 minutes
+
+US Navy Recompression Treatment Table 1
+Use: Treatment of pain only decompression sickness.
+Pain is relieved at less than 66 fsw (20 msw)
+Oxygen is available
+Maximum pressure 100 fsw (100 msw)
+Run time 2 hours 21 minutes
+Omitted from the US Navy Diving Manual since Revision 6
+
+US Navy Air Treatment Table 1A
+Table 1A is included in the US Navy Diving Manual Revision 6 and is authorized for use as a last resort when oxygen is not available. This table has been revised by decreasing the ascent rate from 1 minute between stops to 1 fsw per minute since the original was published in 1958.Use: For treatment of pain only decompression sickness.
+Pain is relieved at less than 66 fsw. (20 msw)
+Air only, No oxygen.
+Maximum pressure 100 fsw (30 msw)
+Run time 7 hours 52 minutes
+
+US Navy Recompression Treatment Table 2
+Use: Treatment of pain-only decompression sickness.
+Pain is relieved at greater than 66 fsw (20 msw)
+Oxygen available
+Maximum pressure 165 fsw (50 msw)
+Run time 4 hours 1 minute
+
+US Navy Air Treatment Table 2a
+Table 2A is included in the US Navy Diving Manual Revision 6 and is authorized for use as a last resort when oxygen is not available. This table has been revised by decreasing the ascent rate from 1 minute between stops to 1 fsw per minute since the original was published in 1958.Use: Treatment of pain only decompression sickness when oxygen cannot be used.
+Pain is relieved at a depth greater than 66 fsw (20 msw).
+Oxygen not available
+Maximum pressure 165 fsw (50 msw)
+Run time 13 hours 33 minutes
+
+US Navy Air Treatment Table 3
+Table 3 is included in the US Navy Diving Manual Revision 6 and is authorized for use as a last resort when oxygen is not available. This table has been revised by decreasing the ascent rate from 1 minute between stops to 1 fsw per minute since the original was published in 1958.Use: Treatment of serious symptoms when oxygen cannot be used and symptoms are relieved within 30 minutes at 165 feet.
+Oxygen not available
+Maximum pressure 165 fsw (50 msw)
+Run time 21 hours 33 minutes
+
+US Navy Recompression Treatment Table 4
+This table is in the US Navy Diving Manual Revision 6 and is currently authorized for use.Use: Treatment of serious symptoms when oxygen can be used and symptoms are not relieved within 30 minutes at 165 fsw (50 msw).
+Oxygen enriched treatment gases and Oxygen may be used. Air may be used if nothing better is available. If oxygen breathing is interrupted no compensation to the times is required. Oxygen partial pressure may not exceed 3 ata (3 bar).
+Maximum depth 165 fsw (50 msw)
+Time at 165 fsw optional from 30 minutes to 2 hours including compression
+Total run time 39 hours 6 minutes to 40 hours 36 minutes
+
+US Navy Recompression Treatment Table 5
+Use: Treatment of pain-only decompression sickness when oxygen can be used and symptoms are relieved within 10 minutes at 60 ft.
+Treatment Table 5 is currently included in the US Navy Diving Manual and is approved for use.
+Oxygen treatment
+Maximum pressure 60 fsw (18 msw)
+Standard run time 2 hours 16 minutes
+The table may be extended by two oxygen-breathing periods at the 30 fsw (9 msw) stop
+
+US Navy Recompression Treatment Table 5a
+Use: Treatment of gas embolism when oxygen can be used and symptoms are relieved within 15 minutes at 165 fsw (50 msw).
+Treatment table 5a is not currently included in the US Navy Diving Manual (Revision 6).
+Oxygen treatment
+Maximum pressure 165 fsw (50 msw)
+Run time 2 hours 34 minutes
+
+US Navy Recompression Treatment Table 6
+Use: Treatment of pain-only decompression sickness when oxygen can be used and symptoms are not relieved within 10 minutes at 60 fsw (18 msw).
+Oxygen treatment
+Maximum pressure 60 fsw (18 msw)
+Run time 4 hours 45 minutes
+
+Catalina modification
+The Catalina treatment table is a modification of Treatment Table 6. Oxygen cycles are 20 minutes, and air breaks 5 minutes. The full Catalina Table allows for up to 5 extensions at 60 fsw.
+Shorter versions include: 
+
+3 oxygen cycles at 60 fsw followed by a minimum of 6 oxygen cycles at 30 fsw. (equivalent to USN Table 6)
+4 oxygen cycles at 60 fsw followed by a minimum of 9 oxygen cycles at 30 fsw.
+5 to 8 oxygen cycles at 60 fsw followed by a minimum of 12 oxygen cycles at 30 fsw.Tenders breathe oxygen for 60 minutes at 30 fsw. Further treatments may follow after at least 12 hours on air at the surface.
+
+US Navy Recompression Treatment Table 6a
+Use: Treatment of gas embolism when oxygen can be used and symptoms moderate to a major extent within 30 minutes at 165 ft.
+This treatment table is included in the US Navy Diving Manual Revision 6 and is currently authorized for use. It has been updated since original publication.
+Oxygen treatment
+Optional treatment with oxygen enriched gases (Heliox or Nitrox) not exceeding 3.0 ata (3 bar) partial pressure of oxygen if available
+Maximum pressure 165 fsw (50 msw)
+Nominal run time 5 hours 50 minutes from reaching full pressureAt 50msw (absolute pressure 6 bar) an oxygen fraction of 50% will produce a partial pressure of 3 bar, This could be a nitrox, heliox or trimix blend with 50% oxygen.
+
+US Navy Treatment Table 7
+Use: Treatment of non-responding severe gas embolism or life-threatening decompression sickness. It is used when loss of life may result from decompression from 60 fsw. It is not used to treat residual symptoms that do not improve at 60 fsw, or to treat residual pain.
+Treatment table 7 is included in the US Navy Diving Manual Revision 6 and is currently authorized for use.
+Oxygen is used if practicable
+Maximum pressure 60 fsw (18 msw)
+Minimum time at 60 fsw is 12 hours. Decompression following this length of exposure is generally considered decompression from saturation, so the decompression profile is not affected by longer exposure at 60 fsw. Use of this table may be preceded by initial treatment on table 6, 6A or 4. Table 7 treatment begins on arrival at 60 fsw.
+Duration of decompression is 36 hours
+Decompression comprises an approximated continuous ascent with stops every 2 fsw as shown in the graphic profile, with a stop at 4 fsw for 4 hours to avoid inadvertent loss of pressure due to seal failure at low pressure differences.
+
+US Navy Treatment Table 8
+Use: Mainly for treating deep uncontrolled ascents when more than 60 minutes of decompression have been omitted.
+Treatment table 8 is included in the US Navy Diving Manual Revision 6 and is currently authorized for use.
+Adapted from Royal Navy Treatment Table 65.
+Patient is recompressed to pressure of symptomatic relief but not to exceed 225 fsw and treatment initiated 
+Once begun, decompression is continuous, but may be interrupted at 60 fsw or shallower.
+Heliox mixtures may be used at pressures exceeding 165 fsw to reduce nitrogen narcosis. Heliox 64/36 is the preferred treatment gas.
+Heliox or Nitrox with partial pressure not exceeding 3 ata may be used as treatment gas at pressures less than 165 fsw
+100% oxygen may be used as treatment gas at pressures less than 60 fsw
+Decompression is done by 2 fsw pressure decrements unless the start depth is an odd number, in which case the first stop is at a 3 fsw reduction in pressure. Stop times vary according to the depth range of the stop. Shorter stops are done at greater pressures, and the stop time increases as the stops get shallower.
+Nominal total ascent time from 225 fsw is 56 hours 29 minutes.
+
+US Navy Treatment Table 9
+Use: Hyperbaric oxygen treatment as prescribed by Diving Medical Officer for:
+
+Residual symptoms after treatment for AGE/DCS
+Cases of carbon monoxide or cyanide poisoning
+Smoke inhalation
+Initial treatment of patients urgently needing definitive medical care for severe injuries.
+Maximum pressure 45 fsw (13.5 msw)
+Nominal elapsed time excluding pressurization 102 minutes
+Treatment depth may be reduced to 30 fsw (9 msw) if patient cannot tolerate oxygen at 45 fsw (13.5 msw).
+Table may be extended to a maximum of 4 hours oxygen breathing time.
+
+US Navy Treatment Table for decompression sickness occurring on saturation dives
+Use: For treatment of decompression sickness manifested as musculoskeletal pains only, during decompression from saturation.
+Maximum pressure specified is 1600 fsw
+Recompression in increments of 10 fsw at 5 fsw per minute until diver reports improvement. It is not usually necessary or desirable to recompress by more than 30 fsw.
+Treatment gas with oxygen partial pressure of up to 2.5 atm may be administered by BIBS mask for periods of 20 minutes, with breaks of 5 minutes on chamber gas during recompression and holding periods. Pure oxygen may be used at pressures less than 60 fsw.Use: For treatment of serious decompression sickness resulting from upward excursion.
+Recompression immediately at 30 fsw per minute to at least the depth from which the excursion started.
+If this does not provide complete relief compression should continue until relief is reported.
+Hold at relief depth for at least 2 hours for pain only symptoms and at least 12 hours for serious symptoms.Decompress after treatment according to normal saturation decompression schedule from the treatment depth.
+
+Tektite I and II Treatment and emergency decompression schedule for a 42 to 50-foot saturation dive
+Treatment of Tektite aquanauts after emergency surfacing.
+Saturation gas mixture Nitrox 9%
+Oxygen available
+Maximum pressure 60 fsw (18 msw)
+Run time 14 hours 40 minutes
+
+Tektite II Treatment and emergency decompression schedule for the 100-foot saturation dive
+Treatment of Tektite aquanauts after emergency surfacing.
+Oxygen available
+Maximum pressure up to 200 fsw
+Run time variable depending on circumstances
+
+Royal Navy 1943 Recompression Treatment Procedure
+Treatment of any decompression sickness symptoms.
+Oxygen not used
+Maximum pressure variable up to 225 fsw (68 msw)
+Run time 4 hours 57 minutes to 5 hours 57 minutes
+
+Royal Navy Table 51 - Air Recompression Therapy
+Use: Treatment of pain-only decompression sickness when oxygen is not available and pain is relieved within 10 minutes at or less than 20 msw (667 fsw)
+Oxygen not used
+Maximum pressure 30 msw (98 fsw)
+Run time 7 hours 5 minutes
+
+Royal Navy Table 52 - Air Recompression Therapy
+Use: Treatment of pain-only decompression sickness when oxygen is not available and pain is not relieved within 10 minutes at or less than 20 msw (66 fsw) but does have relief within 10 minutes at 50 msw (165 fsw).
+Oxygen not used
+Maximum pressure 50 msw (164 fsw)
+Run time 9 hours 58 minutes
+
+Royal Navy Table 53 - Air Recompression Therapy
+Use: Treatment of joint pain plus a more serious symptom of decompression sickness when oxygen is not available and symptoms are relieved within 30 minutes at or less than 50 msw (164 fsw)
+Oxygen not used
+Maximum pressure 50msw (164 fsw)
+Run time 19 hours 48 minutes
+
+Royal Navy Table 54 - Air Recompression Therapy
+Use: Treatment of joint pain plus a more serious symptom of decompression sickness when oxygen is available and symptoms are not relieved within 30 minutes at or less than 50 metres (164 ft)
+Oxygen available
+Maximum pressure 50 msw (164 fsw)
+Run time 39 hours 0 minutes
+
+Royal Navy Table 55 - Air Recompression Therapy
+Use: Treatment of joint pain plus a more serious symptom of decompression sickness when oxygen is not available and symptoms are not relieved within 30 minutes at or less than 50msw (164 fsw)
+Oxygen not available
+Maximum pressure 50 msw (164 fsw)
+Run time 43 hours 0 minutes
+
+Royal Navy Table 61 - Oxygen Recompression Therapy
+Use: Treatment of pain only decompression sickness when oxygen is available and pain is relieved within 10 minutes or at less than 18 msw (59 fsw), or for serious symptoms where a specialist medical officer is present.
+Oxygen treatment
+Maximum pressure 18 msw (59 fsw)
+Run time 2 hours 17 minutes
+
+Royal Navy Table 62 - Oxygen Recompression Therapy
+Use: Treatment of pain only decompression sickness when oxygen is available and pain is not relieved within 10 minutes at 18 msw (59 fsw), or for serious symptoms where a specialist medical officer is present.
+Oxygen treatment
+Maximum pressure 18 msw (59 fsw)
+Run time 4 hours 47 minutes
+
+Royal Navy Table 71 - Modified Air Recompression Table
+Use: Treatment of any decompression symptom if a specialist medical officer is present.
+Oxygen not available
+Maximum pressure 70 msw (230 fsw)
+Run time 47 hours 44 minutes
+
+Royal Navy Table 72 - Modified Air Recompression Therapy
+Use: Treatment of any decompression symptom if a specialist medical officer is present. Applicable for multiple recompression of submarine survivors.
+Oxygen not available
+Maximum pressure 50 msw (164 fsw)
+Run time 46 hours 45 minutes
+
+RNPL Therapeutic Decompression from a Helium-Oxygen Recompression
+Use: Treatment of decompression sickness occurring during decompression from a Heliox dive.
+Oxygen not used
+Maximum pressure variable. May be greater than 137 msw (450 fsw)
+Run time depends on treatment depth
+
+French Navy Recompression Treatment Table 1 (GERS 1962)
+Use: Treatment of mild decompression sickness.
+Oxygen is available
+Maximum pressure 30 msw (98 fsw)
+Run time 4 hours 12 minutes
+
+French Navy Recompression Treatment Table 2 (GERS 1962)
+Use: Treatment of mild to moderate decompression sickness.
+Oxygen is available
+Maximum pressure 50 msw (164 fsw)
+Run time 6 hours 44 minutes
+
+French Navy Recompression Treatment Table 3 (GERS 1962)
+Use: Treatment of moderate to severe decompression sickness.
+Oxygen is available
+Maximum pressure 50 msw (164 fsw)
+Run time 12 hours 44 minutes
+
+French Navy Recompression Treatment Table 4 (GERS 1962)
+Use: Treatment of severe decompression sickness.
+Oxygen is available
+Maximum pressure 50 msw (164 fsw)
+Run time 36 hours 14 minutes or 37 hours 44 minutes
+
+French Navy Recompression Treatment Table 4A (GERS 1962)
+Use: Treatment of severe decompression sickness.
+Oxygen is not available
+Maximum pressure 50 msw (164 fsw)
+Run time 38 hours 14 minutes or 39 hours 39 minutes
+
+French Navy Air Recompression Treatment Table (GERS 1964)
+Use: Treatment of decompression sickness.
+Oxygen is not available or the patient cannot tolerate high partial pressures of oxygen
+Maximum pressure 50 msw (164 fsw)
+Run time 73 hours 10 minutes
+
+French Navy Air Recompression Treatment Table (GERS 1964)
+Use: Treatment of decompression sickness.
+Oxygen is not available or the patient cannot tolerate high partial pressures of oxygen
+Maximum pressure 50 msw (164 fsw)
+Run time 76 hours 40 minutes
+
+French Navy High-Oxygen Recompression Treatment Table (GERS 1964)
+Use: Treatment of moderately severe decompression sickness.
+Oxygen is available
+Maximum pressure 30 msw (98 fsw)
+Run time between 20 hours 33 minutes and 36 hours 3 minutes
+
+French Navy Recompression Treatment Table A (GERS 1968)
+Use: Treatment of mild decompression sickness after dives to less than 40 m depth.
+Oxygen is available
+Maximum pressure 30 msw (98 fsw)
+Run time 5 hours 33 minutes
+
+French Navy Recompression Treatment Table B (GERS 1968)
+Use: Treatment of mild decompression sickness after dives to more than 40 m depth.
+Oxygen is available
+Maximum pressure 30 msw (98 fsw)
+Run time 8 hours 3 minutes
+
+French Navy Recompression Treatment Table C (GERS 1968)
+Use: Treatment of moderately severe decompression sickness after dives to more than 40m depth or severe decompression sickness after dives shallower than 40m.
+Oxygen is available
+Maximum pressure 30 msw (98 fsw)
+Run time 14 hours 29 minutes to 36 hours 57 minutes
+
+French Navy Recompression Treatment Table D (GERS 1968)
+Use: Treatment of moderately severe and severe decompression sickness.
+Oxygen is not available or cannot be tolerated by the patient
+Maximum pressure 50 msw (164 fsw)
+Run time 69 hours 45 minutes or 77 hours 45 minutes
+
+French Navy Recompression Treatment Table 1A (GERS 1968)
+Use: Treatment of mild decompression sickness after dives to less than 40 m.
+Oxygen is not available or cannot be tolerated by the patient
+Maximum pressure 30 msw (98 fsw)
+Run time 7 hours 18 minutes
+
+French Navy Recompression Treatment Table 2A (GERS 1968)
+Use: Treatment of mild decompression sickness after dives to more than 40 m.
+Oxygen is not available or cannot be tolerated by the patient
+Maximum pressure 50 msw (164 fsw)
+Run time 12 hours 45 minutes
+
+French Navy Recompression Treatment Table 3A (GERS 1968)
+Use: Treatment of moderate or severe decompression sickness.
+Oxygen is not available or cannot be tolerated by the patient
+Maximum pressure 50 msw (164 fsw)
+Run time 20 hours 45 minutes
+
+Comex Therapeutic Table CX 12
+Use: Treatment of musculoskeletal decompression sickness following normal decompression if symptoms are relieved within 4 minutes or at less than 8 msw.
+Oxygen is available
+Maximum pressure 12 msw (40 fsw)
+Run time 2 hours 10 minutes
+
+Comex Therapeutic Table 18C
+Use: Treatment of musculoskeletal decompression sickness following normal or shortened decompression if symptoms are not relieved within 4 minutes at 8 msw, but are relieved within 15 minutes at or less than 18 msw.
+Oxygen is available
+Maximum pressure 18 msw (60 fsw)
+Run time 2 hours 54 minutes
+
+Comex Therapeutic Table 18L
+Use: Treatment of musculoskeletal decompression sickness following normal or shortened decompression if symptoms are not relieved within 15 minutes at 18 msw.
+Oxygen is available
+Maximum pressure 18 msw (60 fsw)
+Run time 4 hours 59 minutes
+
+Comex Therapeutic Table CX 30
+Use: Treatment of vestibular and general neurological decompression sickness following normal or shortened decompression.
+Oxygen and Heliox 50 or Nitrox 50 is available
+Maximum pressure 30 msw (100 fsw)
+Run time 7 hours 2 minutes
+
+Comex Therapeutic Table CX 30A
+Use: Treatment of musculoskeletal decompression sickness when signs of oxygen toxicity are present.
+Oxygen is available
+Maximum pressure 30 msw
+Run time 8 hours 44 minutes
+
+Comex Therapeutic Table CX 30AL
+Use: Treatment of vestibular and general neurological decompression sickness when signs of oxygen toxicity are present.
+Oxygen is available
+Maximum pressure 30 sw
+Run time 11 hours 8 minutes
+
+Russian Therapeutic Recompression Regimen I
+Use: Treatment of light forms of decompression sickness when the symptoms are completely resolved when reaching a pressure of 29 msw (96 fsw).
+Oxygen is not used
+Maximum pressure 49 msw (160 fsw)
+Run time 13 hours 9 minutes
+
+Russian Therapeutic Recompression Regimen II
+Use: Treatment of light forms of decompression sickness when the symptoms are completely resolved when reaching a pressure of 49 msw (160 fsw), or if there is a relapse after use of Regimen I.
+Oxygen is not used
+Maximum pressure 49 msw (160 fsw)
+Run time 26 hours 11 minutes
+
+Russian Therapeutic Recompression Regimen III
+Use: Treatment of moderately severe decompression sickness, or if there is a relapse after use of Regimen II.
+Oxygen is not used
+Maximum pressure 68 msw (224 fsw)
+Run time 31 hours 26 minutes
+
+Russian Therapeutic Recompression Regimen IV
+Use: Treatment of severe decompression sickness, or if there is a relapse after use of Regimen III.
+Oxygen is not used
+Maximum pressure 97 msw (320 fsw)
+Run time 39 hours 2 minutes
+
+Russian Therapeutic Recompression Regimen V
+Use: Treatment of very severe decompression sickness, or if there is a relapse after use of Regimen IV.
+Oxygen is not used. Helium may optionally be used for compression below 224 fsw in addition to the air used for initial compression.
+Maximum pressure 97 msw (320 fsw)
+Run time 87 hours 7 minutes (3 days 15 hours 7 minutes)
+
+German Short Air Recompression Treatment Table used during the Rendsburg pedestrian tunnel project
+Use: Treatment of mild decompression sickness where relief occurs within 30 minutes at 30 msw (98 fsw)
+Oxygen not used
+Maximum pressure 30 msw (98 fsw)
+Run time 2 hours 18 minutes
+
+German Recompression Treatment Table used during the Rendsburg pedestrian tunnel project
+Use: Treatment of mild decompression sickness where relief does not occur within 30 minutes at 30 msw (98 fsw)
+Oxygen is used
+Maximum pressure 30 msw (98 fsw)
+Run time 5 hours 24 minutes
+
+German Recompression Treatment Table used during the Rendsburg pedestrian tunnel project
+Use: Treatment of severe decompression sickness where relief does not occur within 30 minutes at 30 msw (98 fsw)
+Oxygen is used
+Maximum pressure 30 msw (98 fsw)
+Run time 36 hours 55 minutes or 38 hours 25 minutes
+
+Oxygen tables designed for monoplace chambers
+(specifically for chambers without facility for air breaks)
+
+Hart monoplace table
+100% oxygen for 30 minutes at 3.0 ATA followed by 60 minutes at 2.5 ATA.
+
+Kindwall's monoplace table
+Indication:
+
+Pain only or skin bends for symptoms that resolve within 10 minutes of reaching treatment depth:30 minutes at 2.8 bar (60 fsw)
+Continuous decompression to 1.9 bar over 15 minutes
+60 minutes at 1.9 bar (30 fsw)
+Continuous decompression to surface over 15 minutes
+Neurological decompression sickness, arterial gas embolism or unresolved symptoms after 10 minutes at treatment pressure:30 minutes at 2.8 bar (60 fsw)
+Continuous decompression to 1.9 bar over 30 minutes
+60 minutes at 1.9 bar (30 fsw)
+Continuous decompression to surface over 30 minutes
+Repeat after 30 minutes on air at surface pressure if symptoms have not resolved.
+
+In-water recompression schedules
+In-water recompression (IWR) or underwater oxygen treatment is the emergency treatment of decompression sickness (DCS) by sending the diver back underwater to allow the gas bubbles in the tissues, which are causing the symptoms, to resolve. It is a risky procedure that should only ever be used when the time to travel to the nearest recompression chamber is too long to save the victim's life.Carrying out in-water recompression when there is a nearby recompression chamber or without special equipment and training is never a favoured option. The risk of the procedure comes from the fact that a diver with DCS is seriously ill and may become paralysed, unconscious or stop breathing whilst under water. Any one of these events is likely to result in the diver drowning or further injury to the diver during a subsequent rescue to the surface.
+Six IWR treatment tables have been published in the scientific literature. Each of these methods have several commonalities including the use of a full face mask, a tender to supervise the diver during treatment, a weighted recompression line and a means of communication. The history of the three older methods for providing oxygen at 9 m (30 fsw) was described in great detail by Drs. Richard Pyle and Youngblood. The fourth method for providing oxygen at 7.5 m (25 fsw) was described by Pyle at the 48th Annual UHMS Workshop on In-water Recompression in 1999. The Clipperton method involves recompression to 9 m (30 fsw) while the Clipperton(a) rebreather method involves a recompression to 30 m (98 fsw).Recommended equipment common to these tables includes:
+a means of securely holding the casualty at a measured depth, such as a harness and 20 metre lazy shot line with a 20 kg lead weight at the bottom and a buoy at the top of at least 40 litres buoyancy
+a means of allowing the casualty to ascend slowly, such as loops in the line to which the harness could be clipped
+full face diving masks for the casualty and for an in-water attendant diver with two-way communication to the surface and an umbilical gas supply system
+surface supplied breathing gases including pure oxygen and air delivered to the casualty by umbilical
+
+Australian In-water Recompression Table
+The Australian IWR Tables were developed by the Royal Australian Navy in the 1960s in response to their need for treatment in remote locations far away from recompression chambers. It was the shallow portion of the table developed for recompression chamber use.Oxygen is breathed the entire portion of the treatment without any air breaks and is followed by alternating periods (12 hours) of oxygen and air breathing on the surface.
+
+Clipperton In-water Recompression Tables
+The Clipperton and Clipperton(a) methods were developed for use on a scientific mission to the atoll of Clipperton, 1,300 km from the Mexican coast. The two versions are based on the equipment available for treatment with the Clipperton(a) table being designed for use with rebreathers.
+Both methods begin with 10 minutes of surface oxygen. For the Clipperton IWR table, oxygen is then breathed the entire portion of the treatment without any air breaks. For the Clipperton(a) IWR table, descent is made to the initial treatment depth maintaining a partial pressure of 1.4 ATA. Oxygen breathing on the surface for 6 hours post treatment and intravenous fluids are also administered following both treatment tables.
+
+Hawaiian In-water Recompression Table
+The Hawaiian IWR table was first described by Farm et al. while studying the diving habits of Hawaii's diving fishermen.The initial portion of the treatment involves descent on air to the depth of relief plus 30 fsw or a maximum of 165 fsw for ten minutes. Ascent from initial treatment depth to 30 fsw occurs over 10 minutes. The diver then completes the treatment breathing oxygen and is followed by oxygen breathing on the surface for 30 minutes post treatment.
+The Hawaiian IWR Table with Pyle modifications can be found in the proceedings of the DAN 2008 Technical Diving Conference (In Press) or through download from DAN here.
+
+Pyle In-water Recompression Table
+The Pyle IWR table was developed by Dr. Richard Pyle as a method for treating DCS in the field following scientific dives.This method begins with a 10-minute surface oxygen evaluation period. Compression to 25 fsw on oxygen for another 10-minute evaluation period. The table is best described by the treatment algorithm (Pyle IWR algorithm[Usurped!]). This table does include alternating air breathing periods or "air breaks".
+
+US Navy In-water Recompression Tables
+The US Navy developed two IWR treatment tables. The table used depends on the symptoms diagnosed by the medical officer.: 20‑4.4.2.2 Oxygen is breathed the entire duration of the treatment without any air breaks and is followed by 3 hours of oxygen breathing on the surface.
+Diver descends to 30 feet accompanied by a standby diver, and remains there for 60 minutes for Type I symptoms and 90 minutes for Type II symptoms, after this ascends to 20 feet even if symptoms have not resolved, and decompresses for 60 minutes at 20 feet and 60 minutes at 10 feet. Oxygen is breathed for another 3 hours after surfacing.: 20‑4.4.2.2
+
+Royal Navy Table 81 - Emergency therapy in the water
+Use: Emergency in-water recompression when no chamber is available.
+Oxygen is not used
+Maximum depth 30 m (98 ft) for 5 minutes
+Continuous ascent to 20 m at 4.5 minutes per metre
+Continuous ascent to 10 m at 8 minutes per metre
+Continuous ascent to surface at 15 metres per minute
+Run time 4 hours 41 minutes
+
+"Informal" in-water recompression
+Although in-water recompression is regarded as risky, and to be avoided, there is increasing evidence that technical divers who surface and demonstrate mild DCS symptoms may often get back into the water and breathe pure oxygen at a depth 20 feet (6.1 meters) for a period of time to seek to alleviate the symptoms. This trend is noted in paragraph 3.6.5 of DAN's 2008 accident report.  The report also notes that whilst the reported incidents showed very little success, "[w]e must recognize that these calls were mostly because the attempted IWR failed. In case the IWR were successful, [the] diver would not have called to report the event. Thus we do not know how often IWR may have been used successfully."
+
+Other tables to be fitted in later
+Lambertsen/Solus Ocean Systems Table 7A
+Used in commercial diving for:
+symptoms that develop at pressure.
+recompression deeper than 165 fsw (50 msw)' or
+Where extended decompression is necessary.Depth limit 200 fsw for air.
+
+IANTD in-water recompression schedules
+Used for emergency recompression of technical divers in remote areas.
+
+References
+Further reading
+Walker, Morton (1 January 1998). Hyperbaric Oxygen Therapy. Penguin. ISBN 9780895297594.
+Antonelli, C; Franchi, F; Della Marta, M.E.; Carinci, A.; Sbrana, G.; Tanasi, P.; de Fina, L.; Brauzzi, M. (2009). "Guiding principles in choosing a therapeutic table for DCI hyperbaric therapy" (PDF). Minerva Anestesiologica. Minerva Medica. 75 (3): 151–161. PMID 19221544. Retrieved 26 February 2016.

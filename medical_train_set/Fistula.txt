@@ -1,0 +1,122 @@
+In anatomy, a fistula (pl.: fistulas or fistulae ; from Latin fistula, "tube, pipe") is an abnormal connection (i.e. tube) joining two hollow spaces (technically, two epithelialized surfaces), such as blood vessels, intestines, or other hollow organs to each other, often resulting in an abnormal flow of fluid from one space to the other.  An anal fistula connects the anal canal to the perianal skin. An anovaginal or rectovaginal fistula is a hole joining the anus or rectum to the vagina. A colovaginal fistula joins the  space in the colon to that in the vagina. A urinary tract fistula is an abnormal opening in the urinary tract or an abnormal connection between the urinary tract and another organ. An abnormal communication (i.e. hole or tube) between the bladder and the uterus is called a vesicouterine fistula, while if it is between the bladder and the vagina it is known as a vesicovaginal fistula, and if between the urethra and the vagina: a urethrovaginal fistula. When occurring between two parts of the intestine, it is known as an enteroenteral fistula, between the small intestine and the skin as an enterocutaneous fistula, and between the colon and the skin as a colocutaneous fistula.A fistula can result from an infection, inflammation, injury or surgery. Sometimes a fistula is  deliberately surgically created as part of a treatment, for example in the case of an arteriovenous fistula for hemodialysis.The treatment for a fistula varies depending on the cause and extent of the fistula, but often involves surgical intervention combined with antibiotic therapy. In some cases the fistula is temporarily covered using a fibrin glue or plug. A catheter may be required to drain a fistula.Globally, every year between 50,000 and 100,000 women are affected by one or more fistulas relating to childbirth. In botany, the term is most common in its adjectival forms, where it is used in binomial names to refer to a species that is distinguished by one or more hollow or tubular structures. Monarda fistulosa, for example, has tubular flowers. The term was first used in the 14th century.
+
+Definition
+A fistula is an abnormal connection between vessels or organs that do not usually connect. It can be due to a disease or trauma, or purposely surgically created.
+
+Classification
+Various types of fistulas include:
+
+Blind: Only one open end; may also be called sinus tracts.
+Complete: Both internal and external openings.
+Incomplete: An external skin opening that does not connect to any internal organ.Although most fistulas are in forms of a tube, some can also have multiple branches.
+
+Location
+Types of fistula can be described by their location. Anal fistulas connect between the epithelialized surface of the anal canal and the perianal skin. Anovaginal or rectovaginal fistulas occur when a hole develops between the anus or rectum and the vagina. Colovaginal fistulas occur between the colon and the vagina. Urinary tract fistulas are abnormal openings within the urinary tract or an abnormal connection between the urinary tract and another organ such as between the bladder and the uterus in a vesicouterine fistula, between the bladder and the vagina in a vesicovaginal fistula, and between the urethra and the vagina in urethrovaginal fistula. When occurring between two parts of the intestine, it is known as an enteroenteral fistula, between the small intestine and the skin as an enterocutaneous fistula, and between the small intestine and the colon as a colocutaneous fistula.The following list is sorted by the International Statistical Classification of Diseases and Related Health Problems.
+
+H: Diseases of the eye, adnexa, ear, and mastoid process
+(H04.6) Lacrimal fistula
+(H05.81) Carotid cavernous fistula
+(H70.1) Mastoid fistula
+Craniosinus fistula: between the intracranial space and a paranasal sinus
+(H83.1) Labyrinthine fistula
+Perilymph fistula: tear between the membranes between the middle and inner ears
+Preauricular fistula
+Preauricular fistula: usually on the top of the cristae helicis of the ears
+
+I: Diseases of the circulatory system
+(I25.4) Coronary arteriovenous fistula, acquired
+(I28.0) Arteriovenous fistula of pulmonary vessels
+Pulmonary arteriovenous fistula: between an artery and vein of the lungs, resulting in shunting of blood. This results in improperly oxygenated blood.
+(I67.1) Cerebral arteriovenous fistula, acquired
+(I77.0) Arteriovenous fistula, acquired
+(I77.2) Fistula of artery
+
+J: Diseases of the respiratory system
+(J86.0) Pyothorax with fistula
+(J95.0) Tracheoesophageal fistula, between the trachea and the esophagus.  This may be congenital or acquired, for example as a complication of a tracheostomy.
+
+K: Diseases of the digestive system
+(K11.4) Salivary gland fistula
+(K31.6) Fistula of stomach and duodenum
+(K31.6) Gastrocolic fistula
+(K31.6) Gastrojejunocolic fistula – after a Billroth II a fistula forms between the transverse colon and the upper jejunum (which, post Billroth II, is attached to the remainder of the stomach).  Fecal matter passes improperly from the colon to the stomach and causes halitosis.
+Enterocutaneous fistula: between the intestine and the skin surface, namely from the duodenum or the jejunum or the ileum. This definition excludes the fistulas arising from the colon or the appendix.
+Gastric fistula: from the stomach to the skin surface
+(K38.3) Fistula of appendix
+(K60) Anal and rectal fissures and fistulas
+(K60.3) Anal fistula
+(K60.5) Anorectal fistula (fecal fistula, fistula-in-ano): connecting the rectum or other anorectal area to the skin surface. This results in abnormal discharge of feces through an opening other than the anus.
+(K63.2) Fistula of intestine
+Enteroenteral fistula: between two parts of the intestine
+(K82.3) Fistula of gallbladder
+(K83.3) Fistula of bile duct
+Biliary fistula: connecting the bile ducts to the skin surface, often caused by gallbladder surgery
+Pancreatic fistula: between the pancreas and the exterior via the abdominal wall
+
+M: Diseases of the musculoskeletal system and connective tissue
+(M25.1) Fistula of joint
+
+N: Diseases of the urogenital system
+(N32.1) Vesicointestinal fistula
+(N36.0) Urethral fistula
+Innora:between the prostatic utricle and the outside of the body
+(N64.0) Fistula of nipple
+(N82) Fistulae involving female genital tract / Obstetric fistula
+(N82.0) Vesicovaginal fistula: between the bladder and the vagina
+(N82.1) Other female urinary-genital tract fistulae
+Cervical fistula: abnormal opening in the cervix
+(N82.2) Fistula of vagina to small intestine
+Enterovaginal fistula: between the intestine and the vagina
+(N82.3) Fistula of vagina to large intestine
+Rectovaginal: between the rectum and the vagina
+(N82.4) Other female intestinal-genital tract fistulae
+(N82.5) Female genital tract-skin fistulae
+(N82.8) Other female genital tract fistulae
+(N82.9) Female genital tract fistula, unspecified
+
+Q: Congenital malformations, deformations and chromosomal abnormalities
+(Q18.0) Sinus, fistula and cyst of branchial cleft
+Congenital preauricular fistula: A small pit in front of the ear. Also known as an ear pit or preauricular sinus.
+(Q26.6) Portal vein-hepatic artery fistula
+(Q38.0) Congenital fistula of lip
+(Q38.4) Congenital fistula of salivary gland
+(Q42.0) Congenital absence, atresia and stenosis of rectum with fistula
+(Q42.2) Congenital absence, atresia and stenosis of anus with fistula
+(Q43.6) Congenital fistula of rectum and anus
+(Q51.7) Congenital fistulae between uterus and digestive and urinary tracts
+(Q52.2) Congenital rectovaginal fistula
+
+T: External causes
+(T14.5) Traumatic arteriovenous fistula
+(T81.8) Persistent postoperative fistula
+
+Causes
+Disease: Infections including an anorectal abscess and inflammatory diseases including Crohn's disease and ulcerative colitis can result in fistulas. Fistulas to the anus may occur in hidradenitis suppurativa. In women, fistulas can also occur following pelvic infection and inflammation.Surgical and medical treatment: Complications from gallbladder surgery can lead to biliary fistulas. As well as being congenital or resulting from trauma, arteriovenous fistulas are created purposefully for hemodialysis. Radiation therapy to the pelvis can lead to vesicovaginal fistulas. Persistent gastrocutaneous fistulas can develop after gastrostomy.
+Trauma: Prolonged childbirth can lead to fistulas in women, in whom abnormal connections may occur between the bladder and vagina, or the rectum and vagina. An obstetric fistula develops when blood supply to the tissues of the vagina and the bladder (and/or rectum) is cut off during prolonged obstructed labor. The tissues die and a hole forms through which urine and/or feces pass uncontrollably. Vesicovaginal and rectovaginal fistulas may also be caused by rape, in particular gang rape, and rape with foreign objects, as evidenced by the abnormally high number of women in conflict areas who have developed fistulae. In 2003, thousands of women in eastern Congo presented themselves for treatment of traumatic fistulas caused by systematic, violent gang rape, often also with sharp objects that occurred during the country's five years of war. So many cases have been reported that the destruction of the vagina is considered a war injury and recorded by doctors as a crime of combat. Head trauma can lead to perilymph fistulas, whereas trauma to other parts of the body can cause arteriovenous fistulas.
+
+Treatment
+Treatment for fistula varies depending on the cause and extent of the fistula, but often involves surgical intervention combined with antibiotic therapy. In some cases the fistula is temporarily covered, using a fibrin glue or plug. Catheters may be required to drain a fistula.Surgery is often required to assure adequate drainage of the fistula (so that pus may escape without forming an abscess). Various surgical procedures are used, most commonly fistulotomy, placement of a seton (a cord that is passed through the path of the fistula to keep it open for draining), or an endorectal flap procedure (where healthy tissue is pulled over the internal side of the fistula to keep feces or other material from reinfecting the channel).Management involves treating any underlying causative condition. For example, surgical treatment of fistulae in Crohn's disease can be effective, but if the Crohn's disease itself is not treated, the rate of recurrence of the fistula is very high (well above 50%).
+
+Therapeutic use
+In people with kidney failure, requiring dialysis, a cimino fistula is often deliberately created in the arm by means of a short day surgery in order to permit easier withdrawal of blood for hemodialysis.As a radical treatment for portal hypertension, surgical creation of a portacaval fistula produces an anastomosis between the hepatic portal vein and the inferior vena cava across the omental foramen (of Winslow). This spares the portal venous system from high pressure which can cause esophageal varices, caput medusae, and hemorrhoids.
+
+Epidemiology
+Globally, every year between 50,000 and 100,000 women are affected by fistula relating to childbirth.
+
+Botany
+In botany, the term is most common in its adjectival forms, where it is used in binomial names to refer to species that are distinguished by hollow or tubular structures. Monarda fistulosa, for example, has tubular flowers; Eutrochium fistulosum has a tubular stem; Allium fistulosum has hollow or tubular leaves, and Acacia seyal subsp. fistula is the subspecies with hollow spines.
+
+Society and culture
+The term was first used in the 14th century.
+
+See also
+Alexis St. Martin
+Fistulated cow
+M. Ijaiya's technique
+Obstetric fistula
+Stoma (medicine)
+
+References
+
+
+== External links ==

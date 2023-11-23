@@ -1,0 +1,99 @@
+A transesophageal echocardiogram, or TEE (TOE in the United Kingdom and other countries such as Australia and New Zealand, reflecting the British English spelling transoesophageal), is an alternative way to perform an echocardiogram. A specialized probe containing an ultrasound transducer at its tip is passed into the patient's esophagus. This allows image and Doppler evaluation which can be recorded. It is  commonly  used  during  cardiac  surgery  and  is  an  excellent  modality  for  assessing  the  aorta, although there are some limitations.It has several advantages and some disadvantages compared with a transthoracic echocardiogram (TTE).
+
+Details
+TEE is a semi-invasive procedure in that the probe must enter the body but does not require surgical (i.e., invasive) cutting for this procedure.
+Before inserting the probe, mild to moderate sedation is induced in the patient to ease the discomfort and to decrease the gag reflex.
+Usually a local anesthetic spray (e.g., lidocaine, benzocaine, xylocaine) is used for the back of the throat or as a jelly/lubricant anesthetic for the esophagus.
+Sedation and anesthesia are required to make the procedure tolerable and safer, as biting the probe, coughing, vomiting, and patient movement would drastically reduce the value of the procedure.Mild or moderate sedation can be induced with medications such as midazolam  (a benzodiazepine with sedating, amnesiac qualities), fentanyl (an opioid), or propofol (a sedative/general anesthetic, depending on dosage).
+Children are anesthetized. Adults are sometimes anesthetized as well if moderate sedation is unsuccessful.Due to the procedure being invasive, sonographers do not perform this procedure unlike transthoracic echo.
+Once adequate sedation and anesthesia are achieved, the probe is passed through the mouth and into the esophagus.
+From here, the protocol used for the procedure is highly variable.
+As the study could be terminated any second (e.g., respiratory compromise, hypotension, intolerance to the probe) the structures of particular interest could be visualized first. For example, if the TEE is ordered to look for
+mitral regurgitation then the mitral valve may be fully inspected first. At the completion of the study, the probe is removed and patient is monitored for recovery from sedation.
+
+Advantages
+The advantage of TEE over TTE is usually clearer images, especially of structures that are difficult to view transthoracically (through the chest wall).
+This difficulty with TTE is exemplified with obesity and COPD, as both of these can drastically limit both the window available and the quality of the images obtained through those windows
+This reduces the attenuation (weakening) of the ultrasound signal, generating a stronger return signal, ultimately enhancing image and Doppler quality.
+Comparatively, transthoracic ultrasound must first traverse skin, fat, ribs and lungs before reflecting off the heart and back to the probe before an image can be created.
+All these structures, along with the increased distance the beam must travel, weaken the ultrasound signal thus degrading the image and Doppler quality.In adults, several structures can be evaluated and imaged better with the TEE, including the aorta, pulmonary artery, valves of the heart, both atria, atrial septum, left atrial appendage, and coronary arteries.
+TEE has a very high sensitivity for locating a blood clot inside the left atrium.TEE is also frequently used concurrently with cardiac surgery to provide immediate visualization, inspection, and monitoring of the patient throughout the procedure. Its intraoperative utility includes real-time hemodynamic monitoring by the cardiac anesthesiologist, evaluation of relevant cardiac pathologies before and after surgical repair, and immediate assessment of the success of surgical interventions after cardiopulmonary bypass. TEE can also evaluate for unintended complications  from surgery, for example unintended injury to cardiac valves, the aorta, or other structures during the procedure. (Ref: https://www.asecho.org/wp-content/uploads/2014/05/2013_Performing-Comprehensive-TEE.pdf)
+
+Disadvantages
+TEE has several disadvantages, although they should be weighed against its significant benefits. The patient must follow the ASA NPO guidelines (usually not eat anything for eight hours and not drink anything for two hours prior to the procedure). Rather than one sonographer, a TEE needs a team of medical personnel of at least one nurse to monitor/administer sedation and a physician to perform the procedure (a third physician/sonographer can be used to push buttons on the ultrasound machine). It takes longer to perform a TEE than a TTE. It may be uncomfortable for the patient, who may require general anesthesia at the extreme to perform a TEE safely. Due to being an invasive procedure requiring sedation, it is more technically difficult to perform and requires experience to do it well while maintaining safety.
+TEE is limited to available anatomy. For example, if the patient has esophageal varices, esophageal stricture, Barrett's esophagus, or other esophageal or stomach problems then this can increase the risk of a TEE significantly.
+Performing an esophagogastroduodenoscopy (EGD) beforehand may be necessary to visualize the anatomy for safety, which exposes the patient to a second procedure.
+The anatomy may result in prohibitive risk.
+With transthoracic echo, numerous measurements are taken to aid in diagnosis and grading of diseases.
+These normal ranges are not as well defined for TEE and so there is less accepted standards (e.g., left atrial enlargement).
+Some risks are associated with the procedure, such as esophageal perforation around 1 in 10,000, and adverse reactions to the medication.
+Specialty medicine professional organizations recommend against using transesophageal echocardiography to detect cardiac sources of embolization after a patient's health care provider has identified a source of embolization and if that person would not change a patient's management as a result of getting more information. Such organizations further recommend that doctors and patients should avoid seeking transesophageal echocardiography only for the sake of protocol-driven testing and to agree to the test only if it is right for the individual patient.
+
+Clinical uses
+In addition to use by cardiologists in outpatient and inpatient settings, TEE can be performed by a cardiac anesthesiologist to evaluate, diagnose, and treat patients in the perioperative period. Most commonly used during open heart procedures, if the patient's status warrants it, TEE can be used in the setting of any operation.
+TEE is very useful during many cardiac surgical procedures (e.g., mitral valve repair). It is actually an essential monitoring tool during this procedure. It helps to detect and quantify the disease preoperatively as well as to assess the results of surgery immediately after the procedure. If the repair is found to be inadequate, showing significant residual regurgitation, the surgeon can decide whether to go back to cardiopulmonary bypass to try to correct the defect.
+Aortic dissections are another important condition where TEE is very helpful.
+TEE can also help the surgeon during the insertion of a catheter for retrograde cardioplegia.
+
+Probes
+TEE probes are similar in style to those used for esophagogastroduodenoscopy except the probe contains an ultrasound crystal rather than a visual camera.
+The ultrasound crystal images radially to the probe rather than axially (along the probe length) as the heart is not inline with the esophagus, but rather adjacent (anterior) to it.
+
+Angle
+Most TEE probes contain a two-dimensional ultrasound crystal.
+This permits rotation of the 2-D echo plane without physical movement of the probe.
+This is often referred to the "angle" and varies between 0° and 180° (flipped image of 0°).
+For any given position of the probe in the body, different angles permit viewing structures more optimally.
+The angle can be adjusted with buttons or a dial, and this varies with the specific probe and ultrasound machine.
+
+Movement
+The probes often have one or two degrees of freedom:
+
+Flexion or retroflexion can point the crystal superiorly or inferiorly, respectively
+Left and right flexion tilts the probe left and rightThese two degrees are typically adjusted using dials on the handle of the probe.
+A third degree is axial rotation of the probe (clockwise or counter-clockwise) and is present regardless of the other two degrees of freedom.
+A fourth degree is the translation of the probe long its axis to permit passing through the mouth, into the esophagus, and into the stomach.
+The combination of these four degrees of freedom permit 2-D, color, and Doppler echo of practically every structure in the heart.
+
+Positions
+Transthoracic echo is far more commonly used than TEE and transthoracic echo is limited to by the available windows through the chest wall to visualize the heart.
+TEE does not have such discrete locations and can visualize the heart anywhere along the esophagus to the stomach.
+With that said, there are commonly accepted positions along this path that are used when performing a standard TEE.
+
+Midesophageal
+The midesophageal view is positioned posterior from the left atrium and at 0° this provides for a long-axis four chamber view.
+At 0°, the long-axis four chamber view can be obtained with slight retroflexion of the probe. However, slight rotation and insertion may be needed to better visualize the right heart and tricuspid valve.
+At 45°, the short-axis view of the aortic valve can be obtained.
+At this angle, a short-axis view of the right ventricle can be seen to visualize the right atrium, tricuspid valve, right ventricle, and pulmonary valve in a single view.
+At 90°, the probe can be rotated clockwise to obtain the "bicaval view" in which the right atrial and both the inferior and superior vena cava can be viewed.
+At 135°, the long-axis view of the aortic valve can be obtained.
+The left atrial appendage, with proper probe positioning, can be visualized at all angles and often visualized at 0*, 45°, 90°, and 135° to adequately rule out a thrombus.
+
+Transgastric
+Pushing the TEE probe past the gastroesophageal junction into the stomach and flexing the probe (pointing it toward the superior) yields a short-axis view of the heart.
+At 0°, the short-axis of the left ventricle can be obtained to see wall motion in the basal, mid, and distal sections.
+If the probe is rotated clockwise, then the right heart and tricuspid valve can be visualized.
+It is in the transgastric position that is best used to quantify the aortic valve with pulse- and continuous-wave Doppler as this is the best view to be best coaxial with the valve.
+
+Upper esophagus
+Pulling back of the TEE probe higher into the esophagus reveals the aortic arch. Typically, in the midesophageal view the probe is rotated until the descending aorta is visualized. Pulling back the probe permits visualization of the aorta and any atheromatous plaques within the aorta. Short axis visualization at 0° allows for descending aorta size measurements. Further pulling back will eventually reach the aorta arch and clockwise rotation will bring the arch into view. Continuous visualization of the aorta to the arch level can visualize coarctation of the aorta.
+
+History
+The transesophageal echocardiogram was first invented by Dr. Leon Frazin in 1974 while working at the  Loyola University Stritch School of Medicine, Maywood, and Veterans Administration Hospital, Hines, Illinois.  His early findings were published in 1976 in Circulation
+
+Diseases
+While TEE can be used to answer many questions that a transthoracic echo can answer, the TEE is used for some diseases in particular.
+
+Infective endocarditis to get better quality images of the affected valve and better plan surgery, or need for surgery
+Aortic root abscess, which generally is not visible on transthoracic echo
+Eccentric mitral regurgitation can be better appreciated on TEE due to Coandă effect
+Left atrial appendage thrombus and evaluation, follow up, and insertion of a left atrial appendage occlusion device
+Evaluation for patent foramen ovale and atrial septal defect after a stroke, and insertion of a PFO/ASD plug
+Monitoring during a procedure to cross the interatrial septum safely without poking the needle through an undesired structure
+During cardiothoracic surgery for numerous procedures including immediately before and after replacement of a valve
+
+References
+External links
+
+Virtual TEE – online interactive learning resource
+TEE online simulator, interactive

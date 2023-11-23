@@ -1,0 +1,42 @@
+Phillip Augustus Griffiths IV (born October 18, 1938) is an American mathematician, known for his work in the field of geometry, and in particular for the complex manifold approach to algebraic geometry. He is a major developer in particular of the theory of variation of Hodge structure in Hodge theory and moduli theory, which forms part of transcendental algebraic geometry and which also touches upon major and distant areas of differential geometry. He also worked on partial differential equations, coauthored with Shiing-Shen Chern, Robert Bryant and Robert Gardner on Exterior Differential Systems.
+
+Professional career
+He received his BS from Wake Forest College in 1959 and his PhD from Princeton University in 1962 after completing a doctoral dissertation, titled "On certain homogeneous complex manifolds", under the supervision of Donald Spencer. Afterwards, he held positions at University of California, Berkeley (1962–1967) and Princeton University (1967–1972). Griffiths was a professor of mathematics at Harvard University from 1972 to 1983. He was then a Provost and James B. Duke Professor of Mathematics at Duke University from 1983 to 1991. From 1991 to 2003, he was the Director of the Institute for Advanced Study (IAS) in Princeton, New Jersey. He remained as part of the Faculty of Mathematics at the IAS until June 2009, after which he has been emeritus at the IAS. He has published on algebraic geometry, differential geometry, geometric function theory, and the geometry of partial differential equations.
+Griffiths serves as the Chair of the Science Initiative Group. He is co-author, with Joe Harris, of Principles of Algebraic Geometry, a well-regarded textbook on complex algebraic geometry.
+
+Awards and honors
+Griffiths was elected to the National Academy of Sciences in 1979 and the American Philosophical Society in 1992. In 2008 he was awarded the Wolf Prize (jointly with Deligne and Mumford) and the Brouwer Medal. In 2012 he became a fellow of the American Mathematical Society. Moreover, in 2014 Griffiths was awarded the Leroy P. Steele Prize for Lifetime Achievement by the American Mathematical Society. Also in 2014, Griffiths was awarded the Chern Medal for lifetime devotion to mathematics and outstanding achievements.
+
+Selected publications
+Articles
+Griffiths, P. A. (1962). "On certain homogeneous complex manifolds". Proc Natl Acad Sci U S A. 48 (5): 780–783. Bibcode:1962PNAS...48..780G. doi:10.1073/pnas.48.5.780. PMC 220851. PMID 16590943.
+Griffiths, P. A. (1963). "Some remarks on automorphisms, analytic bundles, and embeddings of complex algebraic varieties". Proc Natl Acad Sci U S A. 49 (6): 817–820. Bibcode:1963PNAS...49..817G. doi:10.1073/pnas.49.6.817. PMC 300013. PMID 16591103.
+Griffiths, Phillip A. (1963). "On the differential geometry of homogeneous vector bundles". Trans. Amer. Math. Soc. 109: 1–34. doi:10.1090/s0002-9947-1963-0162248-5. MR 0162248.
+Griffiths, P. A. (1966). "The residue calculus and some transcendental results in algebraic geometry, I". Proc Natl Acad Sci U S A. 55 (5): 1303–1309. Bibcode:1966PNAS...55.1303G. doi:10.1073/pnas.55.5.1303. PMC 224316. PMID 16591357.
+Griffiths, P. A. (1966). "The residue calculus and some transcendental results in algebraic geometry, II". Proc Natl Acad Sci U S A. 55 (6): 1392–1395. Bibcode:1966PNAS...55.1392G. doi:10.1073/pnas.55.6.1392. PMC 224330. PMID 16578635.
+Griffiths, P. A. (1966). "Some results on locally homogeneous complex manifolds". Proc Natl Acad Sci U S A. 56 (2): 413–416. Bibcode:1966PNAS...56..413G. doi:10.1073/pnas.56.2.413. PMC 224387. PMID 16591369.
+"A transcendental method in algebraic geometry" (PDF). Actes, Congrès intern. math. 1970. Vol. Tome 1. pp. 113–119.
+Griffiths, Phillip A. (1970). "Periods of integrals on algebraic manifolds". Bull. Amer. Math. Soc. 76 (2): 228–296. doi:10.1090/s0002-9904-1970-12444-2. MR 0258824.
+Deligne, Pierre; Griffiths, Phillip; Morgan, John; Sullivan, Dennis (1975). "Real homotopy theory of Kähler manifolds". Inventiones Mathematicae. 29 (3): 245–274. Bibcode:1975InMat..29..245D. doi:10.1007/BF01389853. MR 0382702. S2CID 1357812.
+with Joe Harris: Griffiths, Phillip; Harris, Joe (1977). "A Poncelet theorem in space". Comment. Math. Helv. 52: 145–160. doi:10.1007/bf02567361. S2CID 119686396.
+with S. S. Chern: "Abel's Theorem and Webs" (PDF). Jber. D. Dt. Math.-Verein. 80: 13–110. 1978.
+Griffiths, Phillip A. (1979). "Complex analysis and algebraic geometry". Bull. Amer. Math. Soc. 1 (4): 595–626. doi:10.1090/s0273-0979-1979-14640-8. MR 0532551.
+Griffiths, Phillip A. (1982). "Poincaré and algebraic geometry". Bull. Amer. Math. Soc. (N.S.). 6 (2): 147–159. doi:10.1090/s0273-0979-1982-14967-9. MR 0640942.
+
+Books
+Mumford–Tate groups and domains: their geometry and arithmetic, with Mark Green and Matt Kerr, Princeton University Press, 2012, ISBN 978-0-691-154251
+Selected Works of Phillip A. Griffiths with Commentary. Vol. 4 vols. American Mathematical Soc. 2003. in pbk: Griffiths, Phillip; Cornalba, Maurizio (2003). vol. 1. ISBN 0-8218-2086-9. Griffiths, Phillip; Cornalba, Maurizio (2003). vol. 2. ISBN 0-8218-2087-7. Griffiths, Phillip; Cornalba, Maurizio (2003). vol. 3. ISBN 0-8218-2088-5. Griffiths, Phillip; Cornalba, Maurizio (2003). vol. 4. ISBN 0-8218-2089-3.
+Exterior differential systems and Euler-Lagrange partial differential equations, with Robert Bryant and Daniel Grossman, University of Chicago Press, 2003, ISBN 0-226-07793-4 cloth; ISBN 0-226-07794-2
+Introduction to Algebraic Curves, American Mathematical Society, Providence, RI, 1989, ISBN 0821845306
+Differential Systems and Isometric Embeddings, with Gary R. Jensen, Princeton University Press, Princeton, NJ, 1987, ISBN 0-691-08429-7
+Topics in Transcendental Algebraic Geometry, Princeton University Press, Princeton, NJ, 1984, ISBN 0691083355
+Exterior Differential Systems and the Calculus of Variations, Birkhäuser, Boston, 1983, ISBN 3764331038
+Rational Homotopy Theory and Differential Forms, with John W. Morgan, Birkhäuser, Boston, 1981, ISBN 3764330414
+Principles of Algebraic Geometry, with Joe Harris, Wiley, New York, 1978, ISBN 0471327921
+Entire Holomorphic Mappings in One and Several Complex Variables, Princeton University Press, Princeton, NJ, 1976, ISBN 0691081719
+
+References
+External links
+
+Phillip Griffiths at the Mathematics Genealogy Project
+Science Initiative Group page

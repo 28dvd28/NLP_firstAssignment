@@ -1,0 +1,14 @@
+Govindasvāmi (or Govindasvāmin, Govindaswami) (c. 800 – c. 860) was an Indian mathematical astronomer most famous for his Bhashya, a commentary on the Mahābhāskarīya of Bhāskara I, written around 830. The commentary contains many examples illustrating the use of a Sanskrit place-value system and the construction of a sine table.His works have been quoted extensively by Sankaranarayana (fl. 869), Udayadivakara (fl. 1073) and Nilakantha Somayaji (c. 1444-1544). Sankaranarayana was the director of the observatory founded in Mahodayapuram, the capital of the Chera kingdom, and is believed to be the student of Govindasvami. In his book, Sankaranarayana gives explanations to the insightful questions of the king Ravi Varma, then ruler of Mahodayapuram and from these references the period of Sankaranarayana  is known.His work Govindakriti was a sequel to Āryabhaṭīya and is lost. Other works attributed to Govindasvami includeGovinda-paddhati (on astrology) and Ganita-mukha (on mathematics). Like Govinda-kriti, these are lost, and known only from mentions and quotations by later writers such as Sankaranarayana and Udayadivakara.
+
+See also
+List of astronomers and mathematicians of the Kerala school
+
+References
+Further reading
+Gupta, R. C. (1971). "Fractional parts of Aryabhata's sines and certain rules found in Govindasvami's Bhasya on the Mahabhaskarya". Indian J. History Sci. 6: 51–59. doi:10.1007/978-981-13-1229-8_33.
+Jha, S. K.; V N Jha (1991). "Computation of sine-table based on the Mahasiddhanta of Aryabhata II". J. Bihar Math. Soc. 14: 9–17.
+Meijering, Erik (March 2002). "A Chronology of Interpolation: From Ancient Astronomy to Modern Signal and Image Processing" (PDF). Proceedings of the IEEE. 90 (3): 319–342. doi:10.1109/5.993400. Archived from the original (PDF) on 28 January 2007.
+Kerala Mathematics and its Possible Transmission to Europe 2009_ by George Gevarghese Joseph
+
+External links
+A Chronology of Interpolation

@@ -1,0 +1,6 @@
+QNS is a clinical laboratory abbreviation for quantity not sufficient.
+This indicates that either:
+
+There is not enough specimen for the lab tests ordered to be performed.
+In the case of Vacutainers or other tubes with pre-added anticoagulant, the amount of blood invacuated into the tube at the time of phlebotomy was insufficient to attain the correct blood:anticoagulant ratio.  This can cause false results in assays such as coagulation assays (causing falsely increased clotting times) or blood cell differentials (causing a false increase in poikilocytes, particularly burr cells.)In either case, the most common and feasible way to correct the problem is to simply recollect the specimen.
+Quantity not sufficient implies that the final volume of diluent is not sufficient for molecular testing.

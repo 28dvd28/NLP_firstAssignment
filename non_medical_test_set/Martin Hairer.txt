@@ -1,0 +1,38 @@
+Sir Martin Hairer  (born 14 November 1975) is an Austrian-British mathematician working in the field of stochastic analysis, in particular stochastic partial differential equations. He is Professor of Mathematics at EPFL (École Polytechnique Fédérale de Lausanne) and at Imperial College London. He previously held appointments at the  University of Warwick and the Courant Institute of New York University. In 2014 he was awarded the Fields Medal, one of the highest honours a mathematician can achieve. In 2020 he won the 2021 Breakthrough Prize in Mathematics.
+
+Early life and education
+Hairer was born in Geneva, Switzerland. He attended the Collège Claparède Geneva where he received his high school diploma in 1994. He entered a school science competition with sound editing software that was developed into Amadeus,
+and later continued to maintain the software in addition to his academic work; it continued to be widely used as of 2020. He then attended the University of Geneva, where he obtained his Bachelor of Science degree in Mathematics in July 1998, Master of Science in Physics in October 1998 and PhD in Physics under the supervision of Jean-Pierre Eckmann in November 2001.
+
+Research and career
+Hairer is active in the field of stochastic partial differential equations in particular, and in stochastic analysis and stochastic dynamics in general.  He has worked on variants of Hörmander's theorem, systematisation of the construction of Lyapunov functions for stochastic systems, development of a general theory of ergodicity for non-Markovian systems, multiscale analysis techniques, theory of homogenisation, theory of path sampling and theory of rough paths and, in 2014, on his theory of regularity structures.Under the name HairerSoft, he develops Macintosh software.
+
+Affiliations
+Awards and honours
+2006–2011 Advanced Research Fellowship, Engineering and Physical Sciences Research Council (EPSRC)
+2007 – Editors' Choice Award, Macworld
+2008 – Whitehead Prize, London Mathematical Society
+2008 – Philip Leverhulme Prize, Leverhulme Trust
+2009 – Royal Society Wolfson Research Merit Award
+2012 – Leverhulme Research Leadership Award, Leverhulme Trust
+2013 – Fermat Prize, Institut de Mathématiques de Toulouse
+2014 – Consolidator grant, European Research Council
+2014 – Elected Fellow of the Royal Society (FRS) in 2014
+2014 – Fröhlich Prize, London Mathematical Society
+2014 – Fields Medal
+2015 – Fellow of the American Mathematical Society
+2015 – Member of the Austrian Academy of Sciences
+2015 – Member of the Academy of Sciences Leopoldina
+2015 – Member of the Academia Europaea
+2016 – Honorary Knight Commander of the Order of the British Empire
+2017 – Foreign member of the Polish Academy of Sciences
+2019 – Substantive Knight Commander of the Order of the British Empire
+2021 – Breakthrough Prize in Mathematics
+2022 – King Faisal Prize
+
+Personal life
+Hairer holds Austrian and British nationality, and speaks French, German and English; he married fellow mathematician Li Xue-Mei in 2003. His father is Ernst Hairer, a mathematician at the University of Geneva.
+
+References
+
+ This article incorporates text available under the CC BY 4.0 license.

@@ -1,0 +1,16 @@
+Jia Xian (simplified Chinese: 贾宪; traditional Chinese: 賈憲; pinyin: Jiǎ Xiàn; Wade–Giles: Chia Hsien; ca. 1010–1070) was a Chinese mathematician from Kaifeng of the Song dynasty. He described Pascal's triangle during the 11th century.
+
+Biography
+According to the history of the Song dynasty, Jia was a palace eunuch of the Left Duty Group. He studied under the mathematician Chu Yan, and was well versed in mathematics, writing many books on the subject. Jia Xian described the Pascal's triangle (Jia Xian triangle) around the middle of the 11th century, about six centuries before Pascal. Jia used it as a tool for extracting square and cubic roots. The original book by Jia entitled Shi Suo Suan Shu was lost; however, Jia's method was expounded in detail by Yang Hui, who explicitly acknowledged his source: "My method of finding square and cubic roots was based on the Jia Xian method in Shi Suo Suan Shu." A page from the Yongle Encyclopedia preserved this historic fact.
+
+Jia Xian's additive-multiplicative method implemented the "Horner" rule.
+
+References
+
+J-C Martzloff, A history of Chinese mathematics  (Berlin-Heidelberg, 1997).
+J-C Martzloff, Histoire des mathématiques chinoises  (Paris, 1987).
+B Qian, History of Chinese mathematics  (Chinese) (Peking, 1981).
+K Chemla, Similarities between Chinese and Arabic mathematical writings  I : Root extraction, Arabic Sci. Philos.  4 (2) (1994), 207-266.
+S Guo, Preliminary research into Jia Xian's Huangdi Jiuzhang Suanjing Xicao (Chinese), Studies in the History of Natural Sciences  7 (4) (1988), 328 -334.
+S Guo, Jia Xian, in Du Shiran (ed.), Zhongguo Gudai Kexuejia Zhuanji  (Biographies of Ancient Chinese Scientists)  (Beijing, 1992), 472 -479.
+R Mei, Jia Xian's additive-multiplicative method for the extraction of roots (Chinese), Studies in the History of Natural Sciences  8 (1) (1989), 1 -8.

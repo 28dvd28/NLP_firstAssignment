@@ -1,0 +1,13 @@
+Jonathan Bennett is a mathematician and Professor of Mathematical Analysis at the University of Birmingham. He was a recipient of the Whitehead Prize of the London Mathematical Society in 2011 for "his foundational work on multilinear inequalities in harmonic and geometric analysis, and for a number of major results in the theory of oscillatory integrals."
+
+Education
+In 1995 he graduated with a BA in mathematics from Hertford College at the University of Oxford. He went on to study for a PhD in harmonic analysis under Anthony Carbery at the University of Edinburgh, graduating in 1999.
+
+Career
+Bennett has done postdoctoral work at the University of Edinburgh, the Universidad Autonoma de Madrid and Trinity College Dublin. He joined the University of Birmingham in 2005. Bennett is an editor for the journals Mathematika and Quarterly Journal of Mathematics.Bennett is known for his work in harmonic analysis, particularly in applying the methods of heat flow monotonicity and induction-on-scale arguments to prove inequalities arising in harmonic and geometric analysis, in particular for his work (jointly with Anthony Carbery and Terence Tao) on the  multilinear Kakeya conjecture. Bennett has an Erdős number of 3, via his collaboration with Tao.
+
+References
+External links
+Bennett's page at the Mathematics Genealogy Project.
+Research published by Bennett.
+A blog post by Tao explaining induction-on-scales arguments, with reference to his joint work with Bennett and Carbery.

@@ -1,0 +1,120 @@
+Vatasseri Parameshvara Nambudiri (c. 1380–1460)  was a major Indian mathematician and astronomer of the Kerala school of astronomy and mathematics founded by Madhava of Sangamagrama. He was also an astrologer. Parameshvara was a proponent of observational astronomy in medieval India and he himself had made a series of eclipse observations to verify the accuracy of the computational methods then in use. Based on his eclipse observations, Parameshvara proposed several corrections to the astronomical parameters which had been in use since the times of Aryabhata. The computational scheme based on the revised set of parameters has come to be known as the Drgganita or Drig system. Parameshvara was also a prolific writer on matters relating to astronomy. At least 25 manuscripts have been identified as being authored by Parameshvara.
+
+Biographical details
+Parameshvara was a Hindu of Bhrgugotra following the Ashvalayanasutra of the Rigveda. Parameshvara's family name (Illam) was Vatasseri and his family resided in the village of Alathiyur (Sanskritised as Asvatthagrama) in Tirur, Kerala. Alathiyur is situated on the northern bank of the river Nila (river Bharathappuzha) at its mouth in Kerala. He was a grandson of a disciple of Govinda Bhattathiri (1237–1295 CE), a legendary figure in the astrological traditions of Kerala.
+Parameshvara studied under teachers Rudra and Narayana, and also under Madhava of Sangamagrama (c. 1350 – c. 1425) the founder of the Kerala school of astronomy and mathematics. Damodara, another prominent member of the Kerala school, was his son and also his pupil. Parameshvara was also a teacher of Nilakantha Somayaji (1444–1544) the author of the celebrated Tantrasamgraha.
+
+Work
+Parameshvara wrote commentaries on many mathematical and astronomical works such as those by Bhāskara I and Aryabhata. He made a series of  eclipse observations over a 55-year period. Constantly attempted to compare these with the theoretically computed positions of the planets. He revised planetary parameters based on his observations.
+One of Parameshvara's more significant contributions was his mean value type formula for the inverse interpolation of the sine.He was the first mathematician to give a formula for the radius of the circle circumscribing a cyclic quadrilateral. The expression is sometimes attributed to Lhuilier [1782], 350 years later. With the sides of the cyclic quadrilateral being a, b, c, and d, the radius R of the circumscribed circle is:
+
+  
+    
+      
+        R
+        =
+        
+          
+            
+              
+                (
+                a
+                b
+                +
+                c
+                d
+                )
+                (
+                a
+                c
+                +
+                b
+                d
+                )
+                (
+                a
+                d
+                +
+                b
+                c
+                )
+              
+              
+                (
+                −
+                a
+                +
+                b
+                +
+                c
+                +
+                d
+                )
+                (
+                a
+                −
+                b
+                +
+                c
+                +
+                d
+                )
+                (
+                a
+                +
+                b
+                −
+                c
+                +
+                d
+                )
+                (
+                a
+                +
+                b
+                +
+                c
+                −
+                d
+                )
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle R={\sqrt {\frac {(ab+cd)(ac+bd)(ad+bc)}{(-a+b+c+d)(a-b+c+d)(a+b-c+d)(a+b+c-d)}}}.}
+
+Works by Parameshvara
+The following works of Parameshvara are well-known. A complete list of all manuscripts attributed to Parameshvara is available in Pingree.
+Bhatadipika – Commentary on Āryabhaṭīya of Āryabhaṭa I
+Karmadipika – Commentary on Mahabhaskariya of Bhaskara I
+Paramesvari – Commentary on Laghubhaskariya of Bhaskara I
+Sidhantadipika – Commentary on Mahabhaskariyabhashya of Govindasvāmi
+Vivarana – Commentary on Surya Siddhanta and Lilāvati
+Drgganita – Description of the Drig system (composed in 1431 CE)
+Goladipika – Spherical geometry and astronomy (composed in 1443 CE)
+Grahanamandana – Computation of eclipses (Its epoch is 15 July 1411 CE.)
+Grahanavyakhyadipika – On the rationale of the theory of eclipses
+Vakyakarana – Methods for the derivation of several astronomical tables
+
+See also
+List of astronomers and mathematicians of the Kerala school
+
+References
+Further reading
+David Pingree, Biography in Dictionary of Scientific Biography (New York 1970–1990).
+Bhaskara, Laghubhaskariyam : With Parameshvara's commentary (Poona, 1946).
+Bhaskara, Mahabhaskariyam: With Parameshvara's commentary called Karmadipika (Poona, 1945).
+Munjala, Laghumanasam : with commentary by Parameshvara (Poona, 1944).
+T.A. Sarasvati Amma (1979) Geometry in ancient and medieval India, (Delhi).
+K. Shankar Shukla (1957) The Surya-siddhanta with the commentary of Parameshvara (Lucknow).
+K. V. Sarma (2008), "Paramesvara", Encyclopaedia of the History of Science, Technology, and Medicine in Non-Western Cultures (2nd edition) edited by Helaine Selin, Springer, ISBN 978-1-4020-4559-2.
+Kim Plofker (1996) "An example of the secant method of iterative approximation in a fifteenth-century Sanskrit text", Historia Mathematica 23 (3): 246–256.
+K. K. Raja (1963) "Astronomy and mathematics in Kerala", Brahmavidya 27; 136–143.
+K. Chandra Hari (2003). "Eclipse observations of Parameshvara, the 14th–15th-century astronomer of Kerala" (PDF). Indian Journal of History of Science. 38 (1): 43–57. Archived from the original (PDF) on 16 March 2012. Retrieved 28 January 2010.
+
+External links
+Achar, Narahari (2007). "Parameśvara of Vāṭaśśeri [Parmeśvara I]". In Thomas Hockey; et al. (eds.). The Biographical Encyclopedia of Astronomers. New York: Springer. p. 870. ISBN 978-0-387-31022-0. (PDF version)
+O'Connor, John J.; Robertson, Edmund F., "Parameshvara Nambudiri", MacTutor History of Mathematics Archive, University of St Andrews

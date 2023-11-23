@@ -1,0 +1,154 @@
+The International Classification of Sleep Disorders (ICSD) is "a primary diagnostic, epidemiological and coding resource for clinicians and researchers in the field of sleep and sleep medicine". The ICSD was produced by the American Academy of Sleep Medicine (AASM) in association with the European Sleep Research Society, the Japanese Society of Sleep Research, and the Latin American Sleep Society. The classification was developed as a revision and update of the Diagnostic Classification of Sleep and Arousal Disorders (DCSAD) that was produced by both the Association of Sleep Disorders Centers (ASDC) and the Association for the Psychophysiological Study of Sleep and was published in the journal Sleep in 1979. A second edition, called ICSD-2, was published by the AASM in 2005.  The third edition, ICSD-3, was released by the AASM in 2014. A text revision of the third edition (ICSD-3-TR) was published in 2023 by the AASM.
+
+Milestones of sleep disorder classifications
+Introduction
+In 1979, the first Diagnostic Classification of Sleep and Arousal Disorders (DCSAD) was developed by the Association of Sleep Disorders Centers (ASDC) and the Association for the Psychophysiological Study of Sleep. Disorders were divided into four main categories.
+Disorders of initiating and maintaining sleep (DIMS) – Insomnias
+Disorders of Excessive somnolence (DOES) – Hypersomnias
+Disorders of the Sleep-Wake Schedule – Circadian Disorders
+Dysfunctions Associated with Sleep, Sleep Stages, or Partial Arousals – ParasomniasIn 1990, the first comprehensive classification of disorders of sleep and arousal, the International Classification of Sleep Disorders (ICSD-1990), was developed by the American Academy of Sleep Medicine (AASM) in association with the European Sleep Research Society, the Japanese Society of Sleep Research, and the Latin American Sleep Society. 84 sleep disorders were inventoried, based on pathophysiological characteristics. It was later revised as the ICSD-R in 1997. 
+The International Classification of Sleep Disorders (ICSD) uses a multiaxial system for stating and coding diagnoses both in clinical reports or for database purposes. The axial system uses International Classification of Diseases (ICD-9-CM) coding wherever possible. Additional codes are included for procedures and physical signs of particular interest to sleep disorders clinicians and researchers. Diagnoses and procedures are listed and coded on three main "axes". The axial system is arranged as follows:Axis A ICSD Classification of Sleep Disorders
+Axis B ICD-9-CM Classification of Procedures
+Axis C ICD-9-CM Classification of Diseases (nonsleep diagnoses).
+
+ICSD-I (1990) and ICSD-Revised (1997)
+Dyssomnias
+Intrinsic Sleep Disorders
+Extrinsic Sleep Disorders
+Circadian Rhythm Sleep Disorders
+Parasomnias
+Arousal Disorders
+Sleep-Wake Transition Disorders
+Parasomnias Usually Associated with REM Sleep
+Other Parasomnias
+Sleep Disorders Associated with Mental, Neurologic, or Other Medical Disorders
+Associated with Mental Disorders
+Associated with Neurologic Disorders
+Associated with Other Medical Disorders
+Proposed Sleep Disorders
+Shorter Sleeper
+Long Sleeper
+Menstrual-Associated Sleep Disorders
+
+ICSD-2
+In 2005, the International Classification of Sleep Disorders underwent minor updates and modifications resulting in version 2 (ICSD-2).
+The ICSD-2 thus lists 81 sleep disorder diagnostic categories divided in 8 major categories. Each diagnostic is detailed in a description that presents the diagnostic criteria. The 81 diagnostics are divided into 8 main categories, namely insomnias, sleep-related breathing disorders, hypersomnias of central origin, circadian rhythm sleep disorders, parasomnias, sleep-related movement disorders, isolated symptoms apparently normal variants and unresolved issues, other sleep disorders. The two last categories (i.e. sleep disorders associated with disorders classified elsewhere and psychiatric disorders frequently encountered in the differential diagnosis of sleep disorders) are presented in the appendices and count 13 diagnostics.In 2006, a pocket version of the ICSD-2 was released. In this version, a pediatric section was added listing the following diagnostic categories: 
+
+Behavioural Insomnia in Childhood
+Onset Type
+Limit Setting Type
+Primary Sleep Apnea of Infancy
+Obstructive Sleep Apnea, Pediatric
+Congenital Central Alveolar Hypoventilation Syndrome
+Sleep Enuresis
+Restless Legs Syndrome
+Sleep-related Rhythmic Movement DisorderHowever, this classification brought some confusion into the field, which led to the revision of the classification in 2011. The classification was much more discussed by experts of the field and led to the third edition of the ICSD.
+
+ICSD-3 (2014) and ICSD-3-TR (2023)
+The revision of the ICSD-2 was firstly made by the AASM and other International Societies. This revision integrates pediatric diagnosis into clinical adult diagnosis (except for obstructive sleep apnea) and led to the third edition of the ICSD, which was released in 2014. 
+ICSD-3 includes specific diagnoses within the seven major categories, as well as an appendix for classification of sleep disorders associated with medical and neurologic disorders. The International Classification of Diseases (ICD-9-CM and ICD-10-CM) codes corresponding to each specific diagnosis can be found within the ICSD-3. Furthermore, pediatric diagnoses are not distinguished from adult diagnoses except for sleep-related breathing disorders.In addition, significant changes have been made in the nosology of insomnia, narcolepsy and parasomnia. Primary vs. secondary (i.e. comorbid) insomnia has been reunited into a single disorder: chronic insomnia. Narcolepsy has been divided into narcolepsy Type 1 and narcolepsy Type 2. These two types are distinguished by the presence or absence of cataplexy and the cerebrospinal fluid hypocretin-1 level. Concerning parasomnia, the sections have been modified, grouping together common features. Finally, a section on treatment-emerging CSA has been added to the CSA syndromes section.It also discusses common isolated symptoms and normal variants. Some occur during normal sleep: as an example, sleep talking occurs at some time in most normal sleepers. Some lie on the continuum between normal and abnormal: as an example, snoring without associated airway compromise, sleep disturbance, or other consequences is essentially normal, whereas heavy snoring is often part of obstructive sleep apnea.
+Furthermore, some features are no longer disorders and are reunited in the The AASM [American Academy of Sleep Medicine] Manual for the Scoring of Sleep and Associated Events: Rules, Terminology and Technical Specifications. Therefore, ICSD permanently refers to this manual. The latter allows, for instance, to find definitions of polysomnography or specific features.The ICSD-3 counts 383 pages for 83 disorders. It is divided into 7 main categories:
+
+1. Insomnia
+Chronic insomnia disorder
+Short-term insomnia disorder
+Other insomnia (when the patient has insomnia symptoms but does not meet criteria for the other two types of insomnia)
+
+Isolated symptoms and normal variants
+2. Sleep-related breathing disorders
+Obstructive sleep apnea (OSA) syndromes
+OSA, adult
+OSA, pediatric
+
+Central sleep apnea syndromes
+Central sleep apnea with Cheyne-Stokes breathing
+Central sleep apnea due a medical disorder without Cheyne-Stokes breathing
+Central sleep apnea due to high altitude periodic breathing
+Central sleep apnea due to a medication or substance
+Primary central sleep apnea
+Primary central sleep apnea of infancy
+Primary central sleep apnea of prematurity
+Treatment-emergent central sleep apnea
+
+Sleep-related hypoventilation disorders
+Obesity hypoventilation syndrome
+Congenital central alveolar hypoventilation syndrome
+Late-onset central hypoventilation with hypothalamic dysfunction
+Idiopathic central alveolar hypoventilation
+Sleep-related hypoventilation due to a medication or substance
+Sleep-related hypoventilation due to a medical disorder
+
+Sleep-related hypoxemia disorder
+Isolated symptoms and normal variants
+Snoring
+Catathrenia
+
+3. Central disorders of hypersomnolence
+Narcolepsy type 1
+Narcolepsy type 2
+Idiopathic hypersomnia
+Kleine-Levin syndrome
+Hypersomnia due to a medical disorder
+Hypersomnia due to a medication or substance
+Hypersomnia associated with a psychiatric disorder
+Insufficient sleep syndrome
+
+4. Circadian rhythm sleep-wake disorders
+Delayed sleep-wake phase disorder
+Advanced sleep-wake phase disorder
+Irregular sleep-wake rhythm disorder
+Non-24-hour sleep-wake rhythm disorder
+Shift work disorder
+Jet lag disorder
+Circadian sleep-wake disorder not otherwise specified
+
+5. Parasomnias
+NREM-related parasomnias
+Confusional arousals
+Sleepwalking
+Sleep terrors
+Sleep-related eating disorder
+
+REM-related parasomnias
+REM sleep behavior disorder
+Recurrent isolated sleep paralysis
+Nightmare disorder
+
+Other parasomnias
+Exploding head syndrome
+Sleep-related hallucinations
+Sleep enuresis
+Parasomnia due to a medical disorder
+Parasomnia due to a medication or substance
+Parasomnia, unspecified
+
+Isolated symptoms and normal variants
+Sleep talking
+
+6. Sleep-related movement disorders
+Restless legs syndrome
+Periodic limb movement disorder
+Sleep-related leg cramps
+Sleep-related bruxism
+Sleep-related rhythmic movement disorder
+Benign sleep myoclonus of infancy
+Propriospinal myoclonus at sleep onset
+Sleep-related movement disorder due to a medical disorder
+Sleep-related movement disorder due to a medication or substance
+Sleep-related movement disorder, unspecified
+
+Isolated symptoms and normal variants
+Excessive fragmentary myoclonus
+Hypnagogic foot tremor and alternating leg muscle activation
+Sleep starts (hypnic jerks)
+
+7. Other sleep disorders
+Other sleep-related symptoms or events that do not meet the standard definition of a sleep disorder.
+
+In 2023, the AASM revised the third edition with the International Classification of Sleep Disorders, third edition, text revision (ICSD-3-TR) (https://aasm.org/clinical-resources/international-classification-sleep-disorders/).
+
+See also
+References
+
+
+== External links ==

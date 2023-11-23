@@ -1,0 +1,30 @@
+Curtis Tracy McMullen (born May 21, 1958) is an American mathematician who is the Cabot Professor of Mathematics at Harvard University.  He was awarded the Fields Medal in 1998 for his work in complex dynamics, hyperbolic geometry and Teichmüller theory.
+
+Biography
+McMullen graduated as valedictorian in 1980 from Williams College and obtained his PhD in 1985 from  Harvard University, supervised by Dennis Sullivan.  He held post-doctoral positions at the Massachusetts Institute of Technology, the Mathematical Sciences Research Institute, and the Institute for Advanced Study, after which he was on the faculty at Princeton University (1987–1990) and the University of California, Berkeley (1990–1997), before joining Harvard in 1997.
+McMullen was chair of the Harvard Mathematics Department from 2017 to 2020. He was the doctoral advisor of Maryam Mirzakhani who won the Fields Medal as the first female in history.
+
+Honors and awards
+McMullen received the Salem Prize in 1991 and won the Fields Medal in 1998 at the International Congress of Mathematicians (ICM) in Berlin. At the 1990 ICM in Kyoto he was an Invited Speaker. He was awarded a Guggenheim Fellowship in 2004, elected to the National Academy of Sciences in 2007, and received the Humboldt Research Award in 2011.
+
+Major publications
+McMullen, C. T. (1987), "Families of rational maps and iterative root-finding algorithms", Annals of Math., 125 (3): 467–493, doi:10.2307/1971408, JSTOR 1971408, MR 0890160
+McMullen, C. T. (1989), "Amenability, Poincaré series and quasiconformal maps", Invent. Math., 97: 95–127, Bibcode:1989InMat..97...95M, doi:10.1007/BF01850656, MR 0999314, S2CID 15729353
+McMullen, C. T. (1990), "Iteration on Teichmüller space", Invent. Math., 99: 207–216, Bibcode:1990InMat..99..425M, doi:10.1007/BF01234427, MR 1031909, S2CID 122626150
+McMullen, C. T. (1991), "Cusps are dense", Annals of Math., 133 (1): 217–247, doi:10.2307/2944328, JSTOR 2944328, MR 1087348
+McMullen, C. T. (2000), "From dynamics on surfaces to rational points on curves", Bull. Amer. Math. Soc., 37 (2): 119–140, doi:10.1090/S0273-0979-99-00856-3, MR 1713286, S2CID 12036264
+McMullen, C. T. (2003), "Billiards and Teichmüller curves on Hilbert modular surfaces", J. Amer. Math. Soc., 16 (4): 857–885, doi:10.1090/S0894-0347-03-00432-6, JSTOR 30041457, MR 1992827, S2CID 7678249
+McMullen, C. T. (2005), "Minkowski's conjecture, well-rounded lattices and topological dimension", J. Amer. Math. Soc., 18 (3): 711–734, doi:10.1090/S0894-0347-05-00483-2, JSTOR 20161252, MR 2138142, S2CID 11777513
+McMullen, C. T. (2016), "Automorphisms of projective K3 surfaces with minimum entropy", Invent. Math., 203 (1): 179–215, Bibcode:2016InMat.203..179M, doi:10.1007/S00222-015-0590-Z, S2CID 253742362, Zbl 1364.37103
+McMullen, C. T.; et al. (2017), "Geodesic planes in hyperbolic 3-manifolds", Invent. Math., 209 (2): 425–461, Bibcode:2017InMat.209..425M, doi:10.1007/s00222-016-0711-3, MR 3674219, S2CID 253747261
+McMullen, C. T.; et al. (2017), "Cubic curves and totally geodesic subvarieties of moduli space", Annals of Math., 185 (3): 957–990, doi:10.4007/annals.2017.185.3.6, JSTOR 26395746, MR 3664815, S2CID 1658293
+
+Books
+——— (1994), Complex Dynamics and Renormalization, Annals of Mathematics Studies, vol. 135, Princeton, NJ: Princeton University Press, ISBN 0-691-02982-2
+——— (1996), Renormalization and 3-Manifolds which Fiber over the Circle, Annals of Mathematics Studies, vol. 142, Princeton, NJ: Princeton University Press, ISBN 0-691-01153-2
+
+References
+External links
+Curtis T McMullen at Harvard.
+O'Connor, John J.; Robertson, Edmund F., "Curtis T. McMullen", MacTutor History of Mathematics Archive, University of St Andrews
+Curtis T. McMullen at the Mathematics Genealogy Project

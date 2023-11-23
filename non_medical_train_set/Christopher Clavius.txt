@@ -1,0 +1,57 @@
+Christopher Clavius, SJ (25 March 1538 – 6 February 1612) was a Jesuit German mathematician, head of mathematicians at the Collegio Romano, and astronomer who was a member of the Vatican commission that accepted the proposed calendar invented by Aloysius Lilius, that is known as the Gregorian calendar. Clavius would later write defences and an explanation of the reformed calendar, including an emphatic acknowledgement of Lilius' work. In his last years he was probably the most respected astronomer in Europe and his textbooks were used for astronomical education for over fifty years in and even out of Europe.
+
+Early life
+Little is known about Clavius' early life other than the fact that he was born in Bamberg in either 1538 or 1537. His given name is not known to any great degree of certainty—it is thought by scholars to have perhaps been Christoph Clau or Klau. There are also some who think that his taken name, Clavius, may be a Latinization of his original German name, suggesting that his name may have been Schlüssel (German for 'key', which is clavis in Latin).
+Clavius joined the Jesuit order in 1555. He attended the University of Coimbra in Portugal, where it is possible that he had some kind of contact with the famous mathematician Pedro Nunes (Petrus Nonius). Following this he went to Italy and studied theology at the Jesuit Collegio Romano in Rome. He was ordained in 1564, and 15 years later was assigned to compute the basis for a reformed calendar that would stop the slow process in which the Church's holidays were drifting relative to the seasons of the year. Using the Prussian Tables of Erasmus Reinhold and building on the work of Aloysius Lilius, he proposed a calendar reform that was adopted in 1582 in Catholic countries by order of Pope Gregory XIII and is now the Gregorian calendar used worldwide.
+Within the Jesuit order, Clavius was almost single-handedly responsible for the adoption of a rigorous mathematics curriculum in an age where mathematics was often ridiculed by philosophers as well as fellow Jesuits like Benito Pereira. In logic, Clavius' Law (inferring of the truth of a proposition from the inconsistency of its negation) is named after him.
+He used the decimal point in the goniometric tables of his astrolabium in 1593 and he was one of the first who used it in this way in the West.
+
+Astronomy
+Clavius wrote a commentary on the most important astronomical textbook of the late Middle Ages, De Sphaera of Johannes de Sacrobosco. The commentary by Clavius was one of the most influential astronomy textbooks of its time and had at least 16 editions between 1570 and 1618, with Clavius himself revising the text seven times and in each case greatly expanding it.
+In the 1585 edition of his aforementioned commentary he located (independently of Tycho Brahe) the nova from 1572 in the fixed stars sphere (in the constellation of Cassiopeia) and found that the position of the nova was exactly the same for all observers. That meant that it had to be beyond the Moon, and the doctrine that the heavens could not change was proven false.As an astronomer Clavius held strictly to the geocentric model of the solar system, in which all the heavens rotate about the Earth. Though he opposed the heliocentric model of Copernicus, he recognized problems with the Ptolemaic model. He was treated with great respect by Galileo, who visited him in 1611 and discussed the new observations being made with the telescope; Clavius had by that time accepted the new discoveries as genuine, though he retained doubts about the reality of the mountains on the Moon and said he could not see the four Jupiter's satellites through the telescope. Later, a large crater on the Moon was named in his honor.
+
+Collegio Romano
+During his time at Collegio Romano Clavius served as the head of the mathematicians, a public professor of mathematics, and as the Director of Advanced Instruction and Research at the Academy of Mathematics until 1610 in an official capacity and for two more years until 1612 in an informal role. The Academy existed in an informal capacity for many years before Clavius arrived in Rome in 1561. However, in 1580 in his document titled Ordo servandus in addiscendis disciplinis mathematicis, Clavius described a detailed curriculum for mathematics to have the College officially recognize the Academy.The curriculum he proposed contained three different curricula aiming to educate new Jesuits in mathematics. The curriculum contained three different courses: one year, a two-year, and a three-year. The course material to be covered were optics, statics, astronomy, and acoustics, emphasizing mathematics.
+His request was eventually denied, but  nonetheless he was given the title of Professor of mathematics. Clavius made another attempt in 1586 to establish the Academy as an official course at the Collegio Romano, but there was opposition from the philosophers at the College. The Academy remained an unofficial curriculum until 1593 or 1594.
+Upon its eventual founding, the Academy required nomination by the Professor of mathematics for admission. Clavius taught the advanced course within the Academy, but little is known about his specific teachings and work as a professor during his time at the College. The exact number of students that Clavius taught is unclear, but in a letter from Christoph Grienberger to Clavius in 1595, it is stated that at that time, Clavius had around ten students. The exact structure of the courses and how they were taught is unclear. There has been no evidence to show whether the students he taught shared classes or the specific material he chose to cover. The purpose for founding the Academy was to train technical specialists, to expand the pedagogical corps to support the growing need for professors, as the number of colleges at the time was rapidly increasing, as well as the training of missionaries in order to support their efforts in remote places. With the purpose of the Academy clear, most of what Clavius and his students did in the Academy is unknown. This lack of detailed information has led to most of what Clavius did during his years at the College falling into obscurity.
+Clavius and Galileo Galilei often shared correspondence during his time at the College, discussing proofs and theories. It is likely that while running the Academy, he was also writing to Galileo and sharing his notes from the College's logic course to help Galileo in his endeavors to be able to adequately explain and demonstrate his ideas to others, which is something Galileo had struggled with in the past, specifically when trying to convince Clavius of his methods.Following his death in 1612, informal courses in the Academy continued at the College. However, due to the lack of mention of mathematicians in the College's catalog after 1615, it appears the Academy's official recognition by the Collegio Romano ended soon after Christopher Clavius's death.
+
+Selected works
+Commentary on Euclid, 1574
+Gnomonices libri octo. 1581 [treatise of gnomonics]
+Fabrica et usus instrumenti ad horologiorum descriptionem peropportuni (in Latin). Roma: Bartolomeo Grassi. 1586.
+Novi calendarii romani apologia. Rome, 1588
+Astrolabium. Rome, 1593
+Horologiorum nova descriptio (in Latin). Roma: Luigi Zanetti. 1599.
+Romani calendarii a Gregorio XIII P.M. restituti explicatio. Rome, 1603 (An explanation of the Gregorian calendar)
+Romani calendarii a Gregorio XIII P.M. restituti explicatio. (European Cultural Heritage Online)
+Romani calendarii a Gregorio XIII P.M. restituti explicatio. (University of Notre Dame)
+Refutatio cyclometriae Iosephi Scaligeri. Mainz, 1609
+Elementorum Libri XV. Cologne, 1627 (Published online by the Sächsischen Landesbibliothek - Staats- und Universitätsbibliothek Dresden)
+Clavius, Christoph (1992). Corrispondenza Edizione critica a cura di Ugo Baldini e Pier Daniele Napolitani. Pisa: Università di Pisa – Dipartimento di Matematica. (Critical edition of his correspondence)Clavius' complete mathematical works (5 volumes, Mainz, 1611–1612) are available online .
+
+See also
+Asteroid 20237 Clavius
+Clavius (crater), a lunar crater named after Clavius
+Clavius Base, located in Clavius crater, in both the novel and film versions of 2001: A Space Odyssey
+Aloysius Lilius
+Computus
+List of Jesuit scientists
+List of Roman Catholic scientist-clerics
+Bracket (mathematics)
+
+References
+Ralf Kern, Wissenschaftliche Instrumente in ihrer Zeit. Cologne, 2010. pp. 254 – 255.
+Lattis, James M. (1994). Between Copernicus and Galileo: Christoph Clavius and the Collapse of Ptolemaic Cosmology. Chicago: University of Chicago Press. ISBN 0-226-46927-1.
+Karl Christian Bruhns (1876), "Clavius, Christoph", Allgemeine Deutsche Biographie (ADB) (in German), vol. 4, Leipzig: Duncker & Humblot, pp. 298–299
+Edmondo Lamalle (1957), "Clavius, Christoph", Neue Deutsche Biographie (in German), vol. 3, Berlin: Duncker & Humblot, p. 279
+Christoph Clavius, Corrispondenza, Edizione critica a cura di Ugo Baldini e Pier Daniele Napolitani, 7 volumes, Edizioni del Dipartimento di Matematica dell'Università di Pisa, Pisa, 1992
+
+External links
+ This article incorporates text from a publication now in the public domain: Herbermann, Charles, ed. (1913). "Christopher Clavius". Catholic Encyclopedia. New York: Robert Appleton Company.
+Christopher Clavius (1537-1612), The Galileo Project
+O'Connor, John J.; Robertson, Edmund F., "Christopher Clavius", MacTutor History of Mathematics Archive, University of St Andrews
+Materialsammlung zur Geschichte von Ingolstadt: Rita Haub: Christoph Clavius
+Online Galleries, History of Science Collections, University of Oklahoma Libraries—High resolution images of works by and/or portraits of Christopher Clavius in JPEG and TIFF formats
+Cristoforo Clavio in the Historical Archives of the Pontifical Gregorian University
+Project Clavius On The Web. A Web platform for the works and literature of Christophorus Clavius, CNR-IIT, CNR-ILC, APUG

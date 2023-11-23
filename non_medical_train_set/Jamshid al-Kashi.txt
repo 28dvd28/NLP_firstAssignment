@@ -1,0 +1,114 @@
+Ghiyāth al-Dīn Jamshīd Masʿūd al-Kāshī (or al-Kāshānī) (Persian: غیاث الدین جمشید کاشانی Ghiyās-ud-dīn Jamshīd Kāshānī) (c. 1380 Kashan, Iran – 22 June 1429 Samarkand, Transoxania) was a Persian astronomer and mathematician during the reign of Tamerlane.
+Much of al-Kāshī's work was not brought to Europe, and still, even the extant work, remains unpublished in any form.
+
+Biography
+Al-Kashi was born in 1380, in Kashan, in central Iran, to a Persian family. This region was controlled by Tamerlane, better known as Timur.
+The situation changed for the better when Timur died in 1405, and his son, Shah Rokh, ascended into power. Shah Rokh and his wife, Goharshad, a Turkish princess, were very interested in the sciences, and they encouraged their court to study the various fields in great depth. Consequently, the period of their power became one of many scholarly accomplishments. This was the perfect environment for al-Kashi to begin his career as one of the world's greatest mathematicians.
+Eight years after he came into power in 1409, their son, Ulugh Beg, founded an institute in Samarkand which soon became a prominent university. Students from all over the Middle East and beyond, flocked to this academy in the capital city of Ulugh Beg's empire. Consequently, Ulugh Beg gathered many great mathematicians and scientists of the Middle East. In 1414, al-Kashi took this opportunity to contribute vast amounts of knowledge to his people. His best work was done in the court of Ulugh Beg.
+Al-Kashi was still working on his book, called “Risala al-watar wa’l-jaib” meaning “The Treatise on the Chord and Sine”, when he died, in 1429. Some state that he was murdered and say that Ulugh Beg probably ordered this, whereas others suggest he died a natural death. Regardless, after his death, Ulugh Beg described him as "a remarkable scientist" who "could solve the most difficult problems".
+
+Astronomy
+Khaqani Zij
+Al-Kashi produced a Zij entitled the Khaqani Zij, which was based on Nasir al-Din al-Tusi's earlier Zij-i Ilkhani. In his Khaqani Zij, al-Kashi thanks the Timurid sultan and mathematician-astronomer Ulugh Beg, who invited al-Kashi to work at his observatory (see Islamic astronomy) and his university (see Madrasah) which taught theology. Al-Kashi produced sine tables to four sexagesimal digits (equivalent to eight decimal places) of accuracy for each degree and includes differences for each minute. He also produced tables dealing with transformations between coordinate systems on the celestial sphere, such as the transformation from the ecliptic coordinate system to the equatorial coordinate system.
+
+Astronomical Treatise on the size and distance of heavenly bodies
+He wrote the book Sullam al-Sama on the resolution of difficulties met by predecessors in the determination of distances and sizes of heavenly bodies, such as the Earth, the Moon, the Sun, and the Stars.
+
+Treatise on Astronomical Observational Instruments
+In 1416, al-Kashi wrote the Treatise on Astronomical Observational Instruments, which described a variety of different instruments, including the triquetrum and armillary sphere, the equinoctial armillary and solsticial armillary of Mo'ayyeduddin Urdi, the sine and versine instrument of Urdi, the sextant of al-Khujandi, the Fakhri sextant at the Samarqand observatory, a double quadrant Azimuth-altitude instrument he invented, and a small armillary sphere incorporating an alhidade which he invented.
+
+Plate of Conjunctions
+Al-Kashi invented the Plate of Conjunctions, an analog computing instrument used to determine the time of day at which planetary conjunctions will occur, and for performing linear interpolation.
+
+Planetary computer
+Al-Kashi also invented a mechanical planetary computer which he called the Plate of Zones, which could graphically solve a number of planetary problems, including the prediction of the true positions in longitude of the Sun and Moon, and the planets in terms of elliptical orbits; the latitudes of the Sun, Moon, and planets; and the ecliptic of the Sun. The instrument also incorporated an alhidade and ruler.
+
+Mathematics
+Law of cosines
+In French, the law of cosines is named Théorème d'Al-Kashi (Theorem of Al-Kashi), as al-Kashi was the first to provide an explicit statement of the law of cosines in a form suitable for triangulation. His other work is al-Risāla al-muhītīyya or "The Treatise on the Circumference".
+
+The Treatise of Chord and Sine
+In The Treatise on the Chord and Sine, al-Kashi computed sin 1° to nearly as much accuracy as his value for π, which was the most accurate approximation of sin 1° in his time and was not surpassed until Taqi al-Din in the sixteenth century. In algebra and numerical analysis, he developed an iterative method for solving cubic equations, which was not discovered in Europe until centuries later.A method algebraically equivalent to Newton's method was known to his predecessor Sharaf al-Dīn al-Tūsī. Al-Kāshī improved on this by using a form of Newton's method to solve 
+  
+    
+      
+        
+          x
+          
+            P
+          
+        
+        −
+        N
+        =
+        0
+      
+    
+    {\displaystyle x^{P}-N=0}
+   to find roots of N. In western Europe, a similar method was later described by Henry Briggs in his Trigonometria Britannica, published in 1633.In order to determine sin 1°, al-Kashi discovered the following formula, often attributed to François Viète in the sixteenth century:
+  
+    
+      
+        sin
+        ⁡
+        3
+        ϕ
+        =
+        3
+        sin
+        ⁡
+        ϕ
+        −
+        4
+        
+          sin
+          
+            3
+          
+        
+        ⁡
+        ϕ
+        
+        
+      
+    
+    {\displaystyle \sin 3\phi =3\sin \phi -4\sin ^{3}\phi \,\!}
+
+The Key to Arithmetic
+Computation of 2π
+In his numerical approximation, he correctly computed 2π to 9 sexagesimal digits in 1424, and he converted this estimate of 2π to 16 decimal places of accuracy. This was far more accurate than the estimates earlier given in Greek mathematics (3 decimal places by Ptolemy, AD 150), Chinese mathematics (7 decimal places by Zu Chongzhi, AD 480) or Indian mathematics (11 decimal places by Madhava of Kerala School, c. 14th Century ). The accuracy of al-Kashi's estimate was not surpassed until Ludolph van Ceulen computed 20 decimal places of π 180 years later. Al-Kashi's goal was to compute the circle constant so precisely that the circumference of the largest possible circle (ecliptica) could be computed with the highest desirable precision (the diameter of a hair).
+
+Decimal fractions
+In discussing decimal fractions, Struik states that (p. 7):
+
+"The introduction of decimal fractions as a common computational practice can be dated back to the Flemish pamphlet De Thiende, published at Leyden in 1585, together with a French translation, La Disme, by the Flemish mathematician Simon Stevin (1548-1620), then settled in the Northern Netherlands. It is true that decimal fractions were used by the Chinese many centuries before Stevin and that the Persian astronomer Al-Kāshī used both decimal and sexagesimal fractions with great ease in his Key to arithmetic (Samarkand, early fifteenth century)."
+
+Khayyam's triangle
+In considering Pascal's triangle, known in Persia as "Khayyam's triangle" (named after Omar Khayyám), Struik notes that (p. 21):
+
+"The Pascal triangle appears for the first time (so far as we know at present) in a book of 1261 written by Yang Hui, one of the mathematicians of the Song dynasty in China. The properties of binomial coefficients were discussed by the Persian mathematician Jamshid Al-Kāshī in his Key to arithmetic of c. 1425. Both in China and Persia the knowledge of these properties may be much older. This knowledge was shared by some of the Renaissance mathematicians, and we see Pascal's triangle on the title page of Peter Apian's German arithmetic of 1527. After this, we find the triangle and the properties of binomial coefficients in several other authors."
+
+Biographical film
+In 2009, IRIB produced and broadcast (through Channel 1 of IRIB) a biographical-historical film series on the life and times of Jamshid Al-Kāshi, with the title The Ladder of the Sky (Nardebām-e Āsmān). The series, which consists of 15 parts, with each part being 45 minutes long, is directed by Mohammad Hossein Latifi and produced by Mohsen Ali-Akbari. In this production, the role of the adult Jamshid Al-Kāshi is played by Vahid Jalilvand.
+
+Notes
+See also
+Numerical approximations of π
+
+References
+Kennedy, Edward S. (1947), "Al-Kashi's Plate of Conjunctions", Isis, 38 (1–2): 56–59, doi:10.1086/348036, S2CID 143993402
+Kennedy, Edward S. (1950), "A Fifteenth-Century Planetary Computer: al-Kashi's "Tabaq al-Manateq" I. Motion of the Sun and Moon in Longitude", Isis, 41 (2): 180–183, doi:10.1086/349146, PMID 15436217, S2CID 43217299
+Kennedy, Edward S. (1951), "An Islamic Computer for Planetary Latitudes", Journal of the American Oriental Society, American Oriental Society, 71 (1): 13–21, doi:10.2307/595221, JSTOR 595221
+Kennedy, Edward S. (1952), "A Fifteenth-Century Planetary Computer: al-Kashi's "Tabaq al-Maneteq" II: Longitudes, Distances, and Equations of the Planets", Isis, 43 (1): 42–50, doi:10.1086/349363, S2CID 123582209
+O'Connor, John J.; Robertson, Edmund F., "Ghiyath al-Din Jamshid Mas'ud al-Kashi", MacTutor History of Mathematics Archive, University of St Andrews
+
+External links
+Schmidl, Petra G. (2007). "Kāshī: Ghiyāth (al‐Milla wa‐) al‐Dīn Jamshīd ibn Masʿūd ibn Maḥmūd al‐Kāshī [al‐Kāshānī]". In Thomas Hockey; et al. (eds.). The Biographical Encyclopedia of Astronomers. New York: Springer. pp. 613–5. ISBN 978-0-387-31022-0. (PDF version)
+Eshera, Osama (2020). "On the Early Collections of the Works of Ġiyāṯ al-Dīn Jamšīd al-Kāšī". Journal of Islamic Manuscripts. 13 (2): 225–262. doi:10.1163/1878464X-01302001. S2CID 248336832.
+Mohammad K. Azarian, A summary of "Miftah al-Hisab", Missouri Journal of Mathematical Sciences, Vol. 12, No. 2, Spring 2000, pp. 75-95
+About Jamshid Kashani
+Sources relating to Ghiyath al-Din Kashani, or al-Kashi, by Jan Hogendijk
+Azarian, Mohammad K. (2004). "Al-Kashi's Fundamental Theorem" (PDF). International Journal of Pure and Applied Mathematics.
+Azarian, Mohammad K. (2015). "A Study of Risa-la al-Watar wa'l Jaib ("The Treatise on the Chord and Sine")" (PDF). Forum Geometricorum.
+Azarian, Mohammad K. (2018). "A Study of Risa-la al-Watar wa'l Jaib ("The Treatise on the Chord and Sine"):Revisited" (PDF). Forum Geometricorum.
+Azarian, Mohammad K. (2009). "The Introduction of Al-Risala al-Muhitiyya: An English Translation" (PDF). International Journal of Pure and Applied Mathematics.

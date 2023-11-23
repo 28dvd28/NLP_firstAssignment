@@ -1,0 +1,26 @@
+The Vicarious Hypothesis, or hypothesis vicaria, was a planetary hypothesis proposed by Johannes Kepler to describe the motion of Mars. The hypothesis adopted the circular orbit and equant of Ptolemy's planetary model as well as the heliocentrism of the Copernican model. Calculations using the Vicarious Hypothesis did not support a circular orbit for Mars, leading Kepler to propose elliptical orbits as one of three laws of planetary motion in Astronomia Nova.
+
+History
+In 1600, Johannes Kepler met and began working with Tycho Brahe at Benátky, a town north of Prague where Brahe's new observatory was being built. Brahe assigned Kepler the task of modeling the motion of Mars using only data that Brahe had collected himself. Upon the death of Brahe in 1601, all of Brahe's data was willed to Kepler. Brahe's observational data was among the most accurate of his time, which Kepler used in the construction of the Vicarious Hypothesis.
+
+Predecessors
+Ptolemy
+Claudius Ptolemy's planetary model consisted of a stationary earth surrounded by fixed circles, called deferents, which carried smaller, rotating circles called epicycles. Planets rotated on the epicycles as the epicycles traveled along the deferent. Ptolemy shifted the Earth away from the center of the deferent and introduced another point, the equant, equidistant to the deferent's center on the opposite side of the Earth.The Vicarious Hypothesis uses a circular orbit for Mars and reintroduces a form of the equant to describe the motion of Mars with constant angular speed.
+
+Copernicus
+Nicolaus Copernicus broke from the geocentric model of Ptolemy by placing the Sun at the center of his planetary model. However, Copernicus retained circular orbits for the planets and added an orbit for the Earth, insisting that the Earth revolved around the Sun. The Sun was positioned off-center of the orbits but was still contained within all orbits.
+Kepler adopted Copernican heliocentrism in the construction of the Vicarious Hypothesis so that his measurements of the distances to Mars were taken relative to the Sun.
+
+Development
+Kepler's construction of the Vicarious Hypothesis was based on a circular orbit for Mars and a heliocentric model for the planets.  After receiving longitudinal observation data from Tycho Brahe, Kepler had twelve observations, two being his own, in which Mars was at opposition to the Sun. From these twelve observations, Kepler chose four to form the basis of the Vicarious Hypothesis because they had a relatively uniform distribution across his proposed circular orbit for Mars. In this sense, the Vicarious Hypothesis functions as a fit to observational data. Kepler used these four observations to determine the eccentricities of the Sun and equant of his proposed orbit. Unlike the Ptolemaic System, in which the Earth and equant were assumed equidistant to the center of the orbit, the Vicarious Hypothesis placed the equant where the time and location of the observation would match.Using the Vicarious Hypothesis, Kepler determined the eccentricities of the Sun and equant to be 11,332 and 7,232 arbitrary units, respectively, for the Martian orbital radius of 100,000 units. Using these positions for the Sun and equant, the model constructed using the Vicarious Hypothesis agreed with the twelve observations within 2' of arc, a level of accuracy better than any other previous model. While the heliocentric longitudes of this model proved to be accurate, distances from the Sun to Mars, or latitudes of Mars, challenged the model. In his book, Astronomia Nova, Kepler determined that the eccentricity of the Sun, based on latitudinal oppositions, should be between a range of 8,000 and 9,943, conflicting with the eccentricity of 11,332 determined by the Vicarious Hypothesis. To accommodate the latitudinal data, Kepler modified the Vicarious Hypothesis to include a bisected eccentricity, making the Sun and equant equidistant to the center of the orbit. This resolved the error in the latitudes of Mars but introduced a longitudinal error of 8' of arc in some parts of the Mars orbit. While an 8' error still had better accuracy than previous models, corresponding to approximately one-fourth the diameter of the Moon, Kepler rejected the Vicarious Hypothesis because he did not believe it was accurate enough to model the true orbit of Mars.
+
+Historical Significance
+The errors in latitude and longitude of the Mars orbit made Kepler realize that false assumptions were made using the Vicarious Hypothesis. In particular, Kepler amended the hypothesis to exclude the circular orbit. Kepler realized that he could fix the error by reducing the spread of the central region of the circular orbit, creating an ellipse. He used calculations previously made with the Vicarious Hypothesis to confirm the elliptical orbit for Mars. Kepler published his results in Astronomia Nova, in which he introduces the elliptical orbit for planets as his first law of planetary motion.
+
+See also
+Kepler Orbit
+History of Astronomy
+Orbital Elements
+
+
+== References ==

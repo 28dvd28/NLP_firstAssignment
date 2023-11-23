@@ -1,0 +1,25 @@
+Thyroglobulin (Tg) is a 660 kDa, dimeric glycoprotein produced by the follicular cells of the thyroid and used entirely within the thyroid gland. Tg is secreted and accumulated at hundreds of grams per litre in the extracellular compartment of the thyroid follicles, accounting for approximately half of the protein content of the thyroid gland. Human TG (hTG) is a homodimer of subunits each containing 2768 amino acids as synthesized (a short signal peptide of 19 amino acids may be removed from the N-terminus in the mature protein).Thyroglobulin is in all vertebrates the main precursor to thyroid hormones, which are produced when thyroglobulin's tyrosine residues are combined with iodine and the protein is subsequently cleaved. Each thyroglobulin molecule contains approximately 16 tyrosine residues, but only a small number 10 of these are subject to iodination by thyroperoxidase in the follicular colloid. Therefore, each Tg molecule forms approximately 10 thyroid hormone molecules.
+
+Function
+Thyroglobulin (Tg) acts as a substrate for the synthesis of the thyroid hormones thyroxine (T4) and  triiodothyronine (T3), as well as the storage of the inactive forms of thyroid hormone and iodine within the follicular lumen of a thyroid follicle.Newly synthesized thyroid hormones (T3 and T4) are attached to thyroglobulin and comprise the colloid within the follicle. When stimulated by thyroid stimulating hormone (TSH), the colloid is endocytosed from the follicular lumen into the surrounding thyroid follicular epithelial cells. The colloid is subsequently cleaved by proteases to release thyroglobulin from its T3 and T4 attachments.The active forms of thyroid hormone: T3 and T4, are then released into circulation where they are either unbound or attached to plasma proteins, and thyroglobulin is recycled back into the follicular lumen where it can continue to serve as a substrate for thyroid hormone synthesis.
+
+Clinical significance
+Half-life and clinical elevation
+Metabolism of thyroglobulin occurs in the liver via thyroid gland recycling of the protein. Circulating thyroglobulin has a half-life of 65 hours. Following thyroidectomy, it may take many weeks before thyroglobulin levels become undetectable. Thyroglobulin levels may be tested regularly for a few weeks or months following the removal of the thyroid. After thyroglobulin levels become undetectable (following thyroidectomy), levels can be serially monitored in follow-up of patients with papillary or follicular thyroid carcinoma.A subsequent elevation of the thyroglobulin level is an indication of recurrence of papillary or follicular thyroid carcinoma. In other words, a rise in thyroglobulin levels in the blood may be a sign that thyroid cancer cells are growing and/or the cancer is spreading. Hence, thyroglobulin levels in the blood are mainly used as a tumor marker for certain kinds of thyroid cancer (particularly papillary or follicular thyroid cancer).  Thyroglobulin is not produced by medullary or anaplastic thyroid carcinoma.
+Thyroglobulin levels are tested via a simple blood test. Tests are often ordered after thyroid cancer treatment.
+
+Thyroglobulin antibodies
+In the clinical laboratory, thyroglobulin testing can be complicated by the presence of anti-thyroglobulin antibodies (ATAs, alternatively referred to as TgAb). Anti-thyroglobulin antibodies are present in 1 in 10 normal individuals, and a greater percentage of patients with thyroid carcinoma. The presence of these antibodies can result in falsely low (or rarely falsely high) levels of reported thyroglobulin, a problem that can be somewhat circumvented by concomitant testing for the presence of ATAs. The ideal strategy for a clinician's interpretation and management of patient care in the event of confounding detection of ATAs is testing to follow serial quantitative measurements (rather than a single laboratory measurement).
+ATAs are often found in patients with Hashimoto's thyroiditis or Graves' disease. Their presence is of limited use in the diagnosis of these diseases, since they may also be present in healthy euthyroid individuals. ATAs are also found in patients with Hashimoto's encephalopathy, a neuroendocrine disorder related to—but not caused by—Hashimoto's thyroiditis.
+
+Interactions
+Thyroglobulin has been shown to interact with Binding immunoglobulin protein.
+
+References
+Further reading
+External links
+First look at the structure of human TG
+Thyroglobulin – Lab Tests Online
+Histology at KUMC endo-endo11
+Overview at colostate.edu
+Histology image: 14302loa – Histology Learning System at Boston University

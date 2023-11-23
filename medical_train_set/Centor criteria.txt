@@ -1,0 +1,30 @@
+The Centor criteria are a set of criteria which may be used to identify the likelihood of a bacterial infection in adult patients complaining of a sore throat. They were developed as a method to quickly diagnose the presence of Group A streptococcal infection or diagnosis of streptococcal pharyngitis in "adult patients who presented to an urban emergency room complaining of a sore throat." The Centor criteria are named after Robert M. Centor, an internist at the University of Alabama at Birmingham School of Medicine.
+
+Criteria
+The patients are judged on four criteria, with one point added for each positive criterion:
+Absence of cough
+Tonsillar exudates (ooze)
+History of fever
+Tender anterior cervical adenopathyThe modified Centor criteria also incorporate the patient's age:
+Age under 15 add 1 point
+Age over 44 subtract 1 point
+
+Mnemonic using criteria name
+A mnemonic to remember Centor is:
+C – Cough absent, or the incorrect but memorable "Can't Cough"
+E – Exudate
+N – Nodes
+T – temperature (fever)
+OR – young OR old modifier
+
+Scoring
+The point system is important in that it dictates management.
+Scores may range from −1 to 5.
+Guidelines for management state:
+-1, 0 or 1 point(s) – No antibiotic or throat culture necessary (risk of strep. infection <10%)
+2 or 3 points – Should receive a throat culture and treat with an antibiotic if culture is positive (risk of strep. infection 32% if 3 criteria, 15% if 2)
+4 or 5 points – Consider rapid strep testing and or culture. (Risk of strep. infection 56%) – Infectious Diseases Society of America and American College of Physicians no longer recommend empiric treatment for strep based on symptomatology alone.In the UK there is not a differentiator for age, and score ranges from 0 to 4, with 3–4 being offered treatment and no indication for swabs.The presence of all four variables indicates a 40–60% positive predictive value for a culture of the throat to test positive for Group A streptococcus bacteria.  The absence of all four variables indicates a negative predictive value of greater than 80%. The high negative predictive value suggests that the Centor criteria can be more effectively used for ruling out strep throat than for diagnosing strep throat.The Centor criteria were originally developed for adults.  A study published in the British Medical Journal in 2013 looked at whether it could be applied to children aged 2–16.  It was a retrospective study (2008–2010) and looked at 441 children who attended a Belgian hospital emergency department and had a throat swab taken.  It concluded that the Centor criteria are ineffective in predicting the presence of Group A beta-haemolytic streptococcus (i.e. antibiotic treatment-worthy) on throat swab cultures in children. A better score is the FeverPAIN score which is more evidence based
+
+References
+
+Chan TV (September 2010). "The Patient with Sore Throat". Medical Clinics of North America. 94 (5): 923–943. doi:10.1016/j.mcna.2010.06.001. PMC 7094485. PMID 20736104.

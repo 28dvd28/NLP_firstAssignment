@@ -1,0 +1,7 @@
+Spillover effect can be defined as an apparent gain in activity for small objects or regions, as opposed to the partial volume effect. It occurs often in biological imaging modalities such as positron emission tomography (PET) and single-photon emission computed tomography (SPECT) because of their limited spatial resolution. Although partial volume effect and spillover refer to essentially the same physical problem, it is important to distinguish the outcome of these two different effects. For partial volume effect, the apparent loss of activity in the object is distributed across adjacent voxels, which are considered outside the object, resulting in increase in activity in these voxels.  This increase in activity is referred to as spillover, whereas loss in activity is referred to as partial volume loss.
+
+See also
+Partial volume (imaging)
+
+
+== References ==

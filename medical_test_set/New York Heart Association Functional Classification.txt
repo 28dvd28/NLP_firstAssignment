@@ -1,0 +1,10 @@
+The New York Heart Association (NYHA) Functional Classification provides a simple way of classifying the extent of heart failure. It places patients in one of four categories based on how much they are limited during physical activity; the limitations/symptoms are in regard to normal breathing and varying degrees in shortness of breath and/or angina.
+It originated in 1928, when no measurements of cardiac function were possible, to provide a common language for physicians to communicate. Despite difficulties in applying it, such as the challenge of consistently classifying patients in class II or III, because functional capacity is such a powerful determinant of outcome, it remains arguably the most important prognostic marker in routine clinical use in heart failure today. With time the classification system evolved and updated multiple times. Presently, the ninth edition of the NYHA classification is being used in the clinical practice released in the year 1994 by the Criteria Committee of the American Heart Association, New York City Affiliate.
+Another frequently used functional classification of cardiovascular disease is the Canadian Cardiovascular Society grading of angina pectoris.
+
+See also
+Canadian Cardiovascular Society grading of angina pectoris
+European Heart Rhythm Association score of atrial fibrillation
+
+
+== References ==

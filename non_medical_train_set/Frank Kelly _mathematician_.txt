@@ -1,0 +1,28 @@
+Francis Patrick Kelly, CBE, FRS (born 28 December 1950) is Professor of the Mathematics of Systems at the Statistical Laboratory, University of Cambridge. He served as Master of Christ's College, Cambridge from 2006 to 2016.
+Kelly's research interests are in random processes, networks and optimisation, especially in very large-scale systems such as telecommunication or transportation networks. In the 1980s, he worked with colleagues in Cambridge and at British Telecom's Research Labs on Dynamic Alternative Routing in telephone networks, which was implemented in BT's main digital telephone network. He has also worked on the economic theory of pricing to congestion control and fair resource allocation in the internet. From 2003 to 2006 he served as Chief Scientific Advisor to the United Kingdom Department for Transport.
+Kelly was elected a Fellow of the Royal Society in 1989. In December 2006 he was elected 37th Master of Christ's College, Cambridge. He was appointed Commander of the Order of the British Empire (CBE) in the 2013 New Year Honours for services to mathematical science.
+
+Awards
+1979 Davidson Prize of the University of Cambridge
+1989 Guy Medal in Silver of the Royal Statistical Society
+1989 Fellow of the Royal Society
+1992 Lanchester Prize of the Institute for Operations Research and the Management Sciences
+1997 Naylor Prize of the London Mathematical Society
+2001 Honorary D.Sc. from Heriot-Watt University
+2005 IEEE Koji Kobayashi Computers and Communications Award
+2006 Companionship of OR by the Operational Research Society
+2008 John von Neumann Theory Prize of the Institute for Operations Research and the Management Sciences
+2009 SIGMETRICS Achievement Award
+2009 EURO Gold Medal from European Operational Research Society
+2013 Commander of the Order of the British Empire in the New Years Honours List for "services to mathematical sciences"
+2015 IEEE Alexander Graham Bell Medal, for  "Creating principled mathematical foundations for the design and analysis of congestion control, routing, and blocking in modern communication networks"
+2015 David Crighton Medal of the London Mathematical Society and Institute of Mathematics and its Applications
+
+Works
+Kelly, F. P. (1994). Probability, statistics and optimisation: A Tribute to Peter Whittle. Chichester: John Wiley & Sons.
+
+References
+External links
+Frank Kelly's homepage. Retrieved 8 December 2006
+Biography from Frank Kelly's website. Retrieved 8 December 2006
+Who's Who

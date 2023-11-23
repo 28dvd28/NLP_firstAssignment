@@ -1,0 +1,75 @@
+This is a list of definitions of commonly used terms of location and direction in dentistry. This set of terms provides orientation within the oral cavity, much as anatomical terms of location provide orientation throughout the body.
+
+Terms
+AnteriorThe direction toward the front of the head or the lips, as opposed to posterior, which refers to the directions toward the back of an individual's head.  The term anterior teeth refers to incisors and canines, as opposed to premolars and molars, which are posterior teeth.
+
+ ApicalThe direction toward the root tip(s) or apex(es) of a tooth (the apices), as opposed to coronal, which refers to the direction toward the crown.  It may also refer to something relating to the roots, such as apical support.  When referring to direction in relation to entities on or of the crown, this term can be synonymous with both cervical and gingival.
+
+ ApproximalSurfaces which form points of contact between adjacent teeth.
+
+ AxialA plane parallel to the surface of a tooth.  For example, if a drill bur would be inserted into a tooth from any side (proximal, vestibular, oral), the depth of the hole is defined from the axial wall of the hole (from the long axis walls (vertical surfaces bounding the tooth)).
+
+ BuccalThe side of a tooth that is adjacent to (or the direction toward) the inside of the cheek, as opposed to lingual or palatal (both oral), which refer to the side of a tooth adjacent to (or the direction toward) the tongue or palate, respectively.  Although technically referring only to posterior teeth (where the cheeks are present instead of lips, use of this term has incorrectly extended to all teeth, anterior and posterior), this term has inaccurately been employed to describe the vestibular surface of (or directions in relation to) anterior teeth as well.
+
+ CervicalMeans neck in Latin (as in cervical vertebrae), and refers to the narrowing of the contours of the tooth surface at or near the CEJ, where the crown meets the root.  When referring to direction in relation to entities on or of the crown, it is nearly synonymous with both apical and gingival.
+
+ CoronalThe direction toward the crown of a tooth, as opposed to apical, which refers to the direction toward the tip(s) of the root(s) or apex(es).  It may also refer to something relating to the crown, such as coronal forces.
+
+ DistalThe direction toward the gingiva beyond the tooth furthest from the anterior midline (the 'most posterior tooth' or last tooth) in each quadrant of a dental arch, as opposed to mesial, which refers to the direction toward the anterior midline.  Each tooth can be described as having a distal surface and, for posterior teeth, a distobuccal (DB) and a distolingual (DL) corner or cusp.
+
+ FacialThe side of a tooth that is adjacent to (or the direction toward) the inside of the lips, as opposed to lingual or palatal (both oral), which refer to the side of a tooth adjacent to (or the direction toward) the tongue or palate, respectively, of the oral cavity.  However, this term has been incorrectly used for both buccal and labial, being also applied to the side of a tooth that is adjacent to (or the direction toward) the inside of the cheek (instead of the more accurate term, vestibular).
+
+ GingivalThe direction toward the gingiva (gums), synonymous with cervical and similar to apical.  However, locations on teeth already more apical to the interface of the crown and root, referred to as the CEJ, tend not to be described using this term, as it would lead to confusion, as the exact definition is ambiguous.  Additionally, this term would not be used when referring to a tooth ex vivo.
+
+ IncisalThe direction toward the biting edge of anterior teeth or something relating to this edge, such as the terms incisal guidance or incisal edge.  This is the sister term to occlusal, which related to the analogous location on posterior teeth.
+
+ InferiorThe direction toward the feet of a human's body, as opposed to superior, which refers to the direction toward the head.  However, use of these terms should enjoy only limited usage when discussing features of a tooth, as, for example, something more inferior on a mandibular tooth will be situated more superior on a maxillary tooth, as they exhibit an inverted relationship.  It is for this reason that the terms coronal and apical are substituted.
+
+ InterproximalAn adjective meaning between teeth. For example, interproximal teeth refers to the space between adjacent teeth.
+
+ LabialThe side of a tooth that is adjacent to (or the direction toward) the inside of the lip (labium), as opposed to lingual or palatal (both oral), which refer to the side of a tooth adjacent to (or the direction toward) the tongue or palate, respectively, of the oral cavity.  Although technically referring only to anterior teeth (where the lips (labia) are present instead of cheeks), use of the term labial has inaccurately extended to all teeth, anterior and posterior (instead of vestibular).
+
+ LateralA tooth which is away from the midline, such as lateral incisor, or the sides of a tooth.
+
+ LingualThe side of a tooth adjacent to (or the direction toward) the tongue (lingua, compare linguistics and language), as opposed to buccal, labial, or vestibular which refer to the side of a tooth adjacent to (or the direction toward) the inside of the cheek or lips, respectively.  Although this term is technically specific to the mandible, it enjoys extensive use in reference to the maxilla as well (see Palatal).
+
+ MandibularEntities related to the mandible, or lower jaw.
+
+ MarginalA number of different 'margins' are involved in dentistry.  The edge of tooth structure that is prepared to meet the edge of a prosthetic crown is called a margin, as is the aforementioned edge of the crown; an example of this usage would be "a poorly fitting crown might exhibit marginal leakage."  The gingiva and bone that abut the teeth are referred to as 'marginal', as in marginal periodontitis.  The bulk of tooth structure on the occlusal surface at the point of contact of posterior teeth is referred to as the marginal ridge.
+
+ MaxillaryEntities related to the maxilla, or upper jaw.
+
+ MesialThe direction toward the anterior midline in a dental arch, as opposed to distal, which refers to the direction toward the gingiva beyond the tooth furthest from the anterior midline (the 'most posterior tooth' or last tooth) in each quadrant.  Each tooth can be described as having a mesial surface and, for posterior teeth, a mesiobuccal (MB) and a mesiolingual (ML) corner or cusp.
+
+ MidlineMain article: Dental midline. Roughly, an imaginary vertical line dividing the left and right sides of the mouth at the teeth.
+
+ Occlusal The direction toward the biting surface of posterior teeth or something relating to this surface, such as the terms occlusal interference or occlusal surface. This is the sister term to incisal, which related to the analogous location on anterior teeth.
+
+ OralThe side of a tooth adjacent to (or the direction toward) the oral cavity, as opposed to buccal, labial or vestibular, which refer to the side of a tooth adjacent to (or the direction toward) the inside of the cheek, lips or vestibule respectively.  Oral includes both  palatal and lingual.  Alternatively, lingual has been used as a blanket term instead although this specifically refers only to the side of a tooth that is adjacent to (or the direction toward) the tongue, technically specific to the mandible.
+
+ PalatalThe side of a tooth adjacent to (or the direction toward) the palate, as opposed to buccal, labial or vestibular which refer to the side of a tooth adjacent to (or the direction toward) the inside of the cheek, lips and vestibule of the mouth respectively. This term is strictly used in the maxilla.
+
+ PosteriorThe direction toward the back of an individual's head, as opposed to anterior, which refers to the directions toward an individual's lips. The term posterior teeth refers to premolars and molars, as opposed to incisors and canines, which are anterior teeth.
+
+ProximalThe surfaces of teeth that normally lie adjacent to another tooth.  Proximal includes both mesial and distal, such as when referring to the proximal surfaces of teeth.
+
+ Quadrant The dentition is divided into four quarters. The two dental arches form an oval, which is divided into quadrants which are numbered from 1 to 4:Upper right quadrant: upper right first incisor to upper right wisdom tooth
+Upper left quadrant: upper left first incisor to upper left wisdom tooth
+Lower right quadrant: lower right first incisor to lower right wisdom tooth
+Lower left quadrant: lower left first incisor to lower left wisdom tooth
+ SextantOne of six groups of adjacent teeth, excluding the wisdom teeth. The front sextants go from canine to canine, and there are sextants on the right and left of these. See Periodontal examination.
+
+ SuperiorThe direction toward the head of a human's body, as opposed to inferior, which refers to the direction toward the feet.  However, use of these terms should enjoy only limited use when discussing features of a tooth, as, for example, something more superior on a mandibular tooth will be situated more inferior on a maxillary tooth, as they exhibit an inverted relationship.  It is for this reason that the terms coronal and apical are substituted.
+
+ VestibularThe side of a tooth that is adjacent to (or the direction toward) the inside of the cheeks and lips, as opposed to lingual or palatal (both oral), which refer to the side of a tooth adjacent to (or the direction toward) the tongue or palate, respectively, of the oral cavity.  Vestibular includes both buccal and labial. Alternatively, the term facial has been used instead although this specifically refers only to the side of a tooth that is adjacent to (or the direction toward) the inside of the lips, as opposed to lingual or palatal (both oral), and not the cheeks.
+
+Combining of terms
+Most of the principal terms can be combined using their corresponding combining forms (such as mesio- for mesial and disto- for distal). They provide names for directions (vectors) and axes; for example, the coronoapical axis is the long axis of a tooth. Such combining yields terms such as those in the following list. The abbreviations should be used only in restricted contexts, where they are explicitly defined and help avoid extensive repetition (for example, a journal article that uses the term "mesiodistal" dozens of times might use the abbreviation "MD"). The abbreviations are ambiguous: (1) they are not specific to these terms; (2) they are not even one-to-one specific within this list; and (3) some of the combined terms are little used, and the abbreviations of the latter are even less used. Therefore, spelling out is best.
+The combined terms include apicocoronal (AC), buccoapical (BA), buccocervical (BC), buccogingival (BG), buccolabial (BL), buccolingual (BL), bucco-occlusal (BO), buccopalatal (BP), coronoapical (CA), distoapical (DA), distobuccal (DB), distocervical (DC), distocoronal (DC), distogingival (DG), distolingual (DL), disto-occlusal or distoclusal (DO), distopalatal (DP), linguobuccal (LB), linguo-occlusal (LO), mesioapical (MA), mesiobuccal (MB), mesiocervical (MC), mesiocoronal (MC), mesiodistal (MD), mesiogingival (MG), mesio-occlusal or mesioclusal (MO), mesiopalatal (MP).
+
+See also
+Anatomical terms of location
+
+References
+External links
+Glossary of dental terms on Wiktionary

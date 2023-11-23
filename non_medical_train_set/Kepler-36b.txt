@@ -1,0 +1,4 @@
+Kepler-36b is an exoplanet orbiting the star Kepler-36. This planet has the closest conjunction to Kepler-36c every 97 days. Its density is similar to that of iron.During their closest approach, Kepler-36b and Kepler-36c are located only 0.013 AU (about 1,900,000 km) from each other, which causes extreme transit-timing variations for both planets. Transit-timing variations caused by Kepler-36c are strong enough to put narrow constraints on Kepler-36b's mass. The close proximity of the planet to its host star combined with its relatively low mass caused the planet to lose all or most of its primordial hydrogen/helium envelope.
+
+
+== References ==

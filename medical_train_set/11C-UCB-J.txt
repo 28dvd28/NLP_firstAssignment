@@ -1,0 +1,4 @@
+11C-UCB-J is a PET tracer for imaging the synaptic vesicle glycoprotein 2A in the human brain.It is used to study the brain changes associated with several diseases including Alzheimer's disease, schizophrenia, and depression.
+
+
+== References ==

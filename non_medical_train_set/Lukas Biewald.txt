@@ -1,0 +1,31 @@
+Lukas Biewald (born 1981 in Massachusetts) is an entrepreneur living in San Francisco, California. Biewald was the co-founder and CEO of Figure Eight Inc. (formerly CrowdFlower) which he co-founded in December 2007 with Chris Van Pelt. In 2019, Biewald sold Figure Eight to Appen for 300 million dollars.In 2018, Biewald co-founded Weights & Biases, an AI developer platform that creates developer tools for machine learning, with Chris Van Pelt and Shawn Lewis. He is also the host of Gradient Dissent, a machine learning podcast.
+
+Early Life
+As a child, Biewald was a fan of watching PBS science documentaries. He was drawn in and fascinated by the potential of AI and its ability to create and replicate human behavior with technology. In an interview, he noted: "The idea that computers could learn to do things on their own just seemed amazing to me. It always kind of felt like humanity’s last project."
+
+Education
+Biewald holds a B.S. in Mathematics and an M.S. in Computer Science from Standford University. He was also a research assistant in Daphne Koller's group in the Stanford AI Lab.
+
+Career
+Prior to co-founding Figure Eight, Biewald was a Senior Scientist and Manager within the Ranking and Management Team at Powerset, a natural language search technology company later acquired by Microsoft.
+From 2005 to 2006, Biewald led the Search Relevance Team for Yahoo! Japan, where he focused on using statistical machine learning approaches to improve the web search ranking function for international markets.
+
+Awards and honors
+Biewald and Van Pelt launched CrowdFlower as a product of Dolores Labs at TechCrunch50 in 2009, where the company placed as a finalist.
+In 2010, he won the Netexplorateur Prize for creating the GiveWork iPhone app, which allows users to perform small tasks that assist refugees and people in developing countries.
+In 2021, Inc. Magazine included Biewald and Van Pelt on its list of the Top 30 Entrepreneurs Under 30.
+
+Academic life
+Biewald holds an MS in Computer Science and a BS in Mathematics from Stanford University.
+While pursuing his Master's in Computer Science at Stanford University, Biewald won the California Institute of Technology Turing Tournament.He is the author of several academic papers  on applications of crowdsourcing, as well as a chapter on crowdsourcing gender and age stereotypes in O'Reilly Media's Beautiful Data that he co-authored with Brendan O'Connor.
+
+Publications
+Word-Sense Disambiguation for Machine Translation, by David Vickrey, Lukas Biewald, Marc Teyssier, Daphne Koller. EMNLP, October, 2005
+Combining Visualization and Statistical Analysis to Improve Operator Confidence and Efficiency for Failure Detection and Localization by Peter Bodik, Greg Friedman, Lukas Biewald, Helen Levine, George Candea, Kayur Patel, Gilman Tolle, Jon Hui, Armando Fox, Michael I. Jordan, David Patterson. ICAC. June, 2005
+Superficial Data Analysis: Exploring Millions of Social Stereotypes by Lukas Biewald, Brendan O’Connor. O’Reilly July, 2009
+
+Media appearances
+Biewald appeared in an episode of Hidden in Plain Sight entitled "Deep Learning is Eating the World", where he discussed software evolution and the effect of machine learning on humanity.
+
+
+== References ==

@@ -1,0 +1,13 @@
+Kepler-102 is a star 353 light-years (108 parsecs) away in the constellation of Lyra. Kepler-102 is less luminous than the Sun. The star system does not contain any observable amount of dust. Kepler-102 is suspected to be orbited by a binary consisting of two red dwarf stars, at projected separations of 591 and 627 AU.
+
+Planetary system
+In January 2014, a system of five planets around the star was announced, three of them being smaller than Earth. While 3 of the transit signals were discovered during the first year of the Kepler mission, their small size made them hard to confirm as possibilities of these being false positives were needed to be removed. Later, two other signals were detected. Follow-up radial velocity data helped to determine the mass of the two largest planets (Kepler-102d and Kepler-102e).By 2017, the search for additional planets utilizing the transit-timing variation method had yielded zero results, although the presence of planets with semimajor axis beyond 10 AU cannot be excluded.
+
+See also
+55 Cancri
+Kepler-37
+Kepler-20
+Kepler-33
+
+
+== References ==

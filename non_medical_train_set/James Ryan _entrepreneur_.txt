@@ -1,0 +1,16 @@
+James Ryan (born in 1974, Anchorage, Alaska) is an American entrepreneur in cyber security. He is the co-founder and managing partner of Litmus Logic, a security firm. Ryan's contributions to the cyber security industry are known through The Economist and The History Channel.
+
+Life
+Ryan was born in Anchorage, Alaska in 1974.  He holds a Bachelor and Master of Science in Electrical Engineering from Virginia Tech.  Ryan currently resides in Northern Virginia with his wife Kidist, and three children. As a motivational trainer, Ryan was included in the book “Lifting the Curtain: the disgrace we call urban high school education”.
+
+Career
+Ryan is the founder and Managing Partner since 2002, of Litmus Logic, LLC, a boutique firm that provides expertise in security and privacy,  cyber defense, trust strategies and Internet technologies. He serves as Chief Strategy Officer for the Cyber Security Summit,  and the Minnesota Innovation Lab, a State-level economic development organization. Ryan was one of the experts who contributed to  The Economics of Digital Identity,  a 2015 technical report published by The Economist Intelligence Unit.  From 1993 to 1997, he was a software engineer at TRW; from 1997 to 1998, a system engineer at Lockheed Martin; from 1998 to 1999, a security and network expert at Lucent Technologies (now Alcatel-Lucent); from 1999 to 2002, a  principal consultant and security and network expert at Predictive Systems.
+Ryan who has knowledge in cyber security and trust framework, consults with governments, defense and financial institutions, software and Cloud providers, The United States Department of Defense (DoD) and civil agencies. He spoke at the United States Department of Defense Cyber Crime conference, Robotics Alley, the Cyber Security Summit and Security360. Topics of his speeches included success with cyber security, Public key infrastructure (PKI), Internet of Things, cyber security for robotics and artificial intelligence, and National Strategy for Trusted Identities in Cyberspace.
+
+Works
+Ryan has collaborated with NASA and Electronic Data Systems (EDS) in creating the Identity Credential and Access Management (ICAM) segment architecture, the Personal Identity Verification – Interoperable (PIV-I) trust framework, a new approach to access control that uses Public Key Infrastructure (PKI). He was featured together with Oliver North in the History Channel program “America’s Book of Secrets: The Pentagon” in March 2012.
+
+References
+External links
+Ryan at Cyber Security Summit 2017
+Founder of Litmus Logic

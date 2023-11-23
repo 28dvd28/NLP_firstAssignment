@@ -1,0 +1,33 @@
+Kepler-62e (also known by its Kepler Object of Interest designation KOI-701.03) is a super-Earth exoplanet (extrasolar planet) discovered orbiting within the habitable zone of Kepler-62, the second outermost of five such planets discovered by NASA's Kepler spacecraft.  Kepler-62e is located about 990 light-years (300 parsecs) from Earth in the constellation of Lyra.  The exoplanet was found using the transit method, in which the dimming effect that a planet causes as it crosses in front of its star is measured. Kepler-62e may be a terrestrial or ocean-covered planet; it lies in the inner part of its host star's habitable zone.Kepler-62e orbits its host star every 122 days and is roughly 60 percent larger (in diameter) than Earth.
+
+Physical characteristics
+Mass, radius and temperature
+Kepler-62e is a super-Earth with a radius 1.61 times that of Earth. This is just above the 1.6 R🜨 limit above which planets  may be more gaseous than they are rocky, so Kepler-62e may likely be a mini-Neptune. It has an equilibrium temperature of 270 K (−3 °C; 26 °F). It has an estimated mass of 4.5 MEarth, although the true value cannot be determined; upper limits place it at 36 MEarth, which is unlikely to be true.
+
+Host star
+The planet orbits a (K-type) star named Kepler-62, orbited by a total of five planets. The star has a mass of 0.69 M☉ and a radius of 0.64 R☉. It has a temperature of 4,925 K (4,652 °C; 8,405 °F) and is 7 billion years old. In comparison, the Sun is 4.6 billion years old and has a temperature of 5,778 K (5,505 °C; 9,941 °F). The star is somewhat metal-poor, with a metallicity ([Fe/H]) of −0.37, or 42% of the solar amount. Its luminosity (L☉) is 21% that of the Sun.The star's apparent magnitude, or how bright it appears from Earth's perspective, is 13.65 and therefore too dim to be seen with the naked eye.
+
+Orbit
+Kepler-62e orbits its host star with an orbital period of 122.3 days at a distance of about 0.42 AU (compared to the distance of Mercury from the Sun, which is about 0.38 AU (57 million km; 35 million mi)). A 2016 study came to a conclusion that the orbits of Kepler-62f and Kepler-62e are likely in a 2:1 orbital resonance. This means that for every two orbits of planet "e", "f" completes one around its star. Kepler-62e receives 20% more light from its star than Earth does from the Sun.
+
+Habitability
+Given the planet's age (7 ± 4 billion years), stellar flux (1.2 ± 0.2 times Earth's) and radius (1.61 ± 0.05 times Earth's), a rocky (silicate-iron) composition with the addition of a possibly substantial amount of water is considered plausible. A modeling study suggests it is likely that a great majority of planets in Kepler-62e's size range are completely covered by ocean.However, given that some studies show that super-Earths above 1.6 R🜨 may have a volatile-rich composition (similar to a mini-Neptune), and Kepler-62e's radius is estimated to be 1.61 R🜨, it may be a gaseous planet with no definite surface, and thus may not be habitable to known terrestrial life forms.Another factor that is critical is the stellar flux for Kepler-62e: at 20% more than that which Earth receives from the Sun, it is possible that the surface temperature of Kepler-62e may be over 350 K (77 °C; 170 °F), enough to trigger a runaway greenhouse effect. Such flux may reduce the habitability factors.
+
+Discovery and cultural impact
+In 2009, NASA's Kepler spacecraft was completing observing stars on its photometer, the instrument it uses to detect transit events, in which a planet crosses in front of and dims its host star for a brief and roughly regular period of time. In this last test, Kepler observed 50,000 stars in the Kepler Input Catalog, including Kepler-62; the preliminary light curves were sent to the Kepler science team for analysis, who chose obvious planetary companions from the group to examine further at observatories. Observations for the potential exoplanet candidates took place between 13 May 2009 and 17 March 2012. After observing the respective transits, which for Kepler-62e occurred roughly every 122 days (its orbital period), it was eventually concluded that a planetary body was responsible for the periodic dimming. This discovery and details about the planetary system of the star Kepler-69 were announced on April 18, 2013.On 9 May 2013, a congressional hearing Archived 2014-12-06 at the Wayback Machine by two U.S. House of Representatives subcommittees discussed "Exoplanet Discoveries: Have We Found Other Earths?," prompted by the discovery of exoplanet Kepler-62f, along with Kepler-62e and Kepler-69c. A related special issue of the journal Science, published earlier, described the discovery of the exoplanets.  Kepler-62f and the other Kepler-62 exoplanets are being specially targeted as part of the SETI search programs.At a distance of nearly 1,200 light-years (370 pc), Kepler-62e is too remote and its star too far away for current telescopes, or the next generation of planned telescopes, to determine its mass or whether it has an atmosphere. The Kepler spacecraft focused on a single small region of the sky, but next-generation planet-hunting space telescopes, such as TESS and CHEOPS, will examine nearby stars throughout the sky.
+Nearby stars with planets can then be studied by the James Webb Space Telescope and future large ground-based telescopes to analyze atmospheres, determine masses and infer compositions. Additionally, the Square Kilometer Array should significantly improve radio observations over the Arecibo Observatory and Green Bank Telescope.
+
+See also
+Habitability of natural satellites
+Kepler-62f, another exoplanet in the Kepler-62 system
+List of potentially habitable exoplanets
+
+References
+External links
+
+NASA – Mission overview.
+NASA – Kepler Discoveries – Summary Table.
+NASA – Kepler-62e at The NASA Exoplanet Archive.
+NASA – Kepler-62e at The Exoplanet Data Explorer.
+NASA – Kepler-62e at The Extrasolar Planets Encyclopaedia.
+Habitable Exolanets Catalog at UPR-Arecibo.

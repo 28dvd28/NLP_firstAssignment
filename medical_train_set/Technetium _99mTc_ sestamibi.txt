@@ -1,0 +1,27 @@
+Technetium (99mTc) sestamibi (INN) (commonly sestamibi; USP: technetium Tc 99m sestamibi; trade name Cardiolite) is a pharmaceutical agent used in nuclear medicine imaging. The drug is a coordination complex consisting of the radioisotope technetium-99m bound to six (sesta=6) methoxyisobutylisonitrile (MIBI) ligands.  The anion is not defined. The generic drug became available late September 2008. A scan of a patient using MIBI is commonly known as a "MIBI scan".
+Sestamibi is taken up by tissues with large numbers of mitochondria and negative plasma membrane potentials. Sestamibi is mainly used to image the myocardium (heart muscle). It is also used in the work-up of primary hyperparathyroidism to identify parathyroid adenomas, for radioguided surgery of the parathyroid and in the work-up of possible breast cancer.
+
+Cardiac imaging (MIBI scan)
+A MIBI scan or sestamibi scan is now a common method of cardiac imaging. Technetium (99mTc) sestamibi is a lipophilic cation which, when injected intravenously into a patient, distributes in the myocardium proportionally to the myocardial blood flow. Single photon emission computed tomography (SPECT) imaging of the heart is performed using a gamma camera to detect the gamma rays emitted by the technetium-99m as it decays. 
+Two sets of images are acquired. For one set, 99mTc MIBI is injected while the patient is at rest and then the myocardium is imaged. In the second set, the patient is stressed either by exercising on a treadmill or pharmacologically. The drug is injected at peak stress and then imaging is performed. The resulting two sets of images are compared with each other to distinguish ischemic from infarcted areas of the myocardium. This imaging technique has a sensitivity of around 90%.  Resting images are useful only for detecting tissue damage, while stress images will also provide evidence of coronary artery (ischemia) disease.
+
+With dipyridamole (Persantine MIBI scan)
+When combined with the drug dipyridamole, a brand name of which is Persantine, a MIBI scan is often referred to as a Persantine MIBI scan.
+
+Parathyroid imaging
+In primary hyperparathyroidism, one or more of the four parathyroid glands either develops a benign tumor called an adenoma or undergoes hyperplasia as a result of homeostatic dysregulation. The parathyroid gland takes up 99mTc MIBI following an intravenous injection, and the patient's neck is imaged with a gamma camera to show the location of all glands.  A second image is obtained after a washout time (approximately 2 hours), and mitochondria in the oxyphil cells of the abnormal glands retaining the 99mTc are seen with the gamma camera.  This imaging method will detect 75 to 90 percent of abnormal parathyroid glands in primary hyperparathyroidism.  An endocrine surgeon can then perform a focused parathyroidectomy (less invasive than traditional surgery) to remove the abnormal gland.
+
+Radioguided surgery of the parathyroids
+Following administration, 99mTc MIBI collects in overactive parathyroid glands. During surgery, the surgeon can use a probe sensitive to gamma rays to locate the overactive parathyroid before removing it.
+
+Thyroid imaging
+Several case reports have demonstrated that  99mTc MIBI scan may be useful to differentiae the sub-type of amiodarone-induced thyrotoxicosis. Lack of MIBI uptake in the thyroid is compatible with a form of thyroiditis (type-2 AIT) which may respond to treatment with steroids.
+
+Breast imaging
+The drug is also used in the evaluation of breast nodules. Malignant breast tissues concentrate  99mTc MIBI to a much greater extent and more frequently than benign disease. As such, limited characterization of breast anomalies is possible. Scintimammography has a high sensitivity and specificity for breast cancer, both more than 85%.More recently, breast radiologists administer lower doses of 99mTc sestamibi (approximately 150–300 MBq or 4–8 mCi) for Molecular Breast Imaging (MBI) scans which results in a high sensitivity (91%) and high specificity (93%) for breast cancer detection. It however carries a greater risk of causing cancer, making it not appropriate for general breast cancer screening in patients.The last reference listed refers to a 740-megabecquerel (20-millicurie) dose, which is given with the Dilon single-head system, which requires a higher dose since only one camera is utilized (meaning the camera needs to be able to see through more tissue). A 150–300 MBq (4–8 mCi) dose, which is used in the other two commercially available MBI systems is essentially equivalent to a mammogram (150 MBq or 4 mCi) or a tomosynthesis exam (300 MBq or 8 mCi).In order to keep the radiation doses to patients as low as reasonably achievable, MBI is usually limited to women with dense breast tissue, where the medical benefit of the scan outweighs the potential risk of radiation exposure. For the same reason, the administered activity is kept low. This can potentially result in noisy images, which in turn causes inconclusive mammograms. Researchers continue to devote their time to improving the technology, changing scan parameters, and reducing dose to patients.
+
+References
+External links
+Cardiolite official page
+Molecular Breast Imaging
+The Sestamibi Scan for Hyperparathyroidism on: Parathyroid.com

@@ -1,0 +1,10 @@
+Kepler-28b is an extrasolar planet orbiting the star Kepler-28. It is a transiting planet that is smaller than Jupiter that orbits very closely to Kepler-28.
+
+Host star
+Kepler-28 is the host star of Kepler-28b, and is alternatively known as KOI-870 and KIC 6949607. The star is smaller, less massive, and cooler than the Sun, with (respectively) a radius 0.7 times of the Sun; a mass 0.75 times of the Sun; and an effective temperature of 4590 K. The star has a high metallicity with relation to the Sun, equal to [M/H] = 0.34. With an apparent magnitude of 15.05, Kepler-28 is invisible to the naked eye from Earth, requiring a medium-size telescope to see it.
+
+Characteristics
+Kepler-28b is a gas giant. Upon discovery, it was poorly characterized, with only an upper mass limit of 1.51 times the mass of Jupiter (which, given its radius, would imply an impossibly low density) ascertained from dynamical simulations. The planet transits its host star over 2.77 hours of each orbit, making a shadow we can detect from earth. In 2016 improved radial velocity data made it possible to classify Kepler-28b as a small (sub-Neptune) gas giant.
+
+
+== References ==

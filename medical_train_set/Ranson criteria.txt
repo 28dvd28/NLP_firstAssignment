@@ -1,0 +1,56 @@
+The Ranson criteria form a clinical prediction rule for predicting the prognosis and mortality risk of acute pancreatitis. They were introduced in 1974 by the English-American pancreatic expert and surgeon Dr. John Ranson (1938–1995).
+
+Usage
+A score of 3 or more indicates severe acute pancreatitis. This can cause organ failure, necrosis, infected necrosis, pseudocyst, and abscess. If diagnosed with severe acute pancreatitis, people will need to be admitted to a high-dependency unit or intensive care unit.
+The mnemonic "GALAW & CHOBBS" (Glucose, Age, LDH, AST, WBCs; Calcium, Hematocrit, Oxygen, BUN, Base, Sequestered fluid) can be used to help remember these criteria.
+
+Acute pancreatitis not secondary to gallstones
+At admission:
+
+Blood glucose > 11.11 mmol/L (> 200 mg/dL)
+Age > 55 years
+Serum LDH > 350 IU/L
+Serum AST > 250 IU/L
+WBC count > 16000 cells/mm3Within 48 hours:
+
+Serum calcium < 2.0 mmol/L (< 8.0 mg/dL)
+Hematocrit decreased by > 10%
+Oxygen (hypoxemia with PaO2 < 60 mmHg)
+BUN increased by 1.8 or more mmol/L (5 or more mg/dL) after IV fluid hydration
+Base deficit (negative base excess) > 4 mEq/L
+Sequestration of fluids > 6 L
+
+Acute pancreatitis secondary to gallstones
+At admission:
+
+Glucose > 220 mg/dl
+Age > 70 years
+LDH > 400 IU/L
+AST > 250 IU/ 100 ml
+WBC count > 18000 cells/mm3Within 48 hours:
+
+Serum calcium < 8 mg/dL
+Hematocrit decreased by > 10%
+Base deficit > 4 mEq/L
+BUN increased by > 2 mg/dL
+Sequestered fluid > 6L
+
+Alternatives
+Alternatively, pancreatitis severity can be assessed by any of the following:
+APACHE II score ≥ 8
+Balthazar computed tomography severity index (CTSI)
+BISAP score
+Organ failure
+Substantial pancreatic necrosis (at least 30% glandular necrosis according to contrast-enhanced CT)
+
+Interpretation
+If the score ≥ 3, severe pancreatitis likely.
+If the score < 3, severe pancreatitis is unlikelyOr
+
+Score 0 to 2 : 2% mortality
+Score 3 to 4 : 15% mortality
+Score 5 to 6 : 40% mortality
+Score 7 to 8 : 100% mortality
+
+
+== References ==

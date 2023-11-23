@@ -1,0 +1,40 @@
+The triple test, also called  triple screen, the Kettering test or the Bart's test, is an investigation performed during pregnancy in the second trimester to classify a patient as either high-risk or low-risk for chromosomal abnormalities (and neural tube defects).
+The term "multiple-marker screening test" is sometimes used instead. This term can encompass the "double test" and "quadruple test" (described below).
+The Triple screen measures serum levels of AFP, estriol, and beta-hCG, with a 70% sensitivity and 5% false-positive rate.  It is complemented in some regions of the United States, as the Quad screen (adding inhibin A to the panel, resulting in an 81% sensitivity and 5% false-positive rate for detecting Down syndrome when taken at 15–18 weeks of gestational age) and other prenatal diagnosis techniques, although it remains widely used in Canada and other countries. A positive screen indicates an increased risk of chromosomal abnormalities (and neural tube defects), and such patients are then referred for more sensitive and specific procedures to receive a definitive diagnosis, often prenatal diagnosis via amniocentesis, although the stronger screening option of cell-free fetal DNA screening (also popularly known as noninvasive prenatal screening) is frequently offered. The Triple test can be understood as an early predecessor to a long line of subsequent technological improvements.  In some American states, such as Missouri, Medicaid reimburses only for the Triple test and not other potentially more accurate screening tests, whereas California offers Quad tests to all pregnant women.While the triple test can be performed at any point between 15 and 21.9 weeks of gestation, the highest detection rate for open neural defects is given by a test performed between 16 and 18 weeks of gestation.
+
+Conditions screened
+The most common abnormality the test can screen is trisomy 21 (Down syndrome). In addition to Down syndrome, the triple and quadruple screens assess risk for fetal trisomy 18 also known as Edwards syndrome, open neural tube defects, and may also detect an increased risk of Turner syndrome, triploidy, trisomy 16 mosaicism, fetal death, Smith–Lemli–Opitz syndrome, and steroid sulfatase deficiency.
+
+Values measured
+The triple test measures the following three levels in the maternal serum:
+alpha-fetoprotein (AFP)
+human chorionic gonadotropin (hCG)
+unconjugated estriol (UE3)
+
+Interpretation
+The levels may indicate increased risk for certain conditions or may be benign:
+
+An estimated risk is calculated and adjusted for the expectant mother's age; if she is diabetic; if she is having twins or other multiples, and the gestational age of the fetus. Weight and ethnicity may also be used in adjustments. Many of these factors affect the levels of the substances being measured and the interpretation of the results:
+As maternal weight increases, MSAFP level decreases
+African-American women have MSAFP levels that are 10-15% higher than those of Caucasian women for unknown reasons
+Women with insulin-dependent diabetes mellitus have MSAFP levels that are 20% lower than the rest of the population
+Having multiple gestations, such as twins, increases MSAFP because each fetus secretes its own AFP
+Incorrect estimation of gestational age is the most common cause of abnormal MSAFP levelsThe test is for screening, not for diagnosis, and does not have nearly the same predictive power as that of genetic blood testing (testing cell-free fetal DNA, or invasive genetic testing which are performed by amniocentesis or chorionic villus sampling. The screening test carries a much lower risk to the fetus than invasive testing, however, and in conjunction with the age-related risk of the patient it is useful to help determine the need for more invasive tests.
+
+Variations
+If only two of the hormones above are tested for, then the test is called a double test. A quad test tests an additional hormone, inhibin. Furthermore, the triple test may be combined with an ultrasound measurement of nuchal translucency.
+
+Double test
+Free beta hCG and PAPP-A are measured. However, the maternal age, weight, ethnicity etc. are still included. In the UK the double test is part of the combined test for prenatal diagnostics.
+
+Quadruple test
+A test of levels of dimeric inhibin A (DIA) is sometimes added to the other three tests, under the name "quadruple test." Other names used include "quad test", "quad screen", or "tetra screen."  Inhibin A will be found high in cases of trisomy 21 and unchanged in cases of trisomy 18.
+
+See also
+Triple bolus test
+Cell free fetal DNA test
+
+References
+External links
+AmericanPregnancy.org
+Risk and Down screening

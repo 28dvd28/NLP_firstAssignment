@@ -1,0 +1,29 @@
+Teledentistry is the use of information technology and telecommunications for dental care, consultation, education, and public awareness (compare telehealth and telemedicine).
+
+History
+In 1994, the Department of Defense introduced the Total Dental Access Program (TDA) for the Army. The goals of TDA were to increase soldier's access to care and reduce associated costs. At the time, they used what was called the plain-old-telephone-system (POTS).
+In the early nineteen nineties, videoconferencing, e-mail, fax, and telephone calls were used but more recently, video conferencing and high-quality image transfer have become easily accessible. These, and the considerable improvements in digital camera technology, have provided radical new opportunities.
+Nearly a third of all Americans do not visit a dentist regularly enough, according to the Gallup-Healthways Well-Being Index. There are many reasons for this, most notably affordability, access and fear.
+Several teledental companies operate in the United States. Direct-to-consumer orthodontics companies like SmileDirectClub also utilize teledentistry, but have drawn criticism regarding proper supervision of care.Due to the COVID-19 pandemic, dental practices were ordered to be shutdown  to help curb the spread of the coronavirus. As a means of providing a method by which dentists could still communicate with their patients during the shutdown, teledentistry became adopted across the world. In the US, several laws had been enacted to curb the rise of direct-to-consumer orthodontics which also invalidated the use of teledentistry by duly licensed dentists. These laws were quickly rescinded to address the pandemic and hence teledentistry is now widely used by dentists in the US.
+
+Methods
+Live Video (Synchronous):
+Live two-way video between a patient and provider using audiovisual telecommunications technology. Live video is often used to triage patients to the appropriate level of care or for specialty consultations. The American Dental Association has designated the code D9995 for this type of teledentistry.
+ Store-and-forward (Asynchronous):
+Transmission of recorded health information (for example, radiographs or digital impressions taken by an appropriately licensed provider) through a secure electronic communications system to a practitioner, who uses the information to evaluate or diagnose the patient's condition outside at a later time. The American Dental Association has designated the code D9996 for this type of teledentistry.
+ Remote Patient Monitoring:
+Health data collection from an individual in one location (usually outside of a conventional clinical setting), which is transmitted to a provider in a different location for use in care and related support. mHealth:
+Health promotion and education via mobile devices such as cell phones or tablets.
+
+Help within the dental community
+Another method is the Remote Monitoring Method in which dentists communicate with each other through the use of radiographs and other data like the patient's clinical findings, photographs, test results and case history. The patient is not present in this method of teleconsultation.
+Disadvantages of this can include misinterpretation of messages, privacy issues and insufficient training of the professionals.
+
+Benefits
+Teledentistry can provide easier, cheaper and less intimidating way to connect with dentistry. Teledentistry can also be used to assist general dentists with speciality work and improve services to underserved populations such as in rural or less developed areas.
+
+In dental insurance policies
+The dental insurance industry had adopted ADA codes such as D9995 and D9996 to acknowledge that teledentistry as a subset of telehealth exists and that these codes are recognized by the industry. However, largely the dental insurance companies had not made these codes payable to dentists in the event that they were actually billed when a teledentistry service was rendered to a patient. With the onset of the COVID-19 pandemic, the American Dental Association in November 2020, The resolution also states that dental insurers—both public and private—should cover services provided through teledentistry at the same level as if the services were delivered in a traditional in-person encounter. This recommendation from the American Dental Association was strongly adopted by dental insurance carriers who in turn went a step further to include value added benefits to their dental insurance policies to allow for teledentistry.
+
+
+== References ==

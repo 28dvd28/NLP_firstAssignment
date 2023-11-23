@@ -1,0 +1,21 @@
+Kepler-1647b (sometimes named Kepler-1647(AB)-b to distinguish it from the secondary component)  is a circumbinary exoplanet that orbits the binary star system Kepler-1647, 3,700 light-years (1,100 pc) from Earth in the constellation Cygnus. It was announced on June 13, 2016, in San Diego at a meeting of the American Astronomical Society. It was detected using the transit method, when it caused the dimming of the primary star, and then again of the secondary star blended with the primary star eclipse.
+The first transit of the planet was identified in 2012, but at the time the single event was not enough to rule out contamination, or confirm it as a planet. It was discovered by the analysis of the Kepler light-curve, which showed the planet in transit.
+
+Characteristics
+Mass and orbit
+The exoplanet is a gas giant, similar in size to Jupiter, and has an orbital period of 1107 days. This is the longest transit period of any confirmed transiting Kepler exoplanet discovered yet. It is also the largest circumbinary Kepler planet known. It is 483±206 times more massive than Earth, and 1.52±0.65 times Jupiter's mass.
+
+Host stars
+The star system, Kepler-1647 (also known as 2MASS J19523602+4039222, KOI-2939, and KIC 5473556, TIC 170344769 ), is a binary star with the primary star (Kepler-1647 A) having a mass of 1.22 M☉, a radius of 1.79 R☉, and a surface temperature of 6210 ± 100 K. The secondary star (Kepler-1647 B), on the other hand, has a mass of 0.975 M☉, a radius of 1.79 R☉, and a surface temperature of 5770 K. In comparison, the Sun has a surface temperature of 5778 K. The two orbit each other every 11 days. The binary star system's age is estimated to be about 4.4 billion years old, about 200 million years younger than the Sun.
+
+Habitability
+Kepler-1647b is in the habitable zone of the star system. Since the planet is a gas giant, it is unlikely to host life. However, hypothetical large moons could potentially be suitable for life. Large moons are usually not created during accretion near a gas giant and would likely have to be captured separately, e.g., a passing protoplanet caught into orbit due to the gravitational field of the giant planet. Given that the planet is within the habitable zone, its hypothetical moon would also be.  The work  showed that the system has the ability to house an Earth-like moon around the gas giant. With that, it would be able to house life as we know it.
+
+See also
+Kepler-16b
+Kepler-453b
+List of circumbinary planets
+
+References
+External links
+Kepler-1647b – NASA Exoplanet Archive

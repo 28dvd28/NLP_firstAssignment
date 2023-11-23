@@ -1,0 +1,23 @@
+Desquamation occurs when the outermost layer of a tissue, such as the skin, is shed. The term is from Latin  desquamare 'to scrape the scales off a fish'.
+
+Physiologic desquamation
+Keratinocytes are the predominant cells of the epidermis, the outermost layer of the skin. Living keratinocytes reside in the basal, spinous, or granular layers of the epidermis. The outermost layer of the epidermis is called the stratum corneum and it is composed of terminally differentiated keratinocytes, the corneocytes. In the absence of disease, desquamation occurs when corneocytes are individually shed unnoticeably from the surface of the skin. Typically the time it takes for a corneocyte to be formed and then shed is about 14 weeks but this time can vary depending on the anatomical location that the skin is covering. For example, desquamation occurs more slowly at acral (palm and sole) surfaces and more rapidly where the skin is thin, such as the eyelids. Normal desquamation can be visualized by immersing skin in warm or hot water. This induces the outermost layer of corneocytes to shed, such as is the case after a hot shower or bath.
+Corneocytes are held together by corneodesmosomes. In order for desquamation to occur these corneodesmosome connections must be degraded. Keratinocytes residing in the stratum granulosum produce corneodesmosome-degrading kallikrein family members, especially KLK1, KLK5, and KLK7. Kallikreins are serine proteases. They are packaged within lamellar bodies and released into the intercellular space between the keratinocytes as they transition into becoming corneocytes. To prevent premature desquamation, granular layer keratinocytes also produce kallikrein-inhibitory proteins. At acral surfaces, desquamation occurs more slowly because granular layer keratinocytes downregulate expression of KLK1 and KLK7 and upregulate expression of protease inhibitors, including the KLK5-specific SPINK9 and the cysteine protease inhibitors CSTA and CST3. Slowing the process of corneocyte desquamation allows acral (palm and sole) skin to form a thick protective stratum corneum.
+
+Abnormal desquamation
+Scale forms on the skin surface in various disease settings, and is the result of abnormal desquamation. In pathologic desquamation, such as that seen in X-linked ichthyosis, the stratum corneum becomes thicker (hyperkeratosis), imparting a "dry" or scaly appearance to the skin, and instead of detaching as single cells, corneocytes are shed in clusters, which forms visible scales. Desquamation of the epidermis may result from disease or injury of the skin. For example, once the rash of measles fades, there is desquamation. Skin peeling typically follows healing of a first degree burn or sunburn. Toxic shock syndrome, a potentially fatal immune system reaction to a bacterial infection such as Staphylococcus aureus, can cause severe desquamation; so can mercury poisoning. Other serious skin diseases involving extreme desquamation include Stevens–Johnson syndrome and toxic epidermal necrolysis (TEN). Radiation can cause dry or moist desquamation. Desquamation is also abnormal in patients with immune-mediated skin diseases such as psoriasis and atopic dermatitis. Abnormal desquamation often results in scale formation on the skin's surface.  Lipid composition alterations in scale have been used to construct diagnostic models for human skin disease.
+
+Eyes
+Certain eye tissues, including the conjunctiva and cornea, may undergo pathological desquamation in diseases such as dry eye syndrome. The anatomy of the human eye makes desquamation of the lens impossible.
+
+See also
+Desquamative gingivitis
+Moist desquamation
+Pityriasis—flaking of the skin
+Spalling
+Sunburn
+
+References
+
+
+== External links ==

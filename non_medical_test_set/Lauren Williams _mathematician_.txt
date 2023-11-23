@@ -1,0 +1,24 @@
+Lauren Kiyomi Williams (born c. 1978) is an American mathematician known for her work on cluster algebras, tropical geometry, algebraic combinatorics, amplituhedra, and the positive Grassmannian. She is Dwight Parker Robinson Professor of Mathematics at Harvard University.
+
+Education
+Williams's father is an engineer; her mother is third-generation Japanese American. She grew up in Los Angeles, where her interest in mathematics was sparked by winning a fourth-grade mathematics contest. She was the valedictorian of Palos Verdes Peninsula High School in 1996, and while there participated in summer research at the Massachusetts Institute of Technology with Satomi Okazaki, a student of her eventual advisor, Richard P. Stanley. She graduated magna cum laude from Harvard University in 2000 with a A.B. in mathematics, and received her PhD in 2005 at the Massachusetts Institute of Technology under the supervision of Stanley. Her dissertation was titled Combinatorial Aspects of Total Positivity.
+
+Work
+After postdoctoral positions at the University of California, Berkeley and Harvard, Williams rejoined the Berkeley mathematics department as an assistant professor in 2009, and was promoted to associate professor in 2013 and then full professor in 2016.Starting in the fall of 2018, she rejoined the Harvard mathematics department as a full professor, making her the second ever tenured female math professor at Harvard. The first, Sophie Morel, left Harvard in 2012.Along with colleagues O. Mandelshtam (her former student, now an assistant professor at University of Waterloo) and S. Corteel, in 2018 Williams developed a new characterization of both symmetric and nonsymmetric Macdonald polynomials using the combinatorial exclusion process.
+
+Awards
+In 2012, she became one of the inaugural fellows of the American Mathematical Society. She is the 2016 winner of the Association for Women in Mathematics and Microsoft Research Prize in Algebra and Number Theory. In 2022 she was awarded a Guggenheim Fellowship.
+
+Selected publications
+Williams, Lauren K. (2005), "Enumeration of totally positive Grassmann cells", Advances in Mathematics, 190 (2): 319–342, arXiv:math/0307271, doi:10.1016/j.aim.2004.01.003, MR 2102660, S2CID 15538736
+Postnikov, Alex; Reiner, Victor; Williams, Lauren (2008), "Faces of generalized permutohedra" (PDF), Documenta Mathematica, 13: 207–273, arXiv:math/0609184, Bibcode:2006math......9184P, doi:10.4171/dm/248, MR 2520477, S2CID 10679764
+Musiker, Gregg; Schiffler, Ralf; Williams, Lauren (2011), "Positivity for cluster algebras from surfaces", Advances in Mathematics, 227 (6): 2241–2308, arXiv:0906.0748, doi:10.1016/j.aim.2011.04.018, MR 2807089, S2CID 13559804
+Kodama, Yuji; Williams, Lauren K. (2011), "KP solitons, total positivity, and cluster algebras", Proceedings of the National Academy of Sciences of the United States of America, 108 (22): 8984–8989, arXiv:1105.4170, Bibcode:2011PNAS..108.8984K, doi:10.1073/pnas.1102627108, MR 2813307, PMC 3107278, PMID 21562211
+Kodama, Yuji; Williams, Lauren K. (2014), "KP solitons and total positivity of the Grassmannian", Inventiones Mathematicae, 198 (3): 637–699, Bibcode:2014InMat.198..637K, doi:10.1007/s00222-014-0506-3, MR 3279534, S2CID 51759294
+Ardila, Federico; Rincón, Felipe; Williams, Lauren (2016), "Positroids and non-crossing partitions", Transactions of the American Mathematical Society, 368 (1): 337–363, arXiv:1308.2698, doi:10.1090/tran/6331, MR 3413866, S2CID 17008394
+Corteel, Sylvie; Mandelshtam, Olya; Williams, Lauren (2022), "From multiline queues to Macdonald polynomials via the exclusion process", American Journal of Mathematics, 144 (2): 395–436, arXiv:1811.01024, doi:10.1353/ajm.2022.0007, MR 4401508
+
+References
+External links
+Home page
+Lauren Williams publications indexed by Google Scholar

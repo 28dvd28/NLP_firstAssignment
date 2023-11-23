@@ -1,0 +1,18 @@
+Kepler-56b (KOI-1241.02) is a hot Neptune—a class of exoplanets—located roughly 3,060 light-years (940 parsecs) away. It is somewhat larger than Neptune and orbits its parent star Kepler-56 and was discovered in 2013 by the Kepler Space Telescope.
+
+Planetary orbit
+Kepler-56b is about 0.1028 AU (9.56 million mi; 15.38 million km) away from its host star (about one-tenth of the distance between Earth to the Sun), making it even closer to its parent star than Mercury (0.39 AU [36 million mi; 58 million km]) and Venus (0.72 AU [67 million mi; 110 million km]). It takes 10.5 days for Kepler-56b to complete a full orbit around its star. Further research shows that Kepler-56b's orbit is about 45° misaligned to the host star's equator. Later radial velocity measurements have revealed evidence of a gravitational perturbation from Kepler-56d.
+Both Kepler-56b and Kepler-56c will be devoured by their parent star in about 130 and 155 million years. Even further research shows that it will have its atmosphere boiled away by intense heat from the star, and it will be stretched by the strengthening stellar tides.
+The measured mass of Kepler-56b is about 30% larger than Neptune's mass, but its radius is roughly 70% larger than Neptune's. Therefore, Kepler-56b should have a hydrogen/helium envelope containing a significant fraction of its total mass.  Like Kepler-11b and Kepler-11c, the envelope's light elements are susceptible to photo-evaporation caused by radiation from the central star. For example, it has been calculated that Kepler-11c lost over 50% of its hydrogen/helium envelope after formation.  However, the larger mass of Kepler-56b, compared to that of Kepler-11c, reduces the efficiency of mass loss.  Nonetheless, the planet may have been significantly more massive in the past and may keep losing mass in the future.
+
+Other planets in the Kepler-56 system
+Kepler-56c
+Kepler-56d
+
+References
+Further reading
+Steffen, Jason H; Fabrycky, Daniel C; Agol, Eric; et al. (20 August 2012). "Transit Timing Observations from Kepler: VII. Confirmation of 27 planets in 13 multiplanet systems via Transit Timing Variations and orbital stability". Mon. Not. R. Astron. Soc. 428 (2): 1077. arXiv:1208.3499. Bibcode:2013MNRAS.428.1077S. doi:10.1093/mnras/sts090.
+
+External links
+"Kepler-56b". kepler.nasa.gov. Archived from the original on 2015-09-26. Retrieved 2016-01-02.
+Megan Smith (8 June 2014). "Star to Swallow not One, but Two Exoplanets". Futurism LLC. Archived from the original on 9 March 2016. Retrieved 2 January 2016.

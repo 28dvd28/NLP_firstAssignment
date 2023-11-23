@@ -1,0 +1,19 @@
+The Fitzpatrick scale (also Fitzpatrick skin typing test; or Fitzpatrick phototyping scale) is a numerical classification schema for human skin color. It was developed in 1975 by American dermatologist Thomas B. Fitzpatrick as a way to estimate the response of different types of skin to ultraviolet (UV) light. It was initially developed on the basis of skin color to measure the correct dose of UVA for PUVA therapy, and when the initial testing based only on hair and eye color resulted in too high UVA doses for some, it was altered to be based on the patient's reports of how their skin responds to the sun; it was also extended to a wider range of skin types. The Fitzpatrick scale remains a recognized tool for dermatological research into human skin pigmentation.
+The following list shows the six categories of the Fitzpatrick scale in relation to the 36 categories of the older von Luschan scale (in parentheses):
+Type I (scores 0–6) always burns, never tans (palest; freckles)
+Type II (scores 7–13) usually burns, tans minimally (light colored but darker than fair)
+Type III (scores 14–20) sometimes mild burn, tans uniformly (golden honey or olive)
+Type IV (scores 21–27) burns minimally, always tans well (moderate brown)
+Type V (scores 28–34) very rarely burns, tans very easily (dark brown)
+Type VI (scores 35–36) never burns (deeply pigmented dark brown to darkest brown)
+
+Emoji modifiers
+The Fitzpatrick scale is also the basis of skin color in emoji, with five modifiers according to the Fitzpatrick scale (types I and II merged).
+
+See also
+von Luschan's chromatic scale
+Skin reflectance
+Brown Paper Bag Test
+
+
+== References ==

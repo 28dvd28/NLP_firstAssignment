@@ -1,0 +1,76 @@
+Colon cancer staging is an estimate of the amount of penetration of a particular cancer. It is performed for diagnostic and research purposes, and to determine the best method of treatment. The systems for staging colorectal cancers depend on the extent of local invasion, the degree of lymph node involvement and whether there is distant metastasis.
+Definitive staging can only be done after surgery and histopathology of colorectal carcinoma. An exception to this principle would be after a colonoscopic polypectomy of a malignant pedunculated polyp with minimal invasion. Preoperative staging of rectal cancers may be done with endoscopic ultrasound. Adjunct staging of metastasis include abdominal ultrasound, MRI, CT, PET scanning, and other imaging studies.
+
+TNM staging system
+The most common staging system is the TNM (for tumors/nodes/metastases) system, from the American Joint Committee on Cancer. This system assigns a number based on three categories. "T" denotes the degree of invasion of the intestinal wall, "N" the degree of lymphatic node involvement, and "M" the degree of metastasis. Possibly, the overall Joint Committee stage is a shorter format of the TNM stage, and is usually quoted as a number I, II, III, IV derived from the TNM value grouped by prognosis; a higher number indicates a more advanced cancer and likely a worse outcome. Following is the eighth edition from 2017:
+
+Tumor (T)
+Numbers 0 to 4, with subgroups, are used to describe deepest tumor depth:
+TX: The primary tumor cannot be evaluated.
+T0: No evidence of cancer in the colon or rectum.
+Tis: Carcinoma in situ; Cancer cells are found only in the epithelium or lamina propria
+T1: Growth into the submucosa
+T2: Growth into the muscularis propria
+T3: Growth through the muscularis propria and into the subserosa, or into tissues surrounding the colon or rectum (but not the visceral peritoneum or surrounding organs).
+T4a: Growth into the surface of the visceral peritoneum.
+T4b: The tumor has grown into or has attached to other organs or structures.
+
+Node (N)
+Numbers 0 to 2, and subgroups, are used to describe lymph node involvement:
+NX: The regional lymph nodes cannot be evaluated.
+N0: No evidence of spread to regional lymph nodes.
+N1a: Tumor cells found in 1 regional lymph node.
+N1b: Tumor cells found in 2 or 3 regional lymph nodes.
+N1c: There are cancerous nodules near the colon that do not appear to be lymph nodes.
+N2a: Tumor cells found in 4 to 6 regional lymph nodes.
+N2b: Tumor cells found in 7 or more regional lymph nodes.
+
+Metastasis (M)
+Numbers 0 and 1, with subgroups, describe the metastasis status:
+M0: No evidence of distant metastasis
+M1a: Spread to 1 other part of the body beyond the colon, rectum or regional lymph nodes.
+M1b: Spread to more than 1 part of the body other than the colon, rectum or regional lymph nodes.
+M1c: Spread to the peritoneal surface.
+
+Overall AJCC stage
+Dukes classification
+In 1932 the British pathologist Cuthbert Dukes (1890–1977) devised a classification system for colorectal cancer. Several different forms of the Dukes classification were developed. However, this system has largely been replaced by the more detailed TNM staging system and is no longer recommended for use in clinical practice.
+Dukes A: Invasion into but not through the bowel wall
+Dukes B: Invasion through the bowel wall penetrating the muscle layer but not involving lymph nodes
+Dukes C: Involvement of lymph nodes
+Dukes D: Widespread metastases
+
+Astler-Coller classification
+An adaptation by the Americans Astler and Coller in 1954 further divided stages B and C
+Stage A: Limited to mucosa
+Stage B1: Extending into muscularis propria but not penetrating through it; nodes not involved
+Stage B2: Penetrating through muscularis propria; nodes not involved
+Stage B3: Invading into adjacent organs/structures; nodes not involved
+Stage C1: Extending into muscularis propria but not penetrating through it. Nodes involved
+Stage C2: Penetrating through muscularis propria. Nodes involved
+Stage D: Distant metastatic spreadThe stage gives valuable information for the prognosis and management of the particular cancer.
+
+Full Dukes classification
+Another modification of the original Dukes classification was made in 1935 by Gabriel, Dukes and Bussey. This subdivided stage C. This staging system was noted to be prognostically relevant to rectal and colonic adenocarcinoma. Stage D was added by Turnbull to denote the presence of liver and other distant metastases
+Stage A: Limited to muscularis propria; nodes not involved
+Stage B: Extending beyond muscularis propria; nodes not involved
+Stage C: Nodes involved but highest (apical) node spared
+Stage D: Distant metastatic spread
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

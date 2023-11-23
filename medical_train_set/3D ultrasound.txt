@@ -1,0 +1,44 @@
+3D ultrasound is a medical ultrasound technique, often used in fetal, cardiac, trans-rectal and intra-vascular applications. 3D ultrasound refers specifically to the volume rendering of ultrasound data. When involving a series of 3D volumes collected over time, it can also be referred to as 4D ultrasound (three spatial dimensions plus one time dimension) or real-time 3D ultrasound.
+
+Methods
+When generating a 3D volume, the ultrasound data can be collected in four common ways by a sonographer:
+
+Freehand, which involves tilting the probe and capturing a series of ultrasound images and recording the transducer orientation for each slice.
+Mechanically, where the internal linear probe tilt is handled by a motor inside the probe.
+Using an endoprobe, which generates the volume by inserting a probe and then removing the transducer in a controlled manner.
+A matrix array transducer, which uses beam steering to sample points throughout a pyramid shaped volume.
+
+Risks
+The general risks of ultrasound also apply to 3D ultrasound. Essentially, ultrasound is considered safe. While other imaging modalities use radioactive dye or ionizing radiation, for example, ultrasound transducers send pulses of high frequency sound into the body and then listen for the echo.
+In summary, the primary risks associated with ultrasound would be the potential heating of tissue or cavitation. The mechanisms by which tissue heating and cavitation are measured are through the standards called thermal index (TI) and mechanical index (MI). Even though the FDA outlines very safe values for maximum TI and MI, it is still recommended to avoid unnecessary ultrasound imaging.
+
+Applications
+Obstetrics
+3D ultrasound is useful, among other things, for facilitating the characterization of some congenital defects, such as skeletal anomalies and heart issues. With real-time 3D ultrasound, the fetal heart rate can be examined in real-time.
+
+Cardiology
+Applications of three-dimensional ultrasound in cardiac treatment have achieved outstanding progress in scanning and treating heart issues. When 3D ultrasound is used to visualize the cardiac state of an individual, it is called 3D echocardiography (3D ECG). With the integration of other technologies, it is possible to obtain quantitative measurements such as chamber volume during the cardiac cycle. It also provides other useful information, for example, tracking the blood flow, or the speed of contractions and expansions. With 3D echocardiography, physicians can detect artery diseases with relative ease, and can finely examine various cardiac defects. 3D echocardiography can achieve real-time imaging of the cardiac structure.
+
+Surgical guidance
+Traditionally, with 2D ultrasound, the specific position of organs and tissues, which is useful in surgery, could not be located, especially in the oblique plane. With the advent of 3D ultrasound, the imaging technique has evolved such that it enables the surgeon to obtain a real-time picture of tissues and organs, visualizing the complete scan more efficiently. In addition, 3D ultrasound provides surgical guidance in organ transplantation and cancer treatment, especially by employing rotational visualizing during scan. Various methods are used in this area, including rotational scanning, slice projection, and the use of integrated array transducers. With 3D ultrasound, it is possible to treat a broader range of tumors, as more tissues can be diagnosed and inspected.
+
+Vascular imaging
+Blood vessels and arteries are relatively difficult to image, due to their distribution. 3D ultrasound has made it easier to track the dynamic movement of blood cells, veins and arteries. Various types of diagnostic tasks can be achieved with 3D ultrasound, such as measuring blood vessel diameter and diagnosing arterial walls. Some of these tasks can be undertaken with a magnetic tracker, integrated with the ultrasound, which assists in accurate positioning.
+
+Regional anesthesia
+Real-time 3D ultrasound is used during peripheral nerve blockade procedures to identify the relevant anatomy and monitor the spread of local anesthetic around the nerve. Peripheral nerve blockades prevent the transmission of pain signals from the site of injury to the brain without deep sedation, which makes them particularly useful for outpatient orthopedic procedures. Real-time 3D ultrasound allows muscles, nerves and vessels to be clearly identified while a needle or catheter is advanced under the skin. This type of ultrasound is capable of imaging the needle regardless of the plane of the image, which is a substantial improvement over 2D ultrasound. Additionally, the image can be rotated or cropped in real time to reveal anatomical structures within a volume of tissue. Physicians at the Mayo Clinic in Jacksonville have been developing techniques using real time 3D ultrasound to guide peripheral nerve blocks for shoulder, knee, and ankle surgery.
+
+References
+External links
+The History of Ultrasounds (including 3D ultrasounds)
+The Endowment for Human Development provides numerous 4D ultrasounds that can be viewed online.
+Scans uncover secrets of the womb BBC News
+3D/4D Elective Ultrasound Blogs provides numerous 4D ultrasound blogs for pregnant women.
+Scans uncover secrets of the womb BBC News
+About the discovery of medical ultrasonography
+Learn how to perform 3D/4d Ultrasounds
+Safety Concerns Archived 2020-05-13 at the Wayback Machine Details a number of health concerns over this unregulated practice
+3D Ultrasound Clinic and Education Facility A 3D Ultrasoundclinic in Sacramento, CA that specializes in performing 3D ultrasound and training sonographers.
+
+Great Collection of 3D Ultrasound Images 
+A Review on Real-Time 3D Ultrasound Imaging Technology

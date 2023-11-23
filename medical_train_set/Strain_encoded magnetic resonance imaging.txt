@@ -1,0 +1,7 @@
+Strain–encoded magnetic resonance imaging (SENC-MRI) is a magnetic resonance imaging technique for imaging the strain of deforming tissue.  It is undergoing testing to diagnose some heart diseases, particularly congenital right ventricle dysfunctions, which are difficult to diagnose.  It is an improvement on magnetic resonance elastography in that it has a faster imaging time, and less post-processing time, to turn the acquired data into a useful image.To use the technique, the gradient coils in the MRI equipment need to be driven with special pulse sequences, designed for specific tissues, that "tags" deformation of the tissue, such that tissue that deforms more is brighter, or darker, as needed.  Using a baseline measurement of normal deformation, the measurements can show unusual amounts of pressure a tissue is exposed to, or indicate that the tissue is unusually stiff or flexible, in either case potentially revealing a pathology.Inventors of the technique, Nael Osman and Jerry Prince, co-founded a company called DiagnoSoft to get regulatory approval for software enabling this technique and others from their academic lab, and make them available to doctors and patients.
+
+See also
+Harmonic phase (HARP) algorithm
+
+
+== References ==

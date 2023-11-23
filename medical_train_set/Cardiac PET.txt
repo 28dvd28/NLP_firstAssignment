@@ -1,0 +1,24 @@
+Cardiac PET (or cardiac positron emission tomography) is a form of diagnostic imaging in which the presence of heart disease is evaluated using a PET scanner. Intravenous injection of a radiotracer is performed as part of the scan. Commonly used radiotracers are Rubidium-82, Nitrogen-13 ammonia and Oxygen-15 water.
+
+Uses
+Cardiac PET-CT scan can assess blood flow, metabolism, inflammation, innervation, and receptor density accurately. Besides, it is also useful to detect heart conditions such as coronary artery disease, cardiac amyloidosis, and cardiac sarcoidosis.
+
+Radiopharmaceuticals
+Rubidium-82 is produced from the decay of Strontium-82 through electron capture in a generator. It is used to access the blood vessels supplying the heart. Strontium-82 has a half-life of 25.5 days while Rubidium-82 has a half-life of 76 seconds. Heart muscles can take up Rubidium-82 efficiently through sodium–potassium pump. Compared with Technetium-99m, Rubidium-82 has higher uptake by the heart muscles. However, Rubidium-82 has lower uptake by heart muscles when compared to N-13 ammonia. But the positron energy emitted by Rubidium-82 is higher than N-13 ammonia and Fluorodeoxyglucose (18F). On the other hand, the positron range (the distance travelled by a positron from its production site until its annihilation with an electron) is longer when compared to other radiopharmaceuticals, causing reduced image resolution.Myocardium has higher uptake for N-13 ammonia when compared to Rubidium-82, thus useful for myocardial perfusion imaging. However, its half-life is only 9.96 minutes. Therefore, on-site facilities such as cyclotron and radiochemistry synthesis facilities should be available. There may be patchy uptake if the subject has defects in lateral ventricular wall. N-13 ammonia may occasionally be degraded by liver, thus causing reduced visibility of the inferior wall of the heart. N-13 ammonia uptake by the lungs is minimal.
+
+Indications
+Patients with many risk factors e.g. hypertension, high cholesterol, smoking habit, diabetes, obesity, high stress occupation, family history of heart attack
+Patients who are unable to exercise
+Patients suspected of heart attack
+Patients newly diagnosed with heart failure
+Patients with abnormal ECG or treadmill
+
+Requirements
+Facility: taking into consideration clinical workflow, as well as regulatory requirements such as requisite shielding from radiation exposure
+Capital equipment: PET or PET/CT scanner
+Radiopharmaceutical: Rubidium-82 generator system or close access to cyclotron produced isotopes such as Nitrogen-13 ammonia
+Personnel: including specially trained physician, radiographers, radiation safety supervisors and optional nursing support
+Operations: stress test monitoring, as well as emergency response equipment, processing and review workstations, administrative and support personnel are additional considerations
+
+
+== References ==

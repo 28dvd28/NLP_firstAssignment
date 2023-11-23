@@ -1,0 +1,13 @@
+Dennis Gaitsgory is a professor of mathematics at Harvard University known for his research on the geometric Langlands program. 
+Born in Chișinău, now in Moldova, he grew up in Tajikistan, before studying at Tel Aviv University under Joseph Bernstein (1990–1996).  He received his doctorate in 1997 for a thesis entitled "Automorphic Sheaves and Eisenstein Series". He has been awarded a Harvard Junior Fellowship, a Clay Research Fellowship, and the prize of the European Mathematical Society for his work.
+His work in geometric Langlands culminated in a joint 2002 paper with Edward Frenkel and Kari Vilonen, establishing the conjecture for finite fields, and a separate 2004 paper, generalizing the proof to include the field of complex numbers as well.
+Prior to his 2005 appointment at Harvard, he was an associate professor at the University of Chicago from 2001–2005.
+
+Selected publications
+Gaitsgory, Dennis; Rozenblyum, Nick (2017). A Study in Derived Algebraic Geometry. American Mathematical Society. ISBN 978-1-4704-3569-1.
+Gaitsgory, Dennis; Lurie, Jacob (19 February 2019). Weil's Conjecture for Function Fields: Volume I (AMS-199). Princeton University Press. ISBN 978-0-691-18443-2.
+
+References
+External links
+Dennis Gaitsgory at the Mathematics Genealogy Project
+Gaitsgory's thesis

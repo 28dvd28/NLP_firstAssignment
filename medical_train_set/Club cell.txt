@@ -1,0 +1,29 @@
+Club cells, also known as bronchiolar exocrine cells, are low columnar/cuboidal cells with short microvilli, found in the small airways (bronchioles) of the lungs. They were formerly known as Clara cells.
+Club cells are found in the ciliated simple epithelium. These cells may secrete glycosaminoglycans to protect the bronchiole lining. Bronchiolar cells gradually increase in number as the number of goblet cells decrease.
+One of the main functions of club cells is to protect the bronchiolar epithelium. They do this by secreting a small variety of products, including club cell secretory protein uteroglobin, and a solution similar in composition to pulmonary surfactant. They are also responsible for detoxifying harmful substances inhaled into the lungs. Club cells accomplish this with cytochrome P450 enzymes found in their smooth endoplasmic reticulum. Club cells also act as a stem cell, multiplying and differentiating into ciliated cells to regenerate the bronchiolar epithelium.
+
+Function
+The respiratory bronchioles represent the transition from the conducting portion to the respiratory portion of the respiratory system. The narrow channels are usually less than 2 mm in diameter and they are lined by a simple cuboidal epithelium, consisting of ciliated cells and non-ciliated club cells, which are unique to bronchioles. In addition to being structurally diverse, club cells are also functionally variable. One major function they carry out is the synthesis and secretion of the material lining the bronchiolar lumen. This material includes glycosaminoglycans, proteins such as lysozymes, and conjugation of the secretory portion of IgA antibodies. These play an important defensive role, and they also contribute to the degradation of the mucus produced by the upper airways. The heterogeneous nature of the dense granules within the club cell's cytoplasm suggests that they may not all have a secretory function. Some of them may contain lysosomal enzymes, which carry out a digestive role, either in defense: Club cells engulf airborne toxins and break them down via their cytochrome P-450 enzymes (particularly CYP4B1, which is only present in the club cells) present in their smooth endoplasmic reticulum; or in the recycling of secretory products. Club cells are mitotically active. They divide and differentiate to form both ciliated and non-ciliated epithelial cells.
+
+Clinical significance
+Club cells contain tryptase, which is believed to be responsible for cleaving the hemagglutinin surface protein of influenza A virus, thereby activating it and causing the symptoms of flu. When the l7Rn6 protein is disrupted in mice, these mice display severe emphysema at birth as a result of disorganization of the Golgi apparatus and formation of aberrant vesicular structures within club cells.
+Malignant club cells are also seen in bronchioalveolar carcinoma of the lung.
+Serum club cell proteins are used as a biomarker of lung permeability.  Exposure to particulate air pollution may compromise the integrity of the lung epithelium and lead to rapid increase in epithelial barrier permeability, as reflected by increased serum club cell concentrations.
+
+History
+Club cells were previously called Clara cells, as they were first described by Max Clara (1899–1966), in 1937. Clara was an active member of the Nazi Party and used tissue taken from executed victims of Nazi Germany for his research—including the work that led to his discovery of Clara cells. 
+In May 2012, the editorial boards of most of the major respiratory journals (including the journals of the American Thoracic Society, the European Respiratory Society and the American College of Chest Physicians) concluded that the continued use of Clara's eponym would be equivalent to honoring him; they therefore introduced a name-change policy, which went into effect beginning January 1, 2013.
+The term "Clara" was used parenthetically after "club cell" for a 2-year period, after which "Clara cell" and "Clara cell secretory protein" were conclusively replaced with "club cell" and "club cell secretory protein", respectively.
+
+See also
+cGMP-dependent protein kinase
+List of medical eponyms with Nazi associations
+Skatole
+List of human cell types derived from the germ layers
+List of distinct cell types in the adult human body
+
+References
+External links
+Histology image: 13805loa – Histology Learning System at Boston University
+UIUC Histology Subject 1385
+Histology at ucsf.edu

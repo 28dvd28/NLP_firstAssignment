@@ -1,0 +1,18 @@
+Nigel James Hitchin FRS (born 2 August 1946) is a British mathematician working in the fields of differential geometry, gauge theory, algebraic geometry, and mathematical physics. He is a Professor Emeritus of Mathematics at the University of Oxford.
+
+Academic career
+Hitchin attended Ecclesbourne School, Duffield, and earned his BA in mathematics from Jesus College, Oxford, in 1968. After moving to Wolfson College, he received his D.Phil. in 1972. From 1971 to 1973 he visited the Institute for Advanced Study and 1973/74 the Courant Institute of Mathematical Sciences of New York University. He then was a research fellow in Oxford and starting in 1979 tutor, lecturer and fellow of St Catherine's College. In 1990 he became a professor at the University of Warwick and in 1994 the Rouse Ball Professor of Mathematics at the University of Cambridge. In 1997 he was appointed to the Savilian Chair of Geometry at the University of Oxford, a position he held until his retirement in 2016.
+Amongst his notable discoveries are the Hitchin–Thorpe inequality; Hitchin's projectively flat connection over Teichmüller space; the Atiyah–Hitchin monopole metric; the Atiyah–Hitchin–Singer theorem; the ADHM construction of instantons (of Michael Atiyah, Vladimir Drinfeld, Hitchin, and Yuri Manin); the hyperkähler quotient (of Hitchin, Anders Karlhede, Ulf Lindström and Martin Roček); Higgs bundles, which arise as solutions to the Hitchin equations, a 2-dimensional reduction of the self-dual Yang–Mills equations; and the Hitchin system, an algebraically completely integrable Hamiltonian system associated to the data of an algebraic curve and a complex reductive group.  He and Shoshichi Kobayashi independently conjectured the Kobayashi–Hitchin correspondence.  Higgs bundles, which are also developed in the work of Carlos Simpson, are closely related to the Hitchin system, which has an interpretation as a moduli space of semistable Higgs bundles over a compact Riemann surface or algebraic curve.  This moduli space has emerged as a focal point for deep connections between algebraic geometry, differential geometry, hyperkähler geometry, mathematical physics, and representation theory.  
+In his article on generalized Calabi–Yau manifolds, he introduced the notion of generalized complex manifolds, providing a single structure that incorporates, as examples, Poisson manifolds, symplectic manifolds and complex manifolds.  These have found wide applications as the geometries of flux compactifications in string theory and also in topological string theory.
+In the span of his career, Hitchin has supervised 37 research students, including Simon Donaldson (part-supervised with Atiyah).
+Until 2013 Nigel Hitchin served as the managing editor of the journal Mathematische Annalen.
+
+Honours and awards
+In 1991 he was elected a Fellow of the Royal Society.In 2003 he was awarded an Honorary Degree (Doctor of Science) from the University of Bath.
+Hitchin was elected as an Honorary Fellow of Jesus College in 1998, and the Senior Berwick Prize (1990), the Sylvester Medal (2000) and the Pólya Prize (2002) have been awarded to him in honour of his far-reaching work.  A conference was held in honour of his 60th birthday, in conjunction with the 2006 International Congress of Mathematicians in Spain.
+In 2012 he became a fellow of the American Mathematical Society. In 2014 he was awarded another Honorary Degree (Doctor of Science) from the University of Warwick. In 2016 he received the Shaw Prize in Mathematical Sciences.
+
+References
+External links
+His home page at the University of Oxford
+Nigel Hitchin at the Mathematics Genealogy Project

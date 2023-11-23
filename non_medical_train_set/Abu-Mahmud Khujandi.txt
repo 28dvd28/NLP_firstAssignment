@@ -1,0 +1,17 @@
+Abu Mahmud Hamid ibn al-Khidr al-Khujandi (known as Abu Mahmood Khujandi, al-khujandi or Khujandi, Persian: ابومحمود خجندی, c. 940 - 1000) was a Muslim Transoxanian astronomer and mathematician born in Khujand (now part of Tajikistan) who lived in the late 10th century and helped build an observatory, near the city of Ray (near today's Tehran), in Iran.
+
+Astronomy
+Khujandi worked under the patronage of the Buwayhid Amirs at the observatory near Ray, Iran, where he is known to have constructed the first huge mural sextant in 994 AD, intended to determine the Earth's axial tilt ("obliquity of the ecliptic") to high precision.
+He determined the axial tilt to be 23°32'19" for the year 994 AD. He noted that measurements by earlier astronomers had found higher values (Indians: 24°; Ptolemy 23° 51') and thus discovered that the axial tilt is not constant but is in fact (currently) decreasing. His measurement of the axial tilt was however about 2 minutes too small, probably due to his heavy instrument settling over the course of the observations.
+
+Mathematics
+Khujandi stated a special case of Fermat's Last Theorem for n = 3, but his attempted proof of the theorem was incorrect. The spherical law of sines may have also been discovered by Khujandi, but it is uncertain whether he discovered it first, or whether Abu Nasr Mansur, Abul Wafa or Nasir al-Din al-Tusi discovered it first.
+
+Notes
+References
+O'Connor, John J.; Robertson, Edmund F., "Abu Mahmud Hamid ibn al-Khidr Al-Khujandi", MacTutor History of Mathematics Archive, University of St Andrews
+
+External links
+Brummelen, Glen Van (2007). "Khujandī: Abū Maḥmūd Ḥāmid ibn al‐Khiḍr al‐Khujandī". In Thomas Hockey; et al. (eds.). The Biographical Encyclopedia of Astronomers. New York: Springer. pp. 630–1. ISBN 978-0-387-31022-0. (PDF version)
+Tekeli, Sevim (2008) [1970-80]. "Al-Khujandī, Abū Maḥmūd Ḥāmid Ibn Al-Khiḍr". Complete Dictionary of Scientific Biography. Encyclopedia.
+History of Islamic Science

@@ -1,0 +1,29 @@
+Intermittent hypoxia (also known as episodic hypoxia) is an intervention in which a person or animal undergoes alternating periods of normoxia and hypoxia. Normoxia is defined as exposure to oxygen levels normally found in earth's atmosphere (~21% O2) and hypoxia as any oxygen levels lower than those of normoxia. Normally, exposure to hypoxia is negatively associated to physiological changes to the body, such as altitude sickness. However, when used in moderation, intermittent hypoxia may be used clinically as a means to alleviate various pathological conditions.
+
+General Mechanisms
+When used as a rehabilitative intervention, particularly for respiration and walking, intermittent hypoxia typically works by using long-term facilitation (LTF). LTF, which is synonymous to long-term potentiation, occurs when there are long-term increases in synaptic strength due to synaptic plasticity. In the case of intermittent hypoxia, these increases in synaptic strength result in increased motor output.Reduced partial pressures of oxygen in the arteries due to intermittent hypoxia are sensed by and stimulate the carotid body, a chemoafferent receptor. The activated carotid body triggers the release of serotonin that attach to serotonin receptors on the surface of motoneurons, such as the phrenic motoneuron in the case of respiratory recovery. This signal transduction pathway then uses downstream molecules such as TrkB, BDNF, and PKA to increase the synaptic output of the involved motor neuron which in turn increases the motor output of the involved muscles and, thus, decreases functional impairment. As the amount of intermittent hypoxia changes the amount of serotonin release and, as a result, the amount of LTF, this process exhibits metaplasticity. Metaplasticity occurs when the LTF is itself plastic or variable.
+Intermittent hypoxia-induced LTF has also been demonstrated in carotid denervated rats, suggesting that synaptic plasticity due to intermittent hypoxia also works through other mechanisms outside of carotid chemoafferents.Aside from this, intermittent hypoxia also alters overall nitric oxide production, concentration, and gene expression, which occurs due to cardiovascular adaptations to hypoxia. This mechanism is relevant when used as a means to decrease hypertension or increase bone mineral density
+
+Dosage
+An understanding of proper dosage is needed in order to design an effective intermittent hypoxia protocol, particularly due to the comorbidities associated with hypoxia. For example, intermittent hypoxia has been shown to induce LTF in rats while continuous hypoxia does not. And acute IH shows no evidence of the hippocampal cell death found in rats while chronic intermittent hypoxia exposure doesThough intermittent hypoxia has been used for various therapeutic applications across a number of physiological system, there is a general consensus in what can be considered a safe and beneficial amount of intermittent hypoxia. Such a protocol would involve a fraction of inspired oxygen (FiO2) ranging between 0.09 – 0.16 with 3 – 15 episodes per day with comorbidities found in the range of a FiO2 of 0.03 – 0.08  and 48 – 2400 episodes per day.
+
+Pathological and beneficial effects
+Therapeutic applications
+Though intermittent hypoxia is initially involved with only the respiratory system, its downstream effects allow it to also be used as an effective rehabilitative intervention in a number of different biological systems in both animals and humans.
+
+LTF
+For the respiratory system, the LTF facilitated by intermittent hypoxia aids in increasing phrenic motor nerve output. This has been shown to help people with obstructive sleep apnea and COPD. The ability to increase muscle activity, specifically for walking, has also been demonstrated in both rats and humans after spinal cord injury.
+
+Hippocampal neurogenesis
+Hippocampal neurogenesis has also been demonstrated in rats subjected to intermittent hypoxia. This neurogenesis has shown related cognitive improvements such as enhanced learning and memory as well as overall increases in spatial cognitive ability. Additionally, antidepressant-like effects are exhibited in rats undergoing such treatment.
+
+Nitric oxide production
+Nitric oxide level changes due to intermittent hypoxia also provide potential benefits. People with hypertension have shown decreases in blood pressure. Increases in bone mineral density in rats has also been attributed to this process. Such changes to nitric oxide levels also aid in protection from myocardial ischemia and perfusion.
+
+See also
+Hypoxia (medical)
+Hypoxia (disambiguation)
+Intermittent hypoxic training
+
+
+== References ==

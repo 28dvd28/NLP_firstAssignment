@@ -1,0 +1,40 @@
+NANDA International (formerly the North American Nursing Diagnosis Association) is a professional organization of nurses interested in standardized nursing terminology, that was officially founded in 1982 and develops, researches, disseminates and refines the nomenclature, criteria, and taxonomy of nursing diagnoses. In 2002, NANDA became NANDA International in response to the broadening scope of its membership. NANDA International published Nursing Diagnosis quarterly, which became the International Journal of Nursing Terminologies and Classifications, and then later was reconceptualized as the International Journal of Nursing Knowledge, which remains in print today. The Membership Network Groups foster collaboration among NANDA-I members in countries (Brazil, Colombia, Ecuador, México, Peru, Portugal, and Nigeria-Ghana) and for languages: the German Language Group (Germany, Austria, Switzerland) and the Dutch Language Group (Netherlands and Belgium).
+
+History
+In 1973, Kristine Gebbie and Mary Ann Lavin called the First National Conference on the Classification of Nursing Diagnoses (Gebbie & Lavin, 1975). It was held in St. Louis, Missouri. Attendees produced a beginning classification, an alphabetized list of nursing diagnoses. The conference also created three structures: A National Clearinghouse for Nursing Diagnoses, located at Saint Louis University and led by Ann Becker; a Nursing Diagnosis Newsletter, edited by Anne Perry; and a National Conference Group to standardize nursing terminology and led by Marjory Gordon. In 1982 NANDA was formed, and included members from the United States and Canada.
+NANDA developed a nursing classification to organize nursing diagnoses into different categories. Although the taxonomy was revised to accommodate new diagnoses, in 1994 it became apparent that an overhaul was needed. In 2002 Taxonomy II, which was a revised version of Gordon's functional health patterns (Gordon, 1994), was released.
+In 2002, NANDA became NANDA International in response to requests from its growing base of membership from outside North America. The acronym of NANDA was retained in the name because of the name recognition, but it is no longer merely "North American", and has members from 35 countries as of 2018.
+
+Research and electronic health record utilization
+Research has shown that NANDA-I is the most used, most researched of the standardized nursing languages (Tastan, S., Linch, G. C., Keenan, G. M., Stifter, J., McKinney, D., Fahey, L., ... & Wilkie, D. J., 2014). Their findings showed that the number of standardized nursing language (SNL) publications increased primarily since 2000, with most focusing on NANDA International, the Nursing Interventions Classification, and the Nursing Outcome Classification. The majority of the studies were descriptive, qualitative, or correlational designs that provide a strong base for understanding the validity and reliability of the concepts underlying the standardized nursing terminologies. There is evidence supporting the successful integration and use in electronic health records for two standardized nursing terminology sets: (1) the combination of NANDA International nursing diagnoses, Nursing Interventions Classification, and Nursing Outcome Classification; and (2) the Omaha System set.
+
+Presidents
+1982-1988 Dr. Marjory Gordon
+1988-1993 Jane Lancour
+1993-1997 Dr. Lois Hoskins
+1997-2001 Dr. Judith Warren
+2001-2005 Dr. Dorothy A. Jones
+2005-2006 Dr. Kay Avant
+2006-2007 Dr. Mary Ann Lavin
+2007-2008 Dr. Martha Craft-Rosenberg
+2008-2009 Dr. T. Heather Herdman
+2009-2012 Dr. Jane Brokel
+2012-2016 Prof. Dickon Weir-Hughes
+2016-2020 Dr. Shigemi Kamitsuru
+
+Taxonomy II
+The current structure of NANDA's nursing diagnoses is referred to as Taxonomy II and has three levels: Domains (13), Classes (47) and Diagnoses (277) (Herdman, Kamitsuru, & Lopes, 2021).
+
+See also
+Nursing diagnoses (category)
+Nursing diagnosis
+Nursing process
+
+References
+Herdman, T.H. & Kamitsuru, S., Lopes, C.T. (Eds.) NANDA International nursing diagnoses: definitions and classification, 2021–24. NY: Thieme Medical Publishers.
+Gebbie, KM & Lavin, MA (1975). Proceedings of the First National Conference on the Classification of Nursing Diagnoses. St. Louis: Mosby.
+Gordon, M. (1994) Nursing Diagnosis: Process and Application, 3d Ed. St. Louis: Mosby
+Tastan, S., Linch, G. C., Keenan, G. M., Stifter, J., McKinney, D., Fahey, L., ... & Wilkie, D. J. (2014). Evidence for the existing American Nurses Association-recognized standardized nursing terminologies: A systematic review. International Journal of Nursing Studies, 51(8), 1160–1170.
+
+External links
+NANDA International's official website

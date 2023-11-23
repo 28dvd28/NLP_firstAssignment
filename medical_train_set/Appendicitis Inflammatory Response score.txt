@@ -1,0 +1,26 @@
+The Appendicitis Inflammatory Response (AIR) score is a diagnostic scoring system used to assist with the identification of appendicitis in children and adults.
+
+History
+The scoring system was developed in 2008. The AIR score was developed to overcome some of the drawbacks of the Alvarado score, another diagnostic scoring system for identifying appendicitis. The AIR score is one of the two scores (the other being the Adult Appendicitis Score, AAS) recommended by the 2020 World Society of Emergency Surgery clinical practice guidelines for the diagnosis and treatment of acute appendicitis.
+
+Scoring and interpretation
+The AIR score is calculated by tallying "points" ascribed to meeting its criteria, which are:
+Vomiting (no = 0, yes = 1)
+Right iliac fossa (RIF) pain (no = 0, yes = 1)
+Rebound tenderness (none = 0, light = 1, medium = 2, strong = 3)
+Febrile (internal temperature ≥101.3°F or 38.5°C) (no = 0, yes = 1)
+Polymorphonuclear leukocytes (<70% = 0, 70-84% = 1, ≥85% = 2)
+White blood cell count (<10×109/L = 0, 10-14.9×109/L = 1, ≥15×109/L = 2)
+Serum C-reactive protein (<10 mg/dL = 0, 10-49 mg/dL = 1, >50 mg/dL = 2)
+
+Validation
+A 2017 review found that the AIR score has a sensitivity of 92% and specificity of 63% if a score of 5 is used as a cut off for indicating a positive test, whereas the sensitivity is 20% and the specificity is 97% if a score of 8 is used.
+
+Limitations
+While the AIR score has better predictive power than certain other diagnostic tools for appendicitis (e.g. the Alvarado score), it has only been validated in a small number of studies as of 2017.
+
+External links
+Calculator for AIR score, by MDCalc
+
+
+== References ==

@@ -1,0 +1,66 @@
+Richard Edler von Mises (German: [fɔn ˈmiːzəs]; 19 April 1883 – 14 July 1953) was an Austrian scientist and mathematician who worked on solid mechanics, fluid mechanics, aerodynamics, aeronautics, statistics and probability theory. He held the position of Gordon McKay Professor of Aerodynamics and Applied Mathematics at Harvard University. He described his work in his own words shortly before his death as being on
+
+practical analysis, integral and differential equations, mechanics, hydrodynamics and aerodynamics, constructive geometry, probability calculus, statistics and philosophy.
+Although best known for his mathematical work, von Mises also contributed to the philosophy of science as a neo-positivist and empiricist, following the line of Ernst Mach. Historians of the Vienna Circle of logical empiricism recognize a "first phase" from 1907 through 1914 with  Philipp Frank, Hans Hahn, and Otto Neurath. His older brother, Ludwig von Mises, held an opposite point of view with respect to positivism and epistemology. His brother developed praxeology, an a priori view.During his time in Istanbul, Mises maintained close contact with Philipp Frank, a logical positivist and Professor of Physics in Prague until 1938. His literary interests included the Austrian novelist Robert Musil and the poet Rainer Maria Rilke, on whom he became a recognized expert.
+
+Life
+Von Mises was born in Lemberg, Austria-Hungary into a Jewish family, eighteen months after his brother Ludwig von Mises, who later became a prominent economist of the Austrian School, a heterodox school of economics. His parents were Arthur Edler von Mises, a doctor of technical sciences who worked as an expert for the Austrian State Railways, and Adele Landau. Richard and Ludwig also had a younger brother, Karl von Mises, who died as an infant from Scarlet Fever. Richard attended the Akademisches Gymnasium in Vienna, from which he graduated with honors in Latin and mathematics in autumn 1901. After graduating in mathematics, physics and engineering from the Vienna University of Technology, he was appointed as Georg Hamel's assistant in Brünn (now Brno). In 1905, still a student, he published an article on the geometry of curves called "Zur konstruktiven Infinitesimalgeometrie der ebenen Kurven," in the prestigious Zeitschrift für Mathematik und Physik.
+
+In 1908, von Mises was awarded a doctorate from Vienna (his dissertation was on "the determination of flywheel masses in crank drives") and he received his habilitation from Brünn (now Brno) (on "Theory of the Waterwheels") to lecture on engineering. In 1909, at 26, he was appointed professor of applied mathematics in Straßburg, then part of the German Empire (now Strasbourg, Alsace, France) and received Prussian citizenship. His application for a teaching position at the Brno University of Technology was interrupted by the First World War.
+Before the war he had already become a pilot and lectured on the design of aircraft, and in 1913 at Strasbourg he gave the first university course on powered flight. On the outbreak of war it was natural for him to join the Austro-Hungarian army as a test pilot and a flying instructor. In 1915, he supervised the construction of a 600-horsepower (450 kW) aircraft – the "Mises-Flugzeug" (Mises aircraft) for the Austrian army. It was completed in 1916 but never saw active war service.
+After the war, von Mises held the new chair of hydrodynamics and aerodynamics at the Dresden Technische Hochschule. In 1919 he was appointed director (and full professor) at the new Institute of Applied Mathematics created at the behest of Erhard Schmidt at the University of Berlin. In 1921 he founded the journal Zeitschrift für Angewandte Mathematik und Mechanik and became its editor.With the rise of the National Socialist Party to power in 1933, Mises felt his position threatened, despite his First World War military service. He moved to Turkey, where he held the newly created chair of pure and applied mathematics at the University of Istanbul. In 1939 he accepted a position in the United States, where in 1944 he was appointed as Gordon McKay Professor of Aerodynamics and Applied Mathematics at Harvard University. In 1943 he married Hilda Geiringer, a mathematician who had been his assistant at the Institute and moved with her to Turkey and then to the U.S.
+In 1950, von Mises declined an offer of honorary membership from the Communist-dominated East German Academy of Science.
+
+Contributions
+In aerodynamics, von Mises made notable advances in boundary-layer flow theory and airfoil design. He developed the distortion energy theory of stress, which is one of the most important concepts used by engineers in material strength calculations.
+His ideas were not unanimously well received, although Alexander Ostrowski had said of him: "Only with the appointment of Richard von Mises to the University of Berlin did the first serious German school of applied mathematics with a broad sphere of influence come into existence. Von Mises was an incredibly dynamic person and at the same time amazingly versatile like Runge. He was especially well versed in the realm of technology." and also wrote "Because of his dynamic personality his occasional major blunders were somehow tolerated. One has even forgiven him his theory of probability." Yet Andrey Kolmogorov, whose rival axiomatisation was better received, was less severe: "The basis for the applicability of the results of the mathematical theory of probability to real 'random phenomena' must depend on some form of the frequency concept of probability, the unavoidable nature of which has been established by von Mises in a spirited manner."
+In solid mechanics, von Mises made an important contribution to the theory of plasticity by formulating what has become known as the von Mises yield criterion, independently of Tytus Maksymilian Huber.
+He is also often credited for the Principle of Maximum Plastic Dissipation.
+The Gesellschaft für Angewandte Mathematik und Mechanik (Society of Applied Mathematics and Mechanics) awards a Richard von Mises Prize since 1989.
+In probability theory, he was the person who originally proposed the now famous "birthday problem". He also defined the impossibility of a gambling system.
+
+Bibliography
+Books
+Articles
+R. v. Mises, "Zur konstruktiven Infinitesimalgeometrie der ebenen Kurven," Zeitschrift für Mathematik und Physik, 52, 1905, pp. 44–85.
+R. v. Mises, "Zur Theorie der Regulatoren", Elektrotechnik und Maschinenbau 37, 1908, pp. 783–789.
+
+See also
+Birthday problem
+Impossibility of a gambling system
+Bernstein–von Mises theorem
+Cramér–von Mises criterion
+von Mises distribution
+
+Notes
+References
+Biography in Dictionary of Scientific Biography, New York, 1970–1990.
+Biography in Encyclopædia Britannica.
+
+Further reading
+A. Basch,  "Richard von Mises zum 70. Geburtstag", Osterreich. Ing.-Arch. 7, 1953, pp. 73–76.
+B. Bernhardt,  "Skizzen zu Leben und Werk von Richard Mises", in Österreichische Mathematik und Physik, Wien, Zentralbibliothek für Physik, 1993, pp. 51–62.
+H. Bernhardt,  "Zum Leben und Wirken des Mathematikers Richard von Mises",  NTM Schr. Geschichte Natur. Tech. Medizin 16 (2), 1979, pp. 40–49.
+G. Birkhoff,  "Richard von Mises' years at Harvard",  Zeitschrift für Angewandte Mathematik und Mechanik 63 (7), 1983, pp. 283–284.
+L. Collatz,  "Richard von Mises als numerischer Mathematiker",  Zeitschrift für Angewandte Mathematik und Mechanik (7), 1983, pp. 278–280.
+H. Cramér,  "Richard von Mises' work in probability and statistics", Ann. Math. Statistics 24, 1953, pp. 657–662.
+D. v. Dalen,  "The War of the Frogs and the Mice or the Crisis of the 'Mathematische Annalen'", The Mathematical Intelligencer 12 (1990), No.4, pp. 17–31.
+H. Föllmer and K. Küchler,  "Richard von Mises", in Mathematics in Berlin, Berlin, 1998, pp. 55–60.
+J. Förste,  "Zum 100. Geburtstag von Richard von Mises", Zeitschrift für Angewandte Mathematik und Mechanik 63 (7), 1983, p. 277.
+P. Frank,  "The work of Richard von Mises: 1883–1953", Science 119, 1954, pp. 823–824.
+A. Haussner,  "Geschichte der Deutschen Technischen Hochschule in Brünn 1849–1924." In Festschrift der Deutschen Technischen Hochschule in Brünn zur Feier ihres fünfundsiebzigjährigen Bestandes im Mai 1924, Verlag der Deutschen Technischen Hochschule, Brünn, 1924, pp. 5–92.
+G. S. S. Ludford,  "Mechanics in the applied- mathematical world of von Mises", Zeitschrift für Angewandte Mathematik und Mechanik 63 (7), 1983, pp. 281–282.
+R. Sauer,  "Nachruf: Richard von Mises",  Bayer. Akad. Wiss. Jbuch. 1953, pp. 194–197.
+R. Sauer,  "Richard von Mises 19. 4. 1883 – 14. 7. 1953" (in German), Bayer. Akad. Wiss. Jbuch. 1953, pp. 194–197
+M. Schield and T. Burnham. "Von Mises’ Frequentist Approach to Probability."  2008 American Statistical Association Proceedings of the Section on Statistical Education.  pp. 2187-2194. See www.statlit.org/pdf/2008SchieldBurnhamASA.pdf
+R. Siegmund-Schultze, "Hilda Geiringer von Mises, Charlier Series, Ideology, and the human side of the emancipation of applied mathematics at the University of Berlin during the 1920s",  Historia Mathematica 20, 1993, 364–381.
+P. Sisma, "Georg Hamel and Richard von Mises in Brno", Historia Mathematica, 29, 2002, pp. 176–192.
+A. Szafarz,  "Richard von Mises: l'échec d'une axiomatique",  Dialectica 38 (4), 1984, pp. 311–317.
+M. van Lambalgen,  "Randomness and foundations of probability: von Mises' axiomatisation of random sequences", in Statistics, probability and game theory, Hayward, CA, 1996, pp. 347–367.
+J. Weinhold,  "Zur Geschichte der Deutschen Technischen Hochschule in Brünn, Rückblicke und Vergleiche", Südetendeutsche Akademie der Wissenschaften und Künste,  Naturwissenschaftliche Klasse, 1991.
+
+External links
+
+O'Connor, John J.; Robertson, Edmund F., "Richard von Mises", MacTutor History of Mathematics Archive, University of St Andrews
+Richard von Mises at the Mathematics Genealogy Project
+Biography, in Czech

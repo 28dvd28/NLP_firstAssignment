@@ -1,0 +1,92 @@
+Occupational hazards in dentistry are occupational hazards that are specifically associated with a dental care environment. Members of the dental team, including dentists, hygienists, dental nurses and radiographers, must ensure local protocols are followed to minimize risk.
+
+Radiation
+Exposure to radiation can result in harm, categorised as either deterministic or stochastic. Deterministic effects occur above a certain threshold of radiation e.g. burns, cataracts. Stochastic events are random occurrences after exposure to radiation as there is not a threshold dose above which they will occur e.g. carcinogenesis. Whilst radiation occurs naturally in the environment, additional exposure for medical purposes should be limited to where benefit outweighs risk to both staff and patients.
+The World Dental Federation guidelines highlight that operators of dental radiography equipment must be sufficiently trained and qualified. When operating equipment, the staff member should be at least two metres away from the source, clear from the primary beam and behind a protective shield or wall where possible. The US-based National Council on Radiation Protection recommends the shield be installed by an expert and lead may be substituted for gypsum, steel or concrete providing suitable thickness. Additionally, visual contact should be considered whilst designing the shield to allow for constant monitoring of the patient.Regular testing of equipment is required and varies depending on local legislation, with a designated legal person or employer responsible for organising checks. Faulty equipment could lead to increased or accidental radiation exposure to staff or patients.
+
+United Kingdom
+Within the United Kingdom, the Ionising Radiation Regulations and Ionising Radiation (Medical Exposure) Regulations stipulate measures for limiting risk to staff and patients. The Health and Safety Executive enforces such regulations, and additionally provides a database of radiation exposure for different groups of workers, known as the Central Index of Dose Information, which allows analysis of trends.Personal dosimeters should be worn where the estimated annual exposure to radiation will exceed 1 mSv. This can be calculated by considering the type and number of radiographs that will be taken by the worker. According to the regulations, should the estimated exposure exceed 6 mSv, then the worker is said to be classified, and will require regular medical checks. However, as the doses from dental images are relatively low, should estimated doses exceed normal values then investigations are required to ensure that principles of justification, optimisation and limitation are being followed.
+Whilst local regulations vary by country, regulations specify information essential for a radiation protection folder within each dental practice operating X-ray equipment, including designated control areas, contingency plans, qualified staff, pregnant staff, policy and standard procedures. Regular communication with a medical physics expert ensures guidelines are being followed and understood.
+
+Dangerous substances
+Sodium hypochlorite is a commonly used irrigant in endodontic therapy to dissolve organic matter and kill microbes, allowing removal of infection source. Case reports suggest a risk to dental professionals of chemical burns to the eyes as a result of sodium hypochlorite exposure.
+Nitrous oxide is commonly used in dentistry as a method of conscious inhalation sedation, particularly for children. This has been shown in both medical and dental settings to be a very safe method of sedation for patients. However, historical evidence suggests a potential increase in risk of spontaneous abortion amongst pregnant female dental professionals, with the risk increasing with greater contact time with nitrous oxide sedation treatment and the absence of scavenging equipment to remove any leaking gas.Dental amalgam is a mercury-containing filling material used to fill cavities once tooth decay has been removed. The use of dental fillings containing mercury is to be phased down in accordance with the Minamata Convention, however its use remains widespread. Weak relationships exist between mercury and spontaneous abortion, congenital abnormalities and reduced fertility.In addition, some of the procedures conducted with patients who suffer diseases can generate dusts which are associated with lung diseases.  Nine cases of idiopathic pulmonary fibrosis were detected among dental personnel in Virginia during 2000–2015. No clear etiology has been identified, but occupational exposures from the treatment disease carriers are possible.
+
+Dental aerosol
+A dental aerosol is an aerosol that is produced from dental instruments like ultrasonic scalers, dental handpieces, three-way syringes and other high-speed instruments. These dental aerosols are also bioaerosols which are contaminated with bacteria, fungi and viruses of the oral cavity, skin and the water used in the dental units. Dental aerosols also have micro-particles of the burs and silica particles which are some of the components of dental filling materials like composite. These aerosols are suspended in the air in the clinical environment. These aerosols can pose risks to the clinician, staff and also other patients. Depending upon the procedure and site, the aerosol composition may change from patient to patient. Apart from microorganisms, these aerosols may consist of particles from saliva, blood, oronasal secretions, gingival fluids, and micro-particles from grinding of the teeth. The larger particles (>50 µm) of the aerosols are suspended in the air for relatively short periods and settle down quickly, but the smaller particles tend to remain suspended for longer periods and may enter and be deposited in the lungs when they are inhaled, and can transmit diseases. The water used in the dental units may be contaminated with the aerosols from the dental hand-pieces; this may lead to their spreading in the environment of the dental setting, which could possibly lead to their inhalation by dentist, staff and patients. The dental unit water lines (DUWLs) may also be contaminated with other bacteria such as Mycobacterium spp. and Pseudomonas aeruginosa.
+
+COVID
+Dentists have one of the highest occupational risks of exposure to COVID-19. SARS-CoV-2, which causes COVID-19, remains stable in aerosols for several hours. The virus is viable for hours in aerosols and for a few days on surfaces, hence the transmission of SARS-CoV-2 is feasible through aerosols and also shows fomite transmission. Due to the close proximity of the dental health care workers to the patients, dental procedures involving aerosol production are not advisable in patients who tested positive for COVID-19. On March 16, 2020, the American Dental Association advised dentists to postpone all elective procedures. It also developed guidance specific to address dental services during the COVID-19 pandemic. A review of issues implicated in the re-opening of dental services (practice preparation, personal protective equipment, management of the clinical area, dental procedures, and cleaning and disinfection) indicated that patient triage by telephone is recommended by several research groups, while some also recommend temperature screening at reception. Most guidance recommends avoiding aerosol-generating procedures (AGPs), and surgical masks for non-COVID-19 cases not requiring AGPs. Treatment of non-COVID-19 cases undergoing AGPs and all suspected or confirmed COVID-19 cases undergoing any procedure should be carried out by professionals who are wearing filtering facepiece class 2 (FFP2, equivalent to N95) masks. The Centers for Disease Control and Prevention (CDC) in the US discussed guidance in a June 3, 2020 webinar. A caveat is that across sources, some of the guidance lacks strong (or any) research evidence. On August 28, 2020 the CDC updated its Guidance for Dental Settings During the Coronavirus Disease 2019 (COVID-19) Pandemic.[1] On February 16, 2020, the California Dental Association, in response to updated CDC guidelines for wearing masks, advised dental teams to continue following PPE recommendations that are specific to dental offices.[2]  Several associations also indicated the need to examine the efficiency of source controls methods: in particular, dental evacuation systems. These systems can capture potentially harmful aerosols directly at the mouth of the patient before the aerosol can enter ambient air and subsequently be inhaled by nearby dental personnel, patients, or others, immediately or hours later.
+
+Musculoskeletal disorders
+Musculoskeletal problems are prevalent among dental professionals. Problems can begin as early on as dental school, with 79% of dental students at one undergraduate dental school in the UK reporting neck and/or back pain. The problems arise from the nature of the job: focusing on fine procedures which require a close visual field and sustained posture for long periods of time. Musculoskeletal disorders were found to be more prevalent amongst dental surgeons than among surgeons or physicians, and 60% of dentists reported symptoms in more than one site. Repetitive work, the need to maintain steady hands, and spending most of the day in an awkward posture can lead to musculoskeletal pain in various sites. The lower back is commonly affected, as well as the upper back, shoulders and neck.There are a number of recommendations for dentists that can help reduce the risk of developing musculoskeletal pain. The use of magnification or loupes and good lighting aids an improvement in posture by preventing the need to crane the neck and back for better vision. The use of a saddle seat also assists improved posture by keeping the spine in its natural 'S' curve. Patients should be positioned with enough distance to allow the shoulders to be in a relaxed, neutral position and elbows at about a 90 degree or less flexion. However, according to a Cochrane review published in 2018, there is insufficient evidence about the effects of ergonomic interventions in preventing musculoskeletal disorders among dentists and other dental care practitioners.
+
+Stress
+Recent studies show that dentists are at higher risk of stress-related incidents such as suicide, cardiovascular disease and mental health issues. Potential reasons include work confinement, working with anxious patients, time pressures, complex treatment and personality traits within dentists themselves (the need for perfection, attention to detail, high expectations of themselves and others).Between 1991 and 2000 the UK's Office for National Statistics indicated that doctors, dentists, nurses, vets and agricultural workers have the highest suicide risk compared to other professions.According to an article in the British Dental Journal, stress-related problems can lead to premature retirement. The most frequent causes of premature retirement were musculoskeletal disorders (29.5%), cardiovascular disease (21.1%), and neurotic symptoms (16.5%).
+
+Noise
+Dentists are often exposed to different noises from dental instruments like handpieces and scalers and from the other equipment and machines used in the dental clinics. These noises may range from 60 to 99 decibels. Exposure to noise levels above 85 decibels for 8 hours or more can be harmful to one's hearing, and may also be associated with other stress-mediated health outcomes. Exposure to high intensity noise may cause Noise-induced hearing loss (NIHL) in dental practitioners.
+
+Sharps injuries
+Due to the nature of their work and the instruments used, both dentists and dental nurses are at great risk of sharps injuries. This is a common occurrence in the dental field, yet almost entirely preventable with the correct protective equipment and procedures. A sharps injury could be caused during any Exposure Prone Procedure (EPP), where the healthcare worker's gloved hands may be in contact with sharp instruments, needle tips or sharp tissues (e.g. spicules of bone or teeth). This may be inside a patient's open body cavity, wound or confined space in which the fingertips may not be completely visible at all times. Most dental procedures are EPPs except:
+
+Examination using only mouth mirror
+Taking extra-oral radiographs
+Visual and digital examination of the head and neck
+Visual and digital examination of edentulous mouth
+Taking impressions of edentulous patients
+Constructing and fitting full denturesWith sharps injuries there is an associated risk of transmission of infections, such as blood-borne viruses such as hepatitis B virus (HBV), hepatitis C virus (HCV) and human immunodeficiency virus (HIV). It has been shown that there is great emotional impact related to sharps injuries, even if there has been no transmission of infection. This may be due to the extensive process following a sharps injury, embarrassment, or fear of being exposed to infectious disease. The estimated percentage risk of transmission of these viruses is outlined in the table below:
+
+Other infectious agents which can spread by this route are:
+
+Viruses: Cytomegalovirus (CMV), Epstein-Barr Virus (EBV), Paroviruses
+Bacteria: Treponema pallidum (syphilis), Yersinia, Parasites, Plasmodium
+
+Legislation
+The “Health and Safety (Sharp Instruments in Healthcare) Regulations 2013 was published by the Health and Safety Executive and is aimed at healthcare employers and employees. The Sharps Regulations build on the existing law outlined in the European Council Directive 2010/32/EU, which requires employers to carry out risk assessment of sharps injuries and practice adequate control measures. The regulations are based on preventative control measures set out in the Control of Substances Hazardous to Health Regulations (COSHH), with additional measures:
+
+Avoid unnecessary use of sharps: - Only use them as required
+Use safer sharps with mechanisms to prevent or minimise risk of injury e.g. needles with protective shield, and avoid re-sheathing needles
+Place secure containers and instructions for safe disposal of medical sharps close to the work area: Instructions for staff on safe disposal of sharps must also be placed in those areas
+All employees must have access to information on: safe operating systems, risks from sharps injuries, legal duties, prevention, vaccination, support.
+Employees must be properly trained to use and dispose of sharps safely
+Injured employee's duty to notify their employer of a sharps accident
+The incident must be recorded fully and investigated. An entry in an incident book must include:
+Who was injured
+When they were injured
+Type of procedure carried out at the church
+Severity of injury
+Employer must ensure injured employee is treated and followed-up
+Review procedures regularly
+
+Prevention
+Practical ways to prevent sharps injuries include:
+
+Never passing instruments over a patient's face
+Removing burs from handpieces when not in use and checking their safety before use
+Keeping the bracket table tidy
+Handling sutures with suture needles only
+Using needles with safety devicesThere are various needle stick injury prevention devices available for use in routine dental procedures. One example is of a single use syringe barrel which removes the risk of re-sheathing a needle as there is a plastic shield which slides down to safely cover the sharp point. A second “click” locks the cover in this place to avoid accidental uncovering of the needle.
+
+Management
+Account for and make safe the instrument responsible for the injury
+Encourage free bleeding of the skin wound. Cleanse with soap and water, followed by 70% alcohol. If the damaged area is a mucous membrane, rinse immediately and thoroughly with water or saline solution.
+Report incident to person responsible for occupational hazard incidents
+Someone unrelated to the accident should carry out a risk assessment
+If the source of the blood is known, inform them and request permission to take a blood sample for HCV and HIV test. If permission is refused, it must be assumed that they are a carrier.
+Take baseline blood sample from the injured healthcare worker as soon as possible after the incident
+Further blood samples should be taken after one, three and six monthsIncidents with higher risk of virus transmission are those associated with:
+
+Deep wounds
+Visible blood on instrument
+Hollow bore needles containing blood
+IV or IM injection of contaminated blood
+Blood from a patient with a high virus level (e.g. untreated or end-stage AIDS patients)
+
+See also
+Dental aerosol
+
+References
+External links
+American Dental Association, Information on work-related risks
+Centers for Disease Control and Prevention, Guidance for Dental Settings During the COVID-19 Response

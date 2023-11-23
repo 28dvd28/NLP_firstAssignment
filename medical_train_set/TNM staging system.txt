@@ -1,0 +1,98 @@
+The TNM Classification of Malignant Tumors (TNM) is a globally recognised standard for classifying the anatomical extent of the spread of malignant tumours (cancer). It has gained wide international acceptance for many solid tumor cancers, but is not applicable to leukaemia or tumors of the central nervous system. Most common tumors have their own TNM classification. The TNM staging system is sometimes referred to as the AJCC/UICC staging system or the UICC/AJCC staging system.
+TNM was developed and is maintained by the Union for International Cancer Control (UICC). It is also used by the American Joint Committee on Cancer (AJCC) and the International Federation of Gynecology and Obstetrics (FIGO). In 1987, the UICC and AJCC staging systems were unified into the single TNM staging system. TNM is a notation system that describes the stage of a cancer, which originates from a solid tumor, using alphanumeric codes:
+
+T describes the size of the original (primary) tumor and whether it has invaded nearby tissue,
+N describes nearby (regional) lymph nodes that are involved,
+M describes distant metastasis (spread of cancer from one part of the body to another).The TNM staging system for all solid tumors was devised by Pierre Denoix between 1943 and 1952, using the size and extension of the primary tumor, its lymphatic involvement, and the presence of metastases to classify the progression of cancer.
+
+General outline
+The TNM classification comprises staging algorithms for almost all cancers, with the primary exception of pediatric cancers. The general outline for the TNM classification is below. The values in parentheses give a range of what can be used for all cancer types, but not all cancers use this full range.
+
+Mandatory parameters
+T: size or direct extent of the primary tumor
+Tx: tumor cannot be assessed
+Tis: carcinoma in situ
+T0: no evidence of tumor
+T1, T2, T3, T4: size and/or extension of the primary tumor
+ N: degree of spread to regional lymph nodes
+Nx: lymph nodes cannot be assessed
+N0: no regional lymph nodes metastasis
+N1: regional lymph node metastasis present; at some sites, tumor spread to closest or small number of regional lymph nodes
+N2: tumor spread to an extent between N1 and N3 (N2 is not used at all sites)
+N3: tumor spread to more distant or numerous regional lymph nodes (N3 is not used at all sites)
+ M: presence of distant metastasis
+M0: no distant metastasis
+M1: metastasis to distant organs (beyond regional lymph nodes)The Mx designation was removed from the 7th edition of the AJCC/UICC system, but referred to cancers that could not be evaluated for distant metastasis.
+
+Other parameters
+G (1–4): the grade of the cancer cells (i.e. they are "low grade" if they appear similar to normal cells, and "high grade" if they appear poorly differentiated)
+S (0–3): elevation of serum tumor markers
+R (0–2): the completeness of the operation (resection-boundaries free of cancer cells or not)
+Pn (0–1): invasion into adjunct nerves
+L (0–1): invasion into lymphatic vessels
+V (0–2): invasion into vein (no, microscopic, macroscopic)
+C (1–5): a modifier of the certainty (quality) of the last mentioned parameter (has been removed in the TNM 8th edition)
+
+Prefix modifiers
+c: stage is determined from evidence acquired before treatment (including clinical examination, imaging, endoscopy, biopsy, surgical exploration). The c-prefix is implicit in absence of the p-prefix.
+p: stage given by histopathologic examination of a surgical specimen
+y: stage assessed after chemotherapy and/or radiation therapy; in other words, the individual had neoadjuvant therapy.
+r: stage for a recurrent tumor in an individual that had some period of time free from the disease.
+a: stage determined at autopsy.
+u: stage determined by ultrasonography or endosonography. Clinicians often use this modifier although it is not an officially defined one
+m: tumor is multifocal (more than 1 tumors). The opposite, s, can be used when there is particular reason to emphasize that the tumor is solitary/single.For the T, N and M parameters exist subclassifications for some cancer-types (e.g. T1a, Tis, N1i)
+
+UICC Stage and AJCC Prognostic Stage Groups
+The TNM system is used to record the anatomical extent of disease. It is useful to condense these categories into groups. Carcinoma in situ is categorized stage 0; often tumors localized to the organ of origin are staged as I or II depending on the extent, locally extensive spread, to regional nodes are staged as III, and those with distant metastasis staged as stage IV. However, in some tumor types stage groups do not conform to this simplified schema. The stage group is adopted with the intention that categories within each group are more or less homogeneous in respect of survival, and that the survival rates are distinctive between groups.
+The Union for International Cancer Control (UICC) uses the term Stage to define the anatomical extent of disease. The American Joint Committee on Cancer (AJCC) uses the term Prognostic Stage Group which may also include additional prognostic factors in addition to anatomical extent of disease.
+
+Examples
+Small, low-grade cancer, no metastasis, no spread to regional lymph nodes, cancer completely removed, resection material seen by pathologist: pT1 pN0 M0 R0 G1; this grouping of T, N, and M would be considered Stage I.
+Large, high grade cancer, with spread to regional lymph nodes and other organs, not completely removed, seen by pathologist: pT4 pN2 M1 R1 G3; this grouping of T, N, and M would be considered Stage IV.While most Stage I tumors are curable, most Stage IV tumors are inoperable.
+
+Uses and aims
+Some of the aims for adopting a global standard are to:
+
+Aid medical staff in staging the tumor helping to plan the treatment.
+Give an indication of prognosis.
+Assist in the evaluation of the results of treatment.
+Enable facilities around the world to collate information more productively.Since the number of combinations of categories is high, combinations are grouped to stages for better analysis.
+
+Versions
+The criteria used in the TNM system have varied over time, sometimes fairly substantially, according to the different editions that AJCC and UICC have released. The dates of publication and adoption for use of the UICC and AJCC editions are summarized here; past editions are available from AJCC for web download.UICC editions:
+
+UICC TNM pocket book, "the Livre de Poche (1st ed.). 1968.
+UICC TNM pocket book, "the Livre de Poche (2nd ed.). 1974.
+UICC TNM Classification (3rd ed.). 1982.
+UICC TNM Classification (4th ed.). 1987.
+UICC TNM Classification (5th ed.). 1997.
+UICC TNM Classification (6th ed.). 2002. Went into effect 2003.
+UICC TNM Classification (7th ed.). 2009. Went into effect 2010.
+UICC TNM Classification (8th ed.). 2016. Went into effect 2017.AJCC editions:
+
+AJCC Cancer Staging Manual (1st ed.). 1977. Went into effect 1978.
+AJCC Cancer Staging Manual (2nd ed.). 1983. ISBN 0397505949. Went into effect 1984.
+Beahrs OH (1988). AJCC Cancer Staging Manual (3rd ed.). ISBN 0397509162. Went into effect 1989.
+AJCC Cancer Staging Manual (4th ed.). 1992. ISBN 0397512643. Went into effect 1993.
+AJCC Cancer Staging Manual (5th ed.). 1997. ISBN 0397584148. Went into effect 1998.
+Frederick G, Page DL, Fleming ID, Fritz AG, Balch CM, Haller DG, Morrow M (2002). AJCC Cancer Staging Manual (6th ed.). ISBN 0387952713. Went into effect 2003.
+AJCC Cancer Staging Manual (7th ed.). 2009. ISBN 978-0387884400. Went into effect 2010.
+Amin M, Edge SB, Greene FL, Byrd DR, Brookland RK, Washington MK, Gershenwald JE, Compton CC, Hess KR, Sullivan DC, Milburn J, Brierley JD, Gaspar LE, Schilsky RL, Balch CM, Winchester DP, Asare EA, Madera M, Gress DM, Meyer LR (2016). AJCC Cancer Staging Manual (8th ed.). ISBN 978-3319406176. Delayed to go into effect 2018.As a result, a given stage may have quite a different prognosis depending on which staging edition is used, independent of any changes in diagnostic methods or treatments, an effect that has been termed "stage migration". The technologies used to assign patients to particular categories have also changed, and increasingly sensitive methods tend to cause individual cancers to be reassigned to higher stages, making it improper to compare that cancer's prognosis to the historical expectations for that stage. A further important consideration is the effect of improving treatments over time.
+
+Essential TNM
+Essential TNM is a simplified form of TNM designed specifically to enable cancer registries in low and middle income countries to collect stage information when complete details of the extent of disease are not available for collection by the registry. It is not designed to replace TNM for patient care.
+
+Gallery
+Diagrams of main features of staging
+
+See also
+Cancer staging
+Ann Arbor staging, used in lymphomas
+
+References
+Bibliography
+External links
+UICC site
+AJCC site
+TNM Classification Help
+TNM Breast Cancer Staging (specific to breast cancer, but detailed and easy to understand)

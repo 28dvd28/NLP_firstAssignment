@@ -1,0 +1,21 @@
+A combined rapid anterior pituitary evaluation panel or triple bolus test or a dynamic pituitary function test is a medical diagnostic procedure used to assess a patient's pituitary function.
+A triple bolus test is usually ordered and interpreted by endocrinologists.In rare cases, it has been associated with pituitary apoplexy.
+
+Process
+Three hormones (usually synthetic analogues) are injected as a bolus into the patient's vein to stimulate the anterior pituitary gland:
+
+insulin
+gonadotropin-releasing hormone (GnRH)
+thyrotropin-releasing hormone (TRH)The gland's response is assessed by measuring the rise in cortisol and growth hormone (GH) in response to the hypoglycaemia caused by insulin, rises in prolactin and thyroid-stimulating hormone (TSH) caused by TRH and rises in luteinizing hormone (LH) and follicle-stimulating hormone (FSH) caused by GnRH.  Blood glucose levels are also monitored to ensure appropriate levels of hypoglycemia are achieved.
+
+History
+The triple bolus test was introduced in 1973 by physicians from the London Royal Postgraduate Medical School and Queen Elizabeth Hospital, Birmingham. It followed earlier reports combining insulin and vasopressin analogues in the diagnosis of hypopituitarism.
+
+See also
+Insulin tolerance test
+ACTH stimulation test
+Hypopituitarism
+Triple test
+
+
+== References ==

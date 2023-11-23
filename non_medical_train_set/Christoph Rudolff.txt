@@ -1,0 +1,15 @@
+Christoph Rudolff (born 1499 in Jawor, Silesia, died 1545 in Vienna) was a German mathematician, the author of the first German textbook on algebra.
+From 1517 to 1521, Rudolff was  a student of Henricus Grammateus (Schreyber from Erfurt) at the University of Vienna and was the author of a book computing, under the title: Behend und hübsch Rechnung durch die kunstreichen regeln Algebre so gemeinicklich die Coss genent werden (Nimble and beautiful calculation via the artful rules of algebra [which] are so commonly called "coss").He introduced the radical symbol (√) for the square root. It is believed that this was because it resembled a lowercase "r" (for "radix"), though there is no direct evidence. Cajori only says that a "dot is the embryo of our present symbol for the square root" though it is "possible, perhaps probable" that Rudolff's later symbols are not dots but 'r's.Furthermore, he used the meaningful definition that x0 = 1.
+
+See also
+History of mathematical notation
+
+Notes
+References
+Wolfgang Kaunzner; Karl Röttel; Christoff Rudolff (2006). Christoff Rudolff aus Jauer in Schlesien: zum 500. Geburtstag eines bedeutenden Cossisten und Arithmetikers, der aus diesem seinerzeit hoheitlich zur Krone von Böhmen gehörenden Landesteil stammt [Christoff Rudolff from Jauer in Silesia: on the 500th birthday of an important algebraist and arithmetician, who came from this region, which in his time belonged to the royal crown of Bohemia]. ISBN 978-3-928671-39-2.
+Moritz Cantor (1889), "Rudolff: Christoff R.", Allgemeine Deutsche Biographie (ADB) (in German), vol. 29, Leipzig: Duncker & Humblot, pp. 571–572
+Wolfgang Kaunzner (2005), "Rudolff, Christoff", Neue Deutsche Biographie (in German), vol. 22, Berlin: Duncker & Humblot, p. 198
+O'Connor, John J.; Robertson, Edmund F., "Christoph Rudolff", MacTutor History of Mathematics Archive, University of St Andrews
+
+External links
+Die Coss Christoffs Rudolffs

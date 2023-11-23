@@ -1,0 +1,45 @@
+Additional Mathematics is a qualification in mathematics, commonly taken by students in high-school (or GCSE exam takers in the United Kingdom). It features a range of problems set out in a different format and wider content to the standard Mathematics at the same level.
+
+Additional Mathematics in Singapore
+In Singapore, Additional Mathematics is an optional subject offered to pupils in secondary school—specifically those who have an aptitude in Mathematics and are in the Normal (Academic) stream  or Express stream. The syllabus covered is more in-depth as compared to Elementary Mathematics, with additional topics including Algebra binomial expansion, proofs in plane geometry, differential calculus and integral calculus. Additional Mathematics is also a prerequisite for students who are intending to offer H2 Mathematics and H2 Further Mathematics at A-level (if they choose to enter a Junior College after secondary school). Students without Additional Mathematics at the 'O' level will usually be offered H1 Mathematics instead.
+
+Examination Format
+The syllabus was updated starting with the 2021 batch of candidates. There are two written papers, each comprising half of the weightage towards the subject. Each paper is 2 hours 15 minutes long and worth 90 marks. Paper 1 has 12 to 14 questions, while Paper 2 has 9 to 11 questions. Generally, Paper 2 would have a graph plotting question based on linear law. It was originated in the year 2003
+
+GCSE Additional Mathematics in Northern Ireland
+In Northern Ireland, Additional Mathematics was offered as a GCSE subject by the local examination board, CCEA. There were two examination papers: one which tested topics in Pure Mathematics, and one which tested topics in Mechanics and Statistics. It was discontinued in 2014 and replaced with GCSE Further Mathematics—a new qualification whose level exceeds both those offered by GCSE Mathematics, and the analogous qualifications offered in England.
+
+Further Maths IGCSE and Additional Maths FSMQ in England
+Starting from 2012, Edexcel and AQA have started a new course which is an IGCSE in Further Maths. Edexcel and AQA both offer completely different courses, with Edexcel including the calculation of solids formed through integration, and AQA not including integration. 
+AQA's syllabus mainly offers further algebra, with the factor theorem and the more complex algebra such as algebraic fractions. It also offers differentiation up to—and including—the calculation of normals to a curve. AQA's syllabus also includes a wide selection of matrices work, which is an AS Further Mathematics topic. 
+AQA's syllabus is much more famous than Edexcel's, mainly for its controversial decision to award an A* with Distinction (A^), a grade higher than the maximum possible grade in any Level 2 qualification; it is known colloquially as a Super A* or A**.
+A new Additional Maths course from 2018 is OCR Level 3 FSMQ: Additional Maths (6993). In addition to algebra, coordinate geometry, Pythagorean theorem, trigonometry and calculus, which were on the previous specification, this course also includes:
+
+'Enumeration' content, which expands the topic of the binomial distribution to include permutations and combinations
+'Numerical methods’ content, which expands upon the informal graphical approximations in GCSE
+'Exponentials and Logarithms’ content, which develops the growth and decay content and the graphs section of GCSE
+'Sequences' content, which uses subscript notation to support the iterative work on numerical methods.
+
+Additional Mathematics in Malaysia
+In Malaysia, Additional Mathematics is offered as an elective to upper secondary students within the public education system. This subject is included in the Sijil Pelajaran Malaysia examination.
+Science stream students are required to apply for Additional Mathematics as one of the subjects in the Sijil Pelajaran Malaysia examination, while Additional Mathematics is an optional subject for students who are from arts or commerce streams. 
+Additional Mathematics in Malaysia—also commonly known as Add Maths—can be organized into two learning packages: the Core Package, which includes geometry, algebra, calculus, trigonometry and statistics, and the Elective Package, which includes science and technology application and social science application. It covers various topics including: 
+
+Format for Additional Mathematics Exam based on the Malaysia Certificate of Education is as follows:
+
+Paper 1 (Duration: 2 Hours): Questions are categorised into Sections A and B and are tested based on the student's knowledge to grasp the concepts and formulae learned during their 2 years of learning. Section A consists of 12 questions in which all must all be answered, whereas Section B consists of 3 questions and students are given the choice to answer 2 of the three questions only. Each question may contain from zero to three subsets of questions with marks ranging from 2 to 8 marks. The total weighting of the paper is 80 marks and constitutes 44% of the grade.
+Paper 2 (Duration: 2 hours 30 minutes): Questions are categorised into 3 sections: A, B and C. Section A contains 7 questions which must all be answered. Section B contains 4 questions where students are given the choice to answer 3 out of 4 of them. Section C contains 4 questions where students are only required to answer 2 out of 4 of the given questions. All Section C questions are based on the same chapters every year and are thus predictable. A question in Section C carries 10 marks with at 3 to 4 subquestions per question. This paper tests the student's ability to apply various concepts and formulae in real-life situations. The total weighting of the paper is 100 marks and constitutes 56% of the grade.In 2020, the first batch of students learning the new syllabus, KSSM, will receive new Form 4 textbooks with new chapters which contain certain topics from A-levels.
+
+Additional Mathematics in Mauritius
+In Mauritius, Additional Mathematics, more commonly referred to as Add Maths, is offered in secondary school as an optional subject in the Arts Streams, and a compulsory subject in the Science, Technical and Economics Stream. This subject is included in the University of Cambridge International Examinations, with covered topics including functions, quadratic equations, differentiation and integration (calculus).
+
+Additional Mathematics in Hong Kong
+In Hong Kong, the syllabus of HKCEE additional mathematics covered three main topics, algebra, calculus and analytic geometry. In algebra, the topics covered include mathematical induction, binomial theorem, quadratic equations, trigonometry, inequalities, 2D-vectors and complex number, whereas in calculus, the topics covered include limit, differentiation and integration.In the HKDSE, additional mathematics was replaced by Mathematics Extend Modules, while some topics, such as matrix and determinant, many of which are covered in the syllabus of HKALE pure mathematics and applied mathematics, are also included.
+
+See also
+Advanced level mathematics
+Further mathematics
+
+References
+External links
+[Vault] (Online resources on higher mathematics)

@@ -1,0 +1,201 @@
+Abū al-Wafāʾ Muḥammad ibn Muḥammad ibn Yaḥyā ibn Ismāʿīl ibn al-ʿAbbās al-Būzjānī or Abū al-Wafā Būzhjānī (Persian: ابو الوفا بوژگانی, or Arabic: ابو الوفا بوزجانی) (10 June 940 – 15 July 998) was a Persian mathematician and astronomer who worked in Baghdad. He made important innovations in spherical trigonometry, and his work on arithmetic for businessmen contains the first instance of using negative numbers in a medieval Islamic text.
+He is also credited with compiling the tables of sines and tangents at 15' intervals. He also introduced the secant and cosecant functions, as well studied the interrelations between the six trigonometric lines associated with an arc. His Almagest was widely read by medieval Arabic astronomers in the centuries after his death. He is known to have written several other books that have not survived.
+
+Life
+He was born in Buzhgan, (now Torbat-e Jam) in Khorasan (in today's Iran). At age 19, in 959, he moved to Baghdad and remained there until his death in 998. He was a contemporary of the distinguished scientists Abū Sahl al-Qūhī and al-Sijzi who were in Baghdad at the time and others such as Abu Nasr Mansur, Abu-Mahmud Khojandi, Kushyar Gilani and al-Biruni. In Baghdad, he received patronage from members of the Buyid court.
+
+Astronomy
+Abu al-Wafa' was the first to build a wall quadrant to observe the sky. It has been suggested that he was influenced by the works of al-Battani as the latter described a quadrant instrument in his Kitāb az-Zīj. His use of the concept of the tangent helped solve problems involving right-angled spherical triangles.  He developed a new technique to calculate sine tables, allowing him to construct more accurate tables than his predecessors.In 997, he participated in an experiment to determine the difference in local time between his location, Baghdad, and that of al-Biruni (who was living in Kath, now a part of Uzbekistan). The result was very close to present-day calculations, showing a difference of approximately 1 hour between the two longitudes. Abu al-Wafa is also known to have worked with Abū Sahl al-Qūhī, who was a famous maker of astronomical instruments. While what is extant from his works lacks theoretical innovation, his observational data were used by many later astronomers, including al-Biruni.
+
+Almagest
+Among his works on astronomy, only the first seven treatises of his Almagest (Kitāb al-Majisṭī) are now extant. The work covers numerous topics in the fields of plane and spherical trigonometry, planetary theory, and solutions to determine the direction of Qibla.
+
+Mathematics
+He defined the tangent function, and he established several trigonometric identities in their modern form, where the ancient Greek mathematicians had expressed the equivalent identities in terms of chords. The trigonometric identities he introduced were:
+
+  
+    
+      
+        sin
+        ⁡
+        (
+        a
+        ±
+        b
+        )
+        =
+        sin
+        ⁡
+        (
+        a
+        )
+        cos
+        ⁡
+        (
+        b
+        )
+        ±
+        cos
+        ⁡
+        (
+        a
+        )
+        sin
+        ⁡
+        (
+        b
+        )
+      
+    
+    {\displaystyle \sin(a\pm b)=\sin(a)\cos(b)\pm \cos(a)\sin(b)}
+  
+
+  
+    
+      
+        cos
+        ⁡
+        (
+        2
+        a
+        )
+        =
+        1
+        −
+        2
+        
+          sin
+          
+            2
+          
+        
+        ⁡
+        (
+        a
+        )
+      
+    
+    {\displaystyle \cos(2a)=1-2\sin ^{2}(a)}
+  
+
+  
+    
+      
+        sin
+        ⁡
+        (
+        2
+        a
+        )
+        =
+        2
+        sin
+        ⁡
+        (
+        a
+        )
+        cos
+        ⁡
+        (
+        a
+        )
+      
+    
+    {\displaystyle \sin(2a)=2\sin(a)\cos(a)}
+  He may have developed the law of sines for spherical triangles, though others like Abu-Mahmud Khojandi have been credited with the same achievement:
+
+  
+    
+      
+        
+          
+            
+              sin
+              ⁡
+              A
+            
+            
+              sin
+              ⁡
+              a
+            
+          
+        
+        =
+        
+          
+            
+              sin
+              ⁡
+              B
+            
+            
+              sin
+              ⁡
+              b
+            
+          
+        
+        =
+        
+          
+            
+              sin
+              ⁡
+              C
+            
+            
+              sin
+              ⁡
+              c
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {\sin A}{\sin a}}={\frac {\sin B}{\sin b}}={\frac {\sin C}{\sin c}}}
+  where 
+  
+    
+      
+        A
+        ,
+        B
+        ,
+        C
+      
+    
+    {\displaystyle A,B,C}
+   are the sides of the triangle (measured in radians on the unit sphere) and 
+  
+    
+      
+        a
+        ,
+        b
+        ,
+        c
+      
+    
+    {\displaystyle a,b,c}
+   are the opposing angles.Some sources suggest that he introduced the tangent function, although other sources give the credit for this innovation to al-Marwazi.
+
+Works
+Almagest (كتاب المجسطي Kitāb al-Majisṭī).
+A book of zij called Zīj al‐wāḍiḥ (زيج الواضح), no longer extant.
+"A Book on Those Geometric Constructions Which Are Necessary for a Craftsman", (كتاب في ما یحتاج إليه الصانع من الأعمال الهندسية Kitāb fī mā yaḥtāj ilayh al-ṣāniʿ min al-aʿmāl al-handasiyya). This text contains over one hundred geometric constructions, including for a regular heptagon, which have been reviewed and compared with other mathematical treatises. The legacy of this text in Latin Europe is still debated.
+"A Book on What Is Necessary from the Science of Arithmetic for Scribes and Businessmen", (كتاب في ما يحتاج إليه الكتاب والعمال من علم الحساب Kitāb fī mā yaḥtāj ilayh al-kuttāb wa’l-ʿummāl min ʾilm al-ḥisāb). This is the first book where negative numbers have been used in the medieval Islamic texts.He also wrote translations and commentaries on the algebraic works of Diophantus, al-Khwārizmī, and Euclid's Elements.
+
+Legacy
+The crater Abul Wáfa on the Moon is named after him.
+On 10 June 2015, Google changed its logo in memory of Abu al-Wafa' Buzjani.
+
+Notes
+References
+O'Connor, John J.; Robertson, Edmund F., "Mohammad Abu'l-Wafa Al-Buzjani", MacTutor History of Mathematics Archive, University of St Andrews
+Hashemipour, Behnaz (2007). "Būzjānī: Abū al‐Wafāʾ Muḥammad ibn Muḥammad ibn Yaḥyā al‐Būzjānī". In Thomas Hockey; et al. (eds.). The Biographical Encyclopedia of Astronomers. New York: Springer. pp. 188–9. ISBN 978-0-387-31022-0. (PDF version)
+Raynaud, D. (2012), "Abū al-Wafāʾ Latinus? A Study of Method", Historia Mathematica, 39 (1): 34–83, doi:10.1016/j.hm.2011.09.001, S2CID 119600916 (PDF version)
+Youschkevitch, A.P. (1970). "Abū'l-Wafāʾ al-Būzjānī, Muḥammad Ibn Muḥammad Ibn Yaḥyā Ibn Ismāʿīl Ibn al-ʿAbbās". Dictionary of Scientific Biography. Vol. 1. New York: Charles Scribner's Sons. pp. 39–43. ISBN 0-684-10114-9.
+
+
+== External links ==

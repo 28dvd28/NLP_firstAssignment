@@ -1,0 +1,54 @@
+The Glasgow Coma Scale (GCS) is a clinical scale used to reliably measure a person's level of consciousness after a brain injury.
+The GCS assesses a person based on their ability to perform eye movements, speak, and move their body. These three behaviours make up the three elements of the scale: eye, verbal, and motor. A person's GCS score can range from 3 (completely unresponsive) to 15 (responsive). This score is used to guide immediate medical care after a brain injury (such as a car accident) and also to monitor hospitalised patients and track their level of consciousness.
+Lower GCS scores are correlated with higher risk of death. However, the GCS score alone should not be used on its own to predict the outcome for an individual person with brain injury.
+
+Scoring
+The Glasgow Coma Scale is used for people above the age of two and is composed of three tests: eye, verbal, and motor responses. The scores for each of these tests are indicated in the table below. 
+
+The Glasgow Coma Scale is reported as the combined score (which ranges from 3 to 15) and the score of each test (E for eye, V for Verbal, and M for Motor). For each test, the value should be based on the best response that the person being examined can provide.For example, if a person obeys commands only on their right side, they get a 6 for motor. The scale also accounts for situations that prevent appropriate testing (Not Testable). When specific tests cannot be performed, they must be reported as "NT" and the total score is not reported.
+The results are reported as the Glasgow Coma Score (the total points from the three tests) and the individual components. As an example, a person's score might be: GCS 12, E3 V4 M5. Alternatively, if a patient was intubated, their score could be GCS E2 V NT M3.
+
+Pediatric scoring
+Children below the age of two struggle with the tests necessary for assessment of the Glasgow Coma Scale. As a result, a version for children has been developed, and is outlined below.
+
+Interpretation
+Individual elements as well as the sum of the score are important. Hence, the score is expressed in the form "GCS 9 = E2 V4 M3 at 07:35".
+Patients with scores of 3 to 8 are usually considered to be in a coma.
+Generally, brain injury is classified as:
+
+Severe, GCS ≤ 8
+Moderate, GCS 9–12
+Minor, GCS ≥ 13.Tracheal intubation and severe facial/eye swelling or damage make it impossible to test the verbal and eye responses. In these circumstances, the score is given as 1 with a modifier attached (e.g. "E1c", where "c" = closed, or "V1t" where t = tube). Often the 1 is left out, so the scale reads Ec or Vt. A composite might be "GCS 5tc". This would mean, for example, eyes closed because of swelling = 1, intubated = 1, leaving a motor score of 3 for "abnormal flexion".
+The GCS has limited applicability to children, especially below the age of 36 months (when the verbal performance of even a healthy child would be expected to be poor). Consequently, the Paediatric Glasgow Coma Scale was developed for assessing younger children.
+
+History
+Pre-GCS assessment
+During the 1960s, assessment and management of head injuries became a topic of interest. The number of head injuries was rapidly increasing, in part because of increased use of motorised transport. Also, doctors recognised that after head trauma, many patients had poor recovery. This led to a concern that patients were not being assessed or medically managed correctly. Appropriate assessment is a critical step in medical management for several reasons. First, a reliable assessment allows doctors to provide the appropriate treatment. Second, assessments let doctors keep track of how a patient is doing, and intervene if the patient is doing worse. Finally, a system of assessment allows researchers to define categories of patients. This makes it possible to determine which treatments are best for different types of patients.
+A number of assessments for head injury ("coma scales") were developed, though none were widely adopted. Of 13 scales that had been published by 1974, all involved linear scales that defined levels of consciousness. These scales posed two problems. First, levels of consciousness in these scales were often poorly defined. This made it difficult for doctors and nurses to evaluate head injury patients. Second, different scales used overlapping and obscure terms that made communication difficult.
+
+Origin
+In this setting, Bryan Jennett and Graham Teasdale of the University of Glasgow Medical School began work on what became the Glasgow Coma Scale. Based on their experiences, they aimed to make a scale satisfying several criteria. First, it needed to be simple, so that it could be performed without special training. Second, it needed to be reliable, so that doctors could be confident in the results of the scale. Third, the scale needed to provide important information for managing a patient with a head injury.Their work resulted in the 1974 publication of the first iteration of the GCS. The original scale involved three exam components (eye movement, motor control, and verbal control). These components were scored based on clearly defined behavioural responses. Clear instructions for administering the scale and interpreting results were also included. The original scale is identical to the current scale except for the motor assessment. The original motor assessment included only five levels, combining "flexion" and "abnormal flexion". This was done because Jennett and Teasdale found that many people struggled in distinguishing these two states.
+
+Updates to the Glasgow Coma Scale
+In 1976, Teasdale updated the motor component of the Glasgow Coma Scale to differentiate flexion movements. This was because trained personnel could reliably distinguish flexion movements. Further research also demonstrated that normal and abnormal flexion have different clinical outcomes. As a result, the six-point motor scale is now considered the standard.
+Teasdale did not originally intend to use the sum score of the GCS components. However, later work demonstrated that the sum of the GCS components, or the Glasgow Coma Score, had clinical significance. Specifically, the sum score was correlated with outcome (including death and disability). As a result, the Glasgow Coma Score is used in research to define patient groups. It is also used in clinical practice as shorthand for the full scale.
+
+Adoption in clinical use
+The Glasgow Coma Scale was initially adopted by nursing staff in the Glasgow neurosurgical unit. Especially following a 1975 nursing publication, it was adopted by other medical centres. True widespread adoption of the GCS was attributed to two events in 1978. First, Tom Langfitt, a leading figure in neurological trauma, wrote an editorial in Journal of Neurosurgery strongly encouraging neurosurgical units to adopt the GCS score. Second, the GCS was included in the first version of Advanced Trauma Life Support (ATLS), which expanded the number of centres where staff were trained in performing the GCS.
+
+Controversy
+The GCS has come under pressure from some researchers who take issue with the scale's poor inter-rater reliability and lack of prognostic utility. Although there is no agreed-upon alternative, newer scores such as the simplified motor scale and FOUR score have also been developed as improvements to the GCS. Although the inter-rater reliability of these newer scores has been slightly higher than that of the GCS, they have not yet gained consensus as replacements.
+
+See also
+AVPU scale
+Blantyre coma scale
+Early warning score
+Revised Trauma Score
+Triage
+
+References
+Citations
+General sources
+
+
+=== Notes ===

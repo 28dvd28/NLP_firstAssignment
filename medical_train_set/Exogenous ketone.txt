@@ -1,0 +1,38 @@
+Exogenous ketones are a class of ketone bodies that are ingested using nutritional supplements or foods. This class of ketone bodies refers to the three water-soluble ketones (acetoacetate, β-hydroxybutyrate [β-HB], and acetone). These ketone bodies are produced by interactions between macronutrient availability such as low glucose and high free fatty acids or hormone signaling such as low insulin and high glucagon/cortisol. Under physiological conditions, ketone concentrations can increase due to starvation, ketogenic diets, or prolonged exercise, leading to ketosis. However, with the introduction of exogenous ketone supplements, it is possible to provide a user with an instant supply of ketones even if the body is not within a state of ketosis before ingestion. However, drinking exogenous ketones will not trigger fat burning like a ketogenic diet.
+Most supplements rely on β-hydroxybutyrate as the source of exogenous ketone bodies. It is the most common exogenous ketone body because of its efficient energy conversion and ease of synthesis. In the body, β-HB can be converted to acetoacetic acid. It is this acetoacetic acid that will enter the energy pathway using beta-ketothialase, becoming two Acetyl-CoA molecules. The Acetyl CoA is then able to enter the Krebs cycle in order to generate ATP. The remaining β-HB molecules that aren't synthesized into acetoacetic acid are then converted to acetone through the acetoacetate decarboxylase waste mechanism.
+
+Structure
+Acetoacetate is produced in the mitochondria of liver cells by the addition of an acetyl group from acetyl CoA. This creates 3-hydroxy-3-methylgluteryl CoA which loses an acetyl group, becoming acetoacetate.
+β-Hydroxybutyrate is also synthesized within liver cells; this is accomplished through the metabolism of fatty acids. Through a series of reactions, acetoacetate is first produced; and it is this acetoacetate that is reduced into β-hydroxybutyrate, catalyzed by the β-hydroxybutyrate dehydrogenase enzyme.  Although, β-hydroxybutyrate is technically not a ketone due to the structure of the molecule (OH- attached to carbonyl group makes this an acid), β-HB acts like a ketone, providing the body with energy in the absence of glucose. In fact, β-Hydroxybutyrate is the most abundant ketone-like molecule in the blood during ketosis.
+Acetone is an organic compound with the formula (CH3)2CO and is one of the simplest and smallest ketones. It is synthesized from the breakdown of acetoacetate in ketotic individuals within the liver.
+
+Types
+Ketone salts
+Ketone salts are usually a synthetic compound of Beta-hydroxybutyric acid, also known as βHB. It is then bonded to sodium, potassium, magnesium, and/or calcium to offset the acidic nature of βHB alone. Most ketone salts are racemic which means only half of it is bioavailable, resulting in double the salt load per D-bhb, and even less bioavailability.
+
+Ketone esters
+There are multiple molecules that qualify as a "Ketone Ester."
+The most researched ketone ester, or ketone monoester, is called D-Beta Hydroxybutyrate/ D 1,3-butanediol monoester, which is a naturally derived compound through a fermentation process. It was created by Dr. Richard Veech and Todd King at the NIH, and then commercialized by companies including KetoneAid and TDeltaS, and previously by HVMN, a Silicon Valley-based technology company.This monoester links the same beta-hydroxybutyric acid found in ketone salts but bonded with D 1,3-butanediol (also called R 1,3 butanediol) instead of bases (salts).  The first part of the metabolism of this monoester takes place in the digestive system (fast release), followed by the remaining portion taking place in the liver (slow release). The metabolic structure of D-Beta Hydroxybutyrate/ D 1,3-butanediol monoester is similar to that of MCT C8 oil, but many times stronger and without GI issues.
+
+Other ketone esters
+Technically there are other ketone esters such as acetoacetate/ D/L 1,3-butanediol (racemic). This diester has been tested more with deep sea divers. It is not commercially available.Another ketone ester is also referred to as a ketone di-ester which is a bond of C6 and R 1,3 butanediol. It is recommended to be consumed with food and is commercialized by Juvenescence Labs.
+
+Effects
+The consumption of ketone bodies results in several effects, ranging from reduced glucose utilization in peripheral tissues, anti-lipolytic effects on adipose tissue, and reduced proteolysis in skeletal muscle. In addition to this, ketone bodies serve as signaling molecules that regulate gene expression and adaptive responses. When exogenous ketone bodies are ingested, acute and nutritional exogenous ketosis is produced.
+
+Blood
+In human blood, ketone ester and ketone salt consumption deliver a >50% higher plasma concentration of D-β-Hydroxybutyrate, an isoform of regular β-HB. In terms of efficacy, the blood D-βHB concentrations are higher when using ketone esters instead of ketone salts (KE = 2.8±0.2 mM; KS = 1.0±mM). This is due to the fact that the KE supplement contains >99% of the D-βHB-isoform while the KS supplement contains ~50% of the L-βHB-isoform, which is metabolized much slower than the D-βHB-isoform. Also, ketone salt supplements slightly raise the blood pH level. This is mainly due to the conjugate base action of βHB (βHB-) which fully dissociates within the blood; this mildly raises the blood and urine pH which is further increased as the kidneys to excrete the excess cations (Na+, Ca+, K+). Ketone esters reduce the blood pH because KE hydrolysis proves β-HB with butanediol. These two undergo hepatic metabolism, forming a keto-acid.
+
+Hormones
+Exogenous ketones lower blood glucose concentrations. Although carbohydrate stores are plentiful, ketones lower the blood glucose because they limit hepatic gluconeogenesis and increase peripheral glucose intake. They have also been known to reduce hunger and the desire to eat. This is shown by the decreased levels of the hunger hormone, ghrelin. In addition, it has been surmised that exogenous ketones may stimulate insulin secretion. Following exposure to exogenous ketones, small amounts of secreted insulin have been reported in animals.  However, because insulin has also been shown to increase in subjects who took an exogenous ketone supplement and dextrose drink, in addition to those who only took the exogenous supplement, more research remains to be seen on the effects of ketone supplements on insulin.
+
+See also
+Acetoacetate
+Acetone
+Ketone
+Ketone bodies
+Ketosis
+β-hydroxybutyrate (β-HB)
+
+
+== References ==

@@ -1,0 +1,44 @@
+Kepler-452b (sometimes quoted to be an Earth 2.0 or Earth's Cousin based on its characteristics; also known by its Kepler Object of Interest designation KOI-7016.01) is a super-Earth exoplanet orbiting within the inner edge of the habitable zone of the sun-like star Kepler-452 and is the only planet in the system discovered by Kepler. It is located about 1,800 light-years (550 pc) from Earth in the constellation of Cygnus.
+Kepler-452b orbits its star at a distance of 1.04 AU (156 million km; 97 million mi) from its host star (nearly the same distance as Earth from the Sun), with an orbital period of roughly 385 days, has a mass at least five times that of Earth, and has a radius of around 1.5 times that of Earth. It is the first potentially rocky super-Earth planet discovered orbiting within the habitable zone of a very sun-like star. However, it is unknown if it is entirely habitable, as it is receiving slightly more energy than Earth and could be subjected to a runaway greenhouse effect.
+The Kepler space telescope identified the exoplanet, and its discovery was announced by NASA on 23 July 2015. The planet is about 1,800 light-years (550 pc) away from the Solar System. At the speed of the New Horizons spacecraft, at about 59,000 km/h (16,000 m/s; 37,000 mph), it would take approximately 30 million years to get there.
+
+Physical characteristics
+Mass, radius and temperature
+Kepler-452b has a probable mass five times that of Earth, and its surface gravity is nearly twice as much as Earth's, though calculations of mass for exoplanets are only rough estimates. If it is a terrestrial planet, it is most likely a super-Earth with many active volcanoes due to its higher mass and density. The clouds on the planet would be thick and misty, covering much of the surface as viewed from space.
+The planet takes 385 Earth days to orbit its star. Its radius is 50% larger than Earth's, and lies within the conservative habitable zone of its parent star. It has an equilibrium temperature of 265 K (−8 °C; 17 °F), a little warmer than Earth.
+
+Host star
+The host star, Kepler-452, is a G-type and has about the same mass as the sun, only 3.7% more massive and 11% larger. It has a surface temperature of 5757 K, nearly the same as the Sun, which has a surface temperature of 5778 K.The star's age is estimated to be about 6 billion years old, about 1.5 billion years older than the Sun, which is estimated to have existed for 4.6 billion years. Kepler-452b has been in Kepler-452's habitable zone for most of its existence, a duration just over six billion years.From the surface of Kepler-452b, its star would look almost identical to the Sun as viewed from the Earth.The star's apparent magnitude, or how bright it appears from Earth's perspective, is 13.426; therefore, it is too dim to be seen with the naked eye.
+
+Orbit
+Kepler-452b orbits its host star with an orbital period of 385 days and an orbital radius of about 1.04 AU, nearly the same as Earth's (1 AU). Kepler-452b is most likely not tidally locked and has a circular orbit. Its host star, Kepler-452, is about 20% more luminous than the Sun (L = 1.2 L☉).
+
+Potential habitability
+It is not known if Kepler-452b is a rocky planet but based on its small radius, Kepler-452b is likely to be rocky. It is not clear if Kepler-452b offers habitable environments. It orbits a G2V-type star, like the Sun, which is 20% more luminous, with nearly the same temperature and mass. However, the star is roughly 6 billion years old, making it 1.5 billion years older than the Sun. At this point in its star's evolution, Kepler-452b is currently receiving 10% more energy from its parent star than Earth is currently receiving from the Sun. If Kepler-452b is a rocky planet, it may be subject to a runaway greenhouse effect similar to that seen on Venus.
+
+"Delayed" runaway greenhouse effect
+However, due to the planet Kepler-452b being 50 percent bigger in terms of size, it is likely to have an estimated mass of 5 MEarth, which could allow it to hold on to any oceans it may have for a longer period, preventing Kepler-452b from succumbing to runaway greenhouse effect for another 500 million years. This, in turn, would be accompanied by the carbonate–silicate cycle being "buffered", extending its lifetime due to increased volcanic activity on Kepler-452b. This could allow any potential life on the surface to inhabit the planet for another 500–900 million years before the habitable zone is pushed beyond Kepler-452b's orbit.
+
+Discovery and follow-up studies
+In 2009, NASA's Kepler spacecraft was observing stars on its photometer, the instrument it uses to detect transit events, in which a planet crosses in front of and dims its host star for a brief and roughly regular time. In this last test, Kepler observed 50000 stars in the Kepler Input Catalog, including Kepler-452; the preliminary light curves were sent to the Kepler science team for analysis, who chose obvious planetary companions from the bunch for follow-up by other telescopes. Observations for the potential exoplanet candidates took place between 13 May 2009 and 17 March 2012. Kepler-452b exhibited a transit that occurred roughly every 385 days, and it was eventually concluded that a planetary body was responsible. The discovery was announced by NASA on 23 July 2015.At a distance of nearly 1,800 light-years (550 pc), Kepler-452b is too remote for current telescopes or the next generation of planned telescopes to determine its true mass or whether it has an atmosphere. The Kepler spacecraft focused on a single small region of the sky but next-generation planet-hunting space telescopes, such as TESS and CHEOPS, will examine nearby stars throughout the sky with follow up studies planned for these closer exoplanets by the James Webb Space Telescope and future large ground-based telescopes to analyze their atmospheres, determine masses, and infer compositions.
+A study in 2018 by Mullally et al. claimed that statistically, Kepler-452b has not been proven to exist and must still be considered a candidate.
+
+SETI targeting
+Scientists with the SETI (Search for Extraterrestrial Intelligence Institute) have already begun targeting Kepler-452b, the first near-Earth-size world found in the habitable zone of a Sun-like star. SETI Institute researchers are using the Allen Telescope Array, a collection of 6-meter (20 feet) telescopes in the Cascade Mountains of California, to scan for radio transmissions from Kepler-452b. As of July 2015, the array has scanned the exoplanet on over 2 billion frequency bands, with no result. The telescopes will continue to scan over a total of 9 billion channels, searching for alien radio analysis.
+
+Observation and exploration
+Kepler-452b is 1,800 light-years (550 parsecs) from Earth. The fastest current spacecraft, the New Horizons uncrewed probe that passed Pluto in July 2015, travels at just 56,628 km/h (15,730 m/s; 35,187 mph; 0.00037853 AU/h). At that speed, it would take a spacecraft about 26 million years to reach Kepler-452b from Earth, if it was going in that direction.
+
+Gallery
+See also
+List of largest exoplanets
+List of potentially habitable exoplanets
+Superhabitable planet
+
+References
+External links
+
+NASA – Mission overview
+NASA – Kepler Discoveries – Summary Table
+Habitable Exoplanets Catalog at UPR-Arecibo.
+Discovery and Validation of Kepler-452b: A 1.6-R🜨 Super-Earth Exoplanet in the Habitable Zone of a G2 Star

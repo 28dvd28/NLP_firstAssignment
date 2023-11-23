@@ -1,0 +1,22 @@
+Philip Franklin (October 5, 1898 – January 27, 1965) was an American mathematician and professor whose work was primarily focused in analysis.
+Dr. Franklin received a B.S. in 1918 from City College of New York (who later awarded him its Townsend Harris Medal for the alumnus who achieved notable postgraduate distinction).  He received his M.A. in 1920 and Ph.D. in 1921 both from Princeton University.  His dissertation, The Four Color Problem, was supervised by Oswald Veblen.  After teaching for one year at Princeton and two years at Harvard University (as the Benjamin Peirce Instructor), Franklin joined the Massachusetts Institute of Technology Department of Mathematics, where he stayed until his 1964 retirement.
+In 1922, Franklin gave the first proof that all planar graphs with at most 25 vertices can be four-colored.In 1928, Franklin gave the first description of an orthonormal basis for L²([0,1]) consisting of continuous functions (now known as "Franklin's system").In 1934, Franklin disproved the Heawood conjecture for the Klein bottle by showing that any map drawn on the Klein bottle can be coloured with at most six colours. An example which shows that six colours may be needed is the 12-vertex cubic graph now known as the Franklin graph.Franklin also worked with Jay W. Forrester on Project Whirlwind at the Office of Naval Research (ONR).
+Franklin was editor of the MIT Journal of Mathematics and Physics from 1929.
+In 1940 his comprehensive textbook A Treatise on Advanced Calculus was first published.
+Franklin was married to Norbert Wiener's sister Constance. Their son-in-law is Václav E. Beneš.
+
+Books
+Franklin, Philip (1933). Differential equations for electrical engineers. New York: John Wiley & Sons.Differential equations for engineers. Dover Publications. 1960. ASIN B000859ANA.
+Franklin, Philip (1940). A treatise on advanced calculus. John Wiley & Sons. 5th printing edition. 1955. ASIN B00JCV5MYW. Franklin, Philip (2016). Dover reprint. Courier Dover Publications. ISBN 978-0486807072.
+Franklin, Philip (1941). The four color problem. OCLC 03049925.
+Franklin, Philip (1944). Methods of advanced calculus. ISBN 978-0070219007.
+Franklin, Philip (1949). Fourier methods. McGraw-Hill. ASIN B001U3912Y.
+An Introduction to Fourier Methods and the Laplace Transform. Dover Publications. ASIN B004QPEH18.
+Franklin, Philip (1953). Differential and integral calculus. McGraw-Hill. ASIN B0000CIJ2B.
+Franklin, Philip (1958). Functions of complex variables. Englewood Cliffs, New Jersey: Prentice Hall. 2021 edition. Hassell Street Press. 9 September 2021. ISBN 978-1014075574.
+Franklin, Philip (1963). Compact calculus. McGraw-Hill. ASIN B0000CLVV1. 2021 edition. Hassell Street Press. 9 September 2021. ISBN 978-1014263575.
+
+References
+External links
+O'Connor, John J.; Robertson, Edmund F., "Philip Franklin", MacTutor History of Mathematics Archive, University of St Andrews
+Philip Franklin at the Mathematics Genealogy Project

@@ -1,0 +1,42 @@
+Denis Auroux (born April 1977 in Lyon) is a French mathematician working in geometry and topology.
+
+Education and career
+Auroux was admitted in 1993 to the École normale supérieure. In 1994, he received a licentiate and maîtrise in mathematics from Paris Diderot University (Paris 7). In 1995, he received a licentiate in physics from Pierre and Marie Curie University (Paris 6) and passed the agrégation. In 1995, he received a master's degree in mathematics from Paris-Sud University with a thesis on Seiberg-Witten invariants of symplectic manifolds. In 1999, he received his doctorate from the École polytechnique with supervisors Jean-Pierre Bourguignon and Mikhael Gromov for a thesis on structure theorems for compact symplectic manifolds via almost-complex techniques. In 2003, he completed his habilitation at Paris-Sud University with a thesis on approximately holomorphic techniques and monodromy invariants in symplectic topology. 
+As a postdoc, he was a C. L. E. Moore Instructor at the Massachusetts Institute of Technology from 1999 to 2002, where he became an assistant professor in 2002, an associate professor in 2004 (tenured in 2006), and a professor in 2009 (on leave from 2009 to 2011). From 2009 to 2018, he was a professor at the University of California, Berkeley. Since Fall 2018, he has been at Harvard University, where he taught Math 55, two-semester honors undergraduate course on algebra and analysis.His research deals with symplectic geometry, low-dimensional topology, and mirror symmetry.In 2002, he received the Prix Peccot from the Collège de France. In 2005, he received a Sloan Research Fellowship. He was an invited speaker in 2010 with talk Fukaya Categories and bordered Heegaard-Floer Homology at the International Congress of Mathematicians in Hyderabad and in 2004 at the European Congress of Mathematicians in Stockholm.
+
+Selected publications
+Auroux, Denis (2000). "Symplectic 4-manifolds as branched coverings of 
+  
+    
+      
+        
+          C
+          P
+        
+      
+    
+    {\displaystyle \mathbb {CP} }
+  2". Inventiones Mathematicae. 139 (3): 551–602. Bibcode:2000InMat.139..551A. doi:10.1007/s002220050019. S2CID 9954552.
+Auroux, Denis; Katzarkov, Ludmil (2000). "Branched coverings of 
+  
+    
+      
+        
+          C
+          P
+        
+      
+    
+    {\displaystyle \mathbb {CP} }
+  2 and invariants of symplectic 4-manifolds". Inventiones Mathematicae. 142 (3): 631–673. Bibcode:2000InMat.142..631A. doi:10.1007/PL00005795. S2CID 40984397.
+Auroux, Denis; Donaldson, Simon K.; Katzarkov, Ludmil (2005). "Singular Lefschetz pencils". Geometry & Topology. 9 (2): 1043–1114. arXiv:math/0410332. doi:10.2140/gt.2005.9.1043. S2CID 2364993.
+Auroux, Denis; Katzarkov, Ludmil; Orlov, Dmitri (2006). "Mirror symmetry for del Pezzo surfaces: Vanishing cycles and coherent sheaves". Inventiones Mathematicae. 166 (3): 537–582. arXiv:math/0506166. Bibcode:2006InMat.166..537A. doi:10.1007/s00222-006-0003-4. S2CID 5322441.
+Auroux, Denis; Katzarkov, Ludmil; Orlov, Dmitri (2008). "Mirror Symmetry for Weighted Projective Planes and Their Noncommutative Deformations". Annals of Mathematics. 167 (3): 867–943. arXiv:math/0404281. doi:10.4007/annals.2008.167.867. JSTOR 40345366. S2CID 6989346.
+Auroux, Denis; Smith, Ivan (2008). "Lefschetz pencils, branched covers and symplectic invariants". Symplectic 4-manifolds and algebraic surfaces (Cetraro, 2003). Lecture Notes in Mathematics. Vol. 1938. Springer. pp. 1–53. arXiv:math/0401021.
+Auroux, Denis (2009). "Special Lagrangian fibrations, wall-crossing, and mirror symmetry". Surveys in Differential Geometry. 13: 1–47. arXiv:0902.1595. doi:10.4310/SDG.2008.v13.n1.a1. S2CID 15635047.
+Auroux, Denis (2013). "A beginner's introduction to Fukaya categories". arXiv:1301.7056 [math.SG].
+Abouzaid, Mohammed; Auroux, Denis; Efimov, Alexander I.; Katzarkov, Ludmil; Orlov, Dmitri (2013). "Homological mirror symmetry for punctured spheres". Journal of the American Mathematical Society. 26 (4): 1051–1083. arXiv:1103.4322. doi:10.1090/S0894-0347-2013-00770-5. S2CID 32592919.
+
+References
+External links
+"Denis Auroux". Mathematics Department, Harvard University.

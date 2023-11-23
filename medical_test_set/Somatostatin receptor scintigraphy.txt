@@ -1,0 +1,16 @@
+An octreotide scan is a type of SPECT scintigraphy used to find carcinoid, pancreatic neuroendocrine tumors, and to localize sarcoidosis. It is also called somatostatin receptor scintigraphy (SRS). Octreotide, a drug similar to somatostatin, is radiolabeled with indium-111, and is injected into a vein and travels through the bloodstream. The radioactive octreotide attaches to tumor cells that have receptors for somatostatin (i.e. gastrinoma, glucagonoma, etc.). A gamma camera detects the radioactive octreotide, and makes pictures showing where the tumor cells are in the body, typically by a SPECT technique. A technetium-99m based radiopharmaceutical kit is also available.Octreotide scanning is reported to have a sensitivity between 75% and 100% for detecting pancreatic neuroendocrine tumors.Instead of gamma-emitting 111In, certain octreotide derivatives such as edotreotide (DOTATOC) or DOTATATE are able to be linked by chelation to positron-emitting isotopes such as gallium-68 and copper-64 which in turn can be evaluated with more precise (compared with SPECT) scanning techniques such as PET-CT. Thus, the octreotide scan is now being replaced in most centers with gallium-68 DOTATATE and copper-64 DOTATATE scans. Somatostatin receptor imaging can now be performed with positron emission tomography (PET) which offers higher resolution and more rapid imaging.
+
+Indications
+An octreotide scan may be used to locate suspected primary neuroendocrine tumours (NET) or for follow-up or staging after treatment.Where indicated, octreotide scanning for NET tumors is being increasingly replaced by gallium-68 DOTA and copper-64 DOTATATE scans.
+
+Procedure
+Indium-111
+The indium-111 pentetreotide radiopharmaceutical is prepared from a kit in a radiopharmacy. Pentetreotide is a DTPA conjugate of octreotide.Approximately 200 megabecquerels (MBq) of indium-111 is injected intravenously. Imaging takes place 24 hours after injection, but may also be carried out at 4 and 48 hours.
+
+Technetium-99m
+The 99mTc product is supplied as a kit with two vials, one containing the chelating agent ethylenediaminediacetic acid (EDDA) and the other the HYNIC-Tyr3-octreotide chelator and somatostatin analog. Approximately 400-700 MBq may be administered, with imaging at 2, 4, and occasionally 24 hours post administration. 99mTc based octreotide imaging shows slightly higher sensitivity than 111In.
+
+References
+External links
+"Indium In 111 pentetreotide". Drug Information Portal. U.S. National Library of Medicine.
+Octreotide scan entry in the public domain NCI Dictionary of Cancer Terms This article incorporates public domain material from Dictionary of Cancer Terms. U.S. National Cancer Institute.

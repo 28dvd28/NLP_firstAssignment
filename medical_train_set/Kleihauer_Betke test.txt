@@ -1,0 +1,208 @@
+The Kleihauer–Betke ("KB") test, Kleihauer–Betke ("KB") stain, Kleihauer test or acid elution test is a blood test used to measure the amount of fetal hemoglobin transferred from a fetus to a mother's bloodstream. It is usually performed on Rh-negative mothers to determine the required dose of Rho(D) immune globulin (RhIg) to inhibit formation of Rh antibodies in the mother and prevent Rh disease in future Rh-positive children. It is named after Enno Kleihauer and Klaus Betke who described it in 1957.
+
+Test details
+The KB test is the standard method of quantitating fetal–maternal hemorrhage (FMH). It takes advantage of the differential resistance of fetal hemoglobin to acid. A standard blood smear is prepared from the mother's blood and exposed to an acid bath. This removes adult hemoglobin, but not fetal hemoglobin, from the red blood cells. Subsequent staining, using Shepard's method, makes fetal cells (containing fetal hemoglobin) appear rose-pink in color, while adult red blood cells are only seen as "ghosts". 2,000 cells are counted under the microscope and a percentage of fetal to maternal cells is calculated.In those with positive tests, follow up testing at a postpartum check should be done to rule out the possibility of a false positive. This could be caused by a hemoglobinopathy in the mother which causes persistent elevation of fetal hemoglobin, e.g. sickle cell trait.Comparison with other more expensive or technologically advanced methods such as flow cytometry has shown that the KB stain, like the more advanced methods, is sensitive in its detection of FMH. However, publications have shown that in comparison with flow cytometry methods, the KB Test overestimates FMH due to false positive results when F-cells are present in the maternal blood sample. Background counting errors can result in estimates of as much as 5 mL fetal blood loss when there actually is no such blood loss, but standard methods available in most laboratories admit an extremely low probability of the return of a false positive when more severe FMH has taken place.
+
+Original Technique
+Method
+Thin smears are prepared from capillary blood or venous blood collected into anticoagulants such as heparine, oxalate, citrate, or EDTA. Smears are air dried between 10–60 minutes, fixed in 80 vol% ethanol for 5 min at 20-22 °C, rinsed with tap water, and air dried. Films are then immersed in the citrate-phosphate buffer for 5 minutes at 37 °C and gently agitated for about 3 minutes. Slides are rinsed with tap water, dried, and stained with Ehrlich's acid hematoxylin for 3 min, rinsed with water, and dried again. They are counterstained with erythrosine for 3 min. After a final rinse, films are dried and examined under light microscopy.
+
+Results of the original method
+Hemoglobin F cells are densely stained with erythrosine, Hemoglobin A cells appear as ghost cells, while intermediate cells are stained more or less pink. Reticulocytes containing Hemoglobin A may appear as intermediate cells and/or may show intracellular granulation. Inclusion bodies (Heinz bodies, precipitated α-chains or β-chains) are visible in eluted cells as compact inclusions of different size. Hemoglobin A is eluted regardless of whether it is oxyhemoglobin, methemoglobin, cyanmethemoglobin, reduced hemoglobin, or carboxyhemoglobin.
+
+Quantitation of Hemoglobin F Cells
+Methods developed by Schneider and Ludwig and Bartsch' are recommended. For determination of the intracellular distribution of Hemoglobin F, the semi-quantitative method of Shepard, Weatherall, and Conley' may be employed.
+
+Normal Values
+Normal values for Hemoglobin F cells in adults as published originally by Kleihauer were below 0.01%; in full-term newborns they are above 90%.
+
+Uses
+Fetal–maternal hemorrhage severity estimation
+To determine if a positive test for FMH indicates the likely cause of fetal death, the percent of total fetal blood volume lost should be calculated, making appropriate adjustments based on the following known relationships:
+
+the size of a fetal red blood cell is 1.22 times that of an adult red blood cell;
+the KB stain is known to have a mean success rate of 92% in detecting fetal red blood cells;
+in a woman at or near term in her pregnancy, the mean volume of maternal red blood cells is approximately 1800 ml;
+the mean fetal hematocrit is 50%; and
+at stillbirth, the mean fetal blood volume is 
+  
+    
+      
+        150
+        
+          
+            
+              m
+              l
+            
+            
+              k
+              g
+            
+          
+        
+      
+    
+    {\displaystyle 150{\frac {ml}{kg}}}
+  These constraints can then be applied to yield the formula
+
+where
+
+  
+    
+      
+        P
+        F
+        B
+      
+    
+    {\displaystyle PFB}
+   is the percentage of fetal blood lost;
+
+  
+    
+      
+        F
+        C
+      
+    
+    {\displaystyle FC}
+   is the observed number of fetal red blood cells;
+
+  
+    
+      
+        M
+        C
+      
+    
+    {\displaystyle MC}
+   is the observed number of maternal red blood cells (N.B. we have that 
+  
+    
+      
+        M
+        C
+        =
+        T
+        C
+        −
+        F
+        C
+      
+    
+    {\displaystyle MC=TC-FC}
+  , where 
+  
+    
+      
+        T
+        C
+      
+    
+    {\displaystyle TC}
+   is the total observed number of red blood cells, both maternal and fetal);
+
+  
+    
+      
+        F
+        W
+      
+    
+    {\displaystyle FW}
+   is the stillbirth weight of the fetus in kilograms.
+
+Number of RhD vials
+An estimate of the required number of Rho(D) immune globulin vials may assume the following equations:
+Volume (mL) of Fetal Blood = % Fetal Cells x 50
+Number of Vials of 300 mcg RhIG Required = Volume of Fetal Blood/30mLCombining those two equations results in:
+Number of vials = % Fetal Cells x 50 / 30This is approximately equal to:
+
+Number of vials = % Fetal Cells x 1.7Practically, if the number to the right of the decimal point is ≥5, it is rounded up to add one vial.
+
+Stillbirth resolution
+Suppose that a KB stain is performed and 
+  
+    
+      
+        T
+        C
+        =
+        5000
+      
+    
+    {\displaystyle TC=5000}
+   total red blood cells are observed, 
+  
+    
+      
+        F
+        C
+        =
+        200
+      
+    
+    {\displaystyle FC=200}
+   of which are found to be fetal red blood cells.  Suppose further that the stillbirth weight of the fetus under consideration is 
+  
+    
+      
+        F
+        W
+        =
+        2.0
+        k
+        g
+      
+    
+    {\displaystyle FW=2.0kg}
+  .  Then we would conclude that the total percentage of fetal blood lost is approximately:
+
+to five significant digits.  We would hence conclude that the fetus under consideration lost 66.667% (two-thirds) of its blood via FMH.  Generally, stillbirth is highly probable for any value of 
+  
+    
+      
+        P
+        F
+        B
+        ≥
+        20
+      
+    
+    {\displaystyle PFB\geq 20}
+  , particularly if the fetus abruptly loses this much blood; in this example, we would hence be likely to suspect FMH as the cause of the stillbirth.  It is important to note, however, that such a diagnosis is still not completely conclusive; fetuses losing large quantities of blood over long periods of time are able to compensate for this slower blood loss; since the KB stain tells us nothing with regard to the level of acuity of FMH.  This means that it is not possible to entirely correlate a positive KB stain and high 
+  
+    
+      
+        P
+        F
+        B
+      
+    
+    {\displaystyle PFB}
+   with a stillbirth, though in many cases, given other information, such as known hereditary complications of pregnancy, extremely high positive correlation coefficients 
+  
+    
+      
+        r
+        ≈
+        +
+        1.000
+      
+    
+    {\displaystyle r\approx +1.000}
+   between FMH and stillbirth have been observed.
+
+Fetal red-blood-cell detection problems
+Since fetal and maternal blood cells have the same life expectancy in the maternal bloodstream, it is possible to obtain informative results from a KB stain for a fair period of time after a stillbirth. However, if the mother and fetus are ABO incompatible, it is more crucial to quickly perform the KB stain following a stillbirth, as the fetal red blood cells will be eliminated from the maternal bloodstream quickly, causing the KB stain to underestimate the degree of FMH, if any. Much concern has been raised in the literature concerning false positives when sampling is done after delivery. In general this is not a problem. Delivery does result in higher frequency of detection of micro-hemorrhages but this should not confound interpretation of FMH as a possible cause of stillbirth. It is not necessary to draw the sample before induction, onset of labor, delivery, placental delivery etc. despite what some published literature purports. However, if Caesarean section is to be used, failure to draw the sample prior to that will result in a 2% false positive rate.Finally, anything which causes persistence of fetal hemoglobin in maternal blood cells will make interpretation much trickier. Certain hemoglobinopathies, the most common of which is sickle cell trait, do this. Overall, somewhere around 1–3% of the time this could result in false interpretation.
+
+All cases of maternal trauma
+An article published in 2004 concluded that a Kleihauer-Betke (KB) test is necessary in all cases of maternal trauma, as clinical evaluation is not sensitive enough for determination of risk of pre-term labour. It accurately predicts the risk of preterm labor after maternal trauma whereas the article concluded that clinical assessment does not. With a negative KB test, posttrauma electronic fetal monitoring duration may be limited safely. With a positive KB test, the significant risk of pre-term labour mandates detailed monitoring. KB testing has important advantages to all maternal trauma victims, regardless of Rh status.
+
+See also
+Apt test
+
+References
+External links
+[1] The Kleihauer Test

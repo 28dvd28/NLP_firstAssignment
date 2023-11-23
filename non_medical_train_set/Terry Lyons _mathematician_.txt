@@ -1,0 +1,15 @@
+Terence John Lyons  FLSW is a British mathematician, specialising in stochastic analysis. Lyons, previously the Wallis Professor of Mathematics, is a fellow of St Anne's College, Oxford and a Faculty Fellow at The Alan Turing Institute. He was the director of the Oxford-Man Institute from 2011 to 2015 and the president of the London Mathematical Society from 2013 to 2015. His mathematical contributions have been to probability, harmonic analysis, the numerical analysis of stochastic differential equations, and quantitative finance. In particular he developed what is now known as the theory of rough paths. Together with Patrick Kidger he proved a universal approximation theorem for neural networks of arbitrary depth.
+
+Education
+Lyons obtained his B.A. at Trinity College, Cambridge and his D.Phil at the University of Oxford.
+
+Career
+Lyons has held positions at UCLA, Imperial College London, the University of Edinburgh and since 2000 has been Wallis Professor of Mathematics at the University of Oxford.  He was the Director of the Oxford-Man Institute at the University of Oxford from 15 June 2011 to 15 December 2015. He also held a number of visiting positions in Europe and North America.
+Together with Zhongmin Qian he wrote the monograph System Control and Rough Paths, and together with Michael J. Caruana and Thierry Lévy the book Differential Equations Driven by Rough Paths.
+
+Honours and awards
+In 1985 he was awarded the Rollo Davidson Prize. In 1986 he was awarded the Whitehead Prize of the London Mathematical Society.  In 2000 he was awarded the Pólya Prize of the London Mathematical Society.
+He was elected a fellow of the Royal Society of Edinburgh in 1988, and elected a Fellow of the Royal Society in 2002; he was made a fellow of the Institute of Mathematical Statistics, in 2005 and a fellow of the Learned Society of Wales in 2011. In 2013, he was elected president of the London Mathematical Society.In 2007 he was awarded a Doctor Honoris Causa from the University of Toulouse, he was made an Honorary Fellow of Aberystwyth University in 2010 and Cardiff University in 2012. In 2017 he was awarded an honorary Doctor of Mathematics from the University of Waterloo.
+
+
+== References ==

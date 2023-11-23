@@ -1,0 +1,24 @@
+Ibn Sahl  (full name: Abū Saʿd al-ʿAlāʾ ibn Sahl أبو سعد العلاء ابن سهل; c. 940–1000) was a Persian mathematician and physicist of the Islamic Golden Age, associated with the Buyid court of Baghdad. 
+Nothing in his name allows us to glimpse his country of origin.He is known to have written an optical treatise around 984. The text of this treatise was reconstructed by Roshdi Rashed from two manuscripts (edited 1993).: Damascus, al-Ẓāhirīya MS 4871, 3 fols.,  and Tehran, Millī MS 867, 51 fols. 
+The Tehran manuscript is much longer, but it is badly damaged, and the Damascus manuscript contains a section missing entirely from the Tehran manuscript.
+The Damascus manuscript has the title Fī al-'āla al-muḥriqa "On the burning instruments", the Tehran manuscript has a title added in a later hand Kitāb al-harrāqāt "The book of burners".
+Ibn Sahl is the first Muslim scholar known to have studied Ptolemy's Optics, and as such an important precursor to the Book of Optics by Ibn Al-Haytham (Alhazen), written some thirty years later.
+Ibn Sahl dealt with the optical properties of curved mirrors and lenses and has been described as the discoverer of the law of refraction (Snell's law).
+Ibn Sahl uses this law to derive lens shapes that focus light with no geometric aberrations, known as anaclastic lenses.
+In the remaining parts of the treatise, Ibn Sahl dealt with parabolic mirrors, ellipsoidal mirrors, biconvex lenses, and techniques for drawing hyperbolic arcs.
+Ibn Sahl designed convex lenses that focus lights rays that are parallel, which can cause an object to burn at a specific distance. A biconvex lens has the ability to focus at a specific point at an infinite distance. Ibn Sahl has made many contributions to optics, he also wrote an article about the celestial sphere. A constant ratio is the main focus point of his study, and it allows for a better understanding of refraction lenses. Ibn Sahl did an experiment where a piece of crystal was used to propagate a ray of light through the crystal which then refracts in the air.
+
+See also
+History of optics
+Abū Sahl al-Qūhī
+List of Persian scientists and scholars
+Snell's law
+
+References
+Sources
+Rashed, R. "A pioneer in anaclastics: Ibn Sahl on burning mirrors and lenses", Isis 81, pp. 464–491, 1990.
+Rashed, R., Géométrie et dioptrique au Xe siècle: Ibn Sahl, al-Quhi et Ibn al-Haytham. Paris: Les Belles Lettres, 1993
+Zghal, Mourad; et al. (2007). Nantel, Marc (ed.). "The first steps for learning optics: Ibn Sahl's, Al- Haytham's and Young's works on refraction as typical examples" (PDF). The Education and Training in Optics and Photonics Conference. Tenth International Topical Meeting on Education and Training in Optics and Photonics. International Commission for Optics. 9665: 3. Bibcode:2007SPIE.9665E..09Z. doi:10.1117/12.2207465. S2CID 13875045. Retrieved 20 June 2011.
+Berggren, Len (2007). "Ibn Sahl: Abū Saʿd al‐ʿAlāʾ ibn Sahl". In Thomas Hockey; et al. (eds.). The Biographical Encyclopedia of Astronomers. New York: Springer. p. 567. ISBN 978-0-387-31022-0. (PDF version)
+Selin, Helaine (1997). Encyclopaedia of the History of Science, Technology, and Medicine in Non-Western Cultures. Springer Science & Business Media. pp. 432–433. ISBN 978-07-92-34066-9.
+Sarmiş, İbrahım (1999). İBN SEHL - An article published in Turkish Encyclopedia of Islam. Vol. 20. Istanbul: TDV İslâm Ansiklopedisi. p. 312. ISBN 978-97-53-89447-0.

@@ -1,0 +1,14 @@
+Chennas Narayanan Namboodiripad (born 1428) was a 15th-century mathematician and Tantra ritualist from Kerala, India.
+Narayanan Namboodiripad was considered to be an authority in the fields of Vaasthusaastram (Indian Architecture), Mathematics and Tantram. He authored a book titled Thanthra Samuchayam which is still considered as the authentic reference manual in the field of temple architecture and rituals.
+Other contributions to mathematics include:
+
+A method of arriving at a circle starting with a square, and successively making it a regular octagon, a regular 16-sided, a 32-sided, 64-sided polygons, etc.
+Co-ordinate system of fixing points in a plane.
+Converting a square to a regular hexagon having approximately equal area.
+Finding the width of a regular octagon, given the perimeter.
+
+References
+https://www.namboothiri.com/articles/thanthram.htm
+
+See also
+Indian Mathematics

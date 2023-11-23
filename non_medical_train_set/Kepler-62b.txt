@@ -1,0 +1,17 @@
+Kepler-62b (also known by its Kepler Object of Interest designation KOI-701.02) is the innermost and the second smallest discovered exoplanet orbiting the star Kepler-62, with a diameter roughly 30% larger than Earth. It was found using the transit method, in which the dimming effect that a planet causes as it crosses in front of its star is measured. It is likely to have an equilibrium temperature slightly higher than the surface temperature of Venus (around 750 K (477 °C; 890 °F)), high enough to melt some types of metal. Its stellar flux is 70 ± 9 times Earth's.
+
+Physical characteristics
+Mass, radius and temperature
+Kepler-62b is a super-Earth, an exoplanet with a radius and mass bigger than Earth but smaller than that of the ice giants Neptune and Uranus. It has an equilibrium temperature of 750 K (477 °C; 890 °F).  This is hot enough to melt some types of metal. It has a radius of 1.3 R🜨, placing it below the estimated radius of ≤1.6 R🜨 where it would otherwise be a mini-Neptune with a volatile composition, with no solid surface. However, the mass is currently not known, estimates place an upper limit of <9 MEarth, the actual mass is expected to be significantly lower than this.
+
+Host star
+The planet orbits a (K-type) star named Kepler-62, orbited by a total of five planets, of which Kepler-62f has the lengthiest orbital period. The star has a mass of 0.69 M☉ and a radius of 0.64 R☉. It has a temperature of 4925 K and is 7 billion years old. In comparison, the Sun is 4.6 billion years old and has a surface temperature of 5778 K.The star's apparent magnitude, or how bright it appears from Earth's perspective, is 13.65. Therefore, it is too dim to be seen with the naked eye.
+
+Orbit
+Kepler-62b orbits its host star with an orbital period of 5 days at a distance of about 0.05 AU (compared to the same distance as Mercury from the Sun, which is about 0.38 AU). It receives 70 times as much sunlight than Earth does from the Sun.
+
+Discovery
+In 2009, NASA's Kepler spacecraft was completing observing stars on its photometer, the instrument it uses to detect transit events, in which a planet crosses in front of and dims its host star for a brief and roughly regular period of time. In this last test, Kepler observed 50000 stars in the Kepler Input Catalog, including Kepler-62; the preliminary light curves were sent to the Kepler science team for analysis, who chose obvious planetary companions from the bunch for follow-up at observatories. Observations for the potential exoplanet candidates took place between 13 May 2009 and 17 March 2012. After observing the respective transits, which for Kepler-62b occurred roughly every 5 days (its orbital period), it was eventually concluded that a planetary body was responsible for the periodic 5-day transits. The discovery, along with the planetary system of the star Kepler-69 were announced on April 18, 2013.
+
+
+== References ==

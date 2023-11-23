@@ -1,0 +1,234 @@
+SUSPUP (serum sodium to urinary sodium to serum potassium to urinary potassium) and SUSPPUP (serum sodium to urinary sodium to (serum potassium)2 to urinary potassium) are calculated structure parameters of the renin–angiotensin-aldosterone system (RAAS). They have been developed to support screening for primary or secondary aldosteronism.
+
+Physiological principle
+The steroid hormone aldosterone stimulates the reabsorption of sodium and the excretion of potassium in the distal tubuli and the collecting tubes of the kidneys. Calculating SUSPUP and/or SUSPPUP helps to determine the intensity of mineralocorticoid signalling, which may be helpful in the differential diagnosis of hypertension and hypokalaemia.
+
+Preconditions of testing
+Sodium and potassium concentrations have to be determined in serum and spot urine probes that have been obtained simultaneously or within a short time interval between.
+
+Calculation
+S
+        U
+        S
+        P
+        U
+        P
+        =
+        
+          
+            
+              
+                
+                  
+                    [
+                    N
+                    a
+                  
+                  
+                    +
+                  
+                
+                
+                  ]
+                  
+                    S
+                    e
+                    r
+                    u
+                    m
+                  
+                
+              
+              
+                
+                  
+                    [
+                    N
+                    a
+                  
+                  
+                    +
+                  
+                
+                
+                  ]
+                  
+                    U
+                    r
+                    i
+                    n
+                    e
+                  
+                
+              
+            
+            
+              
+                
+                  
+                    [
+                    K
+                  
+                  
+                    +
+                  
+                
+                
+                  ]
+                  
+                    S
+                    e
+                    r
+                    u
+                    m
+                  
+                
+              
+              
+                
+                  
+                    [
+                    N
+                    a
+                  
+                  
+                    +
+                  
+                
+                
+                  ]
+                  
+                    U
+                    r
+                    i
+                    n
+                    e
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle SUSPUP={\frac {\frac {{[Na}^{+}]_{Serum}}{{[Na}^{+}]_{Urine}}}{\frac {{[K}^{+}]_{Serum}}{{[Na}^{+}]_{Urine}}}}}
+  
+
+  
+    
+      
+        S
+        U
+        S
+        P
+        P
+        U
+        P
+        =
+        
+          
+            
+              
+                
+                  
+                    [
+                    N
+                    a
+                  
+                  
+                    +
+                  
+                
+                
+                  ]
+                  
+                    S
+                    e
+                    r
+                    u
+                    m
+                  
+                
+              
+              
+                
+                  
+                    [
+                    N
+                    a
+                  
+                  
+                    +
+                  
+                
+                
+                  ]
+                  
+                    U
+                    r
+                    i
+                    n
+                    e
+                  
+                
+              
+            
+            
+              
+                
+                  
+                    [
+                    K
+                  
+                  
+                    +
+                  
+                
+                
+                  ]
+                  
+                    S
+                    e
+                    r
+                    u
+                    m
+                  
+                  
+                    2
+                  
+                
+              
+              
+                
+                  
+                    [
+                    N
+                    a
+                  
+                  
+                    +
+                  
+                
+                
+                  ]
+                  
+                    U
+                    r
+                    i
+                    n
+                    e
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle SUSPPUP={\frac {\frac {{[Na}^{+}]_{Serum}}{{[Na}^{+}]_{Urine}}}{\frac {{[K}^{+}]_{Serum}^{2}}{{[Na}^{+}]_{Urine}}}}}
+
+Interpretation
+Reference ranges are 3.6–22.6 for SUSPUP and 0.6–5.3 for SUSPPUP.Increased values support the hypothesis of increased mineralocorticoid stimulation of the distal tubules and collecting tubes, i.e. in cases of hyperaldosteronism. While these parameters have a high sensitivity for screening purposes their specificity may be inferior compared to aldosteron-to-renin ratio (ARR) and potassium concentrationsBoth parameters may also be elevated in syndrome of inappropriate ADH secretion (SIADH), probably reflecting a compensatory mechanism, where the organism tries to maintain serum sodium concentrations by means of increased renin and/or aldosterone secretion.
+
+
+== References ==

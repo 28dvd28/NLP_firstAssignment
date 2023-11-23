@@ -1,0 +1,21 @@
+Nārāyaṇa Paṇḍita (Sanskrit: नारायण पण्डित) (1340–1400) was an Indian mathematician. Plofker writes that his texts were the most significant Sanskrit mathematics treatises after those of Bhaskara II, other than the Kerala school.: 52  He wrote the Ganita Kaumudi (lit. "Moonlight of mathematics") in 1356  about mathematical operations. The work anticipated many developments in combinatorics.
+
+Life and Works
+About his life, the most that is known is that:
+His father’s name was Nṛsiṃha or Narasiṃha, and the distribution of the manuscripts of his works suggests that he may have lived and worked in the northern half of India.
+Narayana Pandit wrote two works, an arithmetical treatise called Ganita Kaumudi and an algebraic treatise called Bijaganita Vatamsa. Narayanan is also thought to be the author of an elaborate commentary of Bhaskara II's Lilavati, titled Karmapradipika (or Karma-Paddhati). Although the Karmapradipika contains little original work, it contains seven different methods for squaring numbers, a contribution that is wholly original to the author, as well as contributions to algebra and magic squares.Narayana's other major works contain a variety of mathematical developments, including a rule to calculate approximate values of square roots, investigations into the second order indeterminate equation nq2 + 1 = p2 (Pell's equation), solutions of indeterminate higher-order equations, mathematical operations with zero, several geometrical rules, methods of integer factorization, and a discussion of magic squares and similar figures. Evidence also exists that Narayana made minor contributions to the ideas of differential calculus found in Bhaskara II's work. Narayana has also made contributions to the topic of cyclic quadrilaterals.
+Narayana is also credited with developing a method for systematic generation of all permutations of a given sequence.
+
+Narayana's cows sequence
+In his Ganita Kaumudi Narayana proposed the following problem on a herd of cows and calves:
+
+A cow produces one calf every year. Beginning in its fourth year, each calf produces one calf at the beginning of each year. How many cows and calves are there altogether after 20 years?
+Translated into the modern mathematical language of recurrence sequences:
+
+Nn = Nn-1 + Nn-3 for n > 2,with initial values
+
+N0 = N1 = N2 = 1.The first few terms are 1, 1, 1, 2, 3, 4, 6, 9, 13, 19, 28, 41, 60, 88,... (sequence A000930 in the OEIS).
+The limit ratio between consecutive terms is the supergolden ratio.
+
+
+== References ==

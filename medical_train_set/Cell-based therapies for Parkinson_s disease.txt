@@ -1,0 +1,31 @@
+Cell-based therapies for Parkinson's disease include various investigational procedures which transplant specific populations of cells into the brains of people with Parkinson's disease. The investigation of cell transplantation therapies followed the discovery that the death of dopaminergic neurons in the substantia nigra pars compacta resulted in the motor symptoms of the disease. Thus, cell transplantation has focused on various dopamine producing cells throughout the body.
+
+List of cell-based sources
+fetal ventral mesencephalic tissue (human and porcine)
+human dopamine progenitor cells derived from autologous induced pluripotent stem cells (iPSCs)
+adrenal medulla
+sympathetic ganglia
+carotid body
+retinal pigment epithelium
+embryonic stem cells
+induced pluripotent stem cells
+mesenchymal stem cells
+
+Fetal ventral mesencephalic tissue
+Human
+Porcine
+Adrenal medulla
+The first cell-based therapy investigated for Parkinson's disease utilized the adrenal medulla. The adrenal medulla is the innermost part of the adrenal gland and contains neural crest derived chromaffin cells which secrete norepinephrine, epinephrine and to a far lesser extent dopamine into the blood. Autotransplantation of adrenal medullary tissue into the brains of animal models of Parkinson's disease showed minimal benefits. Despite this, open-label trials were undergone in humans which showed only modest benefits. Following these initial disappointing results however, a trial in Mexico demonstrated significant motor benefits in two patients with Parkinson's disease who had undergone the procedure. This publication incited widespread interest in the field and over the next few years hundreds of patients received adrenal medulla transplants. It was only when a registry was set up to consolidate all the data was it revealed that most patients did not benefit from the procedure to any significant extent. Furthermore, postoperative complications such as psychiatric disturbances were realized. These combined findings eventually led to the abandonment of this transplant procedure, which was largely flawed from the start.
+
+Sympathetic ganglia
+Carotid body
+The carotid body is a group of chemoreceptor cells located at the bifurcation of the common carotid artery. It includes two populations of cells; glomus (type I) cells and sustentacular (type II) cells. Glomus cells are derived from the neural crest and secrete dopamine in response to hypoxemia (low level of oxygen in the blood). Based on their ability to secrete dopamine and also glial cell-derived neurotrophic factor (GDNF), these cells have been investigated as an intrastriatal autograft therapy for patients with Parkinson's disease. A clinical trial exploring this initially demonstrated motor benefits, unfortunately these benefits disappeared after 6–12 months, in correlation with poor survival of the grafted cells.
+
+Retinal pigment epithelium
+The retinal pigment epithelium (RPE) is a single layer of melanin containing cells located between the neural retina and the choroid. Retinal pigment epithelial cells synthesize dopamine and secrete the neurotrophic factors glial-cell derived neurotrophic factor (GDNF) and brain-derived neurotrophic factor (BDNF). Initial trials of intrastriatal allografts of cultured human retinal pigment epithelial cells attached to microcarriers (Spheramine, Bayer Schering Pharma AG) demonstrated
+
+Stem cells
+Researchers have differentiated ESCs into dopamine-producing cells with the hope that these neurons could be used in the treatment of Parkinson's disease.
+
+
+== References ==

@@ -1,0 +1,25 @@
+The Abbreviated Injury Scale (AIS) is an anatomical-based coding system created by the Association for the Advancement of Automotive Medicine to classify and describe the severity of injuries. It represents the threat to life associated with the injury rather than the comprehensive assessment of the severity of the injury.  AIS is one of the most common anatomic scales for traumatic injuries. The first version of the scale was published in 1969 with major updates in 1976, 1980, 1985, 1990, 1998, 2005, 2008 and 2015.
+
+Scale
+The score describes three aspects of the injury using seven numbers written as 12(34)(56).7
+Type
+Location
+SeverityEach number signifies
+
+1- body region
+2- type of anatomical structure
+3,4- specific anatomical structure
+5,6- level
+7- Severity of score
+
+Severity
+Abbreviated Injury Score-Code is on a scale of one to six, one being a minor injury and six being maximal (currently untreatable). An AIS-Code of 6 is not the arbitrary code for a deceased patient or fatal injury, but the code for injuries specifically assigned an AIS 6 severity. An AIS-Code of 9 is used to describe injuries for which not enough information is available for more detailed coding, e.g. crush injury to the head.
+The AIS scale is a measurement tool for single injuries. A universally accepted injury aggregation function has not yet been proposed, though the injury severity score and its derivatives are better aggregators for use in clinical settings. In other settings such as automotive design and occupant protection, MAIS is a useful tool for the comparison of specific injuries and their relative severity and the changes in those frequencies that may result from evolving motor vehicle design.
+
+See also
+Functional capacity index
+Injury severity score
+
+References
+External links
+Official website

@@ -1,0 +1,26 @@
+Harald Andrés Helfgott (born 25 November 1977) is a Peruvian mathematician working in number theory. Helfgott is a researcher (directeur de recherche) at the CNRS at the Institut Mathématique de Jussieu, Paris.
+
+Early life and education
+Helfgott was born on 25 November 1977 in Lima, Peru. He graduated from Brandeis University in 1998 (BA, summa cum laude). He received his Ph.D. from Princeton University in 2003 under the direction of Henryk Iwaniec and Peter Sarnak, with the thesis Root numbers and the parity problem.
+
+Career
+Helfgott was a post-doctoral Gibbs Assistant Professor at Yale University from 2003 to 2004. He was then a post-doctoral fellow at CRM–ISM–Université de Montréal from 2004 to 2006.Helfgott was a Lecturer, Senior Lecturer, and then Reader at the University of Bristol from 2006 to 2011. He has been a researcher at the CNRS since 2010, initially as a chargé de recherche première classe at the École normale supérieure before becoming a directeur de recherche  deuxième classe at the Institut Mathématique de Jussieu in 2014.  He was also an Alexander von Humboldt Professor at the University of Göttingen from 2015 to 2022.
+
+Research
+In 2013, he released two papers claiming to be a proof of Goldbach's weak conjecture; the claim is now broadly accepted.In 2017 Helfgott spotted a subtle error in the proof of the quasipolynomial time algorithm for the graph isomorphism problem that was announced by László Babai in 2015. Babai subsequently fixed his proof.
+
+Awards
+In 2008, Helfgott was awarded the Leverhulme Mathematics Prize for his work on number theory, diophantine geometry and group theory.In June 2010, Helfgott received the Whitehead Prize by the London Mathematical Society for his contributions to number theory, including work on Möbius sums in two variables, integral points on elliptic curves, and for his work on growth and expansion of multiplication of sets in SL2(Fp).In February 2011, Helfgott was awarded the Adams Prize jointly with Tom Sanders.In August 2013, Helfgott received an Honorary Professorship from National University of San Marcos in Lima, Peru.In 2014, he was an invited speaker at the International Congress of Mathematicians in Seoul and in 2015 he won a Humboldt Professorship.He was included in the 2019 class of fellows of the American Mathematical Society "for contributions to analytic number theory, additive combinatorics and combinatorial group theory".
+
+Publications
+"Zentralblatt MATH".
+
+See also
+New York Number Theory Seminar
+Barton Zwiebach
+
+References
+External links
+Photographs Archived 2013-10-06 at the Wayback Machine, July 2013.
+Harald Helfgott at the Mathematics Genealogy Project
+Videos of Harald Helfgott in the AV-Portal of the German National Library of Science and Technology

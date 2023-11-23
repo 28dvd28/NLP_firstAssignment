@@ -1,0 +1,5 @@
+The Kepler photometer is the main instrument on NASA's Kepler space telescope. 
+It is a Schmidt telescope (95 cm clear aperture, 140 cm mirror) with an array of 42 2200x1024 CCDs in the focal plane; each CCD is flat, but they are mounted on a curved structure to account for the curved focal plane. The CCDs are not abutting, so the focal plane is not entirely covered, but since the mission's goal is to observe a sample of stars, this doesn't matter.
+
+References
+Kepler Mission: Photometer and Spacecraft [1]

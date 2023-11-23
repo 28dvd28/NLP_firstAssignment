@@ -1,0 +1,27 @@
+Li Chunfeng (simplified Chinese: 李淳风; traditional Chinese: 李淳風; pinyin: Lǐ Chúnfēng; Wade–Giles: Li Ch'un-feng; 602–670) was a Chinese mathematician, astronomer, historian, and politician who was born in today's Baoji, Shaanxi, during the Sui and Tang dynasties. He was first appointed to the Imperial Astronomy Bureau to help institute a calendar reform. He eventually ascended to deputy of the Imperial Astronomy Bureau and designed the Linde calendar. His father was an educated state official and also a Taoist. Li died in Chang'an in 670.
+
+Background and career
+The Sui dynasty was integral for uniting China, so it was a good time for learning. But when Li was sixteen the Sui fell, and the Tang rose. Nevertheless, the Tang did not harm the conditions for education. Indeed, it rather strengthened it. The Imperial Academy's math teaching was formalized. He was appointed into the Imperial Astronomy Bureau as an advanced court astronomer and historian, in 627. Once several years had passed, he then was promoted to deputy director of the Imperial Astronomy Bureau in 641, and even director in 648. He was given these titles because the Chinese calendar of the era, despite that it had only been used for several years, was already having accuracy problems in predicting eclipses. In fact, Li was appointed partially because of his critique of the Wuyin calendar. Wang Xiaotong had been chosen to study the problem earlier. This was a very important job because of the Chinese belief in the Mandate of Heaven. So if one altered the calendar, that person would have some control over the connection between the heavens and the emperor.
+
+Astronomy and calendar
+In 665, Li introduced a reform calendar. It was called the Linde calendar. It improved the prediction of planets' positions and included an “intercalary month.” That is similar to the idea of a leap day. It would catch up a lunar year to a solar year because twelve lunar months are 1.3906 days short of one solar year. It was added every three years. The Linde calendar is the most prominent accomplishment of Li.
+Li wrote a document complaining about the use of outdated equipment in the Imperial Astronomy Bureau, so he was commanded to construct a new armillary sphere. He completed it in 633. His construction had an additional third ring as opposed to the more common design of only two rings.
+
+Mathematics
+Li added corrections to certain mathematical works. Examples of this are in Nine Chapters on the Mathematical Art by Liu Hui. He demonstrated that the least common multiple of the numbers {2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12} was 27720—the answer was flawed in the original text of Nine Chapters. Yet another instance of this was in Zu Geng's work about the area of a circle. Li gave 22/7 (=3.142857 repeating) instead of 3 as a better approximation of what we know now as pi. He began each annotation with the words “Your servant, Chunfeng, and his collaborators comment respectfully on…” Li did write some mathematical works of his own, little is known about them. They are usually dismissed as unimportant in comparison to his other accomplishments. With Liang Shu and Wang Zhenru, he wrote Shibu Suanjing (十部算经) in 656. These were ten mathematical manuals submitted to the emperor.
+
+Literary works
+Li contributed to the Book of Sui and Book of Jin, which cover the history of the Sui and Jin dynasties. He wrote about the discoveries in astrology, metrology, and music. These are the official histories of the periods. The book Massage-Chart Prophecies (Tui bei tu) is generally credited to Li. The book is a collaboration of attempts to predict the future using numerology. Therefore, Li is often thought of as being a prophet. The book gets it title from a poem near the end, discussing how much time it would take to tell the story of thousands of years, it would be better to take a break and enjoy a massage. Circa 640, Li wrote the Ganying jing 感應經 to elaborate the concept of ganying cosmic correspondence. Li wrote a book discussing the importance of astrology in Chinese culture called Yisizhan in 645. This is around when he would have been working on the Linde calendar. Yet another of is works is Commentary on and Introduction to the Gold Lock and the Flowing Pearls. In this book he describes Taoist customs that was probably part of influence from his father.
+
+See also
+Ten Computational CanonsYuan Tiangang
+
+References
+Bibliography
+Ho, Peng Yoke, LI, QI and SHU. 1985 Hong Kong University Press. 1987 University of Washington Press edition. ISBN 0-295- 96362-X
+Zhuang, Tianshan, "Li Chunfeng". Encyclopedia of China (Astronomy Edition), 1st ed.
+Encyclopædia Britannica
+
+External links
+Li Chunfeng biography — The MacTutor History of Mathematics archive. Archived 2007-09-29 at the Wayback Machine
+Liu Hui and Zu Gengzhi on the volume of a sphere

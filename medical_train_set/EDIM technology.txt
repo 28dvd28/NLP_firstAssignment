@@ -1,0 +1,8 @@
+Epitope Detection in Monocytes (EDIM) is a technology that uses the innate immune system's mechanisms to detect biomarkers or antigens in immune cells. It is a non-invasive form of liquid biopsy, i.e. biopsy from blood, which analyzes activated macrophages (CD14+/CD16+) for disease-specific epitopes, such as tumor cell components.Macrophages are part of the human immune system. They are involved in the detection, phagocytosis and destruction of organisms which are deemed harmful.In case of cancerous tumors, macrophages ingest tumor cells and dissolve them with the help of enzymes, storing tumor proteins intracellularly, even when little tumor mass is present. With the help of EDIM technologie, activated macrophages containing intracellular tumor epitopes can be detected using CD14 and CD16 specific antibodies.
+
+Areas of Application
+Currently, EDIM technology is used for the blood test PanTum Detect. Here, the method is applied to examine which individuals would benefit from further cancer detection examinations with imaging procedures (MRI, PET/CT) to clarify a possible tumor disease. The two biomarkers used for PanTum Detect are TKTL1 and DNaseX.
+The PanTum Detect blood test exploits the EDIM technology utilizing the fact that activated monocytes/macrophages phagocytose tumor cells and contain tumor proteins intracellularly.
+
+
+== References ==

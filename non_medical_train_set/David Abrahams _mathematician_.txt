@@ -1,0 +1,13 @@
+Ian David Abrahams (born 15 January 1958) is an English mathematician and  held the Beyer Professor of Applied Mathematics at the University of Manchester, 2008–2016. From 2014 to 2016 he was Director of the International Centre for Mathematical Sciences in Edinburgh and in October 2016 he succeeded John Toland as Director of the Isaac Newton Institute for Mathematical Sciences, and N M Rothschild and Sons Professor of Mathematics, in Cambridge. He was President 2007–2009, of the Institute of Mathematics and its Applications. In 2017 he was awarded the IMA/LMS David Crighton Medal for services to mathematics.
+
+Education
+Born in Manchester, Abrahams was the son of Harry Abrahams and of Leila Abrahams.He completed his BSc in aeronautical engineering in 1979 and PhD (and DIC) in applied mathematics in 1982, both at Imperial College London. There he won two scholarships and the Finsbury Medal for top undergraduate. For his PhD he was supervised by Frank Leppington for a thesis entitled The scattering of sound by finite thin elastic plates and cavities.In the
+same year, he moved to Manchester on a 1-year contract. This was the beginning of a collaboration with GR Wickham. First, they developed some general techniques for solving matrix Wiener–Hopf problems and this gave the solution to a basic problem of diffraction theory, namely, scattering by two parallel, semi-infinite, staggered plates. Motivated by the problems of austenitic steel welds, they went on to develop a theory for wave propagation in certain inhomogeneous anisotropic solids. They also gave asymptotic solutions for scattering by small defects in an elastic half-space making use of a certain expansion of the half-space Green's function.
+More recently Abrahams has found aspects of the Wiener-Hopf technique that impinge on finance and probability. This has led to developments, for example in relating Wiener-Hopf factorisation to Spitzer's identity and other important results within probability theory.
+
+Personal life
+In 2004, Abrahams married Penelope Lawrence Warwick with whom he has one daughter and two step sons.Abrahams's leisure interests include motorcycling and he owns a 1977 Triumph Bonneville T140V, as well as a 1000cc  Moto Guzzi.
+
+References
+External links
+Archived home page at University of Manchester

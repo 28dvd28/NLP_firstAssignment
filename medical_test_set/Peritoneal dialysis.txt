@@ -1,0 +1,85 @@
+Peritoneal dialysis (PD) is a type of dialysis that uses the peritoneum in a person's abdomen as the membrane through which fluid and dissolved substances are exchanged with the blood. It is used to remove excess fluid, correct electrolyte problems, and remove toxins in those with kidney failure. Peritoneal dialysis has better outcomes than hemodialysis during the first couple of years. Other benefits include greater flexibility and better tolerability in those with significant heart disease.
+
+Side effects
+Complications may include infections within the abdomen, hernias, high blood sugar, bleeding in the abdomen, and blockage of the catheter. Peritoneal dialysis is not possible in those with significant prior abdominal surgery or inflammatory bowel disease. It requires some degree of technical skill to be done properly.
+
+Mechanism
+In peritoneal dialysis, a specific solution is introduced through a permanent tube in the lower abdomen and then removed. This may either occur at regular intervals throughout the day, known as continuous ambulatory peritoneal dialysis (CAPD), or at night with the assistance of a machine, known as automated peritoneal dialysis (APD). The solution is typically made of sodium chloride, bicarbonate, and an osmotic agent such as glucose.
+
+History and culture
+The solution used for peritoneal dialysis is on the World Health Organization's List of Essential Medicines. As of 2009, peritoneal dialysis was available in 12 of 53 African countries.
+
+Medical uses
+Peritoneal dialysis is a method of renal replacement therapy for needing maintenance therapy for late stage chronic kidney disease and is an alternative to the most common method hemodialysis.
+
+Complications
+Peritoneal Dialysis-Related Peritonitis
+A common cause of peritonitis is touch contamination, e.g. insertion of catheter by un-sanitized hands, which potentially introduces bacteria to the abdomen; other causes include catheter complication, transplantation of bowel bacteria, and systemic infections. Most common type of PD-peritonitis infection (80%) are from bacterial sources. Infection rates are highly variable by region and within centers with estimated rates between 0.06 - 1.66 episodes per patient year. With recent technical advances peritonitis incidence has decreased overtime.Antibiotics are needed if the source of infection is bacterial; there is no clear advantage for other frequently used treatments such as routine peritoneal lavage or use of urokinase. The use of preventative nasal mupirocin is of unclear effect with respect to peritonitis. Of the three types of connection and fluid exchange systems (standard, twin-bag and y-set; the latter two involving two bags and only one connection to the catheter, the y-set uses a single y-shaped connection between the bags involving emptying, flushing out then filling the peritoneum through the same connection) the twin-bag and y-set systems were found superior to conventional systems at preventing peritonitis.The fluid used for dialysis uses glucose as a primary osmotic agent. According to a 2020 review published in the American Journal of Nephrology, some studies suggest that the use of glucose increases the risk of peritonitis, possibly as a result of impaired host defenses, vascular disease, or damage to the peritoneal membrane. The acidity, high concentration and presence of lactate and products of the degradation of glucose in the solution (particularly the latter) may contribute to these health issues.  Solutions that are neutral, use bicarbonate instead of lactate and have few glucose degradation products may offer more health benefits though this has not yet been studied.The mortality rate of peritoneal dialysis related peritonitis is estimated to be 3-10%, with approximately 50% of cases resulting in hospitalization. Peritoneal fluid studies with a white blood cell count greater than 100 per μL and greater than 50% neutrophils strongly suggest peritonitis, with a definitive diagnosis based on culture of microorganisms from the peritoneal fluid. In order to avoid delaying treatment, a cloudy fluid in the dialysate fluid can be assumed to be due to peritonitis unless an alternative cause is identified. Peritonitis in those undergoing PD is usually due to gram positive bacteria. Intraperitoneal antibiotics are preferred to intravenous as they have a greater effect at the area of infection, unless sepsis is present, in which case intravenous antibiotics are indicated. The peritoneal dialysis catheter may have to be removed if the infection does not resolve with antibiotics, and it is recommended that the PD catheter be removed in all cases of fungal peritonitis.
+
+Volume Shifts
+The volume of dialysate removed as well as patient's weight are monitored. If more than 500ml of fluid are retained or a liter of fluid is lost across three consecutive treatments, the patient's physician is generally notified.  Excessive loss of fluid can result in hypovolemic shock or hypotension while excessive fluid retention can result in hypertension and edema.  Also monitored is the color of the fluid removed:  normally it is pink-tinged for the initial four cycles and clear or pale yellow afterward.  The presence of pink or bloody effluent suggests bleeding inside the abdomen while feces indicates a perforated bowel and cloudy fluid suggests infection.  The patient may also experience pain or discomfort if the dialysate is too acidic, too cold or introduced too quickly, while diffuse pain with cloudy discharge may indicate an infection.  Severe pain in the rectum or perineum can be the result of an improperly placed catheter.  The dwell can also increase pressure on the diaphragm causing impaired breathing, and constipation can interfere with the ability of fluid to flow through the catheter.
+
+Chronic Complications
+Long term use of PD is rarely associated with fibrosis of the peritoneum. A potentially fatal complication estimated to occur in roughly 2.5% of patients is encapsulating peritoneal sclerosis, in which the bowels become obstructed due to the growth of a thick layer of fibrin within the peritoneum.
+
+Other
+Other complications include low back pain and hernia or leaking fluid due to high pressure within the abdomen. Hypertriglyceridemia and obesity are also concerns due to the large volume of glucose in the fluid, which can add 500-1200 calories to the diet per day.
+
+Method
+Best practices for peritoneal dialysis state that before peritoneal dialysis should be implemented, the person's understanding of the process and support systems should be assessed, with education on how to care for the catheter and to address any gaps in understanding that may exist.  The person should receive ongoing monitoring to ensure adequate dialysis, and be regularly assessed for complications. Finally, they should be educated on the importance of infection control and an appropriate medical regimen established with their cooperation.
+Dialysis process
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+The abdomen is cleaned in preparation for surgery and a catheter is surgically inserted with one end in the abdomen and the other protruding from the skin.  Before each infusion the catheter must be cleaned, and flow into and out of the abdomen tested.  2-3 liters of dialysis fluid is introduced into the abdomen over the next ten to fifteen minutes.  The total volume is referred to as a dwell while the fluid itself is referred to as dialysate.  The dwell can be as much as 3 liters, and medication can also be added to the fluid immediately before infusion. The dwell remains in the abdomen and waste products diffuse across the peritoneum from the underlying blood vessels.  After a variable period of time depending on the treatment (usually 4–6 hours ), the fluid is removed and replaced with fresh fluid.  This can occur automatically while the patient is sleeping (automated peritoneal dialysis, APD), or during the day by keeping two litres of fluid in the abdomen at all times, exchanging the fluids four to six times per day (continuous ambulatory peritoneal dialysis, CAPD).The fluid used typically contains sodium chloride, lactate or bicarbonate and a high percentage of glucose to ensure hyperosmolarity.  The amount of dialysis that occurs depends on the volume of the dwell, the regularity of the exchange and the concentration of the fluid. APD cycles between 3 and 10 dwells per night, while CAPD involves four dwells per day of 2-3 liters per dwell, with each remaining in the abdomen for 4–8 hours.  The viscera accounts for roughly four-fifths of the total surface area of the membrane, but the parietal peritoneum is the most important of the two portions for PD.  Two complementary models explain dialysis across the membrane - the three-pore model (in which molecules are exchanged across membranes which sieve molecules, either proteins, electrolytes or water, based on the size of the pores) and the distributed model (which emphasizes the role of capillaries and the solution's ability to increase the number of active capillaries involved in PD).  The high concentration of glucose drives the filtration of fluid by osmosis (osmotic UF) from the peritoneal capillaries to the peritoneal cavity. Glucose diffuses rather rapidly from the dialysate to the blood (capillaries). After 4-6 h of the dwell, the glucose osmotic gradient usually becomes too low to allow for further osmotic UF. Therefore, the dialysate will now be reabsorbed from the peritoneal cavity to the capillaries by means of the plasma colloid osmotic pressure, which exceeds the colloid osmotic pressure in the peritoneum by approximately 18-20 mmHg (cf. the Starling mechanism). Lymphatic absorption will also to some extent contribute to the reabsorption of fluid from the peritoneal cavity to the plasma. Patients with a high water permeability (UF-coefficient) of the peritoneal membrane can have an increased reabsorption rate of fluid from the peritoneum by the end of the dwell. The ability to exchange small solutes and fluid in-between the peritoneum and the plasma can be classified as high (fast), low (slow) or intermediate.  High transporters tend to diffuse substances well (easily exchanging small molecules between blood and the dialysis fluid, with somewhat improved results with frequent, short-duration dwells such as with APD), while low transporters have a higher UF (due to the slower reabsorption of glucose from the peritoneal cavity, which results in somewhat better results with long-term, high-volume dwells), though in practice either type of transporter can generally be managed through the appropriate use of either APD or CAPD.Though there are several different shapes and sizes of catheters that can be used, different insertion sites, number of cuffs in the catheter and immobilization, there is no evidence to show any advantages in terms of morbidity, mortality or number of infections, though the quality of information is not yet sufficient to allow for firm conclusions.A peritoneal equilibration test may be done to assess a person for peritoneal dialysis by determining the characteristics of the peritoneal membrane mass transport characteristics.
+
+Improvised Dialysis
+Peritoneal dialysis can be improvised in conditions such as combat surgery or disaster relief using surgical catheters and dialysate made from routinely available medical solutions to provide temporary renal replacement for people with no other options.
+
+Epidemiology
+As of 2017, hemodialysis is the most widely available renal replacement modality found in 96% of countries whereas peritoneal dialysis (PD) is only available in 75% of countries. In 2016, the proportion of people receiving peritoneal dialysis (PD) was estimated at 11% with wide differences between different countries and regions. In Hong Kong and Mexico, PD is more common than the world average, with Mexico conducting most of its dialysis through PD, while Japan and Germany have rates lower than the world average. Peritoneal dialysis first models, patients requiring renal replacement therapy are placed on PD first, and financial incentives for using PD are associated with increase uptake of PD in multiple countries.
+
+East and Southeast Asia
+Hong Kong has the highest rate of PD use worldwide at 71.9% in 2014, while in Mainland China had 20% in 2014, 23% in Thailand during 2012, and 10-20% in Vietnam during 2011. Hong Kong had a PD-first model since 1985, Thailand began a PD-first model since 2008 which increased their levels of PD from <10%.
+
+Americas
+Prevalence in of PD use was 9.7% in USA during 2013 and 16.3% in Canada during 2013. The lower PD rates in the USA are due to higher availability of large corporate owned hemodialysis centers. There have been recent increase in PD uptake in the USA due to changes to medicare reimbursement such as bundled payment for dialysis this incentivizes use of PD which is a less costly modality for dialysis.Overall, prevalence of PD use is 24.6% in Latin America during 2011. Within Latin America, hemodialysis has a higher growth rate in use compared to PD between 1994 - 2010. In 2010, the most prevalent use of PD were in Mexico 55.9% and El Salvador 67.6%. Between 2000 - 2010, Colombia's PD rate dropped from 54% to 31.3%.
+
+History
+Peritoneal dialysis was first carried out in the 1920s; however, long-term use did not come into medical practice until the 1960s. The timeline was
+
+1923 – Georg Ganter performs the first peritoneal dialysis in a guinea pig and attempts the procedure in humans, without success. Hypertonic saline was used as the dialysate.
+1946 – Howard Frank, Arnold Seligman, and Jacob Fine of Beth Israel Hospital in Boston report the first successful use of peritoneal dialysis in clinical practice, in a 51-year-old man with acute renal failure caused by sulfathiazole poisoning.
+1959 – Paul Doolan and Richard Ruben of Naval Hospital Oakland first use peritoneal dialysis to treat end-stage renal disease, in a 33-year-old woman named Willie Mae Stewart. After 6 months of intermittent dialysis, she declines further treatment due to complications and dies in June 1960.
+1964–1965 – Henry Tenckhoff, G. Shilipetar and Fred Boen of the University of Washington report the first case of home peritoneal dialysis, with long-term success despite technical difficulties and a burdensome process.
+1968 – Henry Tenckhoff creates the Tenckhoff catheter, avoiding the need to replace the catheter in the abdomen at every treatment.
+1976 - Robert Popovich and Jack Moncrief (in Austin, Texas) published an abstract describing the principles of continuous ambulatory peritoneal dialysis (CAPD).
+
+Comparison to Hemodialysis
+Compared to hemodialysis, PD allows greater patient mobility, produces fewer swings in symptoms due to its continuous nature, and phosphate compounds are better removed, but large amounts of albumin are removed which requires constant monitoring of nutritional status.  The costs of PD are generally lower than those of HD in most parts of the world, this cost advantage is most apparent in developed economies. There is insufficient research to adequately compare the risks and benefits between CAPD and APD; a Cochrane Review of three small clinical trials found no difference in clinically important outcomes (i.e. morbidity or mortality) for patients with end stage renal disease, nor was there any advantage in preserving the functionality of the kidneys.  The results suggested APD may have psychosocial advantages for younger patients and those who are employed or pursuing an education.PD may also be used for patients with cardiac instability as it does not result in rapid and significant alterations to body fluids, and for patients with insulin-dependent diabetes mellitus due to the inability to control blood sugar levels through the catheter.
+
+Society and culture
+Economics
+The cost of dialysis treatment is related to how wealthy the country is. In the United States peritoneal dialysis costs the government about $53,400 per person per year.
+
+References
+External links
+
+Treatment Methods for Kidney Failure - National Institute of Diabetes and Digestive and Kidney Diseases

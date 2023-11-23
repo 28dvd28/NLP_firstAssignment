@@ -1,0 +1,80 @@
+Helminthic therapy, an experimental type of immunotherapy, is the treatment of autoimmune diseases and immune disorders by means of deliberate infestation with a helminth or with the eggs of a helminth. Helminths are parasitic worms such as hookworms, whipworms, and threadworms that have evolved to live within a host organism on which they rely for nutrients. These worms are members of two phyla: nematodes, which are primarily used in human helminthic therapy, and flat worms (trematodes).Helminthic therapy consists of the inoculation of the patient with specific parasitic intestinal nematodes (or other helminths). A number of such organisms are currently being investigated for their use as treatment, including: Trichuris suis ova, commonly known as pig whipworm eggs; Necator americanus, commonly known as hookworms; Trichuris trichiura ova, commonly referred to as human whipworm eggs; and Hymenolepis diminuta, commonly known as rat tapeworm cysticerci.
+While the latter four species may be considered to be mutualists – providing benefit to their host without causing longterm harm – there are other helminth species that have demonstrated therapeutic effects but which also have a potential to cause less desirable or even harmful effects and therefore do not share the ideal characteristics for a therapeutic helminth. These include Ascaris lumbricoides, commonly known as human giant roundworm; Strongyloides stercoralis, commonly known as human roundworm; Enterobius vermicularis, commonly known as pinworm or threadworm; and Hymenolepis nana, also known as dwarf tapeworm.
+Current research targets Crohn's disease, ulcerative colitis, inflammatory bowel disease, coeliac disease, multiple sclerosis and asthma.
+Helminth infection has emerged as one possible explanation for the low incidence of autoimmune diseases and allergies in less developed countries, while reduced infection rates have been linked with the significant and sustained increase in autoimmune diseases seen in industrialized countries.
+
+Incidence of autoimmune diseases and parasitic infestation
+While it is recognized that there is probably a genetic disposition in certain individuals for the development of autoimmune diseases, the rate of increase in incidence of autoimmune diseases is not a result of genetic changes in humans; the increased rate of autoimmune-related diseases in the industrialized world is occurring in too short a time to be explained in this way. There is evidence that one of the primary reasons for the increase in autoimmune diseases in industrialized nations is the significant change in environmental factors over the last century. It is posited that the absence of exposure to certain parasites, bacteria, and viruses is playing a significant role in the development of autoimmune diseases in the more sanitized and industrialized Western nations.Lack of exposure to naturally occurring pathogens and parasites may result in an increased incidence of autoimmune diseases. Correlational data has shown the prevalence of helminthic infections to be greatest south of the equator where the rates of autoimmune diseases such as multiple sclerosis are low.
+This is consistent with the hygiene hypothesis which suggests that helminthic infections protect individuals from developing auto-immune diseases rather than being an agent responsible for inducing them. A complete explanation of how environmental factors play a role in autoimmune diseases has still not been proposed. Epidemiological studies such as the meta-analysis by Leonardi-Bee et al., however, have helped to establish the link between parasitic infestation and their protective role in autoimmune disease development.
+
+Hypotheses
+Although the mechanism(s) of autoimmune disease development is(are) not fully understood, there is broad agreement that the majority of autoimmune diseases are caused by inappropriate immunological responses to innocuous antigens; these are generally called the hygiene hypothesis, but exist in several variants.
+One version proposes that the dysfunction is driven by a branch of the immune system known as the T helper cells (Th or TH). Two other refinements to the hygiene hypothesis exist: The "old friends" hypothesis, and the "microbiome depletion" hypothesis.
+
+TH1 vs. TH2 response regulation
+Extra-cellular antigens primarily trigger the TH2 response, as observed with allergies, while intracellular antigens trigger a TH1 response. Th cells can be divided into subtypes based on the characteristic cytokines they secrete. TH2 immune responses result in the release of cytokines associated with inflammation reduction such as interleukin 4, interleukin 5, and interleukin 10.
+These cytokines are thought to reduce the symptoms of many autoimmune disorders. Conversely, TH1 immune responses are characterized by the cytokines interferon gamma (IFNγ) and tumor necrosis factor alpha (TNFα), both of which are thought to increase inflammation and worsen the progression of autoimmune diseases and their symptoms. The antagonism between these two types of immune response is a central theme of one proposal for the biological basis of the hygiene hypothesis, which suggests that there is a regulatory action between the two types of response.
+The observation that allergies and autoimmune response are increasing at a similar rate in industrialized nations appears to undermine this explanation of hygiene hypothesis.
+
+Learned appropriate response
+The hygiene hypothesis proposes that appropriate immune response is in part learned by exposure to micro-organisms and parasites, and in part regulated by their presence. In industrialized nations, humans are exposed to somewhat lower levels of these organisms, potentially resulting in unbalanced immune systems.
+The development of vaccines, hygienic practices, and effective medical care have diminished or eliminated the prevalence and impact of many parasitic organisms, as well as bacterial and viral infections. This has been of obvious benefit with the effective eradication of many diseases that have plagued human beings. However, while many severe diseases have been eradicated, humans' exposure to benign and apparently beneficial parasites has also been reduced commensurately.
+The central thrust of the hypothesis is, therefore, that correct development of regulatory T cells in individuals may depend on exposure to organisms such as lactobacilli, various mycobacteria, and helminths. Lack of exposure to sufficient benign antigens, particularly during childhood, is sometimes suggested as a cause of the increase in autoimmune diseases and diseases for which chronic inflammation is a major component in the industrialized world.
+
+Old friends hypothesis
+The old friends hypothesis modifies the hygiene hypothesis by proposing that regulatory T cells can only become fully effective if they are stimulated by exposure to microorganisms and parasites that have low levels of pathogenicity and that have coexisted universally with human beings throughout our evolutionary history. This hypothesis has recently been given more credibility by a study demonstrating the impact of infectious organisms, and helminths in particular, upon genes responsible for the production of various cytokines, some involved in the regulation of inflammation, in particular those associated with the development of Crohn's disease, ulcerative colitis, and celiac disease.
+
+Microbiome depletion hypothesis
+The microbiome depletion hypothesis posits that the absence of an entire class of organisms from the human inner ecology is a profound evolutionary mismatch that destabilizes the immune system, resulting in disease: The microbiome is "depleted". The way to correct the dysregulation is to "reconstitute", or replenish, keystone species in healthy individuals prior to the development of human diseases of modern living.
+As keystone organisms, helminths are central to correcting immune dysregulation, and their replenishment may  prevent disease. The biome depletion hypothesis departs from a drug model approach, which remains the current focus of helminthic therapy as evidenced by numerous clinical trials now underway for existing disease states.
+
+Proposed mechanism of action
+Experimental data support the hypothesis that clinically induced helminthic infections have the ability to alleviate or mitigate immune responses. Most autoimmune disorders are believed to involve hyperactive TH1 or TH17 immune responses that are down-regulated by the promotion of a TH2 response by helminths. Helminths secrete immunoregulatory molecules that promote the induction of regulatory T cells while inhibiting the function of antigen presenting cells and other T cells. As such, helminthic therapy attempts to restore homeostasis by shifting a hyperactive TH1 pro-inflammatory response to a TH2 response with reduced inflammation.Human and animal studies have provided evidence of decreased TH1 and TH17 immune responses with a shift to TH2 cytokine production resulting in significantly decreased levels of interleukin 12 and IFNy with simultaneous increases in the regulatory T cells, interleukin 4, interleukin 5 and interleukin 10 of test subjects. These observations indicate that helminth therapy can provide protection against autoimmune disease not only through prevention, since helminths can be present before autoimmune disease develops, but also after autoimmune responses are initiated. Furthermore, responses of type-2 T helper cells rarely kill the parasitic worms. Rather, the TH2 response limits the infection by reducing the viability and reproductive capacity of the parasite.Given the down regulation of TH1 and TH17 immune responses with helminthic therapy, immune responses to other pathogens and allergens may be suppressed. Consequently, unmonitored and uncontrolled helminthic infections may be associated with suppressed immunity to the viruses and bacteria that normally trigger TH1 and TH17 immune responses required for protection against them, leading to illness or disease.
+
+Research
+Evidence in support of the idea that helminthic infections reduce the severity of autoimmune diseases is primarily derived from animal models. Studies conducted on mice and rat models of colitis, multiple sclerosis, type 1 diabetes, and asthma have shown helminth-infected subjects to display protection from the disease. The first clinical studies of helminthic therapy in humans started in 2003 with the use of Trichirus suis. While helminths are often considered a homogenous group, considerable differences exist between species and the species used in clinical research varies between human and animal trials. As such, caution must be exercised when interpreting the results from animal models.Helminthic therapy is currently being studied as a treatment for several (non-viral) autoimmune diseases in humans including celiac disease, Crohn's disease, multiple sclerosis, ulcerative colitis, and atherosclerosis. It is currently unknown which clinical dose or species of helminth is the most effective method of treatment. Hookworms have been linked to reduced risk of developing asthma, while Ascaris lumbricoides (roundworm infection) was associated with an increased risk of asthma. Similarly, Hymenolepis nana, Trichuris trichiura, Ascaris lumbricoides, Strongyloides stercoralis, Enterobius vermicularis, and Trichuris suis ova have all been found to lower the number of symptom exacerbations, reduce the number of symptom relapses, and decrease the number of new or enlarging brain lesions in patients with multiple sclerosis at doses ranging from 1,180 to 9,340 eggs per gram. However, Ascaris lumbricoides, Strongyloides stercoralis and Enterobius vermicularis are not considered suitable for therapeutic use in humans because they do not meet the criteria for a therapeutic helminth.Trichuris suis ova has been used in most cases to treat autoimmune disorders because it is thought to be non-pathogenic in humans and therefore has been presumed safe.
+The use of Trichuris suis ova has been granted by the USA Food and Drug Administration as an investigational medicinal product (IMP). It begins when the eggs are ingested. The worms then colonize the caecum and colon of the human gut for a short period of time. The beneficial effect is temporary because the worms only live for a few weeks. Because of this short life span, treatments need to be repeated at intervals. Trichirus suis removes any wider public health issues due to species-specificity and lack of chronic infection.The hookworm Necator americanus has been granted an IMP license by the Medicines and Healthcare Regulatory Authority in the U.K. Necator americanus larvae are administered percutaneously and migrate through the vasculature and lungs to the small intestine. They feed on the blood from the mucosa. This hookworm is likely to be relatively safe, although it can cause temporary gastrointestinal side effects, especially following the initial inoculation, or with increased doses. High doses can also cause anemia.The general ideal characteristics for a therapeutic helminth are as follows:
+Little or no pathogenic potential
+Does not multiply in the host
+Cannot be directly spread to close contacts
+Produces a self-limited colonization in humans
+Produces an asymptomatic colonization in humans
+Does not alter behaviour in patients with depressed immunity
+Is not affected by most commonly-used medications
+Can be eradicated with an anti-helminthic drug
+Can be isolated free of other potential pathogens
+Can be isolated or produced in large numbers
+Can be made stable for transport and storage
+Easy to administer
+
+Potential side effects
+Helminths are extremely successful parasites capable of establishing long-lasting infections within a host. During this time, helminths compete with the host organism's cells for nutrient resources and thus possess the potential to cause harm. However, the number of organisms hosted by individuals undergoing helminthic therapy is very small and any side effects are typically only encountered in the first three months of infection. In the long term, the vast majority of clinically infected individuals are asymptomatic, with no significant nutrient loss. In fact, nutrient uptake can be enhanced in some subjects who are hosting a small number of helminths. If the side effects from helminthic therapy were to become unmanageable, they can be alleviated by the use of anti-helminthic medications. The most common clinical symptoms which may be encountered while undergoing helminthic therapy can include:
+
+Fatigue
+Gastrointestinal discomfort
+Anemia
+Fever
+Abdominal pain
+Weight loss
+Anorexia
+Diarrhea
+General malaise
+
+See also
+Anthelmintics
+Diseases of affluence
+Effects of parasitic worms on the immune system
+Gut flora
+Ichthyotherapy
+Malariotherapy
+Medical leech
+Trematodes
+
+References
+Bibliography
+Velasquez-Manoff, Moises (2013). An Epidemic of Absence: A new way of understanding allergies and autoimmune diseases. Scribner. ISBN 978-1439199398.
+Dunn, Rob (2011). The Wild Life of Our Bodies: Predators, parasites, and partners that shape who we are today. Harper. ISBN 978-0061806483.
+Lorimer, Jamie (2020). The Probiotic Planet: Using Life to Manage Life. University of Minnesota Press. ISBN 978-1-5179-0920-8.
+
+External links
+Helminthic Therapy Wiki

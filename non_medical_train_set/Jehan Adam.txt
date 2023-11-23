@@ -1,0 +1,10 @@
+Jehan Adam was a French 15th century mathematician. He was secretary to Nicholle Tilhart, who was notary, secretary and auditor of accounts to King Louis XI of France.
+He published a manuscript in 1475 containing the first use of the terms bymillion and trimillion, which gave rise to the modern terms billion and trillion. His usage referred to the long scale values of 1012 and 1018, respectively. These terms have subsequently been revalued in English to the short scale values 109 and 1012, respectively, although the original values remain in long scale countries.
+
+... item noctes que le premier greton dembas vault ung, le second vault [...here some words seem to be omitted...] cent, le quart vult mille, le Ve vault dix M, le VIe vault cent M, le VIIe vault Milion, Le VIIIe vault dix Million, Le IXe vault cent Millions, Le Xe vault Mil Millions, Le XIe vault dix mil Millions, Le XIIe vault Cent mil Millions, Le XIIIe vault bymillion, Le XIIIIe vault dix bymillions, Le XVe vault cent mil [sic] bymillions, Le XVIe vault mil bymillions, Le XVIIe vault dix Mil bymillions, Le XVIIIe vault cent mil bymillions, Le XIXe vault trimillion, Le XXe vault dix trimillions ...
+Translation
+
+... Also note that the first counter from the bottom stands for one, the 2nd stands for [...] one hundred, the 4th stands for one thousand, the 5th stands for ten thousand, the 6th stands for one hundred thousand, the 7th stands for a million, the 8th stands for ten millions, the 9th stands for one hundred millions, the 10th stands for one thousand millions, the 11th stands for ten thousand millions, the 12th stands for one hundred thousand million, the 13th stands for a billion, the 14th stands for ten billions, the 15th stands for one hundred [the "mil" in the original is an obvious error] billions, the 16th stands for one thousand billions, the 17th for ten thousand billions, the 18th stands for hundred thousand billions, the 19th stands for a trimillion, the 20th stands for ten trimillions ...
+
+
+== References ==

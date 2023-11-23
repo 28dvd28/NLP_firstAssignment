@@ -1,0 +1,24 @@
+Richard James Milgram (born 5 December 1939 in South Bend, Indiana) is an American mathematician, specializing in algebraic topology. He is the son of  mathematician Arthur Milgram.
+
+Biography
+Milgram graduated from the University of Chicago with a bachelor's degree and a master's degree in 1961. He received his doctorate in 1964 from the University of Minnesota with thesis The homology ring of symmetric products of Moore spaces under the supervision of Alfred Aeppli (1928–2008). Milgram taught from 1970 as a professor at Stanford University, where he is now emeritus. He was a visiting professor at the University of Lille (2001), the Chinese Academy of Sciences (2000) in Beijing, at the University of Göttingen (1987 as Gauss Professor), and at the University of Minnesota (1986 as Ordway Professor), as well as the ETH Zurich, Edinburgh, Montreal, Barcelona, the MSRI, and the University of New Mexico.In 1974, Milgram was an Invited Speaker with talk The structure of the oriented topological and piecewise linear bordism rings at the International Congress of Mathematicians in Vancouver. He was an editor for the Pacific Journal of Mathematics from 1973 to 1983, for the Duke Mathematical Journal from 1976 to 1984, and for the A.M.S. Contemporary Mathematics series (from its inception in 1980 to 1984). In August 1999 Stanford University held a mathematical conference in his honor.His doctoral students include Gunnar Carlsson.
+
+Research
+With Charles P. Boyer, Jacques Hurtubise, and Benjamin M. Mann, he proved in 1992 the Atiyah–Jones conjecture on the topology of the moduli space of instantons on spheres. He has also done research on robotics and protein folding.
+
+Mathematics education
+In addition to algebraic and geometric topology, he has written on mathematics education and served on numerous committees, including the National Board for Education Sciences (since 2005). He is one of the major authors of the mathematical standards for schools in California and has advised the school authorities in Michigan, New York, and Georgia.
+
+Selected publications
+R. James Milgram (15 November 2006). Unstable Homotopy from the Stable Point of View. Lecture Notes in Mathematics, 368. Springer. ISBN 978-3-540-37925-6; pbk reprint of 1974 original{{cite book}}:  CS1 maint: postscript (link)
+Ib Madsen; R. James Milgram (21 November 1979). The Classifying Spaces for Surgery and Cobordism of Manifolds. Annals of Mathematical Studies, No. 92. Princeton University Press. ISBN 0-691-08226-X.
+Alejandro Adem; R. James Milgram (14 March 2013). Cohomology of Finite Groups. Grundlehren der mathematischen Wissenschaften, vol. 309 (2nd ed.). Springer Science & Business Media. ISBN 978-3-662-06280-7.
+
+See also
+List of Jewish American mathematicians
+
+References
+External links
+"What's Wrong with U.S. Math Education? An Interview with Stanford Mathematician Jim Milgram". reasoningmind.org. September 28, 2016.
+"James Milgram – Common Core's Effect on Higher Education". YouTube. American Principles Project. 20 November 2013.
+"When Academic Disagreement Becomes Harassment and Persecution". stanford.edu. March 2023.

@@ -1,0 +1,90 @@
+Esophagogastroduodenoscopy (EGD) or oesophagogastroduodenoscopy (OGD), also called by various other names, is a diagnostic endoscopic procedure that visualizes the upper part of the gastrointestinal tract down to the duodenum. It is considered a minimally invasive procedure since it does not require an incision into one of the major body cavities and does not require any significant recovery after the procedure (unless sedation or anesthesia has been used). However, a sore throat is common.
+
+Alternative names
+The words esophagogastroduodenoscopy (EGD; American English) and oesophagogastroduodenoscopy (OGD; British English; see spelling differences) are both pronounced . It is also called panendoscopy (PES) and upper GI endoscopy. It is also often called just upper endoscopy, upper GI, or even just endoscopy; because EGD is the most commonly performed type of endoscopy, the ambiguous term endoscopy is sometimes informally used to refer to EGD by default. The term gastroscopy literally focuses on the stomach alone, but in practice, the usage overlaps.
+
+Medical uses
+Diagnostic
+Unexplained anemia (usually along with a colonoscopy)
+Upper gastrointestinal bleeding as evidenced by hematemesis or melena
+Persistent dyspepsia in patients over the age of 45 years
+Heartburn and chronic acid reflux – this can lead to a precancerous lesion called Barrett's esophagus
+Persistent emesis
+Dysphagia – difficulty in swallowing
+Odynophagia – painful swallowing
+Persistent nausea
+IBD (inflammatory bowel diseases)
+
+Surveillance
+Surveillance of Barrett's esophagus
+Surveillance of gastric ulcer or duodenal ulcer
+Occasionally after gastric surgery
+
+Confirmation of diagnosis/biopsy
+Abnormal barium swallow or barium meal
+Confirmation of celiac disease (via biopsy)
+
+Therapeutic
+Treatment (banding/sclerotherapy) of esophageal varices
+Injection therapy (e.g., epinephrine in bleeding lesions)
+Cutting off of larger pieces of tissue with a snare device (e.g., polyps, endoscopic mucosal resection)
+Application of cautery to tissues
+Removal of foreign bodies (e.g., food) that have been ingested
+Tamponade of bleeding esophageal varices with a balloon
+Application of photodynamic therapy for treatment of esophageal malignancies
+Endoscopic drainage of pancreatic pseudocyst
+Tightening the lower esophageal sphincter
+Dilating or stenting of stenosis or achalasia
+Percutaneous endoscopic gastrostomy (feeding tube placement)
+Endoscopic retrograde cholangiopancreatography (ERCP) combines EGD with fluoroscopy
+Endoscopic ultrasound (EUS) combines EGD with 5–12 MHz ultrasound imaging
+
+Newer interventions
+Endoscopic trans-gastric laparoscopy
+Placement of gastric balloons in bariatric surgery
+
+Complications
+The complication rate is about 1 in 1000. They include:
+
+aspiration, causing aspiration pneumonia
+bleeding
+perforation
+cardiopulmonary problemsWhen used in infants, the esophagogastroduodenoscope may compress the trachealis muscle, which narrows the trachea. This can result in reduced airflow to the lungs. Infants may be intubated to make sure that the trachea is fixed open.
+
+Limitations
+Problems of gastrointestinal function are usually not well diagnosed by endoscopy since motion or secretion of the gastrointestinal tract is not easily inspected by EGD. Nonetheless, findings such as excess fluid or poor motion of the gut during endoscopy can be suggestive of disorders of function. Irritable bowel syndrome and functional dyspepsia are not diagnosed with EGD, but EGD may be helpful in excluding other diseases that mimic these common disorders.
+
+Procedure
+The tip of the endoscope should be lubricated and checked for critical functions including tip angulations, air and water suction, and image quality.
+The patient is kept NPO (nil per os) or NBM (nothing by mouth) for at least 4 hours before the procedure. Most patients tolerate the procedure with only topical anesthesia of the oropharynx using lidocaine spray. However, some patients may need sedation and the very anxious/agitated patient may even need a general anesthetic. Informed consent is obtained before the procedure. The main risks are bleeding and perforation. The risk is increased when a biopsy or other intervention is performed.
+The patient lies on their left side with the head resting comfortably on a pillow. A mouth-guard is placed between the teeth to prevent the patient from biting on the endoscope. The endoscope is then passed over the tongue and into the oropharynx. This is the most uncomfortable stage for the patient. Quick and gentle manipulation under vision guides the endoscope into the esophagus. The endoscope is gradually advanced down the esophagus making note of any pathology. Excessive insufflation of the stomach is avoided at this stage. The endoscope is quickly passed through the stomach and through the pylorus to examine the first and second parts of the duodenum. Once this has been completed, the endoscope is withdrawn into the stomach and a more thorough examination is performed including a J-maneuver. This involves retroflexing the tip of the scope so it resembles a 'J' shape in order to examine the fundus and gastroesophageal junction. Any additional procedures are performed at this stage. The air in the stomach is aspirated before removing the endoscope. Still photographs can be made during the procedure and later shown to the patient to help explain any findings.
+In its most basic use, the endoscope is used to inspect the internal anatomy of the digestive tract. Often inspection alone is sufficient, but biopsy is a valuable adjunct to endoscopy. Small biopsies can be made with a pincer (biopsy forceps) which is passed through the scope and allows sampling of 1 to 3 mm pieces of tissue under direct vision. The intestinal mucosa heals quickly from such biopsies.
+
+Equipment
+Endoscope
+Non-coaxial optic fiber system to carry light to the tip of the endoscope
+A chip camera at the tip of the endoscope – this has now replaced the coaxial optic fibers of older scopes that were prone to damage and consequent loss of picture quality
+Air/water channel to clean the lens using the water and air channel for drying the lens itself and to insufflate the esophagus and the stomach during the operation to prevent from collapsing the track to better vision in the procedure
+Suction/Working channels – these may be in the form of one or more channels
+Control handle – this houses the controls
+Umbilical Cords that connect to the light source and video processor to supply the endoscope with suction and air pressure and water for (suction and irrigation process) and light to transmit in the body to deliver the  video signal to the processor to show the live image on the monitor
+Stack
+Light source
+Suction
+Electrosurgical unit
+Video recorder/photo printer
+Instruments
+Biopsy forceps
+Snares
+Injecting needles
+Chemical agents
+Dimethicone
+Acetate
+Indigo carmine
+
+See also
+Colonoscopy
+Transnasal esophagoscopy
+
+
+== References ==

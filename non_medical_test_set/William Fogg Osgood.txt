@@ -1,0 +1,49 @@
+William Fogg Osgood (March 10, 1864 – July 22, 1943) was an American mathematician.
+
+Education and career
+William Fogg Osgood was born in Boston on March 10, 1864. In 1886, he graduated from Harvard, where, after studying at the universities of Göttingen (1887–1889) and Erlangen (Ph.D., 1890), he was instructor (1890–1893), assistant professor (1893–1903), and thenceforth professor of mathematics. From 1918 to 1922, he was chairman of the department of mathematics at Harvard. He became professor emeritus in 1933. From 1934 to 1936, he was visiting professor of mathematics at Peking University.From 1899 to 1902, he served as editor of the Annals of Mathematics, and in 1905–1906 was president of the American Mathematical Society, whose Transactions he edited in 1909–1910.
+
+Contributions
+The works of Osgood dealt with complex analysis, in particular conformal mapping and uniformization of analytic functions, and calculus of variations. He was invited by Felix Klein to write an article on complex analysis in the Enzyklopädie der mathematischen Wissenschaften which was later expanded in the book Lehrbuch der Funktionentheorie.
+Osgood curves – Jordan curves with positive area – are named after Osgood, who published a paper proving their existence in 1903.Besides his research on analysis, Osgood was also interested in mathematical physics and wrote on the theory of the gyroscope.
+
+Awards and honors
+Osgood was elected to the American Academy of Arts and Sciences in 1899. In 1904, he was elected to the National Academy of Sciences. He was elected to the American Philosophical Society in 1915.
+
+Personal life
+Osgood's cousin, Louise Osgood, was the mother of Bernard Koopman.William Fogg Osgood died at his home in Belmont, Massachusetts on July 22, 1943.
+
+Selected publications
+Osgood's books include: 
+
+Introduction to Infinite Series (Harvard University Press 1897; third edition, 1906)
+Lehrbuch der Funktionentheorie (Teubner, Berlin, 1907; second edition, 1912)
+First Course in Differential and Integral Calculus (1907; revised edition, 1909)
+(with W. C. Graustein) Plane and Solid Analytic Geometry (Macmillan, NY, 1921)
+Elementary Calculus (MacMillan, NY, 1921)
+Advanced Calculus (MacMillan, NY, 1925)
+Mechanics (MacMillan, NY, 1937)
+
+See also
+Riemann mapping theorem
+Osgood's lemma
+Osgood–Brown theorem
+Moore–Osgood theorem
+Stieltjes–Osgood theorem
+
+Notes
+References
+American Mathematical Society (2011), "8. William Fogg Osgood (1905–1908)", AMS Presidents: A Timeline, Providence, RI: University of California, Berkeley, retrieved October 31, 2011.
+Archibald, Raymond Clare (1938), A Semicentennial History of the American Mathematical Society, 1888--1938. Volume I, Providence, RI: American Mathematical Society, p. 262, ISBN 0-8218-0118-X, JFM 64.0004.01, MR 0959537, Zbl 0019.24305.
+J. L. Coolidge, G. D. Birkhoff & E. C. Kemble (1943) William Fogg Osgood, Science 98:399–400 (issue #2549).
+Koopman, Bernard Osgood (March 1944), "William Fogg Osgood—In memoriam", Bulletin of the American Mathematical Society, 50 (3): 139–142, doi:10.1090/s0002-9904-1944-08080-4, MR 0010143, Zbl 0060.01703.
+Morse, Philip M. (1982), "In Memoriam: Bernard Osgood Koopman, 1900–1981", Operations Research, 30 (3): viii+417–427, doi:10.1287/opre.30.3.417, JSTOR 170181.
+Osgood, William F. (1903), "A Jordan Curve of Positive Area" (PDF), Transactions of the American Mathematical Society, 4 (1): 107–112, doi:10.1090/S0002-9947-1903-1500628-5, ISSN 0002-9947, JFM 34.0533.02, JSTOR 1986455, MR 1500628.
+Walsh, J. L. (1973), "History of the Riemann mapping theorem", The American Mathematical Monthly, 80 (3): 270–276, doi:10.1080/00029890.1973.11993266, ISSN 0002-9890, JSTOR 2318448, MR 0323996, Zbl 0273.30003.
+Walsh, Joseph L. (2002), "William Fogg Osgood", in National Academy of Sciences of the United States of America (ed.), Biographical Memoirs, vol. 81, Washington, D.C.: National Academy Press, pp. 246–257, doi:10.17226/577, ISBN 978-0-309-03391-6.
+Twenty-Fifth Anniversary Report (Report VII) of the Secretary of the Class of 1886 of Harvard College. The University Press. 1911. pp. 166–167. Retrieved April 17, 2023 – via Internet Archive..
+"William F. Osgood". Hartford Courant. Belmont, Massachusetts (published July 24, 1943). AP. July 23, 1943. p. 4. Retrieved April 17, 2023 – via Newspapers.com..
+
+External links
+O'Connor, John J.; Robertson, Edmund F. (August 2005), "William Fogg Osgood", MacTutor History of Mathematics Archive, University of St Andrews
+William Fogg Osgood at the Mathematics Genealogy Project This article incorporates text from a publication now in the public domain: Gilman, D. C.; Peck, H. T.; Colby, F. M., eds. (1905). "Osgood, William Fogg". New International Encyclopedia (1st ed.). New York: Dodd, Mead.

@@ -1,0 +1,25 @@
+Ivan Smith  is a British mathematician who deals with symplectic manifolds and their interaction with algebraic geometry, low-dimensional topology, and dynamics. He is a professor at the University of Cambridge.
+
+Education and career
+Smith was born in 1973 to Neil Smith, a professor of linguistics at University College London. Smith studied at the University of Oxford, where he received his doctorate in 1999 under the supervision of Simon Donaldson  with thesis Symplectic Geometry of Lefschetz Fibrations. Smith is now a professor in Cambridge at Gonville & Caius College.
+Among other things, Smith derived nodal invariants from symplectic geometry.
+He received in 2007 the Whitehead Prize for his work in symplectic topology (highlighting the breadth of applied techniques from algebraic geometry and topology) and in 2013 the Adams Prize. In 2018 he was an invited speaker at the International Congress of Mathematicians in Rio de Janeiro.
+Smith was elected a Fellow of the Royal Society in 2023.
+
+Selected publications
+Smith, Ivan; Thomas, Richard P.; Yau, Shing-Tung (2002). "Symplectic conifold transitions". Journal of Differential Geometry. 62 (2): 209–242. doi:10.4310/jdg/1090950192. MR 1988503.
+Fukaya, Kenji; Seidel, Paul; Smith, Ivan (2007). "Exact Lagrangian submanifolds in simply-connected cotangent bundles". Inventiones Mathematicae. 172 (1): 1–27. arXiv:math/0701783. Bibcode:2007InMat.172....1F. doi:10.1007/s00222-007-0092-8. MR 2385665. S2CID 647814.
+with Denis Auroux:  Lefschetz pencils, branched covers and symplectic invariants . In: Symplectic 4-manifolds and algebraic surfaces (Cetraro, 2003), Lect. Notes in Math. 1938, Springer, 2008, 1–53, Arxiv
+with Mohammed Abouzaid: "Homological mirror symmetry for the 4-torus", Duke Math. J., Vol. 152, 2010, pp. 373–440, Arxiv
+ Floer cohomology and pencils of quadrics , Inventiones Mathematicae, Vol. 189, 2012, pp. 149–250, Arxiv
+"A symplectic prolegomenon", Bulletin AMS, Vol. 52, 2015, pp. 415–464, doi:10.1090/S0273-0979-2015-01477-1
+ Quiver algebras as Fukaya categories , Geom. Topol., Vol. 19, 2015, 2557–2617, Arxiv
+with Mohammed Abouzaid:  Khovanov homology from Floer cohomology , Arxiv 2015
+with Mohammed Abouzaid:  The symplectic arc algebra is formal , Duke Math. J., Vol. 165, 2016, pp. 985–1060, Arxiv
+
+References
+External links
+Homepage in Cambridge
+"Lagrangian Whitney sphere links - Ivan Smith". YouTube. 1 November 2016.
+"An interview with Ivan Smith". YouTube. 8 August 2018.
+"Stability conditions in symplectic topology – Ivan Smith – ICM2018". YouTube. 3 October 2018.

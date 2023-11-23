@@ -1,0 +1,74 @@
+Jostel's TSH index (TSHI or JTI), also referred to as Jostel's thyrotropin index or Thyroid Function index (TFI), is a method for estimating the thyrotropic (i.e. thyroid stimulating) function of the anterior pituitary lobe in a quantitative way. The equation has been derived from the logarithmic standard model of thyroid homeostasis. In a paper from 2014 further study was suggested to show if it is useful, but the 2018 guideline by the European Thyroid Association for the diagnosis of uncertain cases of central hypothyroidism regarded it as beneficial. It is also recommended for purposes of differential diagnosis in the sociomedical expert assessment.
+
+How to determine JTI
+Jostel's TSH index can be calculated with
+
+  
+    
+      
+        T
+        S
+        H
+        I
+        =
+        ln
+        ⁡
+        (
+        T
+        S
+        H
+        )
+        +
+        0.1345
+        ⋅
+        F
+        T
+        4
+      
+    
+    {\displaystyle TSHI=\ln(TSH)+0.1345\cdot FT4}
+  from equilibrium serum concentrations of thyrotropin (TSH), free T4 (FT4) and a correction coefficient derived from the logarithmic standard model (β = 0.1345).
+An alternative standardised form (standardised TSH index or sTSHI) is calculated with.
+
+  
+    
+      
+        s
+        T
+        S
+        H
+        I
+        =
+        
+          
+            
+              T
+              S
+              H
+              I
+              −
+              2.7
+            
+            0.676
+          
+        
+      
+    
+    {\displaystyle sTSHI={\frac {TSHI-2.7}{0.676}}}
+  as a z-transformed value incorporating mean (2.7) and standard deviation (0.676) of TSHI in a reference population
+
+Reference ranges
+Clinical significance
+The TSH index is reduced in patients with secondary hypothyroidism resulting from thyrotropic insufficiency. For this indication, it has, however, up to now only been validated in adults. JTI was also found reduced in cases of TACITUS syndrome (non-thyroidal illness syndrome) as an example of type 1 thyroid allostasis. Conversely, an elevated thyroid function index may serve as a biomarker for type 2 allostasis and contextual stress.Jostel's TSH index may decrease under therapy with the antidiabetic drug metformin, especially in women under oral contraceptives.In two large population-based cohorts included in the Study of Health in Pomerania differentially correlated to some markers of body composition. Correlation was positive to body mass index (BMI), waist circumference and fat mass, but negative to body cell mass. With the exception of fat mass all correlations were age-dependent. Very similar observations have been made earlier in the NHANES dataset.In Parkinson's disease, JTI is significantly elevated in early sub-types of the disease compared to an advanced group.A longitudinal study in euthyroid subjects with structural heart disease found that JTI predicts the risk of malignant arrhythmia including ventricular fibrillation and ventricular tachycardia. This applies to both incidence and event-free survival. It was therefore concluded that an elevated set point of thyroid homeostasis may contribute to cardiovascular risk. A positive correlation of JTI to SIQALS 2, a score for allostatic load, suggests that thyroid hormones are among the mediators linking stress to major cardiovascular endpoints.Another study demonstrated the TSH index to inversely correlate to thyroid's secretory capacity and thyroid volume. It is unclear if this finding reflects shortcomings of the index (i.e. low specificity in the setting of subclinical hypothyroidism) or plastic responses of the pituitary gland to beginning hypothyroidism.In subjects with type 2 diabetes, treatment with beta blockers resulted in increased TSH index, but the mechanism is unclear.Negative correlation of Jostel's TSH index to the urinary excretion of certain phthalates suggests that endocrine disruptors may affect the central set point of thyroid homeostasis.
+
+See also
+Thyroid function tests
+Thyrotroph Thyroid Hormone Sensitivity Index
+Thyroid's secretory capacity
+Sum activity of peripheral deiodinases
+Thyroid Feedback Quantile-based Index
+
+References
+External links
+SPINA Thyr: Open source software for TSHI
+Package "SPINA" for the statistical environment R

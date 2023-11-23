@@ -1,0 +1,13 @@
+Kepler-33 is a star about 4,000 light-years (1,200 parsecs) in the constellation of Cygnus, with a system of five known planets. Having just begun to evolve off from the main sequence, its radius and mass are difficult to ascertain, although data available in 2020 shows its best-fit mass of 1.3M☉ and radius of 1.6R☉ are compatible with a model of a subgiant star.
+
+Planetary system
+The first detections of the candidate four-body planetary system were reported in February 2011. On January 26, 2012, the planetary system around the star was confirmed, including a fifth planet. However, unlike some other planets confirmed via Kepler, their masses were initially not known, as Doppler spectroscopy measurements were not done before the announcement. Judging by their radii, b may be a large super-Earth or small hot Neptune while the other four are all likely to be the latter. As of 2022, the masses of planets e & f have been measured, with upper limits on the masses of planets c & d. These mass measurements confirm Kepler-33 d, e & f to be low-density, gaseous planets.Planets b and c may actually be in a 7:3 resonance, as there is a 0.05 day discrepancy; there is also a small 0.18 day discrepancy between a 5:3 resonance between planets c and d. The other planets do not seem to be in any resonances, though near resonances are 3d:2e and 4e:3f.
+The planetary system in its current configuration is highly susceptible to perturbations, therefore assuming stability, no additional giant planets can be located within 30 AU from the parent star.
+
+See also
+55 Cancri
+Kepler-11
+Kepler-20
+
+
+== References ==

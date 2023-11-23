@@ -1,0 +1,17 @@
+NGC 6811 is an open cluster in the constellation of Cygnus, near the constellation of Lyra. It has an angular size half that of the full Moon and includes about 1000 stars of roughly similar magnitude. It has also been called "The Hole in the Cluster" because of its dark center.
+
+Features
+NGC 6811 lies far away from the galactic plane, a feature it shares with many other old open clusters. It is 1107 ± 90 parsecs (about 3,285 light years) distant and approximately 4-6 parsecs (14–20 light years) in diameter, with a total luminosity of 2100 suns. Approximately 1.00 ± 0.17 billion years old, the cluster probably contained some 6000 stars at birth, but gravitational interactions and stellar evolution have since reduced the number substantially. A recent study reported 377 confirmed member stars, with spectral types ranging from mid-F to early K, and surface temperatures relatively similar to the Sun's. The same study argued that the original cluster population likely included 8 O-type stars and 125 B-type stars, but all have evolved off the main sequence and are undetectable. Sixteen stars have been observed to vary in brightness, twelve of which are Delta Scuti variables. The cluster's Trumpler classification is III 1r—it is "a rich cluster with equally bright stars with no noticeable central concentration". The stars do, however, have an unusual (if not concentrated) distribution, with an apparent stellar corona surrounding the core, leaving the impression of a hole.
+
+Observation
+NGC 6811 was first observed by John Herschel in 1829 and was added to his General Catalogue of Nebulae and Clusters in 1864. The cluster has been the subject of study by the Kepler mission, with the aim of characterizing its stars' rotation rate, age, and distance to help the hunt for exoplanets.NGC 6811 is best observed from Earth in the Northern Hemisphere in summer. In these conditions it lies close to the zenith during the night, northeast of Delta Cygni. It is considered an aesthetically pleasant object for amateur astronomers, even if the brightest members are just 10th magnitude objects. It appears as a hazy patch in 10x binoculars, but it is best seen at around 70x with a moderate-aperture telescope. It has been described by amateur astronomers as a "smoke ring of stars" or "a jeweled mask a woman might wear at a masquerade ball".
+
+Planets
+Two planets (Kepler 66b and Kepler 67b), orbiting Sun-like stars in the NGC 6811 cluster, have been discovered by the Kepler mission using the transit method. Both planets are smaller than Neptune and are both the first sub-Jupiter planets and the first transiting planets discovered orbiting stars within an open cluster. Given that the age and distance of the cluster have been accurately measured, the two planets are among the few of which age and distance are accurately known. This finding suggests that the frequency of planets in clusters is similar to that in stars not belonging to clusters or associations and that planets can form and survive in environments more crowded and violent than the one of our own Sun.
+
+See also
+New General Catalogue (NGC)
+
+References
+External links
+ Media related to NGC 6811 at Wikimedia Commons
