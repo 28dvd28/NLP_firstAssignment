@@ -74,25 +74,41 @@ if __name__ == "__main__":
 
     #output dei label predetti e della accuratezza, precisione e recall
     print("Predicted labels:")
+    counter = 0
     for x in range (len(predicted_labels)):
+
+        if counter == len(predicted_labels) // 20:
+            print()
+            counter = 0
+        else:
+            counter += 1
 
         if(predicted_labels[x] == labels[x]):
             print(bcolors.GREEN + bcolors.BOLD + str(predicted_labels[x]) + bcolors.ENDC, end=" ")
         else:
             print(bcolors.RED + str(predicted_labels[x]) + bcolors.ENDC, end=" ")
 
-    confusion_matrix = [[sum(x for x in med_predicted_labels if x == 1), sum(x+1 for x in med_predicted_labels if x == 0)] ,
-                        [sum(x for x in nonmed_predicted_labels if x == 1), sum(x+1 for x in nonmed_predicted_labels if x == 0)]]
+    confusion_matrix = [[sum(x for x in med_predicted_labels if x == 1), sum(x for x in nonmed_predicted_labels if x == 1)] ,
+                        [sum(x+1 for x in med_predicted_labels if x == 0), sum(x+1 for x in nonmed_predicted_labels if x == 0)]]
     
     print("\n")
+    print("===================== STATISTICHE ======================\n")
     confusion_matrix = np.array(confusion_matrix)
-    print("Confusion matrix:\n", confusion_matrix)
+    
+    print("CONFUSION MATRIX   |   Gold Positive   |   Gold negative")
+    print(f"System positive    |        {confusion_matrix[0, 0]}        |         {confusion_matrix[0, 1]}")
+    print(f"System negative    |         {confusion_matrix[1, 0]}        |        {confusion_matrix[1, 1]}")
 
     accuracy = (confusion_matrix[0,0] + confusion_matrix[1,1]) / (confusion_matrix[0,0] + confusion_matrix[1,0] + confusion_matrix[0,1] + confusion_matrix[1,1])
-    print("Accuracy: ", accuracy)
+    accuracy = round(accuracy * 100, 3)
 
-    precision = confusion_matrix[0, 0] / (confusion_matrix[0,0] + confusion_matrix[1,0])
-    print("Precision: ", precision)
+    precision = confusion_matrix[0, 0] / (confusion_matrix[0,0] + confusion_matrix[0,1])
+    precision = round(precision * 100, 3)
 
-    recall = confusion_matrix[0, 0] / (confusion_matrix[0,0] + confusion_matrix[0,1])
-    print("Recall: ", recall)
+    recall = confusion_matrix[0, 0] / (confusion_matrix[0,0] + confusion_matrix[1,0])
+    recall = round(recall * 100, 3)
+
+    print()
+    print(f"ACCURACY:     {accuracy} %")
+    print(f"PRECISION:   {precision} %")
+    print(f"RECALL:      {recall} %")
