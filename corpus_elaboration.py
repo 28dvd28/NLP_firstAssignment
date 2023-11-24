@@ -80,6 +80,7 @@ if __name__ == "__main__":
     #per ottenere un valore positivo non basta invertire il segno perché altrimenti otterrei un invertimento del peso delle parole.
     #Per ovviare a tale problema ad ogni parola vi sommo il modulo della somma del valore meno probabile con quello del valore più probabile
     #Il valore così ottenuto lo uso come esponente di e, così da mappare i pesi a dei valori più alti, permettendo alla logistic regression di funzionare meglio
+    #Si potrebbe semplicemente tenere come valore la somma dei testi in cui una parola appare, ma in un corpus molto numeroso tale valore potrebbe essere molto alto
     word, highest_prob = next(iter(med_bow.items()))
     word, lowest_prob = list(med_bow.items())[-1]
     for word in med_bow:
