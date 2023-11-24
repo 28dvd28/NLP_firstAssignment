@@ -23,7 +23,6 @@ if __name__ == "__main__":
     cartella = "medical_train_set"
     corpus_med = os.listdir(cartella)
 
-
     #per ogni file, una volta effettuata l'elaborazione, si crea un set, così che per ogni parola la si conterà al massimo una volta all'interno
     #di un testo. In questo modo si conta in quanti testi tale parola compare
     for file_name in corpus_med:
@@ -69,12 +68,18 @@ if __name__ == "__main__":
             del nonmed_bow[word]
 
     #eliminazione della coda di valori poco presenti e quindi inutili alla classificazione (parole eliminate in questo modo più di 80000)
+    #inoltre divido ogni valore per il numero di testi così da ottenere una probabilità e calcolo il logaritmo per ottenere un numero più calcolabile
     med_bow = {chiave: np.log(valore/len(corpus_med)) for chiave, valore in med_bow.items() if valore >= 5}
     nonmed_bow = {chiave: np.log(valore/len(corpus_nonmed)) for chiave, valore in nonmed_bow.items() if valore >= 5} 
     
+    #ordino i dizionari in ordine decrescente
     med_bow = dict(sorted(med_bow.items(), key=lambda x: x[1], reverse=True))
     nonmed_bow = dict(sorted(nonmed_bow.items(), key=lambda x: x[1], reverse=True))
 
+    #il logaritmo di un valore tra 0 e 1 ritorna un valore negativo, più vicino allo 0 se la probabilità di quella parola è alta,
+    #per ottenere un valore positivo non basta invertire il segno perché altrimenti otterrei un invertimento del peso delle parole.
+    #Per ovviare a tale problema ad ogni parola vi sommo il modulo della somma del valore meno probabile con quello del valore più probabile
+    #Il valore così ottenuto lo uso come esponente di e, così da mappare i pesi a dei valori più alti, permettendo alla logistic regression di funzionare meglio
     word, highest_prob = next(iter(med_bow.items()))
     word, lowest_prob = list(med_bow.items())[-1]
     for word in med_bow:
