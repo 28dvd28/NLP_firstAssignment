@@ -32,11 +32,11 @@ def text_classification(text_elaborated, class1_bow: dict, class2_bow: dict):
 
     for word in text_elaborated:
         if word in class1_bow:
-            probability_of_medical += class1_bow[word]
+            z += class1_bow[word]
         if word in class2_bow:
             #Tendenzialmente i pesi delle feature che appartengono alla seconda classe dovrebbero avere valore negativo.
             #Essendo salvati però in una BoW differente, con valori positivi, si risolve il problema sottrando tali valori anziché sommarli
-            probability_of_medical -= class2_bow[word]
+            z -= class2_bow[word]
 
     #divisione per limitare la dimensione del valore ed impedire l'overflow di math.exp, 
     #si usa la lunghezza del testo così da ottenere un valore più preciso in rapporto alla grandezza del testo

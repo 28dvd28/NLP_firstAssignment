@@ -56,7 +56,7 @@ if __name__ == "__main__":
     for file_name in non_medical_test_texts:
         path = os.path.join(cartella2, file_name)
 
-        if os.path.isfile(path):
+        if os.path.isfile(path):    
 
             nonmed_labels.append(0)
 

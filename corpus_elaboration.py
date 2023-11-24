@@ -1,5 +1,6 @@
 import os
 import json
+import numpy as np
 
 from utils import text_elaboration
 
@@ -68,11 +69,21 @@ if __name__ == "__main__":
             del nonmed_bow[word]
 
     #eliminazione della coda di valori poco presenti e quindi inutili alla classificazione (parole eliminate in questo modo più di 80000)
-    med_bow = {chiave: valore for chiave, valore in med_bow.items() if valore >= 5}
-    nonmed_bow = {chiave: valore for chiave, valore in nonmed_bow.items() if valore >= 5} 
+    med_bow = {chiave: np.log(valore/len(corpus_med)) for chiave, valore in med_bow.items() if valore >= 5}
+    nonmed_bow = {chiave: np.log(valore/len(corpus_nonmed)) for chiave, valore in nonmed_bow.items() if valore >= 5} 
     
     med_bow = dict(sorted(med_bow.items(), key=lambda x: x[1], reverse=True))
     nonmed_bow = dict(sorted(nonmed_bow.items(), key=lambda x: x[1], reverse=True))
+
+    word, highest_prob = next(iter(med_bow.items()))
+    word, lowest_prob = list(med_bow.items())[-1]
+    for word in med_bow:
+        med_bow[word] = np.exp(med_bow[word] + abs(highest_prob + lowest_prob))
+
+    word, highest_prob = next(iter(nonmed_bow.items()))
+    word, lowest_prob = list(nonmed_bow.items())[-1]
+    for word in nonmed_bow:
+        nonmed_bow[word] = np.exp(nonmed_bow[word] + abs(highest_prob + lowest_prob))
     
     percorso_del_file = "medical_bag_of_words.txt"
     with open(percorso_del_file, "w") as file:
