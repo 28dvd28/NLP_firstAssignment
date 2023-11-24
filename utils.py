@@ -1,7 +1,7 @@
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 from nltk.tokenize import word_tokenize
-import math
+import numpy
 
 
 #funzione per l'elaborazione del testo che procede dapprima eliminando i vari simboli elencati nella variabile punctuation, 
@@ -41,7 +41,7 @@ def text_classification(text_elaborated, class1_bow: dict, class2_bow: dict):
     #divisione per limitare la dimensione del valore ed impedire l'overflow di math.exp, 
     #si usa la lunghezza del testo così da ottenere un valore più preciso in rapporto alla grandezza del testo
     z = (z + bias) / len(text_elaborated) 
-    probability_of_medical = 1 / (1 + math.exp(-z))
+    probability_of_medical = 1 / (1 + numpy.exp(-z))
 
     return probability_of_medical
 
@@ -56,9 +56,9 @@ def cross_entropy(predicted_values, labels):
         y_predicted = predicted_values[i]
 
         if y == 1:
-            result += y * math.log(y_predicted) # + (1 - y) * math.log(1 - y_predicted)
+            result += - y * numpy.log(y_predicted) # + (1 - y) * math.log(1 - y_predicted)
         else:
-            result += (1 - y) * math.log(1 - y_predicted) # + y * math.log(y_predicted)
+            result += - (1 - y) * numpy.log(1 - y_predicted) # + y * math.log(y_predicted)
     
-    result = - result / len(predicted_values)
+    result = result / len(predicted_values)
     return result

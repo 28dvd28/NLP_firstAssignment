@@ -32,9 +32,9 @@ if __name__ == "__main__":
 
     #eseguo la labelizzazione su tutti i file di test, prima medici e poi non medici, 
     #per ogni file valido aggiungo alla rispettiva lista il valore indicante il corretto label per quel file
-
     med_predicted_labels = []
     for file_name in medical_test_texts:
+
         path = os.path.join(cartella1, file_name)
 
         if os.path.isfile(path):
@@ -54,6 +54,7 @@ if __name__ == "__main__":
     
     nonmed_predicted_labels = []
     for file_name in non_medical_test_texts:
+
         path = os.path.join(cartella2, file_name)
 
         if os.path.isfile(path):    
