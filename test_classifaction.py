@@ -74,14 +74,7 @@ if __name__ == "__main__":
 
     #output dei label predetti e della accuratezza, precisione e recall
     print("Predicted labels:")
-    counter = 0
     for x in range (len(predicted_labels)):
-
-        if counter == len(predicted_labels) // 20:
-            print()
-            counter = 0
-        else:
-            counter += 1
 
         if(predicted_labels[x] == labels[x]):
             print(bcolors.GREEN + bcolors.BOLD + str(predicted_labels[x]) + bcolors.ENDC, end=" ")
