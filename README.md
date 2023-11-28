@@ -1,4 +1,4 @@
-# Text classification
+# Primo classificatore
 
 Per lo sviluppo di questo progetto si è deciso di creare 4 file differenti ognuno dei quali da eseguire separatamente nell'ordine che verrà poi spiegato in seguito. 
 Prima di procedere è importante però che vengano installate nel proprio sistema le seguenti librerie python:
@@ -23,3 +23,24 @@ Come deto sulla base dei pesi ottenuti si dovrebbe operare una fase di training 
 
 ## Test classfication
 L'ultima fase, per la classificazione di un testo mai visto precedentemente, la si può trovare nel file **test_classification.py** il quale va lanciato per ultimo ed eseguirà la classificazione su circa 800 documenti salvati come test set. Al termine stamperà sul terminale i predicted labels, indicando in verde le previsioni corrette, mentre in rosso quelle erratte. Verranno inoltre calcolare anche i valori della accuratezza, della precisione e del recall. 
+
+## Importante
+Per la corretta esecuzione, i file python e le cartelle contenenti il corpus devono essere nella medesima directory, dalla quale eseguire anche i comandi per lanciare i vari file. **Eseguire i file da una directory differente da quelli in cui sono stati salvati darà errore**. 
+
+# Secondo classificatore
+
+Il secondo classificatore usa come il primo il medesimo corpus, quindi lo stesso codice per scaricarlo, ma anche alcune funzioni del file utils, mentre si differenzia per il tipo di addestramento. Se il primo otteneva direttamente i valori delle due bag_of_words dal corpus, questo secondo classificatore sfrutta un algoritmo che implementa il **Batch Training**, applicandolo sulla totalità del training corpus. 
+
+## Implementazione
+
+Libreria usate:
+1. pickle 
+2. tqdm
+
+E' stata per prima cosa creata una classe, visualizzabile nel file **batch_training_utils.py**, la quale è stata creata per poter creare un'istanza della nostra AI addestrabile, così da poterla salvare in un file .dat e conservare i progressi raggiunti nell'addestramento. Per entrare nel dettaglio riguardo l'implementazione, basta guardare il codice che è stato commentato per spiegare ogni parte. In generale il funzionamento prevede:
+
+1. L'inizializzazione. nella quale vengono estratte le features, ergo le parole importanti alla classificazione tra le classi medico e non medico, e viene calcolata e salvata anche la matrice X che contiene il conteggio delle riccorrenze per ogni testo di ogni features. Infine i pesi sono settatti tutti a 0
+2. Un metodo richiamabile per l'addestramento, da eseguire in un secondo luogo. Questo per permettere eventualmente di poter rieseguire il training, affinandolo maggiormente
+3. Un metodo per eseguire il test
+
+Il file dove il tutto è stato implementato è **batch_training.py**, che una volta lanciato vi si presenterà come una console dalla quale inserire vari comandi, spiegati al lancio e comunque ottenibili con comando *help*, per poter eseguire le operazioni di cui sopra. La creazione di un'istanza di questa AI richiede un tempo di circa 5 minuti, mentre l'addestramento vero e proprio richiede circa 30 secondi per raggiungere una cross-entropy settata a 0.1, per questo è stata condivisa un'istanza già allenata nel file **logic_regression_trainer.dat**. È possibile eliminare il file, oppure digitare n quando appare a terminale la notifica *Istanza del trainer già presente, scaricare?* creando una nuova istanza e sovrascrivendo la precedente. Se si volesse invece resettare solo il training e rieseguirlo, caricare l'istanza presente e inserire il comando *reset-learning*
